@@ -1,14 +1,5 @@
 # First Year Experience (FYE)
 * [The First-Year Experience Program](https://en.wikipedia.org/wiki/The_First-Year_Experience_Program)
-## Course Objectives
-* Connect students to peers, faculty, and staff at Stevens
-* Help students navigate the transition between high school and college
-* Provide information about the resources at Stevens to encourage student taking initiative
-* Educate students about life skills that are not taught in other courses
-* Share strategies for study skills, time management, and organization
-* Encourage respectful dialogue and civil discourse
-* Promote student mental health and wellness
-* Instill a sense of community and pride in the first-year class
 ## Improv
 * [Improvisation](https://en.wikipedia.org/wiki/Improvisation)
 * [Improvisational theatre](https://en.wikipedia.org/wiki/Improvisational_theatre)
