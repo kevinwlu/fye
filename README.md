@@ -1,5 +1,11 @@
 # First Year Experience (FYE)
 * [The First-Year Experience Program](https://en.wikipedia.org/wiki/The_First-Year_Experience_Program)
+* [Active listening](https://en.wikipedia.org/wiki/Active_listening)
+* [Belongingness](https://en.wikipedia.org/wiki/Belongingness)
+  * [Pluralism](https://en.wikipedia.org/wiki/Pluralism)
+  * [Universalism](https://en.wikipedia.org/wiki/Universalism)
+  * [Solidarity](https://en.wikipedia.org/wiki/Solidarity)
+* [Critical thinking](https://en.wikipedia.org/wiki/Critical_thinking)
 ## Improv
 * [Improvisation](https://en.wikipedia.org/wiki/Improvisation)
 * [Improvisational theatre](https://en.wikipedia.org/wiki/Improvisational_theatre)
@@ -9,6 +15,7 @@
 * [The Second City](https://en.wikipedia.org/wiki/The_Second_City)
 * [Ensemble (musical theatre)](https://en.wikipedia.org/wiki/Ensemble_(musical_theatre))
 ## References
+* [*Critical Inquiry*](https://en.wikipedia.org/wiki/Critical_Inquiry)
 * [Institute of Education Sciences](https://en.wikipedia.org/wiki/Institute_of_Education_Sciences) (IES)
 * [Education Resources Information Center](https://en.wikipedia.org/wiki/Education_Resources_Information_Center) (ERIC)
   * [ERIC](https://eric.ed.gov/)
