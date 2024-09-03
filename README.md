@@ -6,6 +6,14 @@
   * [Universalism](https://en.wikipedia.org/wiki/Universalism)
   * [Solidarity](https://en.wikipedia.org/wiki/Solidarity)
 * [Critical thinking](https://en.wikipedia.org/wiki/Critical_thinking)
+* [Facilitation](https://en.wikipedia.org/wiki/Facilitation_(organisational))
+* [Facilitator](https://en.wikipedia.org/wiki/Facilitator)
+## Lollipop Moment
+* [Drew Dudley](https://www.drewdudley.com/)
+* [Recognizing the Power of Lollypop Moments](https://www.youtube.com/watch?v=lU06fAhLKvU)
+* [Shinerama](https://en.wikipedia.org/wiki/Shinerama)
+* [Marianne Williamson](https://en.wikipedia.org/wiki/Marianne_Williamson), [*A Return to Love*](https://en.wikipedia.org/wiki/A_Return_to_Love) 1992
+  > Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure.
 ## Improv
 * [Improvisation](https://en.wikipedia.org/wiki/Improvisation)
 * [Improvisational theatre](https://en.wikipedia.org/wiki/Improvisational_theatre)
