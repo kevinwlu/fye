@@ -10,7 +10,7 @@
 * [Facilitator](https://en.wikipedia.org/wiki/Facilitator)
 ## Lollipop Moment
 * [Drew Dudley](https://www.drewdudley.com/)
-* [Recognizing the Power of Lollypop Moments](https://www.youtube.com/watch?v=lU06fAhLKvU)
+* [Recognizing the Power of Lollipop Moments](https://www.youtube.com/watch?v=lU06fAhLKvU)
 * [Shinerama](https://en.wikipedia.org/wiki/Shinerama)
 * [Marianne Williamson](https://en.wikipedia.org/wiki/Marianne_Williamson), [*A Return to Love*](https://en.wikipedia.org/wiki/A_Return_to_Love) 1992
   > Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure.
