@@ -1,4 +1,5 @@
 # First Year Experience (FYE)
+* [A look into the First Year Experience course](https://thestute.com/2024/09/06/a-look-into-the-first-year-experience-course/)
 * [The First-Year Experience Program](https://en.wikipedia.org/wiki/The_First-Year_Experience_Program)
 * [Active listening](https://en.wikipedia.org/wiki/Active_listening)
 * [Belongingness](https://en.wikipedia.org/wiki/Belongingness)
@@ -56,6 +57,7 @@
     * [History of DeBaun Auditorium](https://www.stevens.edu/history-of-debaun-auditorium)
   * Vincent A. Rocco
   * [Lawrence Babbio Jr.](https://en.wikipedia.org/wiki/Lawrence_Babbio_Jr.)
+* [Landmarks of Hoboken, New Jersey](https://en.wikipedia.org/wiki/Landmarks_of_Hoboken,_New_Jersey)
 ## Lollipop Moment
 * [Drew Dudley](https://www.drewdudley.com/)
 * [Recognizing the Power of Lollipop Moments](https://www.youtube.com/watch?v=lU06fAhLKvU)
