@@ -8,6 +8,15 @@
 * [Critical thinking](https://en.wikipedia.org/wiki/Critical_thinking)
 * [Facilitation](https://en.wikipedia.org/wiki/Facilitation_(organisational))
 * [Facilitator](https://en.wikipedia.org/wiki/Facilitator)
+## History and Values of Stevens
+* [Stevens Institute of Technology](https://en.wikipedia.org/wiki/Stevens_Institute_of_Technology)
+* [Stevens family](https://en.wikipedia.org/wiki/Stevens_family)
+  > [John Stevens Sr.](https://www.geni.com/people/John-Stevens-Sr/6000000003381721966) 1682&mdash;1737 came to America in 1699 at the age of 17.
+* [John Stevens Jr.](https://en.wikipedia.org/wiki/John_Stevens_(New_Jersey_politician)) 1715&mdash;1792
+* [Col. John Stevens III](https://en.wikipedia.org/wiki/John_Stevens_(inventor,_born_1749)) 1749&mdash;1838
+* [Edwin Augustus Stevens](https://en.wikipedia.org/wiki/Edwin_Augustus_Stevens) 1795&mdash;1868
+* [List of Stevens Institute of Technology alumni](https://en.wikipedia.org/wiki/List_of_Stevens_Institute_of_Technology_alumni)
+* [Frederick Winslow Taylor](https://en.wikipedia.org/wiki/Frederick_Winslow_Taylor) 1856&mdash;1915
 ## Lollipop Moment
 * [Drew Dudley](https://www.drewdudley.com/)
 * [Recognizing the Power of Lollipop Moments](https://www.youtube.com/watch?v=lU06fAhLKvU)
