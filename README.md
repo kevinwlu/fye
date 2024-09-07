@@ -29,9 +29,10 @@
   * [Kenneth C. Rogers](https://en.wikipedia.org/wiki/Kenneth_C._Rogers)
   * [Harold J. Raveché](https://en.wikipedia.org/wiki/Harold_J._Ravech%C3%A9)
   * [Nariman Farvardin](https://en.wikipedia.org/wiki/Nariman_Farvardin)
-* [Getting to Know the Campus](https://web.stevens.edu/catalog/archive/2005_2006_Catalog/campus.html)
+* [Getting to Know the Campus](https://web.stevens.edu/catalog/archive/2015-2016/campus.html)
   * [William Hall Walker](https://thestute.com/2023/03/03/walker-gymnasium-innovative-gym-for-the-innovation-university/) 1846&mdash;1917
     * [William Hall Walker Gymnasium](https://en.wikipedia.org/wiki/William_Hall_Walker_Gymnasium)
+    * [Kodak](https://en.wikipedia.org/wiki/Kodak)
   * [Kenneth S. M. Davidson](https://en.wikipedia.org/wiki/Kenneth_S._M._Davidson)
     * [Davidson Laboratory](https://www.stevens.edu/davidson-laboratory/about)
   * [Lore E. Feiler](https://www.stevens.edu/lore-el-center-for-womens-leadership/about-lore-e-feiler) 1914&mdash;2003
@@ -46,7 +47,7 @@
   * [Walter Kidde](https://en.wikipedia.org/wiki/Walter_Kidde) 1877&mdash;1943
   * [Samuel C. Williams](https://library.stevens.edu/scwilliams) 1894&mdash;1968
   * [Alexander Calder](https://en.wikipedia.org/wiki/Alexander_Calder) 1898&mdash;1976
-  * Earl L. Griffith
+  * Earl L. Griffith, Class of 1923
   * Frederick L. Bissinger 1911&mdash;2009
   * [Charles V. Schaefer Jr.](https://www.nytimes.com/1999/11/25/nyregion/charles-schaefer-jr-dies-at-85-businessman-and-philanthropist.html) 1914&mdash;1999
   * [Alfred Fielding](https://edubilla.com/inventor/alfred-w-fielding/) 1917&mdash;1994
@@ -55,7 +56,8 @@
   * [Wesley J. Howe](https://www.nytimes.com/2002/04/19/business/wesley-howe-80-becton-dickinson-chief.html) 1922&mdash;2002
   * [Kenneth DeBaun](https://www.pressdemocrat.com/article/news/obituary-kenneth-debaun/) 1927&mdash;2010
     * [History of DeBaun Auditorium](https://www.stevens.edu/history-of-debaun-auditorium)
-  * Vincent A. Rocco
+  * [Kenneth J. Altorfer](https://www.pr.com/press-release/239422)
+  * [Vincent A. Rocco](https://connect.stevens.edu/classof67/inmemoriam)
   * [Lawrence Babbio Jr.](https://en.wikipedia.org/wiki/Lawrence_Babbio_Jr.)
 * [Landmarks of Hoboken, New Jersey](https://en.wikipedia.org/wiki/Landmarks_of_Hoboken,_New_Jersey)
 ## Lollipop Moment
