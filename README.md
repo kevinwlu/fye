@@ -18,13 +18,22 @@
     * [Rail profile](https://en.wikipedia.org/wiki/Rail_profile)
   * [Edwin Augustus Stevens](https://en.wikipedia.org/wiki/Edwin_Augustus_Stevens) 1795&mdash;1868
 * [Attila the Duck Profile](https://stevensducks.com/sports/2012/10/19/Attila%20the%20Duck%20Profile.aspx)
-* [Henry Morton](https://en.wikipedia.org/wiki/Henry_Morton_(scientist)) 1836&mdash;1902
+  * [Henry Morton](https://en.wikipedia.org/wiki/Henry_Morton_(scientist)) 1836&mdash;1902
+  * [Kenneth S. M. Davidson](https://en.wikipedia.org/wiki/Kenneth_S._M._Davidson)
 * [List of Stevens Institute of Technology alumni](https://en.wikipedia.org/wiki/List_of_Stevens_Institute_of_Technology_alumni)
   * [Frederick Winslow Taylor](https://en.wikipedia.org/wiki/Frederick_Winslow_Taylor) 1856&mdash;1915
+  * [Henry Gantt](https://en.wikipedia.org/wiki/Henry_Gantt) 1861&mdash;1919
   * [Anson Wood Burchard](https://en.wikipedia.org/wiki/Anson_Wood_Burchard) 1865&mdash;1927
+  * [William Peirce](https://en.wikipedia.org/wiki/William_H._Peirce) 1865&mdash;1944
+  * [Walter Kidde](https://en.wikipedia.org/wiki/Walter_Kidde) 1877&mdash;1943
   * [Samuel C. Williams](https://library.stevens.edu/scwilliams) 1894&mdash;1968
+  * [Alexander Calder](https://en.wikipedia.org/wiki/Alexander_Calder) 1898&mdash;1976
   * [Charles V. Schaefer Jr.](https://www.nytimes.com/1999/11/25/nyregion/charles-schaefer-jr-dies-at-85-businessman-and-philanthropist.html) 1914&mdash;1999
+  * [Alfred Fielding](https://edubilla.com/inventor/alfred-w-fielding/) 1917&mdash;1994
+    * [Bubble Wrap](https://en.wikipedia.org/wiki/Bubble_Wrap_(brand))
   * [Wesley J. Howe](https://www.nytimes.com/2002/04/19/business/wesley-howe-80-becton-dickinson-chief.html) 1922&mdash;2002
+  * [Kenneth DeBaun](https://www.pressdemocrat.com/article/news/obituary-kenneth-debaun/) 1927&mdash;2010
+    * [History of DeBaun Auditorium](https://www.stevens.edu/history-of-debaun-auditorium)
   * [Lawrence Babbio Jr.](https://en.wikipedia.org/wiki/Lawrence_Babbio_Jr.)
 ## Lollipop Moment
 * [Drew Dudley](https://www.drewdudley.com/)
