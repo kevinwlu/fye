@@ -20,6 +20,7 @@
 * [Attila the Duck Profile](https://stevensducks.com/sports/2012/10/19/Attila%20the%20Duck%20Profile.aspx)
   * [Henry Morton](https://en.wikipedia.org/wiki/Henry_Morton_(scientist)) 1836&mdash;1902
   * [Kenneth S. M. Davidson](https://en.wikipedia.org/wiki/Kenneth_S._M._Davidson)
+    * [Davidson Laboratory](https://www.stevens.edu/davidson-laboratory/about)
 * [List of Stevens Institute of Technology alumni](https://en.wikipedia.org/wiki/List_of_Stevens_Institute_of_Technology_alumni)
   * [Frederick Winslow Taylor](https://en.wikipedia.org/wiki/Frederick_Winslow_Taylor) 1856&mdash;1915
   * [Henry Gantt](https://en.wikipedia.org/wiki/Henry_Gantt) 1861&mdash;1919
@@ -31,6 +32,7 @@
   * [Charles V. Schaefer Jr.](https://www.nytimes.com/1999/11/25/nyregion/charles-schaefer-jr-dies-at-85-businessman-and-philanthropist.html) 1914&mdash;1999
   * [Alfred Fielding](https://edubilla.com/inventor/alfred-w-fielding/) 1917&mdash;1994
     * [Bubble Wrap](https://en.wikipedia.org/wiki/Bubble_Wrap_(brand))
+  * [William J. Canavan Jr.](https://www.nytimes.com/2000/07/24/classified/paid-notice-deaths-canavan-william-john-jr.html) 1922&mdash;2000
   * [Wesley J. Howe](https://www.nytimes.com/2002/04/19/business/wesley-howe-80-becton-dickinson-chief.html) 1922&mdash;2002
   * [Kenneth DeBaun](https://www.pressdemocrat.com/article/news/obituary-kenneth-debaun/) 1927&mdash;2010
     * [History of DeBaun Auditorium](https://www.stevens.edu/history-of-debaun-auditorium)
