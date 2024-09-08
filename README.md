@@ -21,9 +21,10 @@
     * [Edwin A. Stevens Hall](https://en.wikipedia.org/wiki/Edwin_A._Stevens_Hall)
   * [Andrew Carnegie](https://en.wikipedia.org/wiki/Andrew_Carnegie) 1835&mdash;1919
 * [Attila the Duck Profile](https://stevensducks.com/sports/2012/10/19/Attila%20the%20Duck%20Profile.aspx)
+* [List of presidents of Stevens Institute of Technology](https://en.wikipedia.org/wiki/List_of_presidents_of_Stevens_Institute_of_Technology)
   * [Henry Morton](https://en.wikipedia.org/wiki/Henry_Morton_(scientist)) 1836&mdash;1902
     * [Morton Memorial Laboratory of Chemistry](https://en.wikipedia.org/wiki/Morton_Memorial_Laboratory_of_Chemistry)
-  * [Alexander Crombie Humphreys](https://en.wikipedia.org/wiki/Alexander_Crombie_Humphreys) 1851&mdash;1927
+  * [Alexander Crombie Humphreys](https://en.wikipedia.org/wiki/Alexander_Crombie_Humphreys) 1851&mdash;1927, class of 1881
   * [Harvey N. Davis](https://en.wikipedia.org/wiki/Harvey_N._Davis) 1881&mdash;1952
   * [Jess H. Davis](https://en.wikipedia.org/wiki/Jess_H._Davis) 1906&mdash;1972
   * [Kenneth C. Rogers](https://en.wikipedia.org/wiki/Kenneth_C._Rogers)
@@ -38,23 +39,23 @@
   * [Lore E. Feiler](https://www.stevens.edu/lore-el-center-for-womens-leadership/about-lore-e-feiler) 1914&mdash;2003
     * [Lore-El Center for Women's Leadership](https://www.stevens.edu/lore-el-center-for-womens-leadership)
 * [List of Stevens Institute of Technology alumni](https://en.wikipedia.org/wiki/List_of_Stevens_Institute_of_Technology_alumni)
-  * [Alexander Crombie Humphreys](https://en.wikipedia.org/wiki/Alexander_Crombie_Humphreys) 1851&mdash;1927
-  * [Frederick Winslow Taylor](https://en.wikipedia.org/wiki/Frederick_Winslow_Taylor) 1856&mdash;1915
-  * [Henry Gantt](https://en.wikipedia.org/wiki/Henry_Gantt) 1861&mdash;1919
-  * [Anson Wood Burchard](https://en.wikipedia.org/wiki/Anson_Wood_Burchard) 1865&mdash;1927
-  * [William Peirce](https://en.wikipedia.org/wiki/William_H._Peirce) 1865&mdash;1944
-  * [William D. Hoxie](https://www.nytimes.com/1925/09/13/archives/wd-hoxie-leaves-142000-to-public-stevens-institute-and-several.html) 1866&mdash;1925
-  * [Walter Kidde](https://en.wikipedia.org/wiki/Walter_Kidde) 1877&mdash;1943
-  * [Samuel C. Williams](https://library.stevens.edu/scwilliams) 1894&mdash;1968
-  * [Alexander Calder](https://en.wikipedia.org/wiki/Alexander_Calder) 1898&mdash;1976
+  * [Alexander Crombie Humphreys](https://en.wikipedia.org/wiki/Alexander_Crombie_Humphreys) 1851&mdash;1927, class of 1881
+  * [Frederick Winslow Taylor](https://en.wikipedia.org/wiki/Frederick_Winslow_Taylor) 1856&mdash;1915, class of 1883
+  * [Henry Gantt](https://en.wikipedia.org/wiki/Henry_Gantt) 1861&mdash;1919, class of 1884
+  * [William Peirce](https://en.wikipedia.org/wiki/William_H._Peirce) 1865&mdash;1944, class of 1884  
+  * [Anson Wood Burchard](https://en.wikipedia.org/wiki/Anson_Wood_Burchard) 1865&mdash;1927, class of 1885
+  * [William D. Hoxie](https://www.nytimes.com/1925/09/13/archives/wd-hoxie-leaves-142000-to-public-stevens-institute-and-several.html) 1866&mdash;1925, class of 1889
+  * [Walter Kidde](https://en.wikipedia.org/wiki/Walter_Kidde) 1877&mdash;1943, class of 1897
+  * [Samuel C. Williams](https://library.stevens.edu/scwilliams) 1894&mdash;1968, class of 1915
+  * [Alexander Calder](https://en.wikipedia.org/wiki/Alexander_Calder) 1898&mdash;1976, class of 1919
   * Earl L. Griffith, Class of 1923
-  * Frederick L. Bissinger 1911&mdash;2009
-  * [Charles V. Schaefer Jr.](https://www.nytimes.com/1999/11/25/nyregion/charles-schaefer-jr-dies-at-85-businessman-and-philanthropist.html) 1914&mdash;1999
-  * [Alfred Fielding](https://edubilla.com/inventor/alfred-w-fielding/) 1917&mdash;1994
+  * Frederick L. Bissinger 1911&mdash;2009, class of 1933
+  * [Charles V. Schaefer Jr.](https://www.nytimes.com/1999/11/25/nyregion/charles-schaefer-jr-dies-at-85-businessman-and-philanthropist.html) 1914&mdash;1999, class of 1936
+  * [Alfred Fielding](https://edubilla.com/inventor/alfred-w-fielding/) 1917&mdash;1994, class of 1939
     * [Bubble Wrap](https://en.wikipedia.org/wiki/Bubble_Wrap_(brand))
-  * [William J. Canavan Jr.](https://www.nytimes.com/2000/07/24/classified/paid-notice-deaths-canavan-william-john-jr.html) 1922&mdash;2000
-  * [Wesley J. Howe](https://www.nytimes.com/2002/04/19/business/wesley-howe-80-becton-dickinson-chief.html) 1922&mdash;2002
-  * [Kenneth DeBaun](https://www.pressdemocrat.com/article/news/obituary-kenneth-debaun/) 1927&mdash;2010
+  * [William J. Canavan Jr.](https://www.nytimes.com/2000/07/24/classified/paid-notice-deaths-canavan-william-john-jr.html) 1922&mdash;2000, class of 1944
+  * [Wesley J. Howe](https://www.nytimes.com/2002/04/19/business/wesley-howe-80-becton-dickinson-chief.html) 1922&mdash;2002, class of 1951/1953
+  * [Kenneth DeBaun](https://www.pressdemocrat.com/article/news/obituary-kenneth-debaun/) 1927&mdash;2010, class of 1949
     * [History of DeBaun Auditorium](https://www.stevens.edu/history-of-debaun-auditorium)
   * [Kenneth J. Altorfer](https://www.pr.com/press-release/239422), class of 1950
   * [Vincent A. Rocco](https://connect.stevens.edu/classof67/inmemoriam), class of 1967
