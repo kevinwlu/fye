@@ -61,13 +61,23 @@
   * [Lawrence Babbio Jr.](https://en.wikipedia.org/wiki/Lawrence_Babbio_Jr.)
 * [Landmarks of Hoboken, New Jersey](https://en.wikipedia.org/wiki/Landmarks_of_Hoboken,_New_Jersey)
 ## Lollipop Moment
-* [Lollipop](https://en.wikipedia.org/wiki/Lollipop)
-* [Drew Dudley](https://www.drewdudley.com/)
-* [Recognizing the Power of Lollipop Moments](https://www.youtube.com/watch?v=lU06fAhLKvU)
+* A [lollipop](https://en.wikipedia.org/wiki/Lollipop) moment is a moment when someone says or does something that improves your life in a significant way
+* [Drew Dudley](https://www.drewdudley.com/) coined the term in his TEDx Toronto Talk, "[Everyday Leadership](https://www.youtube.com/watch?v=uAy6EawKKME)"
+* Here are some examples of lollipop moments: 
+  * A stranger's conversation: A conversation with a stranger that leads to a new job opportunity
+  * Words of wisdom: Someone says the exact words you need to hear during a difficult time 
+  * Unexpected interaction: Someone comes up to you unexpectedly and makes you feel like you matter 
+* Dudley describes two main components of a lollipop moment:
+  * Speaker: Someone who verbalizes words of wisdom or truth
+  * Receiver: Someone who receives and internalizes the new idea or thought 
+* Real leadership is most evident in the small moments that occur throughout the day, such as lollipop moments
+* [Mount Allison University](https://en.wikipedia.org/wiki/Mount_Allison_University) in [Sackville, New Brunswick](https://en.wikipedia.org/wiki/Sackville,_New_Brunswick)
 * [Shinerama](https://en.wikipedia.org/wiki/Shinerama)
 * [Marianne Williamson](https://en.wikipedia.org/wiki/Marianne_Williamson), [*A Return to Love*](https://en.wikipedia.org/wiki/A_Return_to_Love) 1992
   > Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure.
 * [*Pay It Forward*](https://en.wikipedia.org/wiki/Pay_It_Forward_(novel)) 1999 by [Catherine Ryan Hyde](https://en.wikipedia.org/wiki/Catherine_Ryan_Hyde)
+* [Candy apple](https://en.wikipedia.org/wiki/Candy_apple)
+* [Tanghulu](https://en.wikipedia.org/wiki/Tanghulu)
 ## Improv
 * [Improvisation](https://en.wikipedia.org/wiki/Improvisation)
 * [Improvisational theatre](https://en.wikipedia.org/wiki/Improvisational_theatre)
