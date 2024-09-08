@@ -56,10 +56,10 @@
   * [Wesley J. Howe](https://www.nytimes.com/2002/04/19/business/wesley-howe-80-becton-dickinson-chief.html) 1922&mdash;2002
   * [Kenneth DeBaun](https://www.pressdemocrat.com/article/news/obituary-kenneth-debaun/) 1927&mdash;2010
     * [History of DeBaun Auditorium](https://www.stevens.edu/history-of-debaun-auditorium)
-  * [Kenneth J. Altorfer](https://www.pr.com/press-release/239422)
-  * [Vincent A. Rocco](https://connect.stevens.edu/classof67/inmemoriam)
-  * [Lawrence Babbio Jr.](https://en.wikipedia.org/wiki/Lawrence_Babbio_Jr.)
-  * [John “Sean” J. Hanlon IV](https://fsc.stevens.edu/sean-hanlon/)
+  * [Kenneth J. Altorfer](https://www.pr.com/press-release/239422), class of 1950
+  * [Vincent A. Rocco](https://connect.stevens.edu/classof67/inmemoriam), class of 1967
+  * [Lawrence Babbio Jr.](https://en.wikipedia.org/wiki/Lawrence_Babbio_Jr.), class of 1966
+  * [John “Sean” J. Hanlon IV](https://fsc.stevens.edu/sean-hanlon/), class of 1980
 * [Landmarks of Hoboken, New Jersey](https://en.wikipedia.org/wiki/Landmarks_of_Hoboken,_New_Jersey)
 ## Lollipop Moment
 * A [lollipop](https://en.wikipedia.org/wiki/Lollipop) moment is a moment when someone says or does something that improves your life in a significant way
