@@ -70,7 +70,7 @@
 * Dudley describes two main components of a lollipop moment:
   * Speaker: Someone who verbalizes words of wisdom or truth
   * Receiver: Someone who receives and internalizes the new idea or thought 
-* Real leadership is most evident in the small moments that occur throughout the day, such as lollipop moments
+* Real [leadership](https://en.wikipedia.org/wiki/Leadership) is most evident in the small moments that occur throughout the day, such as lollipop moments
 * [Mount Allison University](https://en.wikipedia.org/wiki/Mount_Allison_University) in [Sackville, New Brunswick](https://en.wikipedia.org/wiki/Sackville,_New_Brunswick)
 * [Shinerama](https://en.wikipedia.org/wiki/Shinerama)
 * [Marianne Williamson](https://en.wikipedia.org/wiki/Marianne_Williamson), [*A Return to Love*](https://en.wikipedia.org/wiki/A_Return_to_Love) 1992
