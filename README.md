@@ -61,6 +61,7 @@
   * [Lawrence Babbio Jr.](https://en.wikipedia.org/wiki/Lawrence_Babbio_Jr.)
 * [Landmarks of Hoboken, New Jersey](https://en.wikipedia.org/wiki/Landmarks_of_Hoboken,_New_Jersey)
 ## Lollipop Moment
+* [Lollipop](https://en.wikipedia.org/wiki/Lollipop)
 * [Drew Dudley](https://www.drewdudley.com/)
 * [Recognizing the Power of Lollipop Moments](https://www.youtube.com/watch?v=lU06fAhLKvU)
 * [Shinerama](https://en.wikipedia.org/wiki/Shinerama)
