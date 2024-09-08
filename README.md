@@ -62,7 +62,7 @@
 * [Landmarks of Hoboken, New Jersey](https://en.wikipedia.org/wiki/Landmarks_of_Hoboken,_New_Jersey)
 ## Lollipop Moment
 * A [lollipop](https://en.wikipedia.org/wiki/Lollipop) moment is a moment when someone says or does something that improves your life in a significant way
-* [Drew Dudley](https://www.drewdudley.com/) coined the term in his TEDx Toronto Talk, "[Everyday Leadership](https://www.youtube.com/watch?v=uAy6EawKKME)"
+* [Drew Dudley](https://www.drewdudley.com/) coined the term in his TEDxToronto Talk on TED-Ed, "[Everyday Leadership](https://www.youtube.com/watch?v=uAy6EawKKME)"
 * Here are some examples of lollipop moments: 
   * A stranger's conversation: A conversation with a stranger that leads to a new job opportunity
   * Words of wisdom: Someone says the exact words you need to hear during a difficult time 
