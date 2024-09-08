@@ -23,7 +23,7 @@
 * [Attila the Duck Profile](https://stevensducks.com/sports/2012/10/19/Attila%20the%20Duck%20Profile.aspx)
   * [Duck](https://en.wikipedia.org/wiki/Duck)
   * [Amphibian](https://en.wikipedia.org/wiki/Amphibian)
-  * [triphibian](https://en.wiktionary.org/wiki/triphibian) is a craft that can travel on air, land, and water
+  * [Triphibian](https://en.wiktionary.org/wiki/triphibian) is a craft that can travel on air, land, and water
 * [List of presidents of Stevens Institute of Technology](https://en.wikipedia.org/wiki/List_of_presidents_of_Stevens_Institute_of_Technology)
   * [Henry Morton](https://en.wikipedia.org/wiki/Henry_Morton_(scientist)) 1836&mdash;1902
     * [Morton Memorial Laboratory of Chemistry](https://en.wikipedia.org/wiki/Morton_Memorial_Laboratory_of_Chemistry)
