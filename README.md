@@ -59,6 +59,7 @@
   * [Kenneth J. Altorfer](https://www.pr.com/press-release/239422)
   * [Vincent A. Rocco](https://connect.stevens.edu/classof67/inmemoriam)
   * [Lawrence Babbio Jr.](https://en.wikipedia.org/wiki/Lawrence_Babbio_Jr.)
+  * [John “Sean” J. Hanlon IV](https://fsc.stevens.edu/sean-hanlon/)
 * [Landmarks of Hoboken, New Jersey](https://en.wikipedia.org/wiki/Landmarks_of_Hoboken,_New_Jersey)
 ## Lollipop Moment
 * A [lollipop](https://en.wikipedia.org/wiki/Lollipop) moment is a moment when someone says or does something that improves your life in a significant way
