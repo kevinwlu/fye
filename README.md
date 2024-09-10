@@ -9,6 +9,9 @@
 * [Critical thinking](https://en.wikipedia.org/wiki/Critical_thinking)
 * [Facilitation](https://en.wikipedia.org/wiki/Facilitation_(organisational))
 * [Facilitator](https://en.wikipedia.org/wiki/Facilitator)
+## Lesson Plan
+1. [Alfred Tennyson](https://en.wikipedia.org/wiki/Alfred,_Lord_Tennyson) 1809&mdash;1892
+2. [David Allen](https://en.wikipedia.org/wiki/David_Allen_(author)), [*Getting Things Done*](https://en.wikipedia.org/wiki/Getting_Things_Done) 2001
 ## History and Values of Stevens
 * [Stevens Institute of Technology](https://en.wikipedia.org/wiki/Stevens_Institute_of_Technology)
 * [Stevens family](https://en.wikipedia.org/wiki/Stevens_family)
