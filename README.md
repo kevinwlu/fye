@@ -73,6 +73,8 @@
 * [Landmarks of Hoboken, New Jersey](https://en.wikipedia.org/wiki/Landmarks_of_Hoboken,_New_Jersey)
 ## Lollipop Moment
 * A [lollipop](https://en.wikipedia.org/wiki/Lollipop) moment is a moment when someone says or does something that improves your life in a significant way
+  * [Candy apple](https://en.wikipedia.org/wiki/Candy_apple)
+  * [Tanghulu](https://en.wikipedia.org/wiki/Tanghulu)
 * [Drew Dudley](https://www.drewdudley.com/) coined the term in his TEDxToronto Talk on TED-Ed, "[Everyday Leadership](https://www.youtube.com/watch?v=uAy6EawKKME)"
 * Here are some examples of lollipop moments: 
   * A stranger's conversation: A conversation with a stranger that leads to a new job opportunity
@@ -87,8 +89,7 @@
 * [Marianne Williamson](https://en.wikipedia.org/wiki/Marianne_Williamson), [*A Return to Love*](https://en.wikipedia.org/wiki/A_Return_to_Love) 1992
   > Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure.
 * [*Pay It Forward*](https://en.wikipedia.org/wiki/Pay_It_Forward_(novel)) 1999 by [Catherine Ryan Hyde](https://en.wikipedia.org/wiki/Catherine_Ryan_Hyde)
-* [Candy apple](https://en.wikipedia.org/wiki/Candy_apple)
-* [Tanghulu](https://en.wikipedia.org/wiki/Tanghulu)
+* [Feedback](https://en.wikipedia.org/wiki/Feedback)
 ## Improv
 * [Improvisation](https://en.wikipedia.org/wiki/Improvisation)
 * [Improvisational theatre](https://en.wikipedia.org/wiki/Improvisational_theatre)
