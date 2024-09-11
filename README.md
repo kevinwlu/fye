@@ -23,6 +23,7 @@
     * [Rail profile](https://en.wikipedia.org/wiki/Rail_profile)
   * [Edwin Augustus Stevens](https://en.wikipedia.org/wiki/Edwin_Augustus_Stevens) 1795&mdash;1868
     * [Edwin A. Stevens Hall](https://en.wikipedia.org/wiki/Edwin_A._Stevens_Hall)
+  * [Stevens Family Collection](https://library.stevens.edu/specialcollections)
   * [Andrew Carnegie](https://en.wikipedia.org/wiki/Andrew_Carnegie) 1835&mdash;1919
 * [Attila the Duck Profile](https://stevensducks.com/sports/2012/10/19/Attila%20the%20Duck%20Profile.aspx)
   * [Duck](https://en.wikipedia.org/wiki/Duck)
@@ -48,8 +49,10 @@
 * [List of Stevens Institute of Technology alumni](https://en.wikipedia.org/wiki/List_of_Stevens_Institute_of_Technology_alumni)
 * [Stevens Alumni Award Recipients](https://www.stevens.edu/development-alumni-engagement/connect/stevens-alumni-award-recipients)
   * [John W. Lieb](https://en.wikipedia.org/wiki/John_W._Lieb) 1860&mdash1929, class of 1880
+    * [John W. Lieb Memorial Collection of Leonardo da Vinci](https://library.stevens.edu/specialcollections)
   * [Alexander Crombie Humphreys](https://en.wikipedia.org/wiki/Alexander_Crombie_Humphreys) 1851&mdash;1927, class of 1881
   * [Frederick Winslow Taylor](https://en.wikipedia.org/wiki/Frederick_Winslow_Taylor) 1856&mdash;1915, class of 1883
+    * [Frederick Winslow Taylor Collection](https://library.stevens.edu/specialcollections)
   * [Henry Gantt](https://en.wikipedia.org/wiki/Henry_Gantt) 1861&mdash;1919, class of 1884
   * [William Peirce](https://en.wikipedia.org/wiki/William_H._Peirce) 1865&mdash;1944, class of 1884  
   * [Anson Wood Burchard](https://en.wikipedia.org/wiki/Anson_Wood_Burchard) 1865&mdash;1927, class of 1885
