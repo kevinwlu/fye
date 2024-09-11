@@ -1,6 +1,7 @@
 # First Year Experience (FYE)
-* [A look into the First Year Experience course](https://thestute.com/2024/09/06/a-look-into-the-first-year-experience-course/)
 * [The First-Year Experience Program](https://en.wikipedia.org/wiki/The_First-Year_Experience_Program)
+* [Stute](https://thestute.com/)
+  * [A look into the First Year Experience course](https://thestute.com/2024/09/06/a-look-into-the-first-year-experience-course/) 6 September 2024
 * [Active listening](https://en.wikipedia.org/wiki/Active_listening)
 * [Belongingness](https://en.wikipedia.org/wiki/Belongingness)
   * [Pluralism](https://en.wikipedia.org/wiki/Pluralism)
