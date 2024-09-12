@@ -66,13 +66,15 @@
   * [Charles V. Schaefer Jr.](https://www.nytimes.com/1999/11/25/nyregion/charles-schaefer-jr-dies-at-85-businessman-and-philanthropist.html) 1914&mdash;1999, class of 1936
   * [Alfred Fielding](https://edubilla.com/inventor/alfred-w-fielding/) 1917&mdash;1994, class of 1939
     * [Bubble Wrap](https://en.wikipedia.org/wiki/Bubble_Wrap_(brand))
+  * [Frederick Reines](https://en.wikipedia.org/wiki/Frederick_Reines) 1918&mdash;1998, class of 1939
   * [William J. Canavan Jr.](https://www.nytimes.com/2000/07/24/classified/paid-notice-deaths-canavan-william-john-jr.html) 1922&mdash;2000, class of 1944
   * [Wesley J. Howe](https://www.nytimes.com/2002/04/19/business/wesley-howe-80-becton-dickinson-chief.html) 1922&mdash;2002, class of 1951/1953
   * [Kenneth DeBaun](https://www.pressdemocrat.com/article/news/obituary-kenneth-debaun/) 1927&mdash;2010, class of 1949
     * [History of DeBaun Auditorium](https://www.stevens.edu/history-of-debaun-auditorium)
   * [Kenneth J. Altorfer](https://www.pr.com/press-release/239422), class of 1950
-  * [Vincent A. Rocco](https://connect.stevens.edu/classof67/inmemoriam), class of 1967
   * [Lawrence Babbio Jr.](https://en.wikipedia.org/wiki/Lawrence_Babbio_Jr.), class of 1966
+  * [Vincent A. Rocco](https://connect.stevens.edu/classof67/inmemoriam), class of 1967
+  * [Mark Crispin](https://en.wikipedia.org/wiki/Mark_Crispin) 1956&mdash;2012, class of 1977
   * [John “Sean” J. Hanlon IV](https://fsc.stevens.edu/sean-hanlon/), class of 1980
 * [Landmarks of Hoboken, New Jersey](https://en.wikipedia.org/wiki/Landmarks_of_Hoboken,_New_Jersey)
 ## Lollipop Moment
