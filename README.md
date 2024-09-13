@@ -96,6 +96,11 @@
   > Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure.
 * [*Pay It Forward*](https://en.wikipedia.org/wiki/Pay_It_Forward_(novel)) 1999 by [Catherine Ryan Hyde](https://en.wikipedia.org/wiki/Catherine_Ryan_Hyde)
 * [Feedback](https://en.wikipedia.org/wiki/Feedback)
+## Did I Miss Anything?
+* [Tom Wayman](https://en.wikipedia.org/wiki/Tom_Wayman)
+* [Did I Miss Anything?](https://www.loc.gov/programs/poetry-and-literature/poet-laureate/poet-laureate-projects/poetry-180/all-poems/item/poetry-180-013/did-i-miss-anything/)
+* [Harriet Nembhard](https://en.wikipedia.org/wiki/Harriet_Nembhard)
+  > Email is for confirmation, not conversation.
 ## Improv
 * [Improvisation](https://en.wikipedia.org/wiki/Improvisation)
 * [Improvisational theatre](https://en.wikipedia.org/wiki/Improvisational_theatre)
