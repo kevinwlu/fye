@@ -101,6 +101,14 @@
 * [Did I Miss Anything?](https://www.loc.gov/programs/poetry-and-literature/poet-laureate/poet-laureate-projects/poetry-180/all-poems/item/poetry-180-013/did-i-miss-anything/)
 * [Harriet Nembhard](https://en.wikipedia.org/wiki/Harriet_Nembhard)
   > Email is for confirmation, not conversation.
+* [SMART criteria](https://en.wikipedia.org/wiki/SMART_criteria)
+* [BLUF (communication)](https://en.wikipedia.org/wiki/BLUF_(communication)): bottom line up front
+* [News style](https://en.wikipedia.org/wiki/News_style)
+* [Inverted pyramid (journalism)](https://en.wikipedia.org/wiki/Inverted_pyramid_(journalism))
+* [Five Ws](https://en.wikipedia.org/wiki/Five_Ws)
+* [Abstract (summary)](https://en.wikipedia.org/wiki/Abstract_(summary))
+* [Executive summary](https://en.wikipedia.org/wiki/Executive_summary)
+* [TL;DR](https://en.wikipedia.org/wiki/TL;DR)
 ## Improv
 * [Improvisation](https://en.wikipedia.org/wiki/Improvisation)
 * [Improvisational theatre](https://en.wikipedia.org/wiki/Improvisational_theatre)
