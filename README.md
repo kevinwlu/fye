@@ -42,7 +42,7 @@
   * [William Hall Walker](https://thestute.com/2023/03/03/walker-gymnasium-innovative-gym-for-the-innovation-university/) 1846&mdash;1917
     * [William Hall Walker Gymnasium](https://en.wikipedia.org/wiki/William_Hall_Walker_Gymnasium)
     * [Kodak](https://en.wikipedia.org/wiki/Kodak)
-  * [Kenneth S. M. Davidson](https://en.wikipedia.org/wiki/Kenneth_S._M._Davidson)
+  * [Kenneth S. M. Davidson](https://en.wikipedia.org/wiki/Kenneth_S._M._Davidson) 1898&mdash;1958
     * [Davidson Laboratory](https://www.stevens.edu/davidson-laboratory/about)
   * [Lore E. Feiler](https://www.stevens.edu/lore-el-center-for-womens-leadership/about-lore-e-feiler) 1914&mdash;2003
     * [Lore-El Center for Women's Leadership](https://www.stevens.edu/lore-el-center-for-womens-leadership)
