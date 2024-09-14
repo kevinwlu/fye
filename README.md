@@ -106,6 +106,7 @@
 * [SMART criteria](https://en.wikipedia.org/wiki/SMART_criteria): specific, measurable, achievable, relevant, time-bound
 * [PDCA](https://en.wikipedia.org/wiki/PDCA): plan-do-check-act
   * [Walter A. Shewhart](https://en.wikipedia.org/wiki/Walter_A._Shewhart) 1891&mdash;1967
+  * [W. Edwards Deming](https://en.wikipedia.org/wiki/W._Edwards_Deming) 1900&mdash;1993
 * [Harriet Nembhard](https://en.wikipedia.org/wiki/Harriet_Nembhard)
   > Email is for confirmation, not conversation.
 * [BLUF (communication)](https://en.wikipedia.org/wiki/BLUF_(communication)): bottom line up front
