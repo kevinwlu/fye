@@ -19,6 +19,9 @@
   * [John Stevens Sr.](https://www.geni.com/people/John-Stevens-Sr/6000000003381721966) 1682&mdash;1737 came to America in 1699 at the age of 17
   * [John Stevens Jr.](https://en.wikipedia.org/wiki/John_Stevens_(New_Jersey_politician)) 1715&mdash;1792
   * [Col. John Stevens III](https://en.wikipedia.org/wiki/John_Stevens_(inventor,_born_1749)) 1749&mdash;1838
+    * [Hoboken, Antwerp](https://en.wikipedia.org/wiki/Hoboken,_Antwerp)
+    * [Hoboken, New Jersey](https://en.wikipedia.org/wiki/Hoboken,_New_Jersey)
+    * [Landmarks of Hoboken, New Jersey](https://en.wikipedia.org/wiki/Landmarks_of_Hoboken,_New_Jersey)
   * [Robert L. Stevens](https://en.wikipedia.org/wiki/Robert_L._Stevens) 1787&mdash;1856
     * [Rail profile](https://en.wikipedia.org/wiki/Rail_profile)
   * [Edwin Augustus Stevens](https://en.wikipedia.org/wiki/Edwin_Augustus_Stevens) 1795&mdash;1868
@@ -76,7 +79,6 @@
   * [Vincent A. Rocco](https://connect.stevens.edu/classof67/inmemoriam), class of 1967
   * [Mark Crispin](https://en.wikipedia.org/wiki/Mark_Crispin) 1956&mdash;2012, class of 1977
   * [John “Sean” J. Hanlon IV](https://fsc.stevens.edu/sean-hanlon/), class of 1980
-* [Landmarks of Hoboken, New Jersey](https://en.wikipedia.org/wiki/Landmarks_of_Hoboken,_New_Jersey)
 ## Lollipop Moment
 * A [lollipop](https://en.wikipedia.org/wiki/Lollipop) moment is a moment when someone says or does something that improves your life in a significant way
   * [Candy apple](https://en.wikipedia.org/wiki/Candy_apple)
@@ -97,12 +99,15 @@
 * [*Pay It Forward*](https://en.wikipedia.org/wiki/Pay_It_Forward_(novel)) 1999 by [Catherine Ryan Hyde](https://en.wikipedia.org/wiki/Catherine_Ryan_Hyde)
 * [Feedback](https://en.wikipedia.org/wiki/Feedback)
 ## Did I Miss Anything?
-* [Tom Wayman](https://en.wikipedia.org/wiki/Tom_Wayman)
 * [Did I Miss Anything?](https://www.loc.gov/programs/poetry-and-literature/poet-laureate/poet-laureate-projects/poetry-180/all-poems/item/poetry-180-013/did-i-miss-anything/)
+  * [Tom Wayman](https://en.wikipedia.org/wiki/Tom_Wayman)
+* [Fear of missing out](https://en.wikipedia.org/wiki/Fear_of_missing_out) (FOMO)
 * [Harriet Nembhard](https://en.wikipedia.org/wiki/Harriet_Nembhard)
   > Email is for confirmation, not conversation.
 * [SMART criteria](https://en.wikipedia.org/wiki/SMART_criteria)
 * [BLUF (communication)](https://en.wikipedia.org/wiki/BLUF_(communication)): bottom line up front
+* [KISS principle](https://en.wikipedia.org/wiki/KISS_principle): Keep It Short and Simple (1938)
+  * [Kelly Johnson (engineer)](https://en.wikipedia.org/wiki/Kelly_Johnson_(engineer)) 1910&mdash;1990
 * [News style](https://en.wikipedia.org/wiki/News_style)
 * [Inverted pyramid (journalism)](https://en.wikipedia.org/wiki/Inverted_pyramid_(journalism))
 * [Five Ws](https://en.wikipedia.org/wiki/Five_Ws)
