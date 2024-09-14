@@ -104,6 +104,7 @@
 * [Fear of missing out](https://en.wikipedia.org/wiki/Fear_of_missing_out) (FOMO)
 * [Harriet Nembhard](https://en.wikipedia.org/wiki/Harriet_Nembhard)
   > Email is for confirmation, not conversation.
+* [Mnemonic](https://en.wikipedia.org/wiki/Mnemonic)
 * [SMART criteria](https://en.wikipedia.org/wiki/SMART_criteria)
 * [BLUF (communication)](https://en.wikipedia.org/wiki/BLUF_(communication)): bottom line up front
 * [KISS principle](https://en.wikipedia.org/wiki/KISS_principle): Keep It Short and Simple (1938)
