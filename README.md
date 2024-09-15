@@ -52,7 +52,7 @@
     * [Lore-El Center for Women's Leadership](https://www.stevens.edu/lore-el-center-for-womens-leadership)
 * [List of Stevens Institute of Technology alumni](https://en.wikipedia.org/wiki/List_of_Stevens_Institute_of_Technology_alumni)
 * [Stevens Alumni Award Recipients](https://www.stevens.edu/development-alumni-engagement/connect/stevens-alumni-award-recipients)
-  * [John W. Lieb](https://en.wikipedia.org/wiki/John_W._Lieb) 1860&mdash1929, class of 1880
+  * [John W. Lieb](https://en.wikipedia.org/wiki/John_W._Lieb) 1860&mdash;1929, class of 1880
     * [John W. Lieb Memorial Collection of Leonardo da Vinci](https://library.stevens.edu/specialcollections)
   * [Alexander Crombie Humphreys](https://en.wikipedia.org/wiki/Alexander_Crombie_Humphreys) 1851&mdash;1927, class of 1881
   * [Frederick Winslow Taylor](https://en.wikipedia.org/wiki/Frederick_Winslow_Taylor) 1856&mdash;1915, class of 1883
