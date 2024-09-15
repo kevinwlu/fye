@@ -107,6 +107,9 @@
 * [PDCA](https://en.wikipedia.org/wiki/PDCA): plan-do-check-act
   * [Walter A. Shewhart](https://en.wikipedia.org/wiki/Walter_A._Shewhart) 1891&mdash;1967
   * [W. Edwards Deming](https://en.wikipedia.org/wiki/W._Edwards_Deming) 1900&mdash;1993
+* [SECI model of knowledge dimensions](https://en.wikipedia.org/wiki/SECI_model_of_knowledge_dimensions)
+  * [Ikujiro Nonaka](https://en.wikipedia.org/wiki/Ikujiro_Nonaka)
+  * [Hirotaka Takeuchi](https://en.wikipedia.org/wiki/Hirotaka_Takeuchi)
 * [Did I Miss Anything?](https://www.loc.gov/programs/poetry-and-literature/poet-laureate/poet-laureate-projects/poetry-180/all-poems/item/poetry-180-013/did-i-miss-anything/)
   * [Tom Wayman](https://en.wikipedia.org/wiki/Tom_Wayman)
 * [Fear of missing out](https://en.wikipedia.org/wiki/Fear_of_missing_out) (FOMO)
