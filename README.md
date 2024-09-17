@@ -1,6 +1,7 @@
 # First Year Experience (FYE)
 * [SUCCESS — Stevens Undergraduate Core Curriculum: Essential Skills for Success](https://www.stevens.edu/academics/undergraduate-study/success-the-stevens-core-curriculum)
   * [Recursive acronym](https://en.wikipedia.org/wiki/Recursive_acronym)
+  * [Self-reference](https://en.wikipedia.org/wiki/Self-reference)
 * [The First-Year Experience Program](https://en.wikipedia.org/wiki/The_First-Year_Experience_Program)
 * [*The Stute: The independent student newspaper of Stevens Institute of Technology*](https://thestute.com/)
   * [A look into the First Year Experience course](https://thestute.com/2024/09/06/a-look-into-the-first-year-experience-course/) 6 September 2024
