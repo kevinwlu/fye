@@ -126,6 +126,16 @@
 * [Abstract (summary)](https://en.wikipedia.org/wiki/Abstract_(summary))
 * [Executive summary](https://en.wikipedia.org/wiki/Executive_summary)
 * [TL;DR](https://en.wikipedia.org/wiki/TL;DR)
+## Participatory Readiness
+* [Danielle Allen](https://en.wikipedia.org/wiki/Danielle_Allen)
+  * [What Is Education For? Above All, Preparing Students for Civic and Political Engagement](https://www.bostonreview.net/forum/danielle-allen-what-is-education-for/) April 26, 2016
+* [Sara Hendren](https://sarahendren.com/)
+  * [A Classroom Is for Readiness: Scaffolding Pluralism in the 2020's](https://sarahendren.substack.com/p/a-classroom-is-for-readiness) July 25, 2022
+  * [The How and the Why](https://sarahendren.com/2024/06/10/the-how-and-the-why/) June 10, 2024
+  * [The How and the Why, Part 2](https://sarahendren.com/2024/06/14/the-how-and-the-why-part-2/) June 14, 2024
+  * [The How and the Why, Part 3](https://sarahendren.com/2024/06/21/the-how-and-the-why-part-3/) June 21, 2024
+  * [The How and the Why, Part 4](https://sarahendren.com/2024/07/25/the-how-and-the-why-part-4/) Kuly 25, 2024
+  * [The How and the Why, Part 5](https://sarahendren.com/2024/08/24/the-how-and-the-why-part-5/) August 24, 2024
 ## Improv
 * [Improvisation](https://en.wikipedia.org/wiki/Improvisation)
 * [Improvisational theatre](https://en.wikipedia.org/wiki/Improvisational_theatre)
