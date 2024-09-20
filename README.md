@@ -15,7 +15,11 @@
 * [Facilitator](https://en.wikipedia.org/wiki/Facilitator)
 ## Lesson Plan
 1. [Alfred Tennyson](https://en.wikipedia.org/wiki/Alfred,_Lord_Tennyson) 1809&mdash;1892
+  > I am a part of all that I have met.
 2. [David Allen](https://en.wikipedia.org/wiki/David_Allen_(author)), [*Getting Things Done*](https://en.wikipedia.org/wiki/Getting_Things_Done) 2001
+  > You can do anything, but not everything.
+3. [Sara Hendren](https://sarahendren.com/)
+  > Design for disability is not about making objects that ‘fix’ broken bodies. It’s about designing with the understanding that everybody is subject to change and variation over a lifetime.
 ## History and Values of Stevens
 * [Stevens Institute of Technology](https://en.wikipedia.org/wiki/Stevens_Institute_of_Technology)
 * [Stevens family](https://en.wikipedia.org/wiki/Stevens_family)
