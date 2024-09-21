@@ -129,7 +129,8 @@
 * [TL;DR](https://en.wikipedia.org/wiki/TL;DR)
 ## Inclusive Design
 * [Stevens First Year Reading Program](https://www.stevens.edu/admission-aid/undergraduate-admissions/accepted-students/first-year-reading-program)
-  * [*What Can a Body Do?*](https://github.com/kevinwlu/iot/tree/master/design)
+  * [*What Can a Body Do? How We Meet the Built World*](https://sarahendren.com/2019/09/08/what-can-a-body-do/) 
+  * [Study notes](https://github.com/kevinwlu/iot/tree/master/design)
 * [Teach Access](https://teachaccess.org/)
 * [Anthropometry](https://en.wikipedia.org/wiki/Anthropometry)
 * [Brannock Device](https://en.wikipedia.org/wiki/Brannock_Device)
@@ -146,11 +147,12 @@
     * [Zeitgeist](https://en.wikipedia.org/wiki/Zeitgeist)
     * [Civic engagement](https://en.wikipedia.org/wiki/Civic_engagement)
     * [Curb cut effect](https://en.wikipedia.org/wiki/Curb_cut_effect)
-  * [The How and the Why](https://sarahendren.com/2024/06/10/the-how-and-the-why/) June 10, 2024
-  * [The How and the Why, Part 2](https://sarahendren.com/2024/06/14/the-how-and-the-why-part-2/) June 14, 2024
-  * [The How and the Why, Part 3](https://sarahendren.com/2024/06/21/the-how-and-the-why-part-3/) June 21, 2024
-  * [The How and the Why, Part 4](https://sarahendren.com/2024/07/25/the-how-and-the-why-part-4/) July 25, 2024
-  * [The How and the Why, Part 5](https://sarahendren.com/2024/08/24/the-how-and-the-why-part-5/) August 24, 2024
+  * [The How and the Why, Part 1: Formation](https://sarahendren.com/2024/06/10/the-how-and-the-why/) June 10, 2024
+  * [The How and the Why, Part 2: Readiness](https://sarahendren.com/2024/06/14/the-how-and-the-why-part-2/) June 14, 2024
+  * [The How and the Why, Part 3: Prescriptive Disciplines](https://sarahendren.com/2024/06/21/the-how-and-the-why-part-3/) June 21, 2024
+  * [The How and the Why, Part 4: Space for Learning](https://sarahendren.com/2024/07/25/the-how-and-the-why-part-4/) July 25, 2024
+  * [The How and the Why, Part 5: Gift Disposition](https://sarahendren.com/2024/08/24/the-how-and-the-why-part-5/) August 24, 2024
+  * [Unmuddling the University: Four Ideas for Recovering Purpose in Higher Education](https://sarahendren.substack.com/p/unmuddling-the-university) August 26, 2024
 ## Improv
 * [Improvisation](https://en.wikipedia.org/wiki/Improvisation)
 * [Improvisational theatre](https://en.wikipedia.org/wiki/Improvisational_theatre)
