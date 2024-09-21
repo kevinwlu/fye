@@ -117,7 +117,7 @@
   * [Tom Wayman](https://en.wikipedia.org/wiki/Tom_Wayman)
 * [Fear of missing out](https://en.wikipedia.org/wiki/Fear_of_missing_out) (FOMO)
 * [Harriet Nembhard](https://en.wikipedia.org/wiki/Harriet_Nembhard)
-  > Email is for confirmation, not conversation.
+  * "Email is for confirmation, not conversation."
 * [BLUF (communication)](https://en.wikipedia.org/wiki/BLUF_(communication)): bottom line up front
 * [KISS principle](https://en.wikipedia.org/wiki/KISS_principle): Keep It Short and Simple (1938)
   * [Kelly Johnson (engineer)](https://en.wikipedia.org/wiki/Kelly_Johnson_(engineer)) 1910&mdash;1990
@@ -137,7 +137,7 @@
 * [Pedobarography](https://en.wikipedia.org/wiki/Pedobarography)
 * [Ergonomics](https://en.wikipedia.org/wiki/Ergonomics)
   * [Wojciech Jastrzębowski](https://en.wikipedia.org/wiki/Wojciech_Jastrz%C4%99bowski) 1799&mdash;1882
-## Participatory Readiness
+### Participatory Readiness
 * [Danielle Allen](https://en.wikipedia.org/wiki/Danielle_Allen)
   * [What Is Education For? Above All, Preparing Students for Civic and Political Engagement](https://www.bostonreview.net/forum/danielle-allen-what-is-education-for/) April 26, 2016
 * [Sara Hendren](https://sarahendren.com/)
