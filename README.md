@@ -138,6 +138,12 @@
   * [The How and the Why, Part 4](https://sarahendren.com/2024/07/25/the-how-and-the-why-part-4/) July 25, 2024
   * [The How and the Why, Part 5](https://sarahendren.com/2024/08/24/the-how-and-the-why-part-5/) August 24, 2024
 * [Teach Access](https://teachaccess.org/)
+* [Anthropometry](https://en.wikipedia.org/wiki/Anthropometry)
+* [Brannock Device](https://en.wikipedia.org/wiki/Brannock_Device)
+  * [Charles F. Brannock](https://en.wikipedia.org/wiki/Charles_F._Brannock) 1903&mdash;1992
+* [Pedobarography](https://en.wikipedia.org/wiki/Pedobarography)
+* [Ergonomics](https://en.wikipedia.org/wiki/Ergonomics)
+  * [Wojciech Jastrzębowski](https://en.wikipedia.org/wiki/Wojciech_Jastrz%C4%99bowski) 1799&mdash;1882
 ## Improv
 * [Improvisation](https://en.wikipedia.org/wiki/Improvisation)
 * [Improvisational theatre](https://en.wikipedia.org/wiki/Improvisational_theatre)
