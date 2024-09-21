@@ -130,6 +130,8 @@
 ## Inclusive Design
 * [Stevens First Year Reading Program](https://www.stevens.edu/admission-aid/undergraduate-admissions/accepted-students/first-year-reading-program)
   * [*What Can a Body Do? How We Meet the Built World*](https://sarahendren.com/2019/09/08/what-can-a-body-do/) 
+    * [Judith Butler](https://en.wikipedia.org/wiki/Judith_Butler)
+    * [Socratic dialogue](https://en.wikipedia.org/wiki/Socratic_dialogue)
   * [Study notes](https://github.com/kevinwlu/iot/tree/master/design)
 * [Teach Access](https://teachaccess.org/)
 * [Anthropometry](https://en.wikipedia.org/wiki/Anthropometry)
