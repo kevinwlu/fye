@@ -99,7 +99,7 @@
 * [Mount Allison University](https://en.wikipedia.org/wiki/Mount_Allison_University) in [Sackville, New Brunswick](https://en.wikipedia.org/wiki/Sackville,_New_Brunswick)
 * [Shinerama](https://en.wikipedia.org/wiki/Shinerama)
 * [Marianne Williamson](https://en.wikipedia.org/wiki/Marianne_Williamson), [*A Return to Love*](https://en.wikipedia.org/wiki/A_Return_to_Love) 1992
-  > Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure.
+  * "Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure."
 * [*Pay It Forward*](https://en.wikipedia.org/wiki/Pay_It_Forward_(novel)) 1999 by [Catherine Ryan Hyde](https://en.wikipedia.org/wiki/Catherine_Ryan_Hyde)
 * [Feedback](https://en.wikipedia.org/wiki/Feedback)
 ## SMART Goals
@@ -137,7 +137,8 @@
 * [Pedobarography](https://en.wikipedia.org/wiki/Pedobarography)
 * [Ergonomics](https://en.wikipedia.org/wiki/Ergonomics)
   * [Wojciech Jastrzębowski](https://en.wikipedia.org/wiki/Wojciech_Jastrz%C4%99bowski) 1799&mdash;1882
-### Participatory Readiness
+---
+**Participatory Readiness**
 * [Danielle Allen](https://en.wikipedia.org/wiki/Danielle_Allen)
   * [What Is Education For? Above All, Preparing Students for Civic and Political Engagement](https://www.bostonreview.net/forum/danielle-allen-what-is-education-for/) April 26, 2016
 * [Sara Hendren](https://sarahendren.com/)
