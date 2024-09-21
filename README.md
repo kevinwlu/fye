@@ -131,6 +131,7 @@
 * [Danielle Allen](https://en.wikipedia.org/wiki/Danielle_Allen)
   * [What Is Education For? Above All, Preparing Students for Civic and Political Engagement](https://www.bostonreview.net/forum/danielle-allen-what-is-education-for/) April 26, 2016
 * [Sara Hendren](https://sarahendren.com/)
+  * [Zeitgeist](https://en.wikipedia.org/wiki/Zeitgeist)
   * [A Classroom Is for Readiness: Scaffolding Pluralism in the 2020's](https://sarahendren.substack.com/p/a-classroom-is-for-readiness) July 25, 2022
   * [The How and the Why](https://sarahendren.com/2024/06/10/the-how-and-the-why/) June 10, 2024
   * [The How and the Why, Part 2](https://sarahendren.com/2024/06/14/the-how-and-the-why-part-2/) June 14, 2024
