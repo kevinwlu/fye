@@ -129,10 +129,13 @@
 * [TL;DR](https://en.wikipedia.org/wiki/TL;DR)
 ## Inclusive Design
 * [Stevens First Year Reading Program](https://www.stevens.edu/admission-aid/undergraduate-admissions/accepted-students/first-year-reading-program)
-  * [*What Can a Body Do? How We Meet the Built World*](https://sarahendren.com/2019/09/08/what-can-a-body-do/) 
+  * [*What Can a Body Do? How We Meet the Built World*](https://sarahendren.com/2019/09/08/what-can-a-body-do/), September 8, 2019
+    * [Baruch Spinoza](https://en.wikipedia.org/wiki/Baruch_Spinoza) 1632&mdash;1677
+    * [Gilles Deleuze](https://en.wikipedia.org/wiki/Gilles_Deleuze) 1925&mdash;1995, [*Expressionism in Philosophy: Spinoza*](https://en.wikipedia.org/wiki/Expressionism_in_Philosophy:_Spinoza)
     * [Judith Butler](https://en.wikipedia.org/wiki/Judith_Butler)
     * [Socratic dialogue](https://en.wikipedia.org/wiki/Socratic_dialogue)
   * [Study notes](https://github.com/kevinwlu/iot/tree/master/design)
+  * [What Can a Body Do?](https://exhibits.haverford.edu/whatcanabodydo/files/2012/09/WCABD_Catalog.pdf) Curated by Amanda Cachia, October 26 – December 16, 2012
 * [Teach Access](https://teachaccess.org/)
 * [Anthropometry](https://en.wikipedia.org/wiki/Anthropometry)
 * [Brannock Device](https://en.wikipedia.org/wiki/Brannock_Device)
@@ -142,19 +145,19 @@
   * [Wojciech Jastrzębowski](https://en.wikipedia.org/wiki/Wojciech_Jastrz%C4%99bowski) 1799&mdash;1882
 **Participatory Readiness**
 * [Danielle Allen](https://en.wikipedia.org/wiki/Danielle_Allen)
-  * [What Is Education For? Above All, Preparing Students for Civic and Political Engagement](https://www.bostonreview.net/forum/danielle-allen-what-is-education-for/) April 26, 2016
+  * [What Is Education For? Above All, Preparing Students for Civic and Political Engagement](https://www.bostonreview.net/forum/danielle-allen-what-is-education-for/), April 26, 2016
 * [Sara Hendren](https://sarahendren.com/)
-  * [A Classroom Is for Readiness: Scaffolding Pluralism in the 2020's](https://sarahendren.substack.com/p/a-classroom-is-for-readiness) July 25, 2022
+  * [A Classroom Is for Readiness: Scaffolding Pluralism in the 2020's](https://sarahendren.substack.com/p/a-classroom-is-for-readiness), July 25, 2022
     * [Substack](https://en.wikipedia.org/wiki/Substack)
     * [Zeitgeist](https://en.wikipedia.org/wiki/Zeitgeist)
     * [Civic engagement](https://en.wikipedia.org/wiki/Civic_engagement)
     * [Curb cut effect](https://en.wikipedia.org/wiki/Curb_cut_effect)
-  * [The How and the Why, Part 1: Formation](https://sarahendren.com/2024/06/10/the-how-and-the-why/) June 10, 2024
-  * [The How and the Why, Part 2: Readiness](https://sarahendren.com/2024/06/14/the-how-and-the-why-part-2/) June 14, 2024
-  * [The How and the Why, Part 3: Prescriptive Disciplines](https://sarahendren.com/2024/06/21/the-how-and-the-why-part-3/) June 21, 2024
-  * [The How and the Why, Part 4: Space for Learning](https://sarahendren.com/2024/07/25/the-how-and-the-why-part-4/) July 25, 2024
-  * [The How and the Why, Part 5: Gift Disposition](https://sarahendren.com/2024/08/24/the-how-and-the-why-part-5/) August 24, 2024
-  * [Unmuddling the University: Four Ideas for Recovering Purpose in Higher Education](https://sarahendren.substack.com/p/unmuddling-the-university) August 26, 2024
+  * [The How and the Why, Part 1: Formation](https://sarahendren.com/2024/06/10/the-how-and-the-why/), June 10, 2024
+  * [The How and the Why, Part 2: Readiness](https://sarahendren.com/2024/06/14/the-how-and-the-why-part-2/), June 14, 2024
+  * [The How and the Why, Part 3: Prescriptive Disciplines](https://sarahendren.com/2024/06/21/the-how-and-the-why-part-3/), June 21, 2024
+  * [The How and the Why, Part 4: Space for Learning](https://sarahendren.com/2024/07/25/the-how-and-the-why-part-4/), July 25, 2024
+  * [The How and the Why, Part 5: Gift Disposition](https://sarahendren.com/2024/08/24/the-how-and-the-why-part-5/), August 24, 2024
+  * [Unmuddling the University: Four Ideas for Recovering Purpose in Higher Education](https://sarahendren.substack.com/p/unmuddling-the-university), August 26, 2024
 ## Improv
 * [Improvisation](https://en.wikipedia.org/wiki/Improvisation)
 * [Improvisational theatre](https://en.wikipedia.org/wiki/Improvisational_theatre)
