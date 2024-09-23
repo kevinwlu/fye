@@ -49,6 +49,7 @@
   * [William Hall Walker](https://thestute.com/2023/03/03/walker-gymnasium-innovative-gym-for-the-innovation-university/) 1846&mdash;1917
     * [William Hall Walker Gymnasium](https://en.wikipedia.org/wiki/William_Hall_Walker_Gymnasium)
     * [Kodak](https://en.wikipedia.org/wiki/Kodak)
+  * [Anna Hyatt Huntington](https://en.wikipedia.org/wiki/Anna_Hyatt_Huntington) 1876&mdash;1973
   * [Kenneth S. M. Davidson](https://en.wikipedia.org/wiki/Kenneth_S._M._Davidson) 1898&mdash;1958
     * [Davidson Laboratory](https://www.stevens.edu/davidson-laboratory/about)
   * [Lore E. Feiler](https://www.stevens.edu/lore-el-center-for-womens-leadership/about-lore-e-feiler) 1914&mdash;2003
@@ -136,6 +137,7 @@
     * [Socratic dialogue](https://en.wikipedia.org/wiki/Socratic_dialogue)
   * [Study notes](https://github.com/kevinwlu/iot/tree/master/design)
   * [What Can a Body Do?](https://exhibits.haverford.edu/whatcanabodydo/files/2012/09/WCABD_Catalog.pdf) Curated by Amanda Cachia, October 26 – December 16, 2012
+* [People-first language](https://en.wikipedia.org/wiki/People-first_language) (PFL)
 * [Teach Access](https://teachaccess.org/)
 * [Anthropometry](https://en.wikipedia.org/wiki/Anthropometry)
 * [Brannock Device](https://en.wikipedia.org/wiki/Brannock_Device)
