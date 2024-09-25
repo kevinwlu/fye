@@ -58,6 +58,7 @@
   * [Lore E. Feiler](https://www.stevens.edu/lore-el-center-for-womens-leadership/about-lore-e-feiler) 1914&mdash;2003
     * [Lore-El Center for Women's Leadership](https://www.stevens.edu/lore-el-center-for-womens-leadership)
   * [The Dorms: Palmer, Jacobus, Hayden, Humphreys, Davis, Castle Point Hall, and Jonas](https://thestute.com/2023/04/21/the-dorms-palmer-jacobus-hayden-humphreys-davis-castle-point-hall-and-jonas/)
+    * [Edgar Palmer](https://stevensarchives.contentdm.oclc.org/digital/collection/StevensNP02/id/20453/) 1880&mdash;1943
 * [List of Stevens Institute of Technology alumni](https://en.wikipedia.org/wiki/List_of_Stevens_Institute_of_Technology_alumni)
 * [Stevens Alumni Award Recipients](https://www.stevens.edu/development-alumni-engagement/connect/stevens-alumni-award-recipients)
   * [John W. Lieb](https://en.wikipedia.org/wiki/John_W._Lieb) 1860&mdash;1929, class of 1880
