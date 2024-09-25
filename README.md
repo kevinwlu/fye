@@ -30,6 +30,7 @@
     * [Rail profile](https://en.wikipedia.org/wiki/Rail_profile)
   * [Edwin Augustus Stevens](https://en.wikipedia.org/wiki/Edwin_Augustus_Stevens) 1795&mdash;1868
     * [Edwin A. Stevens Hall](https://en.wikipedia.org/wiki/Edwin_A._Stevens_Hall)
+  * [H. Otto Wittpenn](https://en.wikipedia.org/wiki/H._Otto_Wittpenn) 1871&mdash;1931
   * [Stevens Family Collection](https://library.stevens.edu/specialcollections)
   * [Andrew Carnegie](https://en.wikipedia.org/wiki/Andrew_Carnegie) 1835&mdash;1919
 * [Attila the Duck Profile](https://stevensducks.com/sports/2012/10/19/Attila%20the%20Duck%20Profile.aspx)
