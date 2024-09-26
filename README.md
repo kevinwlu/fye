@@ -76,6 +76,7 @@
   * [Walter Kidde](https://en.wikipedia.org/wiki/Walter_Kidde) 1877&mdash;1943, class of 1897
   * [Samuel C. Williams](https://library.stevens.edu/scwilliams) 1894&mdash;1968, class of 1915
   * [Alexander Calder](https://en.wikipedia.org/wiki/Alexander_Calder) 1898&mdash;1976, class of 1919
+    * [Before He Became an Iconic Artist, Alexander Calder Embraced Campus Life at Stevens](https://www.stevens.edu/news/he-became-iconic-artist-alexander-calder-embraced-campus-life-stevens)
   * Earl L. Griffith, Class of 1923
   * William H. McLean, Class of 1931
   * Frederick L. Bissinger 1911&mdash;2009, class of 1933
