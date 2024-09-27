@@ -33,6 +33,7 @@
   * [Martha Bayard Stevens](https://en.wikipedia.org/wiki/Martha_Bayard_Stevens) 1831&mdash;1899
   * [Caroline Bayard Stevens Wittpenn](https://en.wikipedia.org/wiki/Caroline_Bayard_Stevens_Wittpenn) 1859&mdash;1932
     * [Renaming of Alexander House to Martha Bayard Stevens Hall 9.8.22](/Renaming_of_Alexander_House_to_Martha_Bayard_Stevens_Hall_9.8.22.pdf)
+    * [New Alexander House name honors Stevens family pioneer](https://thestute.com/2022/09/16/new-alexander-house-name-honors-stevens-family-pioneer/), September 16. 2022
   * [H. Otto Wittpenn](https://en.wikipedia.org/wiki/H._Otto_Wittpenn) 1871&mdash;1931
   * [Archibald Stevens Alexander](https://en.wikipedia.org/wiki/Archibald_Stevens_Alexander) 1880&mdash1912
   * [Stevens Family Collection](https://library.stevens.edu/specialcollections)
