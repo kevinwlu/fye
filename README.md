@@ -178,6 +178,13 @@
   * [The How and the Why, Part 4: Space for Learning](https://sarahendren.com/2024/07/25/the-how-and-the-why-part-4/), July 25, 2024
   * [The How and the Why, Part 5: Gift Disposition](https://sarahendren.com/2024/08/24/the-how-and-the-why-part-5/), August 24, 2024
   * [Unmuddling the University: Four Ideas for Recovering Purpose in Higher Education](https://sarahendren.substack.com/p/unmuddling-the-university), August 26, 2024
+## Strengths
+* [*Per aspera ad astra*](https://simple.wikipedia.org/wiki/Per_aspera_ad_astra)
+* [CliftonStrengths](https://en.wikipedia.org/wiki/CliftonStrengths)
+  * [Donald O. Clifton](https://en.wikipedia.org/wiki/Donald_O._Clifton) 1924&mdash;2003
+* [Grit](https://en.wikipedia.org/wiki/Grit_(personality_trait))
+  * [Angela Duckworth](https://en.wikipedia.org/wiki/Angela_Duckworth)
+* [SWOT analysis](https://en.wikipedia.org/wiki/SWOT_analysis)
 ## Improv
 * [Improvisation](https://en.wikipedia.org/wiki/Improvisation)
 * [Improvisational theatre](https://en.wikipedia.org/wiki/Improvisational_theatre)
