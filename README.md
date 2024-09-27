@@ -33,6 +33,7 @@
   * [Martha Bayard Stevens](https://en.wikipedia.org/wiki/Martha_Bayard_Stevens) 1831&mdash;1899
   * [Caroline Bayard Stevens Wittpenn](https://en.wikipedia.org/wiki/Caroline_Bayard_Stevens_Wittpenn) 1859&mdash;1932
   * [H. Otto Wittpenn](https://en.wikipedia.org/wiki/H._Otto_Wittpenn) 1871&mdash;1931
+  * [Archibald Stevens Alexander](https://en.wikipedia.org/wiki/Archibald_Stevens_Alexander) 1880&mdash1912
   * [Stevens Family Collection](https://library.stevens.edu/specialcollections)
   * [Andrew Carnegie](https://en.wikipedia.org/wiki/Andrew_Carnegie) 1835&mdash;1919
 * [Attila the Duck Profile](https://stevensducks.com/sports/2012/10/19/Attila%20the%20Duck%20Profile.aspx)
