@@ -184,7 +184,8 @@
   * [Donald O. Clifton](https://en.wikipedia.org/wiki/Donald_O._Clifton) 1924&mdash;2003
 * [Grit](https://en.wikipedia.org/wiki/Grit_(personality_trait))
   * [Angela Duckworth](https://en.wikipedia.org/wiki/Angela_Duckworth)
-* [SWOT analysis](https://en.wikipedia.org/wiki/SWOT_analysis)
+* [Semiotic square](https://en.wikipedia.org/wiki/Semiotic_square)
+  * [SWOT analysis](https://en.wikipedia.org/wiki/SWOT_analysis)
 ## Improv
 * [Improvisation](https://en.wikipedia.org/wiki/Improvisation)
 * [Improvisational theatre](https://en.wikipedia.org/wiki/Improvisational_theatre)
