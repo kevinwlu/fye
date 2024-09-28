@@ -27,6 +27,7 @@
     * [Hoboken, Antwerp](https://en.wikipedia.org/wiki/Hoboken,_Antwerp)
     * [Hoboken, New Jersey](https://en.wikipedia.org/wiki/Hoboken,_New_Jersey)
     * [Landmarks of Hoboken, New Jersey](https://en.wikipedia.org/wiki/Landmarks_of_Hoboken,_New_Jersey)
+  * [John Cox Stevens](https://en.wikipedia.org/wiki/John_Cox_Stevens) 1785&mdash;1857
   * [Robert L. Stevens](https://en.wikipedia.org/wiki/Robert_L._Stevens) 1787&mdash;1856
     * [Rail profile](https://en.wikipedia.org/wiki/Rail_profile)
   * [Edwin Augustus Stevens](https://en.wikipedia.org/wiki/Edwin_Augustus_Stevens) 1795&mdash;1868
