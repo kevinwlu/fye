@@ -188,6 +188,7 @@
   * [Donald O. Clifton](https://en.wikipedia.org/wiki/Donald_O._Clifton) 1924&mdash;2003
 * [Grit](https://en.wikipedia.org/wiki/Grit_(personality_trait))
   * [Angela Duckworth](https://en.wikipedia.org/wiki/Angela_Duckworth)
+* [Big Five personality traits](https://en.wikipedia.org/wiki/Big_Five_personality_traits)
 * [Semiotic square](https://en.wikipedia.org/wiki/Semiotic_square)
   * [SWOT analysis](https://en.wikipedia.org/wiki/SWOT_analysis)
 ## Improv
