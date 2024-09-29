@@ -192,6 +192,7 @@
   * [Angela Duckworth](https://angeladuckworth.com/)
 * [Big Five personality traits](https://en.wikipedia.org/wiki/Big_Five_personality_traits)
   * [Big Five Personality Test](https://www.idrlabs.com/big-five-types/test.php)
+* [Mentimeter](https://en.wikipedia.org/wiki/Mentimeter)
 * [Semiotic square](https://en.wikipedia.org/wiki/Semiotic_square)
   * [SWOT analysis](https://en.wikipedia.org/wiki/SWOT_analysis)
 ## Improv
