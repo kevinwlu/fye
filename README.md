@@ -17,6 +17,7 @@
 1. [Alfred Tennyson](https://en.wikipedia.org/wiki/Alfred,_Lord_Tennyson) 1809&mdash;1892, "I am a part of all that I have met."
 2. [David Allen](https://en.wikipedia.org/wiki/David_Allen_(author)), [*Getting Things Done*](https://en.wikipedia.org/wiki/Getting_Things_Done) 2001, "You can do anything, but not everything."
 3. [Sara Hendren](https://sarahendren.com/), "Design for disability is not about making objects that ‘fix’ broken bodies. It’s about designing with the understanding that everybody is subject to change and variation over a lifetime."
+4. [Angela Duckworth](https://en.wikipedia.org/wiki/Angela_Duckworth), "Enthusiasm is common. Endurance is rare."
 ## History and Values of Stevens
 * [Stevens Institute of Technology](https://en.wikipedia.org/wiki/Stevens_Institute_of_Technology)
 * [Stevens family](https://en.wikipedia.org/wiki/Stevens_family)
@@ -188,7 +189,7 @@
   * [Donald O. Clifton](https://en.wikipedia.org/wiki/Donald_O._Clifton) 1924&mdash;2003
 * [Grit](https://en.wikipedia.org/wiki/Grit_(personality_trait))
   * [Grit Test](https://www.idrlabs.com/grit/test.php)
-  * [Angela Duckworth](https://en.wikipedia.org/wiki/Angela_Duckworth)
+  * [Angela Duckworth](https://angeladuckworth.com/)
 * [Big Five personality traits](https://en.wikipedia.org/wiki/Big_Five_personality_traits)
   * [Big Five Personality Test](https://www.idrlabs.com/big-five-types/test.php)
 * [Semiotic square](https://en.wikipedia.org/wiki/Semiotic_square)
