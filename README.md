@@ -187,9 +187,11 @@
 * [*Per aspera ad astra*](https://simple.wikipedia.org/wiki/Per_aspera_ad_astra)
 * [CliftonStrengths](https://en.wikipedia.org/wiki/CliftonStrengths)
   * [Donald O. Clifton](https://en.wikipedia.org/wiki/Donald_O._Clifton) 1924&mdash;2003
-* [Grit](https://en.wikipedia.org/wiki/Grit_(personality_trait))
+* [Grit (personality trait)](https://en.wikipedia.org/wiki/Grit_(personality_trait))
   * [Grit Test](https://www.idrlabs.com/grit/test.php)
   * [Angela Duckworth](https://angeladuckworth.com/)
+  * [Grit](https://en.wikipedia.org/wiki/Grit)
+  * [Sandpaper](https://en.wikipedia.org/wiki/Sandpaper)
 * [Big Five personality traits](https://en.wikipedia.org/wiki/Big_Five_personality_traits)
   * [Big Five Personality Test](https://www.idrlabs.com/big-five-types/test.php)
 * [Mentimeter](https://en.wikipedia.org/wiki/Mentimeter)
