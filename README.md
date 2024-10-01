@@ -184,13 +184,18 @@
   * [The How and the Why, Part 5: Gift Disposition](https://sarahendren.com/2024/08/24/the-how-and-the-why-part-5/), August 24, 2024
   * [Unmuddling the University: Four Ideas for Recovering Purpose in Higher Education](https://sarahendren.substack.com/p/unmuddling-the-university), August 26, 2024
 ## Strengths
-* [*Per aspera ad astra*](https://simple.wikipedia.org/wiki/Per_aspera_ad_astra)
+* [Motto](https://en.wikipedia.org/wiki/Motto)
+  * [*Per aspera ad astra*](https://simple.wikipedia.org/wiki/Per_aspera_ad_astra)
+* [When the going gets tough, the tough get going](https://en.wikipedia.org/wiki/When_the_going_gets_tough,_the_tough_get_going)
+  * [Antimetabole](https://en.wikipedia.org/wiki/Antimetabole)
+* [Billy Ocean](https://en.wikipedia.org/wiki/Billy_Ocean)
+  * [When the Going Gets Tough, the Tough Get Going (song)](https://en.wikipedia.org/wiki/When_the_Going_Gets_Tough,_the_Tough_Get_Going_(song)) 
 * [CliftonStrengths](https://en.wikipedia.org/wiki/CliftonStrengths)
   * [Donald O. Clifton](https://en.wikipedia.org/wiki/Donald_O._Clifton) 1924&mdash;2003
 * [Grit (personality trait)](https://en.wikipedia.org/wiki/Grit_(personality_trait))
   * [Grit Test](https://www.idrlabs.com/grit/test.php)
   * [Angela Duckworth](https://angeladuckworth.com/)
-  * [Grit](https://en.wikipedia.org/wiki/Grit)
+* [Grit](https://en.wikipedia.org/wiki/Grit)
   * [Sandpaper](https://en.wikipedia.org/wiki/Sandpaper)
 * [Big Five personality traits](https://en.wikipedia.org/wiki/Big_Five_personality_traits)
   * [Big Five Personality Test](https://www.idrlabs.com/big-five-types/test.php)
