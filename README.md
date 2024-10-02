@@ -79,6 +79,7 @@
   * [Frederick Winslow Taylor](https://en.wikipedia.org/wiki/Frederick_Winslow_Taylor) 1856&mdash;1915, class of 1883
     * [Frederick Winslow Taylor Collection](https://library.stevens.edu/specialcollections)
   * [Henry Gantt](https://en.wikipedia.org/wiki/Henry_Gantt) 1861&mdash;1919, class of 1884
+    * [Gantt chart](https://en.wikipedia.org/wiki/Gantt_chart)
   * [David Schenk Jacobus](https://en.wikipedia.org/wiki/David_Schenk_Jacobus) 1862&mdash;1955, class of 1884
   * [William Peirce](https://en.wikipedia.org/wiki/William_H._Peirce) 1865&mdash;1944, class of 1884  
   * [Anson Wood Burchard](https://en.wikipedia.org/wiki/Anson_Wood_Burchard) 1865&mdash;1927, class of 1885
