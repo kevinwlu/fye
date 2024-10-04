@@ -84,7 +84,8 @@
   * [Henry Gantt](https://en.wikipedia.org/wiki/Henry_Gantt) 1861&mdash;1919, class of 1884
     * [Gantt chart](https://en.wikipedia.org/wiki/Gantt_chart)
   * [David Schenk Jacobus](https://en.wikipedia.org/wiki/David_Schenk_Jacobus) 1862&mdash;1955, class of 1884
-  * [William Peirce](https://en.wikipedia.org/wiki/William_H._Peirce) 1865&mdash;1944, class of 1884  
+  * [William Peirce](https://en.wikipedia.org/wiki/William_H._Peirce) 1865&mdash;1944, class of 1884
+    * [Walter Kidde & William Peirce Memorial Laboratory Buildings](https://stevensarchives.contentdm.oclc.org/digital/collection/p16277coll6/id/0/)
   * [Anson Wood Burchard](https://en.wikipedia.org/wiki/Anson_Wood_Burchard) 1865&mdash;1927, class of 1885
   * [William D. Hoxie](https://www.nytimes.com/1925/09/13/archives/wd-hoxie-leaves-142000-to-public-stevens-institute-and-several.html) 1866&mdash;1925, class of 1889
   * [Walter Kidde](https://en.wikipedia.org/wiki/Walter_Kidde) 1877&mdash;1943, class of 1897
