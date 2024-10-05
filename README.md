@@ -41,6 +41,8 @@
   * [Archibald Stevens Alexander Jr.](https://en.wikipedia.org/wiki/Archibald_S._Alexander) 1906&mdash;1979
   * [Stevens Family Collection](https://library.stevens.edu/specialcollections)
   * [Andrew Carnegie](https://en.wikipedia.org/wiki/Andrew_Carnegie) 1835&mdash;1919
+  * [Luigi Zummo Pollara](https://www.nytimes.com/1994/08/06/obituaries/dr-luigi-pollara-80-founder-of-polymer-research-unit-dies.html) 1915&mdash;1994
+    * [Polymer Processing Institute](https://www.polymers-ppi.com/) (PPI) founded in 1982
 * [Attila the Duck Profile](https://stevensducks.com/sports/2012/10/19/Attila%20the%20Duck%20Profile.aspx)
   * [Duck](https://en.wikipedia.org/wiki/Duck)
   * [Amphibian](https://en.wikipedia.org/wiki/Amphibian)
