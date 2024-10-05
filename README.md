@@ -71,8 +71,9 @@
     * [Charles Hayden](https://en.wikipedia.org/wiki/Charles_Hayden_(banker)) 1870&mdash;1937
     * [Edgar Palmer](https://stevensarchives.contentdm.oclc.org/digital/collection/StevensNP02/id/20453/) 1880&mdash;1943
   * [Jacobus Hall throughout the years](https://thestute.com/2018/11/30/jacobus-hall-throughout-the-years/)
-* [List of Stevens Institute of Technology alumni](https://en.wikipedia.org/wiki/List_of_Stevens_Institute_of_Technology_alumni)
+  * [American Bureau of Shipping](https://en.wikipedia.org/wiki/American_Bureau_of_Shipping) (ABS)
 * [Stevens Alumni Award Recipients](https://www.stevens.edu/development-alumni-engagement/connect/stevens-alumni-award-recipients)
+* [List of Stevens Institute of Technology alumni](https://en.wikipedia.org/wiki/List_of_Stevens_Institute_of_Technology_alumni)
   * [James Buchanan Pierce](https://stevensarchives.contentdm.oclc.org/digital/collection/StevensNP01/id/9757/) 1856&mdash;1928, class of 1877
     * [Pierce Dining Hall](https://dineoncampus.com/stevensdining/pierce-dining-hall)
     * [General James Pierce](https://bissella9.wordpress.com/tag/general-james-pierce/) 1810&mdash;1874
@@ -111,6 +112,7 @@
   * [Mark Crispin](https://en.wikipedia.org/wiki/Mark_Crispin) 1956&mdash;2012, class of 1977
   * [John “Sean” J. Hanlon IV](https://fsc.stevens.edu/sean-hanlon/), class of 1980
   * [Virginia and Kevin Ruesterholz](https://stevens.giftplans.org/index.php?cID=434), class of 1983
+  * [Greg Gianforte](https://en.wikipedia.org/wiki/Greg_Gianforte), class of 1983
 ## Lollipop Moment
 * A [lollipop](https://en.wikipedia.org/wiki/Lollipop) moment is a moment when someone says or does something that improves your life in a significant way
   * [Candy apple](https://en.wikipedia.org/wiki/Candy_apple)
