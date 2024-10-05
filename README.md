@@ -145,7 +145,6 @@
   * [Hirotaka Takeuchi](https://en.wikipedia.org/wiki/Hirotaka_Takeuchi)
 * [Did I Miss Anything?](https://www.loc.gov/programs/poetry-and-literature/poet-laureate/poet-laureate-projects/poetry-180/all-poems/item/poetry-180-013/did-i-miss-anything/)
   * [Tom Wayman](https://en.wikipedia.org/wiki/Tom_Wayman)
-* [Fear of missing out](https://en.wikipedia.org/wiki/Fear_of_missing_out) (FOMO)
 * [Harriet Nembhard](https://en.wikipedia.org/wiki/Harriet_Nembhard)
   * "Email is for confirmation, not conversation."
 * [BLUF (communication)](https://en.wikipedia.org/wiki/BLUF_(communication)): bottom line up front
@@ -217,6 +216,9 @@
   * [*The 8th Habit*](https://en.wikipedia.org/wiki/The_8th_Habit) 2004
 * [Time management](https://en.wikipedia.org/wiki/Time_management)
 * [Screen time](https://en.wikipedia.org/wiki/Screen_time)
+* [Fear of missing out](https://en.wikipedia.org/wiki/Fear_of_missing_out) (FOMO)
+* [Information overload](https://en.wikipedia.org/wiki/Information_overload)
+* [Information pollution](https://en.wikipedia.org/wiki/Information_pollution)
 * [Circadian rhythm](https://en.wikipedia.org/wiki/Circadian_rhythm)
 * [Light effects on circadian rhythm](https://en.wikipedia.org/wiki/Light_effects_on_circadian_rhythm)
 * [Chronotype](https://en.wikipedia.org/wiki/Chronotype)
@@ -232,7 +234,6 @@
   * [Vilfredo Pareto](https://en.wikipedia.org/wiki/Vilfredo_Pareto) 1848&mdash;1923
 * [Gini coefficient](https://en.wikipedia.org/wiki/Gini_coefficient)
   * [Corrado Gini](https://en.wikipedia.org/wiki/Corrado_Gini) 1884&mdash;1965
-
 ## Improv
 * [Improvisation](https://en.wikipedia.org/wiki/Improvisation)
 * [Improvisational theatre](https://en.wikipedia.org/wiki/Improvisational_theatre)
