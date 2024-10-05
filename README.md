@@ -213,6 +213,10 @@
   * [*The 7 Habits of Highly Effective People*](https://en.wikipedia.org/wiki/The_7_Habits_of_Highly_Effective_People) 1989
   * [*The 8th Habit*](https://en.wikipedia.org/wiki/The_8th_Habit) 2004
 * [Time management](https://en.wikipedia.org/wiki/Time_management)
+* [Ken Blanchard](https://en.wikipedia.org/wiki/Ken_Blanchard) and Spencer Johnson
+  * [*The One Minute Manager*](https://en.wikipedia.org/wiki/The_One_Minute_Manager) 1982
+* [Spencer Johnson](https://en.wikipedia.org/wiki/Spencer_Johnson_(writer)) 1938&mdash;2017
+  * [*Who Moved My Cheese?*](https://en.wikipedia.org/wiki/Who_Moved_My_Cheese%3F) 1998
 * [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique)
   * [Francesco Cirillo](https://www.francescocirillo.com/about-francesco-cirillo.php)
 * [Financial literacy](https://en.wikipedia.org/wiki/Financial_literacy)
