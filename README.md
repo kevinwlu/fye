@@ -237,6 +237,10 @@
   * [Vilfredo Pareto](https://en.wikipedia.org/wiki/Vilfredo_Pareto) 1848&mdash;1923
 * [Gini coefficient](https://en.wikipedia.org/wiki/Gini_coefficient)
   * [Corrado Gini](https://en.wikipedia.org/wiki/Corrado_Gini) 1884&mdash;1965
+* [The Vanguard Group](https://en.wikipedia.org/wiki/The_Vanguard_Group)
+  * [John C. Bogle](https://en.wikipedia.org/wiki/John_C._Bogle) 1929&mdash;2019
+  * [Vanguard Funds by Style Box](https://personal.vanguard.com/us/FundsStyleBox)
+* [American Opportunity Tax Credit](https://en.wikipedia.org/wiki/American_Opportunity_Tax_Credit) (AOTC)
 ## Improv
 * [Improvisation](https://en.wikipedia.org/wiki/Improvisation)
 * [Improvisational theatre](https://en.wikipedia.org/wiki/Improvisational_theatre)
