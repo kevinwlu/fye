@@ -13,11 +13,6 @@
 * [Critical thinking](https://en.wikipedia.org/wiki/Critical_thinking)
 * [Facilitation](https://en.wikipedia.org/wiki/Facilitation_(organisational))
 * [Facilitator](https://en.wikipedia.org/wiki/Facilitator)
-## Lesson Plan
-1. [Alfred Tennyson](https://en.wikipedia.org/wiki/Alfred,_Lord_Tennyson) 1809&mdash;1892, "I am a part of all that I have met."
-2. [David Allen](https://en.wikipedia.org/wiki/David_Allen_(author)), [*Getting Things Done*](https://en.wikipedia.org/wiki/Getting_Things_Done) 2001, "You can do anything, but not everything."
-3. [Sara Hendren](https://sarahendren.com/), "Design for disability is not about making objects that ‘fix’ broken bodies. It’s about designing with the understanding that everybody is subject to change and variation over a lifetime."
-4. [Angela Duckworth](https://en.wikipedia.org/wiki/Angela_Duckworth), "Enthusiasm is common. Endurance is rare."
 ## History and Values of Stevens
 * [Stevens Institute of Technology](https://en.wikipedia.org/wiki/Stevens_Institute_of_Technology)
 * [Stevens family](https://en.wikipedia.org/wiki/Stevens_family)
@@ -113,7 +108,8 @@
   * [John “Sean” J. Hanlon IV](https://fsc.stevens.edu/sean-hanlon/), class of 1980
   * [Virginia and Kevin Ruesterholz](https://stevens.giftplans.org/index.php?cID=434), class of 1983
   * [Greg Gianforte](https://en.wikipedia.org/wiki/Greg_Gianforte), class of 1983
-## Lollipop Moment
+## Week 1: IntroDUCKtions and Course Overview
+* [Alfred Tennyson](https://en.wikipedia.org/wiki/Alfred,_Lord_Tennyson) 1809&mdash;1892, "I am a part of all that I have met."
 * A [lollipop](https://en.wikipedia.org/wiki/Lollipop) moment is a moment when someone says or does something that improves your life in a significant way
   * [Candy apple](https://en.wikipedia.org/wiki/Candy_apple)
   * [Tanghulu](https://en.wikipedia.org/wiki/Tanghulu)
@@ -132,7 +128,8 @@
   * "Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure."
 * [*Pay It Forward*](https://en.wikipedia.org/wiki/Pay_It_Forward_(novel)) 1999 by [Catherine Ryan Hyde](https://en.wikipedia.org/wiki/Catherine_Ryan_Hyde)
 * [Feedback](https://en.wikipedia.org/wiki/Feedback)
-## SMART Goals
+## Week 2: Roadmap for Success
+* [David Allen](https://en.wikipedia.org/wiki/David_Allen_(author)), [*Getting Things Done*](https://en.wikipedia.org/wiki/Getting_Things_Done) 2001, "You can do anything, but not everything."
 * [Success](https://en.wikipedia.org/wiki/Success)
 * [Introspection](https://en.wikipedia.org/wiki/Introspection)
 * [Mnemonic](https://en.wikipedia.org/wiki/Mnemonic)
@@ -157,7 +154,8 @@
 * [Abstract (summary)](https://en.wikipedia.org/wiki/Abstract_(summary))
 * [Executive summary](https://en.wikipedia.org/wiki/Executive_summary)
 * [TL;DR](https://en.wikipedia.org/wiki/TL;DR)
-## Inclusive Design
+## Week 3: First-Year Reading Discussion
+* [Sara Hendren](https://sarahendren.com/), "Design for disability is not about making objects that ‘fix’ broken bodies. It’s about designing with the understanding that everybody is subject to change and variation over a lifetime."
 * [Stevens First Year Reading Program](https://www.stevens.edu/admission-aid/undergraduate-admissions/accepted-students/first-year-reading-program)
   * [*What Can a Body Do? How We Meet the Built World*](https://sarahendren.com/2019/09/08/what-can-a-body-do/), September 8, 2019
     * [Baruch Spinoza](https://en.wikipedia.org/wiki/Baruch_Spinoza) 1632&mdash;1677
@@ -174,7 +172,7 @@
 * [Pedobarography](https://en.wikipedia.org/wiki/Pedobarography)
 * [Ergonomics](https://en.wikipedia.org/wiki/Ergonomics)
   * [Wojciech Jastrzębowski](https://en.wikipedia.org/wiki/Wojciech_Jastrz%C4%99bowski) 1799&mdash;1882
-
+---
 **Participatory Readiness**
 * [Danielle Allen](https://en.wikipedia.org/wiki/Danielle_Allen)
   * [What Is Education For? Above All, Preparing Students for Civic and Political Engagement](https://www.bostonreview.net/forum/danielle-allen-what-is-education-for/), April 26, 2016
@@ -190,7 +188,8 @@
   * [The How and the Why, Part 4: Space for Learning](https://sarahendren.com/2024/07/25/the-how-and-the-why-part-4/), July 25, 2024
   * [The How and the Why, Part 5: Gift Disposition](https://sarahendren.com/2024/08/24/the-how-and-the-why-part-5/), August 24, 2024
   * [Unmuddling the University: Four Ideas for Recovering Purpose in Higher Education](https://sarahendren.substack.com/p/unmuddling-the-university), August 26, 2024
-## Strengths
+## Week 4: Who Am I? Leveraging Your Strengths for Success
+* [Angela Duckworth](https://en.wikipedia.org/wiki/Angela_Duckworth), "Enthusiasm is common. Endurance is rare."
 * [Motto](https://en.wikipedia.org/wiki/Motto)
   * [*Per aspera ad astra*](https://simple.wikipedia.org/wiki/Per_aspera_ad_astra)
 * [When the going gets tough, the tough get going](https://en.wikipedia.org/wiki/When_the_going_gets_tough,_the_tough_get_going)
@@ -209,6 +208,20 @@
 * [Mentimeter](https://en.wikipedia.org/wiki/Mentimeter)
 * [Semiotic square](https://en.wikipedia.org/wiki/Semiotic_square)
   * [SWOT analysis](https://en.wikipedia.org/wiki/SWOT_analysis)
+## Week 5: Strategies for Effective Time and Financial Management
+* [Stephen Covey](https://en.wikipedia.org/wiki/Stephen_Covey) 1932&mdash;2012, "The key is not to prioritize what’s on your schedule, but to schedule your priorities."
+  * [*The 7 Habits of Highly Effective People*](https://en.wikipedia.org/wiki/The_7_Habits_of_Highly_Effective_People) 1989
+  * [*The 8th Habit*](https://en.wikipedia.org/wiki/The_8th_Habit) 2004
+* [Time management](https://en.wikipedia.org/wiki/Time_management)
+* [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique)
+  * [Francesco Cirillo](https://www.francescocirillo.com/about-francesco-cirillo.php)
+* [Financial literacy](https://en.wikipedia.org/wiki/Financial_literacy)
+* [Time value of money](https://en.wikipedia.org/wiki/Time_value_of_money)
+* [Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle)
+  * [Vilfredo Pareto](https://en.wikipedia.org/wiki/Vilfredo_Pareto) 1848&mdash;1923
+* [Gini coefficient](https://en.wikipedia.org/wiki/Gini_coefficient)
+  * [Corrado Gini](https://en.wikipedia.org/wiki/Corrado_Gini) 1884&mdash;1965
+
 ## Improv
 * [Improvisation](https://en.wikipedia.org/wiki/Improvisation)
 * [Improvisational theatre](https://en.wikipedia.org/wiki/Improvisational_theatre)
