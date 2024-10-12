@@ -135,6 +135,7 @@
 * [Feedback](https://en.wikipedia.org/wiki/Feedback)
 ## Week 2: Roadmap for Success
 * [David Allen](https://en.wikipedia.org/wiki/David_Allen_(author)), [*Getting Things Done*](https://en.wikipedia.org/wiki/Getting_Things_Done) 2001, "You can do anything, but not everything."
+* [Tom Wayman](https://en.wikipedia.org/wiki/Tom_Wayman), ["Did I Miss Anything?"](https://www.loc.gov/programs/poetry-and-literature/poet-laureate/poet-laureate-projects/poetry-180/all-poems/item/poetry-180-013/did-i-miss-anything/)
 * [Success](https://en.wikipedia.org/wiki/Success)
 * [Introspection](https://en.wikipedia.org/wiki/Introspection)
 * [Mnemonic](https://en.wikipedia.org/wiki/Mnemonic)
@@ -145,9 +146,6 @@
 * [SECI model of knowledge dimensions](https://en.wikipedia.org/wiki/SECI_model_of_knowledge_dimensions)
   * [Ikujiro Nonaka](https://en.wikipedia.org/wiki/Ikujiro_Nonaka)
   * [Hirotaka Takeuchi](https://en.wikipedia.org/wiki/Hirotaka_Takeuchi)
-* [Did I Miss Anything?](https://www.loc.gov/programs/poetry-and-literature/poet-laureate/poet-laureate-projects/poetry-180/all-poems/item/poetry-180-013/did-i-miss-anything/)
-  * [Tom Wayman](https://en.wikipedia.org/wiki/Tom_Wayman)
-* [Serendipity](https://en.wikipedia.org/wiki/Serendipity)
 * [Harriet Nembhard](https://en.wikipedia.org/wiki/Harriet_Nembhard)
   * "Email is for confirmation, not conversation."
 * [BLUF (communication)](https://en.wikipedia.org/wiki/BLUF_(communication)): bottom line up front
@@ -258,6 +256,7 @@
 * [Ralph Waldo Emerson](https://en.wikipedia.org/wiki/Ralph_Waldo_Emerson) 1803&mdash;1882, "We are all inventors, each sailing out on a voyage of discovery, guided each by a private chart, of which there is no duplicate. The world is all gates, all opportunities."
 * [Henry David Thoreau](https://en.wikipedia.org/wiki/Henry_David_Thoreau) 1817&mdash;1862
 * [Walt Whitman](https://en.wikipedia.org/wiki/Walt_Whitman) 1819&mdash;1892
+* [Serendipity](https://en.wikipedia.org/wiki/Serendipity)
 ## Week 9: Experiential Learning, Research, and Entrepreneurship
 * [Experiential learning](https://en.wikipedia.org/wiki/Experiential_learning)
 ## Week 10: Building an Inclusive Community: Identity and Belonging
