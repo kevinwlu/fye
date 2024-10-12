@@ -243,8 +243,13 @@
 * [American Opportunity Tax Credit](https://en.wikipedia.org/wiki/American_Opportunity_Tax_Credit) (AOTC)
 ## Week 6: Academic Empowerment: Unlocking the Keys to Academic Success
 * [Robert Collier](https://en.wikipedia.org/wiki/Robert_Collier_(author)) 1885&mdash;1950, "Success is the sum of small efforts repeated day-in and day-out."
+* [Commuting](https://en.wikipedia.org/wiki/Commuting)
 * [Four Corners](https://en.wikipedia.org/wiki/Four_Corners)
 * [National Association of Colleges and Employers](https://en.wikipedia.org/wiki/National_Association_of_Colleges_and_Employers) (NACE)
+* [Extracurricular activity](https://en.wikipedia.org/wiki/Extracurricular_activity)
+* [Cooperative education](https://en.wikipedia.org/wiki/Cooperative_education)
+* [Council on International Educational Exchange](https://en.wikipedia.org/wiki/CIEE) (CIEE)
+* [List of higher education associations and alliances](https://en.wikipedia.org/wiki/List_of_higher_education_associations_and_alliances)
 ## Week 7: 
 * Greg Anderson, "Wellness is the complete integration of body, mind, and spirit - the realization that everything we do, think, feel, and believe has an effect on our state of well-being."  
 ## Improv
