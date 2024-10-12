@@ -250,8 +250,12 @@
 * [Cooperative education](https://en.wikipedia.org/wiki/Cooperative_education)
 * [Council on International Educational Exchange](https://en.wikipedia.org/wiki/CIEE) (CIEE)
 * [List of higher education associations and alliances](https://en.wikipedia.org/wiki/List_of_higher_education_associations_and_alliances)
-## Week 7: 
+## Week 7: Thriving in College: A Holistic Approach to Student Well-Being
 * Greg Anderson, "Wellness is the complete integration of body, mind, and spirit - the realization that everything we do, think, feel, and believe has an effect on our state of well-being."  
+## Week 8: From Campus to Career: Strategies for Success
+*  Ralph Waldo Emerson, "We are all inventors, each sailing out on a voyage of discovery, guided each by a private chart, of which there is no duplicate. The world is all gates, all opportunities."
+## Week 9: Experiential Learning, Research, and Entrepreneurship
+* [Experiential learning](https://en.wikipedia.org/wiki/Experiential_learning)
 ## Improv
 * [Improvisation](https://en.wikipedia.org/wiki/Improvisation)
 * [Improvisational theatre](https://en.wikipedia.org/wiki/Improvisational_theatre)
