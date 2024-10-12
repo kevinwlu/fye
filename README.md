@@ -260,6 +260,11 @@
 * [Walt Whitman](https://en.wikipedia.org/wiki/Walt_Whitman) 1819&mdash;1892
 ## Week 9: Experiential Learning, Research, and Entrepreneurship
 * [Experiential learning](https://en.wikipedia.org/wiki/Experiential_learning)
+## Week 10: Building an Inclusive Community: Identity and Belonging
+## Week 11: Bystander Intervention
+## Week 12: Leadership and Ethics
+## Week 13: Getting Involved and Making Your Mark on Campus
+## Week 14: Leaving Your Legacy. Where Do We Go From Here?
 ## Improv
 * [Improvisation](https://en.wikipedia.org/wiki/Improvisation)
 * [Improvisational theatre](https://en.wikipedia.org/wiki/Improvisational_theatre)
