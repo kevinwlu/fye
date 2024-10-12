@@ -242,6 +242,9 @@
 * [American Opportunity Tax Credit](https://en.wikipedia.org/wiki/American_Opportunity_Tax_Credit) (AOTC)
 ## Week 6: Academic Empowerment: Unlocking the Keys to Academic Success
 * [Robert Collier](https://en.wikipedia.org/wiki/Robert_Collier_(author)) 1885&mdash;1950, "Success is the sum of small efforts repeated day-in and day-out."
+* [Kevin Jubbal](https://kevinjubbalmd.com)
+  * [Jubbal](https://en.wikipedia.org/wiki/Jubbal)
+* [Anki (software)](https://en.wikipedia.org/wiki/Anki_(software))
 * [Commuting](https://en.wikipedia.org/wiki/Commuting)
 * [Four Corners](https://en.wikipedia.org/wiki/Four_Corners)
 * [National Association of Colleges and Employers](https://en.wikipedia.org/wiki/National_Association_of_Colleges_and_Employers) (NACE)
