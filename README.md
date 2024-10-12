@@ -252,9 +252,12 @@
 * [Council on International Educational Exchange](https://en.wikipedia.org/wiki/CIEE) (CIEE)
 * [List of higher education associations and alliances](https://en.wikipedia.org/wiki/List_of_higher_education_associations_and_alliances)
 ## Week 7: Thriving in College: A Holistic Approach to Student Well-Being
-* Greg Anderson, "Wellness is the complete integration of body, mind, and spirit - the realization that everything we do, think, feel, and believe has an effect on our state of well-being."  
+* [Greg Anderson](https://www.healingcancer.info/ebook/greg-anderson), "Wellness is the complete integration of body, mind, and spirit - the realization that everything we do, think, feel, and believe has an effect on our state of well-being."
+  * [Cancer Recovery Foundation International, Inc.](https://www.ftc.gov/legal-library/browse/cases-proceedings/cancer-recovery-foundation-inc)
 ## Week 8: From Campus to Career: Strategies for Success
-*  Ralph Waldo Emerson, "We are all inventors, each sailing out on a voyage of discovery, guided each by a private chart, of which there is no duplicate. The world is all gates, all opportunities."
+* [Ralph Waldo Emerson](https://en.wikipedia.org/wiki/Ralph_Waldo_Emerson) 1803&mdash;1882, "We are all inventors, each sailing out on a voyage of discovery, guided each by a private chart, of which there is no duplicate. The world is all gates, all opportunities."
+* [Henry David Thoreau](https://en.wikipedia.org/wiki/Henry_David_Thoreau) 1817&mdash;1862
+* [Walt Whitman](https://en.wikipedia.org/wiki/Walt_Whitman) 1819&mdash;1892
 ## Week 9: Experiential Learning, Research, and Entrepreneurship
 * [Experiential learning](https://en.wikipedia.org/wiki/Experiential_learning)
 ## Improv
