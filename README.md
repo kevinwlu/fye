@@ -147,6 +147,7 @@
   * [Hirotaka Takeuchi](https://en.wikipedia.org/wiki/Hirotaka_Takeuchi)
 * [Did I Miss Anything?](https://www.loc.gov/programs/poetry-and-literature/poet-laureate/poet-laureate-projects/poetry-180/all-poems/item/poetry-180-013/did-i-miss-anything/)
   * [Tom Wayman](https://en.wikipedia.org/wiki/Tom_Wayman)
+* [Serendipity](https://en.wikipedia.org/wiki/Serendipity)
 * [Harriet Nembhard](https://en.wikipedia.org/wiki/Harriet_Nembhard)
   * "Email is for confirmation, not conversation."
 * [BLUF (communication)](https://en.wikipedia.org/wiki/BLUF_(communication)): bottom line up front
