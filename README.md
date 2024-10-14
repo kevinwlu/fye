@@ -90,6 +90,8 @@
   * [Anson Wood Burchard](https://en.wikipedia.org/wiki/Anson_Wood_Burchard) 1865&mdash;1927, class of 1885
   * [William D. Hoxie](https://www.nytimes.com/1925/09/13/archives/wd-hoxie-leaves-142000-to-public-stevens-institute-and-several.html) 1866&mdash;1925, class of 1889
   * [Walter Kidde](https://en.wikipedia.org/wiki/Walter_Kidde) 1877&mdash;1943, class of 1897
+  * [Louis Alan Hazeltine](https://en.wikipedia.org/wiki/Louis_Alan_Hazeltine) 1886&mdash;1964, class of 1906
+    * [Neutrodyne](https://en.wikipedia.org/wiki/Neutrodyne) radio receiver 1922
   * [Samuel C. Williams](https://library.stevens.edu/scwilliams) 1894&mdash;1968, class of 1915
   * [Alexander Calder](https://en.wikipedia.org/wiki/Alexander_Calder) 1898&mdash;1976, class of 1919
     * [Before He Became an Iconic Artist, Alexander Calder Embraced Campus Life at Stevens](https://www.stevens.edu/news/he-became-iconic-artist-alexander-calder-embraced-campus-life-stevens)
@@ -108,6 +110,7 @@
   * [Frank J. Semcer, Sr.](https://www.stevens.edu/news/honoring-the-semcer-legacy-student-commons), class of 1965
     * [The Semcer Center for Healthcare Innovation](https://www.stevens.edu/center-for-healthcare-innovation)
   * [Lawrence Babbio Jr.](https://en.wikipedia.org/wiki/Lawrence_Babbio_Jr.), class of 1966
+  * [Thomas A. Corcoran](https://connect.stevens.edu/donor-stories/thomas-corcoran), class of 1967
   * [Vincent A. Rocco](https://connect.stevens.edu/classof67/inmemoriam), class of 1967
   * [Mark Crispin](https://en.wikipedia.org/wiki/Mark_Crispin) 1956&mdash;2012, class of 1977
   * [John “Sean” J. Hanlon IV](https://fsc.stevens.edu/sean-hanlon/), class of 1980
