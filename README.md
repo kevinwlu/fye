@@ -231,8 +231,6 @@
   * [*The One Minute Manager*](https://en.wikipedia.org/wiki/The_One_Minute_Manager) 1982
 * [Spencer Johnson](https://en.wikipedia.org/wiki/Spencer_Johnson_(writer)) 1938&mdash;2017
   * [*Who Moved My Cheese?*](https://en.wikipedia.org/wiki/Who_Moved_My_Cheese%3F) 1998
-* [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique)
-  * [Francesco Cirillo](https://www.francescocirillo.com/about-francesco-cirillo.php)
 * [Financial literacy](https://en.wikipedia.org/wiki/Financial_literacy)
 * [Time value of money](https://en.wikipedia.org/wiki/Time_value_of_money)
 * [Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle)
@@ -247,7 +245,11 @@
 * [Robert Collier](https://en.wikipedia.org/wiki/Robert_Collier_(author)) 1885&mdash;1950, "Success is the sum of small efforts repeated day-in and day-out."
 * [Kevin Jubbal](https://kevinjubbalmd.com)
   * [Jubbal](https://en.wikipedia.org/wiki/Jubbal)
-* [Anki (software)](https://en.wikipedia.org/wiki/Anki_(software))
+  * [Anki (software)](https://en.wikipedia.org/wiki/Anki_(software))
+* [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique)
+  * [Francesco Cirillo](https://www.francescocirillo.com/about-francesco-cirillo.php)
+* [Learning by teaching](https://en.wikipedia.org/wiki/Learning_by_teaching)
+  * [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) 1918&mdash;1988
 * [GCFLearnFree.org](https://en.wikipedia.org/wiki/GCFLearnFree.org)
   * [YouTube Channel](https://www.youtube.com/@GCFLearnFree)
 * [Commuting](https://en.wikipedia.org/wiki/Commuting)
