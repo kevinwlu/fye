@@ -248,6 +248,8 @@
 * [Kevin Jubbal](https://kevinjubbalmd.com)
   * [Jubbal](https://en.wikipedia.org/wiki/Jubbal)
 * [Anki (software)](https://en.wikipedia.org/wiki/Anki_(software))
+* [GCFLearnFree.org](https://en.wikipedia.org/wiki/GCFLearnFree.org)
+  * [YouTube Channel](https://www.youtube.com/@GCFLearnFree)
 * [Commuting](https://en.wikipedia.org/wiki/Commuting)
 * [Four Corners](https://en.wikipedia.org/wiki/Four_Corners)
 * [National Association of Colleges and Employers](https://en.wikipedia.org/wiki/National_Association_of_Colleges_and_Employers) (NACE)
@@ -255,6 +257,7 @@
 * [Cooperative education](https://en.wikipedia.org/wiki/Cooperative_education)
 * [Council on International Educational Exchange](https://en.wikipedia.org/wiki/CIEE) (CIEE)
 * [List of higher education associations and alliances](https://en.wikipedia.org/wiki/List_of_higher_education_associations_and_alliances)
+* [Kryptonite](https://en.wikipedia.org/wiki/Kryptonite)
 ## Week 7: Thriving in College: A Holistic Approach to Student Well-Being
 * [Greg Anderson](https://www.healingcancer.info/ebook/greg-anderson), "Wellness is the complete integration of body, mind, and spirit - the realization that everything we do, think, feel, and believe has an effect on our state of well-being."
   * [Cancer Recovery Foundation International, Inc.](https://www.ftc.gov/legal-library/browse/cases-proceedings/cancer-recovery-foundation-inc)
