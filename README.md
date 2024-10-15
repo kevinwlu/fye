@@ -107,6 +107,7 @@
   * [Kenneth DeBaun](https://www.pressdemocrat.com/article/news/obituary-kenneth-debaun/) 1927&mdash;2010, class of 1949
     * [History of DeBaun Auditorium](https://www.stevens.edu/history-of-debaun-auditorium)
   * [Kenneth J. Altorfer](https://www.pr.com/press-release/239422), class of 1950
+  * [Frank T. Battista](https://stevens.giftplans.org/index.php?cID=350), class of 1954
   * [Frank J. Semcer, Sr.](https://www.stevens.edu/news/honoring-the-semcer-legacy-student-commons), class of 1965
     * [The Semcer Center for Healthcare Innovation](https://www.stevens.edu/center-for-healthcare-innovation)
   * [Lawrence Babbio Jr.](https://en.wikipedia.org/wiki/Lawrence_Babbio_Jr.), class of 1966
