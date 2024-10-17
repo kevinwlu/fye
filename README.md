@@ -5,6 +5,7 @@
 * [The First-Year Experience Program](https://en.wikipedia.org/wiki/The_First-Year_Experience_Program)
 * [*The Stute: The independent student newspaper of Stevens Institute of Technology*](https://thestute.com/)
   * [A look into the First Year Experience course](https://thestute.com/2024/09/06/a-look-into-the-first-year-experience-course/), September 6, 2024
+* [*Stevens Indicator*](https://www.stevens.edu/development-alumni-engagement/news/indicator)
 * [Active listening](https://en.wikipedia.org/wiki/Active_listening)
 * [Belongingness](https://en.wikipedia.org/wiki/Belongingness)
   * [Pluralism](https://en.wikipedia.org/wiki/Pluralism)
