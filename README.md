@@ -15,6 +15,7 @@
 * [Facilitator](https://en.wikipedia.org/wiki/Facilitator)
 ## History and Values of Stevens
 * [Stevens Institute of Technology](https://en.wikipedia.org/wiki/Stevens_Institute_of_Technology)
+* [History of Stevens video](https://www.youtube.com/watch?v=gA3EVLVBuGE)
 * [Stevens family](https://en.wikipedia.org/wiki/Stevens_family)
   * [John Stevens Sr.](https://www.geni.com/people/John-Stevens-Sr/6000000003381721966) 1682&mdash;1737 came to America in 1699 at the age of 17
   * [John Stevens Jr.](https://en.wikipedia.org/wiki/John_Stevens_(New_Jersey_politician)) 1715&mdash;1792
