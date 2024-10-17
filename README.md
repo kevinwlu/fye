@@ -15,7 +15,6 @@
 * [Facilitator](https://en.wikipedia.org/wiki/Facilitator)
 ## History and Values of Stevens
 * [Stevens Institute of Technology](https://en.wikipedia.org/wiki/Stevens_Institute_of_Technology)
-* [History of Stevens video](https://www.youtube.com/watch?v=gA3EVLVBuGE)
 * [Stevens family](https://en.wikipedia.org/wiki/Stevens_family)
   * [John Stevens Sr.](https://www.geni.com/people/John-Stevens-Sr/6000000003381721966) 1682&mdash;1737 came to America in 1699 at the age of 17
   * [John Stevens Jr.](https://en.wikipedia.org/wiki/John_Stevens_(New_Jersey_politician)) 1715&mdash;1792
@@ -121,11 +120,15 @@
   * [Virginia and Kevin Ruesterholz](https://stevens.giftplans.org/index.php?cID=434), class of 1983
   * [Greg Gianforte](https://en.wikipedia.org/wiki/Greg_Gianforte), class of 1983
 ## Week 1: IntroDUCKtions and Course Overview
+* Music [Higher Hopes](https://www.youtube.com/watch?app=desktop&v=4waCNmDnarQ)
+  * [Background Music Lab](https://www.youtube.com/@background_music_lab)
+* Video [History of Stevens](https://www.youtube.com/watch?v=gA3EVLVBuGE)
+* Video [Everyday Leadership](https://www.youtube.com/watch?v=uAy6EawKKME)
 * [Alfred Tennyson](https://en.wikipedia.org/wiki/Alfred,_Lord_Tennyson) 1809&mdash;1892, "I am a part of all that I have met."
 * A [lollipop](https://en.wikipedia.org/wiki/Lollipop) moment is a moment when someone says or does something that improves your life in a significant way
   * [Candy apple](https://en.wikipedia.org/wiki/Candy_apple)
   * [Tanghulu](https://en.wikipedia.org/wiki/Tanghulu)
-* [Drew Dudley](https://www.drewdudley.com/) coined the term in his TEDxToronto Talk on TED-Ed, "[Everyday Leadership](https://www.youtube.com/watch?v=uAy6EawKKME)"
+* [Drew Dudley](https://www.drewdudley.com/) coined the term in his TEDxToronto Talk on TED-Ed
 * Here are some examples of lollipop moments: 
   * A stranger's conversation: A conversation with a stranger that leads to a new job opportunity
   * Words of wisdom: Someone says the exact words you need to hear during a difficult time 
@@ -141,6 +144,8 @@
 * [*Pay It Forward*](https://en.wikipedia.org/wiki/Pay_It_Forward_(novel)) 1999 by [Catherine Ryan Hyde](https://en.wikipedia.org/wiki/Catherine_Ryan_Hyde)
 * [Feedback](https://en.wikipedia.org/wiki/Feedback)
 ## Week 2: Roadmap for Success
+* Video [Did I Miss Anything](https://www.youtube.com/watch?v=73_7e9dMyws)
+* Video [Email Blunders](https://www.youtube.com/watch?v=eLqLbqnj6aY)
 * [David Allen](https://en.wikipedia.org/wiki/David_Allen_(author)), [*Getting Things Done*](https://en.wikipedia.org/wiki/Getting_Things_Done) 2001, "You can do anything, but not everything."
 * [Tom Wayman](https://en.wikipedia.org/wiki/Tom_Wayman), ["Did I Miss Anything?"](https://www.loc.gov/programs/poetry-and-literature/poet-laureate/poet-laureate-projects/poetry-180/all-poems/item/poetry-180-013/did-i-miss-anything/)
 * [Success](https://en.wikipedia.org/wiki/Success)
@@ -199,6 +204,7 @@
   * [The How and the Why, Part 5: Gift Disposition](https://sarahendren.com/2024/08/24/the-how-and-the-why-part-5/), August 24, 2024
   * [Unmuddling the University: Four Ideas for Recovering Purpose in Higher Education](https://sarahendren.substack.com/p/unmuddling-the-university), August 26, 2024
 ## Week 4: Who Am I? Leveraging Your Strengths for Success
+* Video [Grit: The Power of Passion and Perseverance](https://www.youtube.com/watch?v=H14bBuluwB8)
 * [Angela Duckworth](https://en.wikipedia.org/wiki/Angela_Duckworth), "Enthusiasm is common. Endurance is rare."
 * [Motto](https://en.wikipedia.org/wiki/Motto)
   * [*Per aspera ad astra*](https://simple.wikipedia.org/wiki/Per_aspera_ad_astra)
@@ -219,6 +225,8 @@
 * [Semiotic square](https://en.wikipedia.org/wiki/Semiotic_square)
   * [SWOT analysis](https://en.wikipedia.org/wiki/SWOT_analysis)
 ## Week 5: Strategies for Effective Time and Financial Management
+* [Video: Financial Literacy Part 1](https://www.youtube.com/watch?v=kEzAcJaWF_g)
+* [Video: Financial Literacy Part 2](https://www.youtube.com/watch?v=S4zZKQJiz-w)
 * [Stephen Covey](https://en.wikipedia.org/wiki/Stephen_Covey) 1932&mdash;2012, "The key is not to prioritize what’s on your schedule, but to schedule your priorities."
   * [*The 7 Habits of Highly Effective People*](https://en.wikipedia.org/wiki/The_7_Habits_of_Highly_Effective_People) 1989
   * [*The 8th Habit*](https://en.wikipedia.org/wiki/The_8th_Habit) 2004
@@ -246,6 +254,8 @@
   * [Vanguard Funds by Style Box](https://personal.vanguard.com/us/FundsStyleBox)
 * [American Opportunity Tax Credit](https://en.wikipedia.org/wiki/American_Opportunity_Tax_Credit) (AOTC)
 ## Week 6: Academic Empowerment: Unlocking the Keys to Academic Success
+* [Video: Study LESS, Study SMART – What I Wish I Knew in College](https://www.youtube.com/watch?v=V2_2UGeGL9M)
+* [Video: Study Techniques - The Good, Bad, and Useless](https://www.youtube.com/watch?v=w1cX89XgqUM)
 * [Robert Collier](https://en.wikipedia.org/wiki/Robert_Collier_(author)) 1885&mdash;1950, "Success is the sum of small efforts repeated day-in and day-out."
 * [Kevin Jubbal](https://kevinjubbalmd.com)
   * [Jubbal](https://en.wikipedia.org/wiki/Jubbal)
@@ -265,14 +275,17 @@
 * [List of higher education associations and alliances](https://en.wikipedia.org/wiki/List_of_higher_education_associations_and_alliances)
 * [Kryptonite](https://en.wikipedia.org/wiki/Kryptonite)
 ## Week 7: Thriving in College: A Holistic Approach to Student Well-Being
+* Video [Personal Wellness](https://www.youtube.com/watch?v=sS9q7b72nzk)
 * [Greg Anderson](https://www.healingcancer.info/ebook/greg-anderson), "Wellness is the complete integration of body, mind, and spirit - the realization that everything we do, think, feel, and believe has an effect on our state of well-being."
   * [Cancer Recovery Foundation International, Inc.](https://www.ftc.gov/legal-library/browse/cases-proceedings/cancer-recovery-foundation-inc)
 ## Week 8: From Campus to Career: Strategies for Success
+* Video [Career Exploration](https://www.youtube.com/watch?v=ExumTUSq11I)
 * [Ralph Waldo Emerson](https://en.wikipedia.org/wiki/Ralph_Waldo_Emerson) 1803&mdash;1882, "We are all inventors, each sailing out on a voyage of discovery, guided each by a private chart, of which there is no duplicate. The world is all gates, all opportunities."
 * [Henry David Thoreau](https://en.wikipedia.org/wiki/Henry_David_Thoreau) 1817&mdash;1862
 * [Walt Whitman](https://en.wikipedia.org/wiki/Walt_Whitman) 1819&mdash;1892
 * [Serendipity](https://en.wikipedia.org/wiki/Serendipity)
 ## Week 9: Experiential Learning, Research, and Entrepreneurship
+* Video [Experiential Learning](https://www.youtube.com/watch?v=yEP4MJMienw)
 * [Experiential learning](https://en.wikipedia.org/wiki/Experiential_learning)
 ## Week 10: Building an Inclusive Community: Identity and Belonging
 ## Week 11: Bystander Intervention
