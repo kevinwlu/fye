@@ -111,16 +111,24 @@
     * [History of DeBaun Auditorium](https://www.stevens.edu/history-of-debaun-auditorium)
   * [Kenneth J. Altorfer](https://www.pr.com/press-release/239422), class of 1950
   * [Frank T. Battista](https://stevens.giftplans.org/index.php?cID=350), class of 1954
+  * [John H. Hovey](https://www.vpfh.com/obituary/John-Hovey) 1934&mdash;2021, class of 1957
   * [Richard F. Harries](https://www.stevens.edu/news/stevens-upward-trajectory-inspires-historic-gift), class of 1958
   * [Frank J. Semcer, Sr.](https://www.stevens.edu/news/honoring-the-semcer-legacy-student-commons), class of 1965
     * [The Semcer Center for Healthcare Innovation](https://www.stevens.edu/center-for-healthcare-innovation)
-  * [Lawrence Babbio Jr.](https://en.wikipedia.org/wiki/Lawrence_Babbio_Jr.), class of 1966
+  * [Lawrence T. Babbio Jr.](https://en.wikipedia.org/wiki/Lawrence_Babbio_Jr.), class of 1966
   * [Thomas A. Corcoran](https://connect.stevens.edu/donor-stories/thomas-corcoran), class of 1967
   * [Vincent A. Rocco](https://connect.stevens.edu/classof67/inmemoriam), class of 1967
   * [Mark Crispin](https://en.wikipedia.org/wiki/Mark_Crispin) 1956&mdash;2012, class of 1977
   * [John “Sean” J. Hanlon IV](https://fsc.stevens.edu/sean-hanlon/), class of 1980
   * [Virginia and Kevin Ruesterholz](https://stevens.giftplans.org/index.php?cID=434), class of 1983
   * [Greg Gianforte](https://en.wikipedia.org/wiki/Greg_Gianforte), class of 1983
+  * [Gina M. Addeo](https://www.adcoonline.com/gina-about-page), class of 1986
+    * [2013 Distinguished Alumni Award -- Business and Finance](https://www.youtube.com/watch?v=K32YL_lVnAs)
+  * [Darío Gil](https://newsroom.ibm.com/dario-gil), class of 1998
+  * [Marques Brownlee](https://en.wikipedia.org/wiki/Marques_Brownlee), class of 2015
+    * [YouTube Channel](https://www.youtube.com/user/marquesbrownlee)
+    * [2024 Undergraduate Commencement Keynote Speaker - MKBHD](https://www.youtube.com/watch?v=mwm48dM_riE)
+
 ## Week 1: IntroDUCKtions and Course Overview
 * Music [Higher Hopes](https://www.youtube.com/watch?app=desktop&v=4waCNmDnarQ)
   * [Background Music Lab](https://www.youtube.com/@background_music_lab)
