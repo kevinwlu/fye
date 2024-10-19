@@ -40,7 +40,8 @@
   * [H. Otto Wittpenn](https://en.wikipedia.org/wiki/H._Otto_Wittpenn) 1871&mdash;1931
   * [Archibald Stevens Alexander](https://en.wikipedia.org/wiki/Archibald_Stevens_Alexander) 1880&mdash;1912
   * [Archibald Stevens Alexander Jr.](https://en.wikipedia.org/wiki/Archibald_S._Alexander) 1906&mdash;1979
-  * [Stevens Family Collection](https://library.stevens.edu/specialcollections)
+  * [Mary Stuart Stevens Baird](https://www.stevens.edu/news/out-archives-powerful-friendship) 1901&mdash;1989
+    * [Stevens Family Collection](https://library.stevens.edu/specialcollections)
   * [Andrew Carnegie](https://en.wikipedia.org/wiki/Andrew_Carnegie) 1835&mdash;1919
   * [Luigi Zummo Pollara](https://www.nytimes.com/1994/08/06/obituaries/dr-luigi-pollara-80-founder-of-polymer-research-unit-dies.html) 1915&mdash;1994
     * [Polymer Processing Institute](https://www.polymers-ppi.com/) (PPI) founded in 1982
