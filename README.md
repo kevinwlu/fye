@@ -287,8 +287,19 @@
 * [Kryptonite](https://en.wikipedia.org/wiki/Kryptonite)
 ## Week 7: Thriving in College: A Holistic Approach to Student Well-Being
 * Video [Personal Wellness](https://www.youtube.com/watch?v=sS9q7b72nzk)
+* Video [5 Steps to Wellbeing](https://www.youtube.com/watch?v=x6bz_ekkrYA): MAGIC: mindful, active, generous, interested, connected
+* [Well-being](https://en.wikipedia.org/wiki/Well-being)
 * [Greg Anderson](https://www.healingcancer.info/ebook/greg-anderson), "Wellness is the complete integration of body, mind, and spirit - the realization that everything we do, think, feel, and believe has an effect on our state of well-being."
   * [Cancer Recovery Foundation International, Inc.](https://www.ftc.gov/legal-library/browse/cases-proceedings/cancer-recovery-foundation-inc)
+* [Holism](https://en.wikipedia.org/wiki/Holism)
+* [Holism in science](https://en.wikipedia.org/wiki/Holism_in_science)
+* [Holistic education](https://en.wikipedia.org/wiki/Holistic_education)
+* [Holistic community](https://en.wikipedia.org/wiki/Holistic_community)
+* [Bhavacakra](https://en.wikipedia.org/wiki/Bhavacakra)
+* [Dharmachakra](https://en.wikipedia.org/wiki/Dharmachakra)
+* [Chakra](https://en.wikipedia.org/wiki/Chakra)
+* [Flag of the Romani people](https://en.wikipedia.org/wiki/Flag_of_the_Romani_people)
+* Wheel of life: (physical, mental), (family, lifestyle), (financial, time/productivity), (social/relationships, spiritual)
 ## Week 8: From Campus to Career: Strategies for Success
 * Video [Career Exploration](https://www.youtube.com/watch?v=ExumTUSq11I)
 * [Ralph Waldo Emerson](https://en.wikipedia.org/wiki/Ralph_Waldo_Emerson) 1803&mdash;1882, "We are all inventors, each sailing out on a voyage of discovery, guided each by a private chart, of which there is no duplicate. The world is all gates, all opportunities."
