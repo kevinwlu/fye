@@ -288,6 +288,7 @@
 ## Week 7: Thriving in College: A Holistic Approach to Student Well-Being
 * Video [Personal Wellness](https://www.youtube.com/watch?v=sS9q7b72nzk)
 * Video [5 Steps to Wellbeing](https://www.youtube.com/watch?v=x6bz_ekkrYA): MAGIC: mindful, active, generous, interested, connected
+* [Steve Zim](https://www.youtube.com/@stevezim6421)
 * [Wellness (alternative medicine)](https://en.wikipedia.org/wiki/Wellness_(alternative_medicine))
 * [Well-being](https://en.wikipedia.org/wiki/Well-being)
 * [Bill Hettler](https://www.hettler.com/)
