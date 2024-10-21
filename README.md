@@ -289,6 +289,10 @@
 * Video [Personal Wellness](https://www.youtube.com/watch?v=sS9q7b72nzk)
 * Video [5 Steps to Wellbeing](https://www.youtube.com/watch?v=x6bz_ekkrYA): MAGIC: mindful, active, generous, interested, connected
 * [Steve Zim](https://www.youtube.com/@stevezim6421)
+* [Alexander Technique](https://en.wikipedia.org/wiki/Alexander_Technique)
+  * [Frederick Matthias Alexander](https://en.wikipedia.org/wiki/F._Matthias_Alexander) 1869&mdash;1955
+* [Gokhale Method](https://en.wikipedia.org/wiki/Gokhale_Method)
+  * [Esther Gokhale](https://gokhalemethod.com/)
 * [Wellness (alternative medicine)](https://en.wikipedia.org/wiki/Wellness_(alternative_medicine))
 * [Well-being](https://en.wikipedia.org/wiki/Well-being)
 * [Bill Hettler](https://www.hettler.com/)
