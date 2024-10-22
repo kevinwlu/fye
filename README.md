@@ -314,6 +314,7 @@
 * [Henry David Thoreau](https://en.wikipedia.org/wiki/Henry_David_Thoreau) 1817&mdash;1862
 * [Walt Whitman](https://en.wikipedia.org/wiki/Walt_Whitman) 1819&mdash;1892
 * [Internship](https://en.wikipedia.org/wiki/Internship)
+* [Letter of recommendation](https://en.wikipedia.org/wiki/Letter_of_recommendation)
 * [Jeopardy!](https://en.wikipedia.org/wiki/Jeopardy!)
 * [Serendipity](https://en.wikipedia.org/wiki/Serendipity)
 ## Week 9: Experiential Learning, Research, and Entrepreneurship
