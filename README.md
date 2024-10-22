@@ -313,6 +313,7 @@
 * [Ralph Waldo Emerson](https://en.wikipedia.org/wiki/Ralph_Waldo_Emerson) 1803&mdash;1882, "We are all inventors, each sailing out on a voyage of discovery, guided each by a private chart, of which there is no duplicate. The world is all gates, all opportunities."
 * [Henry David Thoreau](https://en.wikipedia.org/wiki/Henry_David_Thoreau) 1817&mdash;1862
 * [Walt Whitman](https://en.wikipedia.org/wiki/Walt_Whitman) 1819&mdash;1892
+* [Jeopardy!](https://en.wikipedia.org/wiki/Jeopardy!)
 * [Serendipity](https://en.wikipedia.org/wiki/Serendipity)
 ## Week 9: Experiential Learning, Research, and Entrepreneurship
 * Video [Experiential Learning](https://www.youtube.com/watch?v=yEP4MJMienw)
