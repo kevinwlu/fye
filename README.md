@@ -270,6 +270,7 @@
 * [Video: Hard Skills vs. Soft Skills](https://www.youtube.com/watch?v=0FFLFcB9xfQ)
   * [GCFLearnFree.org](https://en.wikipedia.org/wiki/GCFLearnFree.org)
   * [YouTube Channel](https://www.youtube.com/@GCFLearnFree)
+* [Soft skills](https://en.wikipedia.org/wiki/Soft_skills)
 * [Robert Collier](https://en.wikipedia.org/wiki/Robert_Collier_(author)) 1885&mdash;1950, "Success is the sum of small efforts repeated day-in and day-out."
 * [Kevin Jubbal](https://kevinjubbalmd.com)
   * [Jubbal](https://en.wikipedia.org/wiki/Jubbal)
