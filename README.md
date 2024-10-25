@@ -314,6 +314,7 @@
 * [Henry David Thoreau](https://en.wikipedia.org/wiki/Henry_David_Thoreau) 1817&mdash;1862
 * [Walt Whitman](https://en.wikipedia.org/wiki/Walt_Whitman) 1819&mdash;1892
 * [Jeopardy!](https://en.wikipedia.org/wiki/Jeopardy!)
+* [Career](https://en.wikipedia.org/wiki/Career)
 * [Internship](https://en.wikipedia.org/wiki/Internship)
 * [Interview](https://en.wikipedia.org/wiki/Interview)
 * [Handshake](https://en.wikipedia.org/wiki/Handshake)
