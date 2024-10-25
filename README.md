@@ -316,15 +316,16 @@
 ## Week 8: From Campus to Career: Strategies for Success
 * Video [Career Exploration](https://www.youtube.com/watch?v=ExumTUSq11I)
 * [Ralph Waldo Emerson](https://en.wikipedia.org/wiki/Ralph_Waldo_Emerson) 1803&mdash;1882, "We are all inventors, each sailing out on a voyage of discovery, guided each by a private chart, of which there is no duplicate. The world is all gates, all opportunities."
-* [Henry David Thoreau](https://en.wikipedia.org/wiki/Henry_David_Thoreau) 1817&mdash;1862
+* [Henry David Thoreau](https://en.wikipedia.org/wiki/Henry_David_Thoreau) 1817&mdash;1862, "In the field of observation, chance favors only the prepared mind."
 * [Walt Whitman](https://en.wikipedia.org/wiki/Walt_Whitman) 1819&mdash;1892
+* [Louis Pasteur](https://en.wikipedia.org/wiki/Louis_Pasteur) 1822&mdash;1895
+* [Serendipity](https://en.wikipedia.org/wiki/Serendipity)
 * [Jeopardy!](https://en.wikipedia.org/wiki/Jeopardy!)
 * [Career](https://en.wikipedia.org/wiki/Career)
 * [Internship](https://en.wikipedia.org/wiki/Internship)
 * [Interview](https://en.wikipedia.org/wiki/Interview)
 * [Handshake](https://en.wikipedia.org/wiki/Handshake)
 * [Letter of recommendation](https://en.wikipedia.org/wiki/Letter_of_recommendation)
-* [Serendipity](https://en.wikipedia.org/wiki/Serendipity)
 ## Week 9: Experiential Learning, Research, and Entrepreneurship
 * Video [Experiential Learning](https://www.youtube.com/watch?v=yEP4MJMienw)
 * [Experiential learning](https://en.wikipedia.org/wiki/Experiential_learning)
