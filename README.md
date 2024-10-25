@@ -267,6 +267,9 @@
 ## Week 6: Academic Empowerment: Unlocking the Keys to Academic Success
 * [Video: Study LESS, Study SMART – What I Wish I Knew in College](https://www.youtube.com/watch?v=V2_2UGeGL9M)
 * [Video: Study Techniques - The Good, Bad, and Useless](https://www.youtube.com/watch?v=w1cX89XgqUM)
+* [Video: Hard Skills vs. Soft Skills](https://www.youtube.com/watch?v=0FFLFcB9xfQ)
+  * [GCFLearnFree.org](https://en.wikipedia.org/wiki/GCFLearnFree.org)
+  * [YouTube Channel](https://www.youtube.com/@GCFLearnFree)
 * [Robert Collier](https://en.wikipedia.org/wiki/Robert_Collier_(author)) 1885&mdash;1950, "Success is the sum of small efforts repeated day-in and day-out."
 * [Kevin Jubbal](https://kevinjubbalmd.com)
   * [Jubbal](https://en.wikipedia.org/wiki/Jubbal)
@@ -275,8 +278,6 @@
   * [Francesco Cirillo](https://www.francescocirillo.com/about-francesco-cirillo.php)
 * [Learning by teaching](https://en.wikipedia.org/wiki/Learning_by_teaching)
   * [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) 1918&mdash;1988
-* [GCFLearnFree.org](https://en.wikipedia.org/wiki/GCFLearnFree.org)
-  * [YouTube Channel](https://www.youtube.com/@GCFLearnFree)
 * [Commuting](https://en.wikipedia.org/wiki/Commuting)
 * [Four Corners](https://en.wikipedia.org/wiki/Four_Corners)
 * [National Association of Colleges and Employers](https://en.wikipedia.org/wiki/National_Association_of_Colleges_and_Employers) (NACE)
