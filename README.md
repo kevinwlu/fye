@@ -242,8 +242,8 @@
 * [Semiotic square](https://en.wikipedia.org/wiki/Semiotic_square)
   * [SWOT analysis](https://en.wikipedia.org/wiki/SWOT_analysis)
 ## Week 5: Strategies for Effective Time and Financial Management
-* [Video: Financial Literacy Part 1](https://www.youtube.com/watch?v=kEzAcJaWF_g)
-* [Video: Financial Literacy Part 2](https://www.youtube.com/watch?v=S4zZKQJiz-w)
+* Video [Financial Literacy Part 1](https://www.youtube.com/watch?v=kEzAcJaWF_g)
+* Video [Financial Literacy Part 2](https://www.youtube.com/watch?v=S4zZKQJiz-w)
 * [Stephen Covey](https://en.wikipedia.org/wiki/Stephen_Covey) 1932&mdash;2012, "The key is not to prioritize what’s on your schedule, but to schedule your priorities."
   * [*The 7 Habits of Highly Effective People*](https://en.wikipedia.org/wiki/The_7_Habits_of_Highly_Effective_People) 1989
   * [*The 8th Habit*](https://en.wikipedia.org/wiki/The_8th_Habit) 2004
@@ -271,9 +271,9 @@
   * [Vanguard Funds by Style Box](https://personal.vanguard.com/us/FundsStyleBox)
 * [American Opportunity Tax Credit](https://en.wikipedia.org/wiki/American_Opportunity_Tax_Credit) (AOTC)
 ## Week 6: Academic Empowerment: Unlocking the Keys to Academic Success
-* [Video: Study LESS, Study SMART – What I Wish I Knew in College](https://www.youtube.com/watch?v=V2_2UGeGL9M)
-* [Video: Study Techniques - The Good, Bad, and Useless](https://www.youtube.com/watch?v=w1cX89XgqUM)
-* [Video: Hard Skills vs. Soft Skills](https://www.youtube.com/watch?v=0FFLFcB9xfQ)
+* Video [Study LESS, Study SMART – What I Wish I Knew in College](https://www.youtube.com/watch?v=V2_2UGeGL9M)
+* Video [Study Techniques - The Good, Bad, and Useless](https://www.youtube.com/watch?v=w1cX89XgqUM)
+* Video [Hard Skills vs. Soft Skills](https://www.youtube.com/watch?v=0FFLFcB9xfQ)
   * [GCFLearnFree.org](https://en.wikipedia.org/wiki/GCFLearnFree.org)
   * [YouTube Channel](https://www.youtube.com/@GCFLearnFree)
 * [Soft skills](https://en.wikipedia.org/wiki/Soft_skills)
