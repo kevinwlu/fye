@@ -173,14 +173,16 @@
 * [SECI model of knowledge dimensions](https://en.wikipedia.org/wiki/SECI_model_of_knowledge_dimensions)
   * [Ikujiro Nonaka](https://en.wikipedia.org/wiki/Ikujiro_Nonaka)
   * [Hirotaka Takeuchi](https://en.wikipedia.org/wiki/Hirotaka_Takeuchi)
-* [Harriet Nembhard](https://en.wikipedia.org/wiki/Harriet_Nembhard)
-  * "Email is for confirmation, not conversation."
+* [Harriet Nembhard](https://en.wikipedia.org/wiki/Harriet_Nembhard), "Email is for confirmation, not conversation."
 * [BLUF (communication)](https://en.wikipedia.org/wiki/BLUF_(communication)): bottom line up front
 * [KISS principle](https://en.wikipedia.org/wiki/KISS_principle): Keep It Short and Simple (1938)
   * [Kelly Johnson (engineer)](https://en.wikipedia.org/wiki/Kelly_Johnson_(engineer)) 1910&mdash;1990
 * [News style](https://en.wikipedia.org/wiki/News_style)
 * [Inverted pyramid (journalism)](https://en.wikipedia.org/wiki/Inverted_pyramid_(journalism))
 * [Five Ws](https://en.wikipedia.org/wiki/Five_Ws)
+* [Title case](https://en.wikipedia.org/wiki/Title_case)
+  * [Title Case Converter](https://titlecaseconverter.com/)
+  * [Capitalize My Title](https://capitalizemytitle.com/)
 * [Abstract (summary)](https://en.wikipedia.org/wiki/Abstract_(summary))
 * [Executive summary](https://en.wikipedia.org/wiki/Executive_summary)
 * [TL;DR](https://en.wikipedia.org/wiki/TL;DR)
