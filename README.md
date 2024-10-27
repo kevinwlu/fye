@@ -346,10 +346,18 @@
 * Video [Ansary Entrepreneurship Competition](https://www.youtube.com/watch?v=sF_2Pl72v_0), April 28, 2023
 * Video [Ansary Entrepreneurship Competition](https://www.youtube.com/watch?v=9ThfHbhPoYA), April 29, 2022
 ## Week 10: Building an Inclusive Community: Identity and Belonging
+* Video [Building an Inclusive Community](https://www.youtube.com/watch?v=8X5wrBRV4wY)
+* Video [Microaggressions](https://www.youtube.com/watch?v=i_OcfwumLGI)
+* [Office of Student Culture and Belonging](https://www.stevens.edu/student-diversity-and-inclusion/office-of-student-culture-belonging)
+* Diversity
+* Inclusion
 * [Belongingness](https://en.wikipedia.org/wiki/Belongingness)
   * [Pluralism](https://en.wikipedia.org/wiki/Pluralism)
   * [Universalism](https://en.wikipedia.org/wiki/Universalism)
   * [Solidarity](https://en.wikipedia.org/wiki/Solidarity)
+* Equity
+* Bias
+* [Tourette syndrome](https://en.wikipedia.org/wiki/Tourette_syndrome)
 ## Week 11: Bystander Intervention
 * [Bystander intervention](https://en.wikipedia.org/wiki/Bystander_intervention)
 ## Week 12: Leadership and Ethics
