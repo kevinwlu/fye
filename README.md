@@ -188,6 +188,10 @@
 * [TL;DR](https://en.wikipedia.org/wiki/TL;DR)
 ## Week 3: First-Year Reading Discussion
 * [Sara Hendren](https://sarahendren.com/), "Design for disability is not about making objects that ‘fix’ broken bodies. It’s about designing with the understanding that everybody is subject to change and variation over a lifetime."
+* Video [Sara Hendren | What Can a Body Do?](https://www.youtube.com/watch?v=-KE2mDl31fg), February 20, 2024
+* Audio [Sara Hendren — Our Bodies, Aliveness, and the Built World](https://www.youtube.com/watch?v=STIcXti_PRQ), November 16, 2023
+* Video [MFA Products of Design Guest Lecture: Sara Hendren](https://www.youtube.com/watch?v=n34uENsMb8k), February 9, 2022
+* Video [Sara Hendren: Engineering for an Inclusive World!](https://www.youtube.com/watch?v=Arbk_xnXUcc), November 3, 2016
 * [Stevens First Year Reading Program](https://www.stevens.edu/admission-aid/undergraduate-admissions/accepted-students/first-year-reading-program)
   * [*What Can a Body Do? How We Meet the Built World*](https://sarahendren.com/2019/09/08/what-can-a-body-do/), September 8, 2019
     * [Baruch Spinoza](https://en.wikipedia.org/wiki/Baruch_Spinoza) 1632&mdash;1677
@@ -332,6 +336,9 @@
 * [Letter of recommendation](https://en.wikipedia.org/wiki/Letter_of_recommendation)
 ## Week 9: Experiential Learning, Research, and Entrepreneurship
 * Video [Experiential Learning](https://www.youtube.com/watch?v=yEP4MJMienw)
+* Video [Ansary Entrepreneurship Competition](https://www.youtube.com/watch?v=wmFZ7QeU_oU), April 26, 2024
+* Video [Ansary Entrepreneurship Competition](https://www.youtube.com/watch?v=sF_2Pl72v_0), April 28, 2023
+* Video [Ansary Entrepreneurship Competition](https://www.youtube.com/watch?v=9ThfHbhPoYA), April 29, 2022
 * [Experiential learning](https://en.wikipedia.org/wiki/Experiential_learning)
 ## Week 10: Building an Inclusive Community: Identity and Belonging
 ## Week 11: Bystander Intervention
