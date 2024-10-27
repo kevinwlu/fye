@@ -341,6 +341,7 @@
 * [Research](https://en.wikipedia.org/wiki/Research)
 * [Stevens Student Research](https://www.stevens.edu/research/student-reseach/student-research)
 * [Stevens Undergraduate Research](https://www.stevens.edu/academics/undergraduate-study/undergraduate-research)
+* [Undergraduate Research at the Schaefer School](https://www.stevens.edu/school-engineering-science/undergraduate-studies/research)
 * [Entrepreneurship](https://en.wikipedia.org/wiki/Entrepreneurship)
 * Video [Ansary Entrepreneurship Competition](https://www.youtube.com/watch?v=wmFZ7QeU_oU), April 26, 2024
 * Video [Ansary Entrepreneurship Competition](https://www.youtube.com/watch?v=sF_2Pl72v_0), April 28, 2023
