@@ -5,17 +5,18 @@
 * [The First-Year Experience Program](https://en.wikipedia.org/wiki/The_First-Year_Experience_Program)
 * [*The Stute: The independent student newspaper of Stevens Institute of Technology*](https://thestute.com/)
   * [A look into the First Year Experience course](https://thestute.com/2024/09/06/a-look-into-the-first-year-experience-course/), September 6, 2024
-* [Alma mater](https://en.wikipedia.org/wiki/Alma_mater)
-* [Alumni](https://en.wikipedia.org/wiki/Alumni)
-* [*Stevens Indicator*](https://www.stevens.edu/development-alumni-engagement/news/indicator)
-* [Active listening](https://en.wikipedia.org/wiki/Active_listening)
 * [Belongingness](https://en.wikipedia.org/wiki/Belongingness)
   * [Pluralism](https://en.wikipedia.org/wiki/Pluralism)
   * [Universalism](https://en.wikipedia.org/wiki/Universalism)
   * [Solidarity](https://en.wikipedia.org/wiki/Solidarity)
-* [Critical thinking](https://en.wikipedia.org/wiki/Critical_thinking)
+* [Alma mater](https://en.wikipedia.org/wiki/Alma_mater)
+* [Alumni](https://en.wikipedia.org/wiki/Alumni)
+* [*Stevens Indicator*](https://www.stevens.edu/development-alumni-engagement/news/indicator)
 * [Facilitation](https://en.wikipedia.org/wiki/Facilitation_(organisational))
 * [Facilitator](https://en.wikipedia.org/wiki/Facilitator)
+* [Active listening](https://en.wikipedia.org/wiki/Active_listening)
+* [Critical thinking](https://en.wikipedia.org/wiki/Critical_thinking)
+
 ## History and Values of Stevens
 * [Stevens Institute of Technology](https://en.wikipedia.org/wiki/Stevens_Institute_of_Technology)
 * [Stevens family](https://en.wikipedia.org/wiki/Stevens_family)
