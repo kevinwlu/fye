@@ -5,10 +5,6 @@
 * [The First-Year Experience Program](https://en.wikipedia.org/wiki/The_First-Year_Experience_Program)
 * [*The Stute: The independent student newspaper of Stevens Institute of Technology*](https://thestute.com/)
   * [A look into the First Year Experience course](https://thestute.com/2024/09/06/a-look-into-the-first-year-experience-course/), September 6, 2024
-* [Belongingness](https://en.wikipedia.org/wiki/Belongingness)
-  * [Pluralism](https://en.wikipedia.org/wiki/Pluralism)
-  * [Universalism](https://en.wikipedia.org/wiki/Universalism)
-  * [Solidarity](https://en.wikipedia.org/wiki/Solidarity)
 * [Alma mater](https://en.wikipedia.org/wiki/Alma_mater)
 * [Alumni](https://en.wikipedia.org/wiki/Alumni)
 * [*Stevens Indicator*](https://www.stevens.edu/development-alumni-engagement/news/indicator)
@@ -348,14 +344,22 @@
 * Video [Ansary Entrepreneurship Competition](https://www.youtube.com/watch?v=9ThfHbhPoYA), April 29, 2022
 
 ## Week 10: Building an Inclusive Community: Identity and Belonging
+* [Belongingness](https://en.wikipedia.org/wiki/Belongingness)
+  * [Pluralism](https://en.wikipedia.org/wiki/Pluralism)
+  * [Universalism](https://en.wikipedia.org/wiki/Universalism)
+  * [Solidarity](https://en.wikipedia.org/wiki/Solidarity)
 
 ## Week 11: Bystander Intervention
 
+
 ## Week 12: Leadership and Ethics
+
 
 ## Week 13: Getting Involved and Making Your Mark on Campus
 
+
 ## Week 14: Leaving Your Legacy. Where Do We Go From Here?
+
 
 ## Improv
 * [Improvisation](https://en.wikipedia.org/wiki/Improvisation)
