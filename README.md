@@ -74,6 +74,7 @@
   * [American Bureau of Shipping](https://en.wikipedia.org/wiki/American_Bureau_of_Shipping) (ABS)
   * [Luigi Zummo Pollara](https://www.nytimes.com/1994/08/06/obituaries/dr-luigi-pollara-80-founder-of-polymer-research-unit-dies.html) 1915&mdash;1994
     * [Polymer Processing Institute](https://www.polymers-ppi.com/) (PPI) founded in 1982
+  * [Bernard Gallois](https://www.stevens.edu/news/engineering-for-the-real-world)
 * [Stevens Alumni Award Recipients](https://www.stevens.edu/development-alumni-engagement/connect/stevens-alumni-award-recipients)
 * [List of Stevens Institute of Technology alumni](https://en.wikipedia.org/wiki/List_of_Stevens_Institute_of_Technology_alumni)
   * [James Buchanan Pierce](https://stevensarchives.contentdm.oclc.org/digital/collection/StevensNP01/id/9757/) 1856&mdash;1928, class of 1877
@@ -339,6 +340,8 @@
 * [Stevens Undergraduate Research](https://www.stevens.edu/academics/undergraduate-study/undergraduate-research)
 * [Undergraduate Research at the Schaefer School](https://www.stevens.edu/school-engineering-science/undergraduate-studies/research)
 * [Entrepreneurship](https://en.wikipedia.org/wiki/Entrepreneurship)
+* [iSTEM@Stevens](https://www.stevens.edu/istem)
+* [Launchpad@Stevens](https://www.stevens.edu/school-engineering-science/launchpad)
 * Video [Ansary Entrepreneurship Competition](https://www.youtube.com/watch?v=wmFZ7QeU_oU), April 26, 2024
 * Video [Ansary Entrepreneurship Competition](https://www.youtube.com/watch?v=sF_2Pl72v_0), April 28, 2023
 * Video [Ansary Entrepreneurship Competition](https://www.youtube.com/watch?v=9ThfHbhPoYA), April 29, 2022
