@@ -12,7 +12,6 @@
 * [Facilitator](https://en.wikipedia.org/wiki/Facilitator)
 * [Active listening](https://en.wikipedia.org/wiki/Active_listening)
 * [Critical thinking](https://en.wikipedia.org/wiki/Critical_thinking)
-
 ## History and Values of Stevens
 * [Stevens Institute of Technology](https://en.wikipedia.org/wiki/Stevens_Institute_of_Technology)
 * [Stevens family](https://en.wikipedia.org/wiki/Stevens_family)
@@ -131,7 +130,6 @@
   * [Marques Brownlee](https://en.wikipedia.org/wiki/Marques_Brownlee), class of 2015
     * [YouTube Channel](https://www.youtube.com/user/marquesbrownlee)
     * [2024 Undergraduate Commencement Keynote Speaker - MKBHD](https://www.youtube.com/watch?v=mwm48dM_riE)
-
 ## Week 1: IntroDUCKtions and Course Overview
 * Music [Higher Hopes](https://www.youtube.com/watch?app=desktop&v=4waCNmDnarQ)
   * [Background Music Lab](https://www.youtube.com/@background_music_lab)
@@ -342,27 +340,23 @@
 * [Entrepreneurship](https://en.wikipedia.org/wiki/Entrepreneurship)
 * [iSTEM@Stevens](https://www.stevens.edu/istem)
 * [Launchpad@Stevens](https://www.stevens.edu/school-engineering-science/launchpad)
+* [Ansary Entrepreneurship Competition](https://www.stevens.edu/ansary-entrepreneurship-competition)
+* [Cyrus A. Ansary](https://en.wikipedia.org/wiki/Cyrus_A._Ansary)
 * Video [Ansary Entrepreneurship Competition](https://www.youtube.com/watch?v=wmFZ7QeU_oU), April 26, 2024
 * Video [Ansary Entrepreneurship Competition](https://www.youtube.com/watch?v=sF_2Pl72v_0), April 28, 2023
 * Video [Ansary Entrepreneurship Competition](https://www.youtube.com/watch?v=9ThfHbhPoYA), April 29, 2022
-
 ## Week 10: Building an Inclusive Community: Identity and Belonging
 * [Belongingness](https://en.wikipedia.org/wiki/Belongingness)
   * [Pluralism](https://en.wikipedia.org/wiki/Pluralism)
   * [Universalism](https://en.wikipedia.org/wiki/Universalism)
   * [Solidarity](https://en.wikipedia.org/wiki/Solidarity)
-
 ## Week 11: Bystander Intervention
-
 
 ## Week 12: Leadership and Ethics
 
-
 ## Week 13: Getting Involved and Making Your Mark on Campus
 
-
 ## Week 14: Leaving Your Legacy. Where Do We Go From Here?
-
 
 ## Improv
 * [Improvisation](https://en.wikipedia.org/wiki/Improvisation)
