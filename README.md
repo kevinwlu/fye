@@ -351,9 +351,10 @@
   * [Universalism](https://en.wikipedia.org/wiki/Universalism)
   * [Solidarity](https://en.wikipedia.org/wiki/Solidarity)
 ## Week 11: Bystander Intervention
-
+* [Bystander intervention](https://en.wikipedia.org/wiki/Bystander_intervention)
 ## Week 12: Leadership and Ethics
-
+* [Leadership](https://en.wikipedia.org/wiki/Leadership)
+* [Ethics](https://en.wikipedia.org/wiki/Ethics)
 ## Week 13: Getting Involved and Making Your Mark on Campus
 
 ## Week 14: Leaving Your Legacy. Where Do We Go From Here?
