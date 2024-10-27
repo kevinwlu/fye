@@ -336,16 +336,26 @@
 * [Handshake](https://en.wikipedia.org/wiki/Handshake)
 * [Letter of recommendation](https://en.wikipedia.org/wiki/Letter_of_recommendation)
 ## Week 9: Experiential Learning, Research, and Entrepreneurship
+* [Experiential learning](https://en.wikipedia.org/wiki/Experiential_learning)
 * Video [Experiential Learning](https://www.youtube.com/watch?v=yEP4MJMienw)
+* [Research](https://en.wikipedia.org/wiki/Research)
+* [Stevens Student Research](https://www.stevens.edu/research/student-reseach/student-research)
+* [Stevens Undergraduate Research](https://www.stevens.edu/academics/undergraduate-study/undergraduate-research)
+* [Entrepreneurship](https://en.wikipedia.org/wiki/Entrepreneurship)
 * Video [Ansary Entrepreneurship Competition](https://www.youtube.com/watch?v=wmFZ7QeU_oU), April 26, 2024
 * Video [Ansary Entrepreneurship Competition](https://www.youtube.com/watch?v=sF_2Pl72v_0), April 28, 2023
 * Video [Ansary Entrepreneurship Competition](https://www.youtube.com/watch?v=9ThfHbhPoYA), April 29, 2022
-* [Experiential learning](https://en.wikipedia.org/wiki/Experiential_learning)
+
 ## Week 10: Building an Inclusive Community: Identity and Belonging
+
 ## Week 11: Bystander Intervention
+
 ## Week 12: Leadership and Ethics
+
 ## Week 13: Getting Involved and Making Your Mark on Campus
+
 ## Week 14: Leaving Your Legacy. Where Do We Go From Here?
+
 ## Improv
 * [Improvisation](https://en.wikipedia.org/wiki/Improvisation)
 * [Improvisational theatre](https://en.wikipedia.org/wiki/Improvisational_theatre)
