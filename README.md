@@ -25,6 +25,8 @@
     * [Crown of Castile](https://en.wikipedia.org/wiki/Crown_of_Castile)
     * [Rock of Gibraltar](https://en.wikipedia.org/wiki/Rock_of_Gibraltar)
     * [Sibyl's Cave](https://en.wikipedia.org/wiki/Sibyl%27s_Cave) in Italy
+    * [Elysian Fields (Hoboken, New Jersey)](https://en.wikipedia.org/wiki/Elysian_Fields_(Hoboken,_New_Jersey))
+    * [Elysium](https://en.wikipedia.org/wiki/Elysium)
   * [John Cox Stevens](https://en.wikipedia.org/wiki/John_Cox_Stevens) 1785&mdash;1857
     * [America's Cup](https://en.wikipedia.org/wiki/America%27s_Cup)
   * [Robert L. Stevens](https://en.wikipedia.org/wiki/Robert_L._Stevens) 1787&mdash;1856
@@ -325,6 +327,7 @@
 * [Louis Pasteur](https://en.wikipedia.org/wiki/Louis_Pasteur) 1822&mdash;1895, "In the field of observation, chance favors only the prepared mind."
 * [Serendipity](https://en.wikipedia.org/wiki/Serendipity)
 * [Jeopardy!](https://en.wikipedia.org/wiki/Jeopardy!)
+  * [YouTube channel](https://www.youtube.com/@jeopardy)
 * [Jeopardy! theme music](https://simple.wikipedia.org/wiki/Jeopardy!_theme_music)
 * [Career](https://en.wikipedia.org/wiki/Career)
 * [Internship](https://en.wikipedia.org/wiki/Internship)
