@@ -357,7 +357,11 @@
   * [Solidarity](https://en.wikipedia.org/wiki/Solidarity)
 * Equity
 * Bias
-* [Tourette syndrome](https://en.wikipedia.org/wiki/Tourette_syndrome)
+* [Tourette syndrome](https://en.wikipedia.org/wiki/Tourette_syndrome) (TS)
+* [Restless legs syndrome](https://en.wikipedia.org/wiki/Restless_legs_syndrome) (RLS)
+* [Periodic limb movement disorder](https://en.wikipedia.org/wiki/Periodic_limb_movement_disorder) (PLMD)
+* [Fidgeting](https://en.wikipedia.org/wiki/Fidgeting)
+* [Fidget spinner](https://en.wikipedia.org/wiki/Fidget_spinner)
 ## Week 11: Bystander Intervention
 * [Bystander intervention](https://en.wikipedia.org/wiki/Bystander_intervention)
 ## Week 12: Leadership and Ethics
