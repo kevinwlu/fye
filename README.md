@@ -15,24 +15,26 @@
 ## History and Values of Stevens
 * [Stevens Institute of Technology](https://en.wikipedia.org/wiki/Stevens_Institute_of_Technology)
 * [Stevens family](https://en.wikipedia.org/wiki/Stevens_family)
+* [Hoboken Historical Museum | Stevens family](https://www.hobokenmuseum.org/category/explore-hoboken/stevens-family/)
+  * [Hoboken, New Jersey](https://en.wikipedia.org/wiki/Hoboken,_New_Jersey)
+  * [Landmarks of Hoboken, New Jersey](https://en.wikipedia.org/wiki/Landmarks_of_Hoboken,_New_Jersey)
+  * [Hoboken, Antwerp](https://en.wikipedia.org/wiki/Hoboken,_Antwerp)
+  * [Crown of Castile](https://en.wikipedia.org/wiki/Crown_of_Castile)
+  * [Rock of Gibraltar](https://en.wikipedia.org/wiki/Rock_of_Gibraltar)
+  * [Sibyl's Cave](https://en.wikipedia.org/wiki/Sibyl%27s_Cave) in Italy
+  * [Elysian Fields (Hoboken, New Jersey)](https://en.wikipedia.org/wiki/Elysian_Fields_(Hoboken,_New_Jersey))
+  * [Elysium](https://en.wikipedia.org/wiki/Elysium)
+* [Stevens family](https://www.stevens.edu/discover-stevens/stevens-history/the-stevens-family)
   * [John Stevens Sr.](https://www.geni.com/people/John-Stevens-Sr/6000000003381721966) 1682&mdash;1737 came to America in 1699 at the age of 17
   * [John Stevens Jr.](https://en.wikipedia.org/wiki/John_Stevens_(New_Jersey_politician)) 1715&mdash;1792
   * [Col. John Stevens III](https://en.wikipedia.org/wiki/John_Stevens_(inventor,_born_1749)) 1749&mdash;1838
-    * [The Stevens Family](https://www.stevens.edu/discover-stevens/stevens-history/the-stevens-family)
-    * [Hoboken, New Jersey](https://en.wikipedia.org/wiki/Hoboken,_New_Jersey)
-    * [Landmarks of Hoboken, New Jersey](https://en.wikipedia.org/wiki/Landmarks_of_Hoboken,_New_Jersey)
-    * [Hoboken, Antwerp](https://en.wikipedia.org/wiki/Hoboken,_Antwerp)
-    * [Crown of Castile](https://en.wikipedia.org/wiki/Crown_of_Castile)
-    * [Rock of Gibraltar](https://en.wikipedia.org/wiki/Rock_of_Gibraltar)
-    * [Sibyl's Cave](https://en.wikipedia.org/wiki/Sibyl%27s_Cave) in Italy
-    * [Elysian Fields (Hoboken, New Jersey)](https://en.wikipedia.org/wiki/Elysian_Fields_(Hoboken,_New_Jersey))
-    * [Elysium](https://en.wikipedia.org/wiki/Elysium)
   * [John Cox Stevens](https://en.wikipedia.org/wiki/John_Cox_Stevens) 1785&mdash;1857
     * [America's Cup](https://en.wikipedia.org/wiki/America%27s_Cup)
   * [Robert L. Stevens](https://en.wikipedia.org/wiki/Robert_L._Stevens) 1787&mdash;1856
     * [Rail profile](https://en.wikipedia.org/wiki/Rail_profile)
   * [Edwin Augustus Stevens](https://en.wikipedia.org/wiki/Edwin_Augustus_Stevens) 1795&mdash;1868
     * [Edwin A. Stevens Hall](https://en.wikipedia.org/wiki/Edwin_A._Stevens_Hall)
+    * [Richard Upjohn](https://en.wikipedia.org/wiki/Richard_Upjohn) 1802&mdash;1878
   * [Martha Bayard Stevens](https://en.wikipedia.org/wiki/Martha_Bayard_Stevens) 1831&mdash;1899
     * [Renaming of Alexander House to Martha Bayard Stevens Hall 9.8.22](/Renaming_of_Alexander_House_to_Martha_Bayard_Stevens_Hall_9.8.22.pdf)
     * [New Alexander House name honors Stevens family pioneer](https://thestute.com/2022/09/16/new-alexander-house-name-honors-stevens-family-pioneer/), September 16, 2022
