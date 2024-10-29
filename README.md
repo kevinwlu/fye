@@ -76,6 +76,9 @@
   * [Luigi Zummo Pollara](https://www.nytimes.com/1994/08/06/obituaries/dr-luigi-pollara-80-founder-of-polymer-research-unit-dies.html) 1915&mdash;1994
     * [Polymer Processing Institute](https://www.polymers-ppi.com/) (PPI) founded in 1982
   * [Bernard Gallois](https://www.stevens.edu/news/engineering-for-the-real-world)
+  * [David Vaccari](https://www.stevens.edu/profile/dvaccari), [“The Barbed Quatrefoil Is a 1500-Year-Old Symbol of Architectural Advance”](https://personal.stevens.edu/~dvaccari/Vaccari%20-%20Sancta%20Sophia.pdf)
+    * [Quatrefoil](https://en.wikipedia.org/wiki/Quatrefoil)
+    * [Pendentive](https://en.wikipedia.org/wiki/Pendentive)
 * [Stevens Alumni Award Recipients](https://www.stevens.edu/development-alumni-engagement/connect/stevens-alumni-award-recipients)
 * [List of Stevens Institute of Technology alumni](https://en.wikipedia.org/wiki/List_of_Stevens_Institute_of_Technology_alumni)
   * [James Buchanan Pierce](https://stevensarchives.contentdm.oclc.org/digital/collection/StevensNP01/id/9757/) 1856&mdash;1928, class of 1877
