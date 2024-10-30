@@ -358,8 +358,8 @@
 * Video [Building an Inclusive Community](https://www.youtube.com/watch?v=8X5wrBRV4wY)
 * Video [Microaggressions](https://www.youtube.com/watch?v=i_OcfwumLGI)
 * [Office of Student Culture and Belonging](https://www.stevens.edu/student-diversity-and-inclusion/office-of-student-culture-belonging)
-* Diversity
-* Inclusion
+* [Diversity (business)](https://en.wikipedia.org/wiki/Diversity_(business))
+* [Inclusion (education)](https://en.wikipedia.org/wiki/Inclusion_(education))
 * [Belongingness](https://en.wikipedia.org/wiki/Belongingness)
   * [Pluralism](https://en.wikipedia.org/wiki/Pluralism)
   * [Universalism](https://en.wikipedia.org/wiki/Universalism)
