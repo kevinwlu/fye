@@ -364,8 +364,8 @@
   * [Pluralism](https://en.wikipedia.org/wiki/Pluralism)
   * [Universalism](https://en.wikipedia.org/wiki/Universalism)
   * [Solidarity](https://en.wikipedia.org/wiki/Solidarity)
-* Equity
-* Bias
+* [Educational equity](https://en.wikipedia.org/wiki/Educational_equity)
+* [Bias](https://en.wikipedia.org/wiki/Bias)
 * [Tourette syndrome](https://en.wikipedia.org/wiki/Tourette_syndrome) (TS)
 * [Restless legs syndrome](https://en.wikipedia.org/wiki/Restless_legs_syndrome) (RLS)
 * [Periodic limb movement disorder](https://en.wikipedia.org/wiki/Periodic_limb_movement_disorder) (PLMD)
