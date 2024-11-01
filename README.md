@@ -378,6 +378,7 @@
 ## Week 12: Leadership and Ethics
 * [Leadership](https://en.wikipedia.org/wiki/Leadership)
 * [Ethics](https://en.wikipedia.org/wiki/Ethics)
+* Video [Focus: The Secret to High Performance and Fulfilment](https://www.youtube.com/watch?v=HTfYv3IEOqM) by [Daniel Goleman](https://en.wikipedia.org/wiki/Daniel_Goleman)
 ## Week 13: Getting Involved and Making Your Mark on Campus
 
 ## Week 14: Leaving Your Legacy. Where Do We Go From Here?
