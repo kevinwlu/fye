@@ -304,6 +304,9 @@
 * Video [Personal Wellness](https://www.youtube.com/watch?v=sS9q7b72nzk)
 * Video [5 Steps to Wellbeing](https://www.youtube.com/watch?v=x6bz_ekkrYA)
   * MAGIC: mindful, active, generous, interested, connected
+* Video [Focus: The Secret to High Performance and Fulfilment](https://www.youtube.com/watch?v=HTfYv3IEOqM) by [Daniel Goleman](https://en.wikipedia.org/wiki/Daniel_Goleman)
+* [Daniel Goleman](https://www.danielgoleman.info/), "By teaching people to tune in to their emotions with intelligence and to expand their circle of caring, we can transform organizations from the inside out and make a positive difference in our world."
+* [Stanford marshmallow experiment](https://en.wikipedia.org/wiki/Stanford_marshmallow_experiment)
 * [Steve Zim](https://www.youtube.com/@stevezim6421)
 * [Alexander Technique](https://en.wikipedia.org/wiki/Alexander_Technique)
   * [Frederick Matthias Alexander](https://en.wikipedia.org/wiki/F._Matthias_Alexander) 1869&mdash;1955
@@ -380,9 +383,8 @@
 ## Week 12: Leadership and Ethics
 * [Leadership](https://en.wikipedia.org/wiki/Leadership)
 * [Ethics](https://en.wikipedia.org/wiki/Ethics)
-* Video [Focus: The Secret to High Performance and Fulfilment](https://www.youtube.com/watch?v=HTfYv3IEOqM) by [Daniel Goleman](https://en.wikipedia.org/wiki/Daniel_Goleman)
-* [Stanford marshmallow experiment](https://en.wikipedia.org/wiki/Stanford_marshmallow_experiment)
 * [Stanford prison experiment](https://en.wikipedia.org/wiki/Stanford_prison_experiment)
+* [Institutional review board](https://en.wikipedia.org/wiki/Institutional_review_board) (IRB)
 ## Week 13: Getting Involved and Making Your Mark on Campus
 
 ## Week 14: Leaving Your Legacy. Where Do We Go From Here?
