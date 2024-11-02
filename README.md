@@ -375,6 +375,8 @@
 * [Fidget spinner](https://en.wikipedia.org/wiki/Fidget_spinner)
 ## Week 11: Bystander Intervention
 * [Bystander intervention](https://en.wikipedia.org/wiki/Bystander_intervention)
+* [Bystander effect](https://en.wikipedia.org/wiki/Bystander_effect)
+* [Good Samaritan law](https://en.wikipedia.org/wiki/Good_Samaritan_law)
 ## Week 12: Leadership and Ethics
 * [Leadership](https://en.wikipedia.org/wiki/Leadership)
 * [Ethics](https://en.wikipedia.org/wiki/Ethics)
