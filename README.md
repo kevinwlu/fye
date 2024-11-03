@@ -344,6 +344,7 @@
 * [Letter of recommendation](https://en.wikipedia.org/wiki/Letter_of_recommendation)
 ## Week 9: Experiential Learning, Research, and Entrepreneurship
 * [Experiential learning](https://en.wikipedia.org/wiki/Experiential_learning)
+* [David A. Kolb](https://en.wikipedia.org/wiki/David_A._Kolb)
 * Video [Experiential Learning](https://www.youtube.com/watch?v=yEP4MJMienw)
 * [Research](https://en.wikipedia.org/wiki/Research)
 * [Stevens Student Research](https://www.stevens.edu/research/student-reseach/student-research)
