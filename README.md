@@ -126,6 +126,7 @@
   * [Frank J. Semcer, Sr.](https://www.stevens.edu/news/honoring-the-semcer-legacy-student-commons), class of 1965
     * [The Semcer Center for Healthcare Innovation](https://www.stevens.edu/center-for-healthcare-innovation)
   * [Lawrence T. Babbio Jr.](https://en.wikipedia.org/wiki/Lawrence_Babbio_Jr.), class of 1966
+    * [Pinnacle Scholars Program](https://www.stevens.edu/pinnacle-scholars)
   * [Thomas A. Corcoran](https://connect.stevens.edu/donor-stories/thomas-corcoran), class of 1967
   * [Vincent A. Rocco](https://connect.stevens.edu/classof67/inmemoriam), class of 1967
   * [Mark Crispin](https://en.wikipedia.org/wiki/Mark_Crispin) 1956&mdash;2012, class of 1977
