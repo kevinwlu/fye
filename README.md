@@ -345,6 +345,9 @@
 ## Week 9: Experiential Learning, Research, and Entrepreneurship
 * [Experiential learning](https://en.wikipedia.org/wiki/Experiential_learning)
 * [David A. Kolb](https://en.wikipedia.org/wiki/David_A._Kolb)
+* [Experience Based Learning Systems, LLC](https://learningfromexperience.com/) (EBLS)
+* [Constructivism (philosophy of education)](https://en.wikipedia.org/wiki/Constructivism_(philosophy_of_education))
+* [Jean Piaget](https://en.wikipedia.org/wiki/Jean_Piaget) 1896&mdash;1980
 * Video [Experiential Learning](https://www.youtube.com/watch?v=yEP4MJMienw)
 * [Research](https://en.wikipedia.org/wiki/Research)
 * [Stevens Student Research](https://www.stevens.edu/research/student-reseach/student-research)
