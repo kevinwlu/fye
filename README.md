@@ -77,6 +77,8 @@
   * [American Bureau of Shipping](https://en.wikipedia.org/wiki/American_Bureau_of_Shipping) (ABS)
   * [Luigi Zummo Pollara](https://www.nytimes.com/1994/08/06/obituaries/dr-luigi-pollara-80-founder-of-polymer-research-unit-dies.html) 1915&mdash;1994
     * [Polymer Processing Institute](https://www.polymers-ppi.com/) (PPI) founded in 1982
+  * [A. James Clark](https://en.wikipedia.org/wiki/A._James_Clark) 1927&mdash;2015
+    * [A. James Clark Scholars Program](https://www.stevens.edu/a-james-clark-scholars-program) since fall 2018
   * [Bernard Gallois](https://www.stevens.edu/news/engineering-for-the-real-world)
   * [David Vaccari](https://www.stevens.edu/profile/dvaccari), [“The Barbed Quatrefoil Is a 1500-Year-Old Symbol of Architectural Advance”](https://personal.stevens.edu/~dvaccari/Vaccari%20-%20Sancta%20Sophia.pdf)
     * [Quatrefoil](https://en.wikipedia.org/wiki/Quatrefoil)
