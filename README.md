@@ -370,6 +370,15 @@
 * Video [Ansary Entrepreneurship Competition](https://www.youtube.com/watch?v=wmFZ7QeU_oU), April 26, 2024
 * Video [Ansary Entrepreneurship Competition](https://www.youtube.com/watch?v=sF_2Pl72v_0), April 28, 2023
 * Video [Ansary Entrepreneurship Competition](https://www.youtube.com/watch?v=9ThfHbhPoYA), April 29, 2022
+* [Robert Daniel Kern](https://grainger.illinois.edu/alumni/hall-of-fame/9644) 1925—2022 founded [Generac](https://en.wikipedia.org/wiki/Generac) in 1959 and the [Kern Family Foundation](https://www.kffdn.org/) in 1998 that supported the [Kern Entrepreneurial Engineering Network]() (KEEN), [Project Lead the Way](https://en.wikipedia.org/wiki/Project_Lead_the_Way) (PLTW)
+* 3 Cs mindset
+  * Curiosity — Investigate a rapidly changing world with insatiable curiosity
+  * Connections — Habitually pursue knowledge and integrate it with own discoveries to reveal innovative solutions
+  * Creating value — Persistently anticipate and meet the needs of a changing world
+* [Sidney Parnes](https://en.wikipedia.org/wiki/Sid_Parnes) 1922—2013, President (1967—1984) of the [Creative Education Foundation](https://www.creativeeducationfoundation.org/) (CEF), defined three basic types of problems in 1967
+  * Problems of explanation — Seek the causes for a phenomenon or observed behavior
+  * Problems of prediction — Calculate a result or predict system behavior by applying equations, physical laws, tools of data analysis, etc.
+  * Problems of invention — Develop a new and effective solution to a problem
 ## Week 10: Building an Inclusive Community: Identity and Belonging
 * Video [Building an Inclusive Community](https://www.youtube.com/watch?v=8X5wrBRV4wY)
 * Video [Microaggressions](https://www.youtube.com/watch?v=i_OcfwumLGI)
