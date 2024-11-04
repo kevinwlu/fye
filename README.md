@@ -398,6 +398,8 @@
 * [Ethics](https://en.wikipedia.org/wiki/Ethics)
 * [Stanford prison experiment](https://en.wikipedia.org/wiki/Stanford_prison_experiment)
 * [Institutional review board](https://en.wikipedia.org/wiki/Institutional_review_board) (IRB)
+* [Joseph Telushkin](https://en.wikipedia.org/wiki/Joseph_Telushkin), "Moral imagination is the ability to think through the implications of our actions, particularly as to how they will affect others."
+* [Henry Ward Beecher](https://en.wikipedia.org/wiki/Henry_Ward_Beecher) 1813—1887, “Expedients are for the hour; principles for the ages.”
 ## Week 13: Getting Involved and Making Your Mark on Campus
 
 ## Week 14: Leaving Your Legacy. Where Do We Go From Here?
