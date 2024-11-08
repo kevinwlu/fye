@@ -398,9 +398,13 @@
 * [Periodic limb movement disorder](https://en.wikipedia.org/wiki/Periodic_limb_movement_disorder) (PLMD)
 * [Fidgeting](https://en.wikipedia.org/wiki/Fidgeting)
 * [Fidget spinner](https://en.wikipedia.org/wiki/Fidget_spinner)
-## Week 11: Bystander Intervention
-* [Bystander intervention](https://en.wikipedia.org/wiki/Bystander_intervention)
+## Week 11: Empowered to Act: Navigating Bystander Intervention
 * [Bystander effect](https://en.wikipedia.org/wiki/Bystander_effect)
+* [Bystander intervention](https://en.wikipedia.org/wiki/Bystander_intervention): Direct, Dsitract, Delegate, Document
+* [WITH US](https://www.withus.org/) Center for Bystander Intervention at [Cal Poly](https://en.wikipedia.org/wiki/California_Polytechnic_State_University,_San_Luis_Obispo)
+  * [National College Student Bystander Intervention Study](https://www.withus.org/bystanderstudy) (NCSBIS)
+* [Alcohol flush reaction](https://en.wikipedia.org/wiki/Alcohol_flush_reaction)
+* [Alcohol intolerance](https://en.wikipedia.org/wiki/Alcohol_intolerance)
 * [Good Samaritan law](https://en.wikipedia.org/wiki/Good_Samaritan_law)
 ## Week 12: Leadership and Ethics
 * [Leadership](https://en.wikipedia.org/wiki/Leadership)
