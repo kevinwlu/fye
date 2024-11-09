@@ -382,8 +382,8 @@
 ## Week 10: Building an Inclusive Community: Identity and Belonging
 * Video [Building an Inclusive Community](https://www.youtube.com/watch?v=8X5wrBRV4wY)
 * Video [Microaggressions](https://www.youtube.com/watch?v=i_OcfwumLGI)
-* [Allan G. Johnson](https://en.wikipedia.org/wiki/Allan_G._Johnson), "Social identities are a specific type of identity that are the “result of shared constructions and social relations” based on human-created societal norms."
 * Video [Privilege, Power, and Difference](https://www.youtube.com/watch?v=ac4DdjmVx88)
+* [Allan G. Johnson](https://en.wikipedia.org/wiki/Allan_G._Johnson), "Social identities are a specific type of identity that are the “result of shared constructions and social relations” based on human-created societal norms."
 * [Office of Student Culture and Belonging](https://www.stevens.edu/student-diversity-and-inclusion/office-of-student-culture-belonging)
 * [Diversity (business)](https://en.wikipedia.org/wiki/Diversity_(business))
 * [Inclusion (education)](https://en.wikipedia.org/wiki/Inclusion_(education))
@@ -393,6 +393,7 @@
   * [Solidarity](https://en.wikipedia.org/wiki/Solidarity)
 * [Educational equity](https://en.wikipedia.org/wiki/Educational_equity)
 * [Bias](https://en.wikipedia.org/wiki/Bias)
+* [Microaggression](https://en.wikipedia.org/wiki/Microaggression)
 * [Tourette syndrome](https://en.wikipedia.org/wiki/Tourette_syndrome) (TS)
 * [Restless legs syndrome](https://en.wikipedia.org/wiki/Restless_legs_syndrome) (RLS)
 * [Periodic limb movement disorder](https://en.wikipedia.org/wiki/Periodic_limb_movement_disorder) (PLMD)
