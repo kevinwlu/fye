@@ -394,6 +394,8 @@
 * [Educational equity](https://en.wikipedia.org/wiki/Educational_equity)
 * [Bias](https://en.wikipedia.org/wiki/Bias)
 * [Microaggression](https://en.wikipedia.org/wiki/Microaggression)
+* [Bullying](https://en.wikipedia.org/wiki/Bullying)
+* [Bullying of students in higher education](https://en.wikipedia.org/wiki/Bullying_of_students_in_higher_education)
 * [Tourette syndrome](https://en.wikipedia.org/wiki/Tourette_syndrome) (TS)
 * [Restless legs syndrome](https://en.wikipedia.org/wiki/Restless_legs_syndrome) (RLS)
 * [Periodic limb movement disorder](https://en.wikipedia.org/wiki/Periodic_limb_movement_disorder) (PLMD)
@@ -402,6 +404,7 @@
 ## Week 11: Empowered to Act: Navigating Bystander Intervention
 * [Bystander effect](https://en.wikipedia.org/wiki/Bystander_effect)
 * [Bystander intervention](https://en.wikipedia.org/wiki/Bystander_intervention): Direct, Dsitract, Delegate, Document
+* [Hazing](https://en.wikipedia.org/wiki/Hazing)
 * [WITH US](https://www.withus.org/) Center for Bystander Intervention at [Cal Poly](https://en.wikipedia.org/wiki/California_Polytechnic_State_University,_San_Luis_Obispo)
   * [National College Student Bystander Intervention Study](https://www.withus.org/bystanderstudy) (NCSBIS)
 * [Alcohol flush reaction](https://en.wikipedia.org/wiki/Alcohol_flush_reaction)
