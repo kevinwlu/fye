@@ -408,6 +408,8 @@
 * [Good Samaritan law](https://en.wikipedia.org/wiki/Good_Samaritan_law)
 ## Week 12: Leadership and Ethics
 * [Leadership](https://en.wikipedia.org/wiki/Leadership)
+* [Distributed leadership](https://en.wikipedia.org/wiki/Distributed_leadership)
+* [Shared leadership](https://en.wikipedia.org/wiki/Shared_leadership)
 * [Ethics](https://en.wikipedia.org/wiki/Ethics)
 * [Stanford prison experiment](https://en.wikipedia.org/wiki/Stanford_prison_experiment)
 * [Institutional review board](https://en.wikipedia.org/wiki/Institutional_review_board) (IRB)
