@@ -393,6 +393,7 @@
 * [Diversity (business)](https://en.wikipedia.org/wiki/Diversity_(business))
 * [Educational equity](https://en.wikipedia.org/wiki/Educational_equity)
 * [Inclusion (education)](https://en.wikipedia.org/wiki/Inclusion_(education))
+* [Inclusive language](https://en.wikipedia.org/wiki/Inclusive_language)
 * [Belongingness](https://en.wikipedia.org/wiki/Belongingness)
   * [Pluralism](https://en.wikipedia.org/wiki/Pluralism)
   * [Universalism](https://en.wikipedia.org/wiki/Universalism)
