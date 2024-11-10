@@ -382,9 +382,9 @@
 ## Week 10: Building an Inclusive Community: Identity and Belonging
 * Video [Building an Inclusive Community](https://www.youtube.com/watch?v=8X5wrBRV4wY)
 * Video [Microaggressions](https://www.youtube.com/watch?v=i_OcfwumLGI)
-* Video [Privilege, Power, and Difference With Dr. Allan Johnson](https://www.youtube.com/watch?v=ac4DdjmVx88), March 23, 2015
+* [Allan G. Johnson](https://en.wikipedia.org/wiki/Allan_G._Johnson), "Social identities are a specific type of identity that are the “result of shared constructions and social relations” based on human-created societal norms."
+  * Video [Privilege, Power, and Difference With Dr. Allan Johnson](https://www.youtube.com/watch?v=ac4DdjmVx88), March 23, 2015
   * [Empowerment for Health](https://endowmentforhealth.org/)
-  * [Allan G. Johnson](https://en.wikipedia.org/wiki/Allan_G._Johnson), "Social identities are a specific type of identity that are the “result of shared constructions and social relations” based on human-created societal norms."
 * [Social identity approach](https://en.wikipedia.org/wiki/Social_identity_approach)
   * [Social identity theory](https://en.wikipedia.org/wiki/Social_identity_theory)
   * [Self-categorization theory](https://en.wikipedia.org/wiki/Self-categorization_theory)
