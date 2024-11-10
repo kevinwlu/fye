@@ -413,7 +413,7 @@
 * [Alcohol flush reaction](https://en.wikipedia.org/wiki/Alcohol_flush_reaction)
 * [Alcohol intolerance](https://en.wikipedia.org/wiki/Alcohol_intolerance)
 * [Good Samaritan law](https://en.wikipedia.org/wiki/Good_Samaritan_law)
-## Week 12: Leadership and Ethics
+## Week 12: Leading With Integrity: Foundations in Leadership and Ethics
 * [Leadership](https://en.wikipedia.org/wiki/Leadership)
 * [Distributed leadership](https://en.wikipedia.org/wiki/Distributed_leadership)
 * [Shared leadership](https://en.wikipedia.org/wiki/Shared_leadership)
@@ -422,9 +422,9 @@
 * [Institutional review board](https://en.wikipedia.org/wiki/Institutional_review_board) (IRB)
 * [Joseph Telushkin](https://en.wikipedia.org/wiki/Joseph_Telushkin), "Moral imagination is the ability to think through the implications of our actions, particularly as to how they will affect others."
 * [Henry Ward Beecher](https://en.wikipedia.org/wiki/Henry_Ward_Beecher) 1813—1887, “Expedients are for the hour; principles for the ages.”
-## Week 13: Getting Involved and Making Your Mark on Campus
+## Week 13: Building Social and Emotional Intelligence Through Leadership
 
-## Week 14: Leaving Your Legacy. Where Do We Go From Here?
+## Week 14: Making Your Mark and Lessons Learned
 
 ## Improv
 * [Improvisation](https://en.wikipedia.org/wiki/Improvisation)
