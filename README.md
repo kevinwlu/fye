@@ -385,8 +385,11 @@
 * Video [Privilege, Power, and Difference With Dr. Allan Johnson](https://www.youtube.com/watch?v=ac4DdjmVx88), March 23, 2015
   * [Empowerment for Health](https://endowmentforhealth.org/)
   * [Allan G. Johnson](https://en.wikipedia.org/wiki/Allan_G._Johnson), "Social identities are a specific type of identity that are the “result of shared constructions and social relations” based on human-created societal norms."
+* [Social identity approach](https://en.wikipedia.org/wiki/Social_identity_approach)
+  * [Social identity theory](https://en.wikipedia.org/wiki/Social_identity_theory)
+  * [Self-categorization theory](https://en.wikipedia.org/wiki/Self-categorization_theory)
 * [Office of Student Culture and Belonging](https://www.stevens.edu/student-diversity-and-inclusion/office-of-student-culture-belonging)
-* [Diversity, equity, and inclusion](https://en.wikipedia.org/wiki/Diversity,_equity,_and_inclusion)
+* [Diversity, equity, and inclusion](https://en.wikipedia.org/wiki/Diversity,_equity,_and_inclusion) (DEI)
 * [Diversity (business)](https://en.wikipedia.org/wiki/Diversity_(business))
 * [Educational equity](https://en.wikipedia.org/wiki/Educational_equity)
 * [Inclusion (education)](https://en.wikipedia.org/wiki/Inclusion_(education))
