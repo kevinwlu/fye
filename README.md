@@ -382,6 +382,8 @@
 ## Week 10: Building an Inclusive Community: Identity and Belonging
 * Video [Building an Inclusive Community](https://www.youtube.com/watch?v=8X5wrBRV4wY)
 * Video [Microaggressions](https://www.youtube.com/watch?v=i_OcfwumLGI)
+* [Brené Brown](https://en.wikipedia.org/wiki/Bren%C3%A9_Brown)
+  * Video [Fitting in and True Belonging](https://www.youtube.com/watch?v=2ClCPF9w7yc), January 14, 2023
 * [Allan G. Johnson](https://en.wikipedia.org/wiki/Allan_G._Johnson), "Social identities are a specific type of identity that are the “result of shared constructions and social relations” based on human-created societal norms."
   * Video [Privilege, Power, and Difference With Dr. Allan Johnson](https://www.youtube.com/watch?v=ac4DdjmVx88), March 23, 2015
   * [Empowerment for Health](https://endowmentforhealth.org/)
