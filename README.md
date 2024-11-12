@@ -49,6 +49,8 @@
   * [Duck](https://en.wikipedia.org/wiki/Duck)
   * [Amphibian](https://en.wikipedia.org/wiki/Amphibian)
   * [Triphibian](https://en.wiktionary.org/wiki/triphibian), e.g., a duck can move on land, water, or in the air
+* [Khoda Senior Honor Society](https://web.stevens.edu/khoda/index.html)
+  * [Is Khoda still alive?](https://thestute.com/2022/02/18/is-khoda-still-alive/), February 18, 2022
 * [List of presidents of Stevens Institute of Technology](https://en.wikipedia.org/wiki/List_of_presidents_of_Stevens_Institute_of_Technology)
   * [Henry Morton](https://en.wikipedia.org/wiki/Henry_Morton_(scientist)) 1836&mdash;1902
     * [Morton Memorial Laboratory of Chemistry](https://en.wikipedia.org/wiki/Morton_Memorial_Laboratory_of_Chemistry)
@@ -115,6 +117,8 @@
   * [Alfred Fielding](https://edubilla.com/inventor/alfred-w-fielding/) 1917&mdash;1994, class of 1939
     * [Bubble Wrap](https://en.wikipedia.org/wiki/Bubble_Wrap_(brand))
   * [Frederick Reines](https://en.wikipedia.org/wiki/Frederick_Reines) 1918&mdash;1998, class of 1939
+  * [Art Francis](https://stevensarchives.contentdm.oclc.org/digital/collection/StevensNP02/id/33261), class of 1942
+  * [Thomas James Hattrick](https://web.stevens.edu/khoda/alumni/1940.html), class of 1942
   * [William J. Canavan Jr.](https://www.nytimes.com/2000/07/24/classified/paid-notice-deaths-canavan-william-john-jr.html) 1922&mdash;2000, class of 1944
   * [Wesley J. Howe](https://www.nytimes.com/2002/04/19/business/wesley-howe-80-becton-dickinson-chief.html) 1922&mdash;2002, class of 1951/1953
   * [Kenneth DeBaun](https://www.pressdemocrat.com/article/news/obituary-kenneth-debaun/) 1927&mdash;2010, class of 1949
