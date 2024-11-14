@@ -441,7 +441,7 @@
 * [Joseph Telushkin](https://en.wikipedia.org/wiki/Joseph_Telushkin), "Moral imagination is the ability to think through the implications of our actions, particularly as to how they will affect others."
 * [Henry Ward Beecher](https://en.wikipedia.org/wiki/Henry_Ward_Beecher) 1813—1887, “Expedients are for the hour; principles for the ages.”
 ## Week 13: Building Social and Emotional Intelligence Through Leadership
-* Video: [Getting Involved](https://www.youtube.com/watch?v=Pvx_T2bzQvQ)
+* Video [Getting Involved](https://www.youtube.com/watch?v=Pvx_T2bzQvQ)
 ## Week 14: Making Your Mark and Lessons Learned
 
 ## Improv
