@@ -440,10 +440,13 @@
 * [Institutional review board](https://en.wikipedia.org/wiki/Institutional_review_board) (IRB)
 * [Joseph Telushkin](https://en.wikipedia.org/wiki/Joseph_Telushkin), "Moral imagination is the ability to think through the implications of our actions, particularly as to how they will affect others."
 * [Henry Ward Beecher](https://en.wikipedia.org/wiki/Henry_Ward_Beecher) 1813—1887, “Expedients are for the hour; principles for the ages.”
-## Week 13: Building Social and Emotional Intelligence Through Leadership
+## Week 13: Building Social and Emotional Intelligence Through Involvement and Leadership
 * Video [Getting Involved](https://www.youtube.com/watch?v=Pvx_T2bzQvQ)
-## Week 14: Making Your Mark and Lessons Learned
-
+* Video [Ron's Method vs. Chris' Method | Parks and Recreation](https://www.youtube.com/watch?v=iegCuhhXwi0), January 3, 2023
+* [Social intelligence](https://en.wikipedia.org/wiki/Social_intelligence)
+* [Emotional intelligence](https://en.wikipedia.org/wiki/Emotional_intelligence)
+## Week 14: Making Your Mark: Reflecting on Growth and Setting Your Legacy
+* Video [A Wall of Words! | SoulPancake Street Team](https://www.youtube.com/watch?v=qUHgbixI9k0), June 12, 2013
 ## Improv
 * [Improvisation](https://en.wikipedia.org/wiki/Improvisation)
 * [Improvisational theatre](https://en.wikipedia.org/wiki/Improvisational_theatre)
