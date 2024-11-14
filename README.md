@@ -420,6 +420,7 @@
 * [Fidgeting](https://en.wikipedia.org/wiki/Fidgeting)
 * [Fidget spinner](https://en.wikipedia.org/wiki/Fidget_spinner)
 ## Week 11: Empowered to Act: Navigating Bystander Intervention
+* Video [Bystander Intervention](https://www.youtube.com/watch?v=NbVMIFQGSyA)
 * [Bystander effect](https://en.wikipedia.org/wiki/Bystander_effect)
 * [Bystander intervention](https://en.wikipedia.org/wiki/Bystander_intervention): Direct, Dsitract, Delegate, Document
 * [Hazing](https://en.wikipedia.org/wiki/Hazing)
