@@ -424,6 +424,7 @@
 * Video [Bystander Intervention](https://www.youtube.com/watch?v=NbVMIFQGSyA)
 * [Stevens Alerts and Stevens Guardian](https://www.stevens.edu/page-right-nav/stevens-alerts-and-rave-guardian)
 * [911 (emergency telephone number)](https://en.wikipedia.org/wiki/911_(emergency_telephone_number))
+* [Common sense](https://en.wikipedia.org/wiki/Common_sense)
 * [Title IX](https://en.wikipedia.org/wiki/Title_IX)
 * [Bystander effect](https://en.wikipedia.org/wiki/Bystander_effect)
 * [Bystander intervention](https://en.wikipedia.org/wiki/Bystander_intervention): Direct, Dsitract, Delegate, Document
@@ -433,6 +434,7 @@
 * [Alcohol flush reaction](https://en.wikipedia.org/wiki/Alcohol_flush_reaction)
 * [Alcohol intolerance](https://en.wikipedia.org/wiki/Alcohol_intolerance)
 * [Good Samaritan law](https://en.wikipedia.org/wiki/Good_Samaritan_law)
+* [Consent](https://en.wikipedia.org/wiki/Consent)
 ## Week 12: Leading With Integrity: Foundations in Leadership and Ethics
 * [Leadership](https://en.wikipedia.org/wiki/Leadership)
 * [Distributed leadership](https://en.wikipedia.org/wiki/Distributed_leadership)
