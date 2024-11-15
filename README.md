@@ -370,6 +370,8 @@
 * [University Affiliated Research Center](https://en.wikipedia.org/wiki/University_Affiliated_Research_Center) (UARC)
 * [Systems Engineering Research Center](https://sercuarc.org/) (SERC)
   * [Capstone Marketplace](https://sercuarc.org/capstone-marketplace/)
+* [Reserve Officers' Training Corps](https://en.wikipedia.org/wiki/Reserve_Officers'_Training_Corps) (ROTC)
+* [Defense Civilian Training Corps](https://en.wikipedia.org/wiki/Defense_Civilian_Training_Corps) (DCTC)
 * [Entrepreneurship](https://en.wikipedia.org/wiki/Entrepreneurship)
 * [iSTEM@Stevens](https://www.stevens.edu/istem)
 * [Launchpad@Stevens](https://www.stevens.edu/school-engineering-science/launchpad)
