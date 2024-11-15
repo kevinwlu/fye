@@ -398,6 +398,7 @@
   * [Social identity theory](https://en.wikipedia.org/wiki/Social_identity_theory)
   * [Self-categorization theory](https://en.wikipedia.org/wiki/Self-categorization_theory)
   * [Optimal distinctiveness theory](https://en.wikipedia.org/wiki/Optimal_distinctiveness_theory)
+* [Social stigma](https://en.wikipedia.org/wiki/Social_stigma)
 * [Office of Student Culture and Belonging](https://www.stevens.edu/student-diversity-and-inclusion/office-of-student-culture-belonging)
 * [Diversity, equity, and inclusion](https://en.wikipedia.org/wiki/Diversity,_equity,_and_inclusion) (DEI)
 * [Diversity (business)](https://en.wikipedia.org/wiki/Diversity_(business))
