@@ -366,6 +366,8 @@
 * [Stevens Student Research](https://www.stevens.edu/research/student-reseach/student-research)
 * [Stevens Undergraduate Research](https://www.stevens.edu/academics/undergraduate-study/undergraduate-research)
 * [Undergraduate Research at the Schaefer School](https://www.stevens.edu/school-engineering-science/undergraduate-studies/research)
+* [University Affiliated Research Center](https://en.wikipedia.org/wiki/University_Affiliated_Research_Center) (UARC)
+* [Systems Engineering Research Center](https://sercuarc.org/) (SERC)
 * [Entrepreneurship](https://en.wikipedia.org/wiki/Entrepreneurship)
 * [iSTEM@Stevens](https://www.stevens.edu/istem)
 * [Launchpad@Stevens](https://www.stevens.edu/school-engineering-science/launchpad)
