@@ -441,7 +441,7 @@
 * [Common sense](https://en.wikipedia.org/wiki/Common_sense)
 * [Title IX](https://en.wikipedia.org/wiki/Title_IX)
 * [Bystander effect](https://en.wikipedia.org/wiki/Bystander_effect)
-* [Bystander intervention](https://en.wikipedia.org/wiki/Bystander_intervention): Direct, Dsitract, Delegate, Document
+* [Bystander intervention](https://en.wikipedia.org/wiki/Bystander_intervention): Direct, Distract, Delegate, Document
 * [Hazing](https://en.wikipedia.org/wiki/Hazing)
 * [WITH US](https://www.withus.org/) Center for Bystander Intervention at [Cal Poly](https://en.wikipedia.org/wiki/California_Polytechnic_State_University,_San_Luis_Obispo)
   * [National College Student Bystander Intervention Study](https://www.withus.org/bystanderstudy) (NCSBIS)
