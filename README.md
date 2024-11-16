@@ -441,6 +441,8 @@
 * [Alcohol intolerance](https://en.wikipedia.org/wiki/Alcohol_intolerance)
 * [Good Samaritan law](https://en.wikipedia.org/wiki/Good_Samaritan_law)
 * [Consent](https://en.wikipedia.org/wiki/Consent)
+* [Clery Act](https://en.wikipedia.org/wiki/Clery_Act)
+* [Family Educational Rights and Privacy Act](https://en.wikipedia.org/wiki/Family_Educational_Rights_and_Privacy_Act) (FERPA)
 ## Week 12: Leading With Integrity: Foundations in Leadership and Ethics
 * [Leadership](https://en.wikipedia.org/wiki/Leadership)
 * [Distributed leadership](https://en.wikipedia.org/wiki/Distributed_leadership)
