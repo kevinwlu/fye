@@ -449,6 +449,7 @@
 * [Alcohol intolerance](https://en.wikipedia.org/wiki/Alcohol_intolerance)
 * [Good Samaritan law](https://en.wikipedia.org/wiki/Good_Samaritan_law)
 * [Consent](https://en.wikipedia.org/wiki/Consent)
+* [People v. Turner](https://en.wikipedia.org/wiki/People_v._Turner)
 * [Clery Act](https://en.wikipedia.org/wiki/Clery_Act)
 * [Family Educational Rights and Privacy Act](https://en.wikipedia.org/wiki/Family_Educational_Rights_and_Privacy_Act) (FERPA)
 * [Miranda warning](https://en.wikipedia.org/wiki/Miranda_warning)
