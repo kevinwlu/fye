@@ -423,6 +423,7 @@
   * [Universalism](https://en.wikipedia.org/wiki/Universalism)
   * [Solidarity](https://en.wikipedia.org/wiki/Solidarity)
 * [Bias](https://en.wikipedia.org/wiki/Bias)
+  * [List of cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
 * [Microaggression](https://en.wikipedia.org/wiki/Microaggression)
 * [Bullying](https://en.wikipedia.org/wiki/Bullying)
 * [Bullying of students in higher education](https://en.wikipedia.org/wiki/Bullying_of_students_in_higher_education)
@@ -466,6 +467,10 @@
 * [Distributed leadership](https://en.wikipedia.org/wiki/Distributed_leadership)
 * [Shared leadership](https://en.wikipedia.org/wiki/Shared_leadership)
 * [Ethics](https://en.wikipedia.org/wiki/Ethics)
+  * [Utilitarianism](https://en.wikipedia.org/wiki/Utilitarianism)
+  * [Deontology](https://en.wikipedia.org/wiki/Deontology)
+  * [Virtue ethics](https://en.wikipedia.org/wiki/Virtue_ethics)
+* [John Rawls](https://en.wikipedia.org/wiki/John_Rawls) 1921&mdash;2002
 * [What’s the Difference Between Morality and Ethics?](https://www.britannica.com/story/whats-the-difference-between-morality-and-ethics)
 * [What Is Ethics in Research & Why Is It Important?](https://www.niehs.nih.gov/research/resources/bioethics/whatis) December 23, 2020 by [David B. Resnik](https://www.niehs.nih.gov/research/resources/bioethics/bioethicist)
 * [Trolley problem](https://en.wikipedia.org/wiki/Trolley_problem)
