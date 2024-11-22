@@ -466,6 +466,13 @@
 * [Distributed leadership](https://en.wikipedia.org/wiki/Distributed_leadership)
 * [Shared leadership](https://en.wikipedia.org/wiki/Shared_leadership)
 * [Ethics](https://en.wikipedia.org/wiki/Ethics)
+* [What’s the Difference Between Morality and Ethics?](https://www.britannica.com/story/whats-the-difference-between-morality-and-ethics)
+* [Trolley problem](https://en.wikipedia.org/wiki/Trolley_problem)
+* [*How to Be Perfect*](https://en.wikipedia.org/wiki/How_to_Be_Perfect) and [*The Good Place*](https://en.wikipedia.org/wiki/The_Good_Place) by [Michael Schur](https://en.wikipedia.org/wiki/Michael_Schur)
+* [Ethics of artificial intelligence](https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence)
+  * [Superalignment](https://openai.com/index/introducing-superalignment/) July 5, 2023
+  * [AI alignment](https://en.wikipedia.org/wiki/AI_alignment)
+  * [Autonomous intelligent systems](https://standards.ieee.org/initiatives/autonomous-intelligence-systems/) (AIS)
 * [Stanford prison experiment](https://en.wikipedia.org/wiki/Stanford_prison_experiment)
 * [Institutional review board](https://en.wikipedia.org/wiki/Institutional_review_board) (IRB)
 * [Joseph Telushkin](https://en.wikipedia.org/wiki/Joseph_Telushkin), "Moral imagination is the ability to think through the implications of our actions, particularly as to how they will affect others."
