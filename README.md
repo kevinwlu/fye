@@ -472,7 +472,7 @@
 * [Ethics of artificial intelligence](https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence)
   * [Superalignment](https://openai.com/index/introducing-superalignment/) July 5, 2023
   * [AI alignment](https://en.wikipedia.org/wiki/AI_alignment)
-  * [Autonomous intelligent systems](https://standards.ieee.org/initiatives/autonomous-intelligence-systems/) (AIS)
+  * [IEEE Standards Association Initiatives](https://standards.ieee.org/initiatives/) | [Autonomous intelligent systems](https://standards.ieee.org/initiatives/autonomous-intelligence-systems/) (AIS)
 * [Stanford prison experiment](https://en.wikipedia.org/wiki/Stanford_prison_experiment)
 * [Institutional review board](https://en.wikipedia.org/wiki/Institutional_review_board) (IRB)
 * [Joseph Telushkin](https://en.wikipedia.org/wiki/Joseph_Telushkin), "Moral imagination is the ability to think through the implications of our actions, particularly as to how they will affect others."
