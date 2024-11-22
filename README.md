@@ -467,6 +467,7 @@
 * [Shared leadership](https://en.wikipedia.org/wiki/Shared_leadership)
 * [Ethics](https://en.wikipedia.org/wiki/Ethics)
 * [What’s the Difference Between Morality and Ethics?](https://www.britannica.com/story/whats-the-difference-between-morality-and-ethics)
+* [What Is Ethics in Research & Why Is It Important?](https://www.niehs.nih.gov/research/resources/bioethics/whatis) December 23, 2020 by [David B. Resnik](https://www.niehs.nih.gov/research/resources/bioethics/bioethicist)
 * [Trolley problem](https://en.wikipedia.org/wiki/Trolley_problem)
 * [Michael Schur](https://en.wikipedia.org/wiki/Michael_Schur)
   * [*How to Be Perfect*](https://en.wikipedia.org/wiki/How_to_Be_Perfect) 2022
@@ -480,6 +481,7 @@
 * [Institutional review board](https://en.wikipedia.org/wiki/Institutional_review_board) (IRB)
 * [Joseph Telushkin](https://en.wikipedia.org/wiki/Joseph_Telushkin), "Moral imagination is the ability to think through the implications of our actions, particularly as to how they will affect others."
 * [Henry Ward Beecher](https://en.wikipedia.org/wiki/Henry_Ward_Beecher) 1813—1887, “Expedients are for the hour; principles for the ages.”
+* [Thomas Babington Macaulay](https://en.wikipedia.org/wiki/Thomas_Babington_Macaulay) 1800&mdash;1859, "The measure of a man's real character is what he would do if he knew he would never be found out."
 ## Week 13: Building Social and Emotional Intelligence Through Involvement and Leadership
 * Video [Getting Involved](https://www.youtube.com/watch?v=Pvx_T2bzQvQ)
 * Video [Ron's Method vs. Chris' Method | Parks and Recreation](https://www.youtube.com/watch?v=iegCuhhXwi0), January 3, 2023
