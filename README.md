@@ -513,6 +513,11 @@
 * [Medical Reserve Corps](https://en.wikipedia.org/wiki/Medical_Reserve_Corps) (MRA)
 ## Week 14: Making Your Mark: Reflecting on Growth and Setting Your Legacy
 * Video [A Wall of Words! | SoulPancake Street Team](https://www.youtube.com/watch?v=qUHgbixI9k0), June 12, 2013
+* [Tag cloud](https://en.wikipedia.org/wiki/Tag_cloud)
+* [Advice (opinion)](https://en.wikipedia.org/wiki/Advice_(opinion))
+* [Coaching](https://en.wikipedia.org/wiki/Coaching)
+* [Mentorship](https://en.wikipedia.org/wiki/Mentorship)
+* [Lifelong learning](https://en.wikipedia.org/wiki/Lifelong_learning)
 ## Improv
 * [Improvisation](https://en.wikipedia.org/wiki/Improvisation)
 * [Improvisational theatre](https://en.wikipedia.org/wiki/Improvisational_theatre)
