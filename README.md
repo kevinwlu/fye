@@ -477,7 +477,9 @@
   * [Utilitarianism](https://en.wikipedia.org/wiki/Utilitarianism)
   * [Deontology](https://en.wikipedia.org/wiki/Deontology)
   * [Virtue ethics](https://en.wikipedia.org/wiki/Virtue_ethics)
+* [Code of conduct](https://en.wikipedia.org/wiki/Code_of_conduct)
 * [John Rawls](https://en.wikipedia.org/wiki/John_Rawls) 1921&mdash;2002
+  * [*A Theory of Justice*](https://en.wikipedia.org/wiki/A_Theory_of_Justice) 1971
 * [What’s the Difference Between Morality and Ethics?](https://www.britannica.com/story/whats-the-difference-between-morality-and-ethics)
 * [What Is Ethics in Research & Why Is It Important?](https://www.niehs.nih.gov/research/resources/bioethics/whatis) December 23, 2020 by [David B. Resnik](https://www.niehs.nih.gov/research/resources/bioethics/bioethicist)
 * [Trolley problem](https://en.wikipedia.org/wiki/Trolley_problem)
