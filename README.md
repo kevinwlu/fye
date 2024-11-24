@@ -49,6 +49,9 @@
   * [Duck](https://en.wikipedia.org/wiki/Duck)
   * [Amphibian](https://en.wikipedia.org/wiki/Amphibian)
   * [Triphibian](https://en.wiktionary.org/wiki/triphibian), e.g., a duck can move on land, water, or in the air
+  * [Duck curve](https://en.wikipedia.org/wiki/Duck_curve)
+    * [Dunkelflaute](https://en.wikipedia.org/wiki/Dunkelflaute)
+  * [Lame duck (politics)](https://en.wikipedia.org/wiki/Lame_duck_(politics))
 * [Khoda Senior Honor Society](https://web.stevens.edu/khoda/index.html)
   * [Is Khoda still alive?](https://thestute.com/2022/02/18/is-khoda-still-alive/), February 18, 2022
 * [List of presidents of Stevens Institute of Technology](https://en.wikipedia.org/wiki/List_of_presidents_of_Stevens_Institute_of_Technology)
