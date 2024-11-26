@@ -176,6 +176,7 @@
 * Video [Email Blunders](https://www.youtube.com/watch?v=eLqLbqnj6aY)
 * [David Allen](https://en.wikipedia.org/wiki/David_Allen_(author)), [*Getting Things Done*](https://en.wikipedia.org/wiki/Getting_Things_Done) 2001, "You can do anything, but not everything."
 * [Tom Wayman](https://en.wikipedia.org/wiki/Tom_Wayman), ["Did I Miss Anything?"](https://www.loc.gov/programs/poetry-and-literature/poet-laureate/poet-laureate-projects/poetry-180/all-poems/item/poetry-180-013/did-i-miss-anything/)
+* [Is the glass half empty or half full?](https://en.wikipedia.org/wiki/Is_the_glass_half_empty_or_half_full%3F)
 * [Success](https://en.wikipedia.org/wiki/Success)
 * [Introspection](https://en.wikipedia.org/wiki/Introspection)
 * [Mnemonic](https://en.wikipedia.org/wiki/Mnemonic)
