@@ -511,6 +511,7 @@
 * [Social consciousness](https://en.wikipedia.org/wiki/Social_consciousness)
 * [Abraham Maslow](https://en.wikipedia.org/wiki/Abraham_Maslow) 1908&mdash;1970
   * [Maslow's hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
+* [Sustainable Development Goals](https://en.wikipedia.org/wiki/Sustainable_Development_Goals) (SDGs)
 ## Week 14: Making Your Mark: Reflecting on Growth and Setting Your Legacy
 * Video [A Wall of Words! | SoulPancake Street Team](https://www.youtube.com/watch?v=qUHgbixI9k0), June 12, 2013
 * [Tag cloud](https://en.wikipedia.org/wiki/Tag_cloud)
@@ -519,6 +520,9 @@
 * [Mentorship](https://en.wikipedia.org/wiki/Mentorship)
 * [Lifelong learning](https://en.wikipedia.org/wiki/Lifelong_learning)
 * [Army Corps Civil Engineer Still Puts in the Hours at 92](https://www.nad.usace.army.mil/Media/News-Releases/Article/3787977/army-corps-civil-engineer-still-puts-in-the-hours-at-92/), May 26, 2024
+  * [United States Army Corps of Engineers](https://en.wikipedia.org/wiki/United_States_Army_Corps_of_Engineers) (USACE)
+* [Regulation and licensure in engineering](https://en.wikipedia.org/wiki/Regulation_and_licensure_in_engineering)
+* [Order of the Engineer](https://en.wikipedia.org/wiki/Order_of_the_Engineer)
 * [Community emergency response team](https://en.wikipedia.org/wiki/Community_emergency_response_team) (CERT)
 * [Crossing guard](https://en.wikipedia.org/wiki/Crossing_guard)
   * [Jay-driver](https://en.wikipedia.org/wiki/Jay-driver)
