@@ -511,11 +511,6 @@
 * [Social consciousness](https://en.wikipedia.org/wiki/Social_consciousness)
 * [Abraham Maslow](https://en.wikipedia.org/wiki/Abraham_Maslow) 1908&mdash;1970
   * [Maslow's hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
-* [Community emergency response team](https://en.wikipedia.org/wiki/Community_emergency_response_team) (CERT)
-* [Crossing guard](https://en.wikipedia.org/wiki/Crossing_guard)
-  * [Jay-driver](https://en.wikipedia.org/wiki/Jay-driver)
-  * [Jaywalking](https://en.wikipedia.org/wiki/Jaywalking)
-* [Medical Reserve Corps](https://en.wikipedia.org/wiki/Medical_Reserve_Corps) (MRA)
 ## Week 14: Making Your Mark: Reflecting on Growth and Setting Your Legacy
 * Video [A Wall of Words! | SoulPancake Street Team](https://www.youtube.com/watch?v=qUHgbixI9k0), June 12, 2013
 * [Tag cloud](https://en.wikipedia.org/wiki/Tag_cloud)
@@ -524,6 +519,11 @@
 * [Mentorship](https://en.wikipedia.org/wiki/Mentorship)
 * [Lifelong learning](https://en.wikipedia.org/wiki/Lifelong_learning)
 * [Army Corps Civil Engineer Still Puts in the Hours at 92](https://www.nad.usace.army.mil/Media/News-Releases/Article/3787977/army-corps-civil-engineer-still-puts-in-the-hours-at-92/), May 26, 2024
+* [Community emergency response team](https://en.wikipedia.org/wiki/Community_emergency_response_team) (CERT)
+* [Crossing guard](https://en.wikipedia.org/wiki/Crossing_guard)
+  * [Jay-driver](https://en.wikipedia.org/wiki/Jay-driver)
+  * [Jaywalking](https://en.wikipedia.org/wiki/Jaywalking)
+* [Medical Reserve Corps](https://en.wikipedia.org/wiki/Medical_Reserve_Corps) (MRA)
 ## Improv
 * [Improvisation](https://en.wikipedia.org/wiki/Improvisation)
 * [Improvisational theatre](https://en.wikipedia.org/wiki/Improvisational_theatre)
