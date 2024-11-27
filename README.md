@@ -523,6 +523,7 @@
 * [Coaching](https://en.wikipedia.org/wiki/Coaching)
 * [Mentorship](https://en.wikipedia.org/wiki/Mentorship)
 * [Lifelong learning](https://en.wikipedia.org/wiki/Lifelong_learning)
+* [Army Corps Civil Engineer Still Puts in the Hours at 92](https://www.nad.usace.army.mil/Media/News-Releases/Article/3787977/army-corps-civil-engineer-still-puts-in-the-hours-at-92/), May 26, 2024
 ## Improv
 * [Improvisation](https://en.wikipedia.org/wiki/Improvisation)
 * [Improvisational theatre](https://en.wikipedia.org/wiki/Improvisational_theatre)
