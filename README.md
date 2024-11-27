@@ -501,6 +501,7 @@
 ## Week 13: Building Social and Emotional Intelligence Through Involvement and Leadership
 * Video [Getting Involved](https://www.youtube.com/watch?v=Pvx_T2bzQvQ)
 * Video [Ron's Method vs. Chris' Method | Parks and Recreation](https://www.youtube.com/watch?v=iegCuhhXwi0), January 3, 2023
+* [John C. Maxwell](https://en.wikipedia.org/wiki/John_C._Maxwell), "A leader is one who knows the way, goes the way, and shows the way."
 * [Social intelligence](https://en.wikipedia.org/wiki/Social_intelligence)
 * [Emotional intelligence](https://en.wikipedia.org/wiki/Emotional_intelligence)
 * [Emotional self-regulation](https://en.wikipedia.org/wiki/Emotional_self-regulation)
