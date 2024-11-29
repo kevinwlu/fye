@@ -515,6 +515,7 @@
 * [Environmental, social, and governance](https://en.wikipedia.org/wiki/Environmental,_social,_and_governance) (ESG)
 ## Week 14: Making Your Mark: Reflecting on Growth and Setting Your Legacy
 * Video [A Wall of Words! | SoulPancake Street Team](https://www.youtube.com/watch?v=qUHgbixI9k0), June 12, 2013
+  * [Participant Media, LLC](https://en.wikipedia.org/wiki/Participant_(company)) was founded in 2004, acquired SoulPancake in 2016, and was defunct on April 16, 2024
 * [Tag cloud](https://en.wikipedia.org/wiki/Tag_cloud)
 * [Advice (opinion)](https://en.wikipedia.org/wiki/Advice_(opinion))
 * [Coaching](https://en.wikipedia.org/wiki/Coaching)
