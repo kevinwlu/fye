@@ -509,6 +509,10 @@
 * [Self-awareness](https://en.wikipedia.org/wiki/Self-awareness)
 * [Social conscience](https://en.wikipedia.org/wiki/Social_conscience)
 * [Social consciousness](https://en.wikipedia.org/wiki/Social_consciousness)
+* [Personal network](https://en.wikipedia.org/wiki/Personal_network)
+* [Advice (opinion)](https://en.wikipedia.org/wiki/Advice_(opinion))
+* [Coaching](https://en.wikipedia.org/wiki/Coaching)
+* [Mentorship](https://en.wikipedia.org/wiki/Mentorship)
 * [Abraham Maslow](https://en.wikipedia.org/wiki/Abraham_Maslow) 1908&mdash;1970
   * [Maslow's hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
 * [Sustainable Development Goals](https://en.wikipedia.org/wiki/Sustainable_Development_Goals) (SDGs)
@@ -517,9 +521,8 @@
 * Video [A Wall of Words! | SoulPancake Street Team](https://www.youtube.com/watch?v=qUHgbixI9k0), June 12, 2013
   * [Participant Media, LLC](https://en.wikipedia.org/wiki/Participant_(company)) was founded in 2004, acquired SoulPancake in 2016, and was defunct on April 16, 2024
 * [Tag cloud](https://en.wikipedia.org/wiki/Tag_cloud)
-* [Advice (opinion)](https://en.wikipedia.org/wiki/Advice_(opinion))
-* [Coaching](https://en.wikipedia.org/wiki/Coaching)
-* [Mentorship](https://en.wikipedia.org/wiki/Mentorship)
+* [Reputation](https://en.wikipedia.org/wiki/Reputation)
+* [Role model](https://en.wikipedia.org/wiki/Role_model)
 * [Lifelong learning](https://en.wikipedia.org/wiki/Lifelong_learning)
 * [Army Corps Civil Engineer Still Puts in the Hours at 92](https://www.nad.usace.army.mil/Media/News-Releases/Article/3787977/army-corps-civil-engineer-still-puts-in-the-hours-at-92/), May 26, 2024
   * [United States Army Corps of Engineers](https://en.wikipedia.org/wiki/United_States_Army_Corps_of_Engineers) (USACE)
