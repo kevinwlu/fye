@@ -525,6 +525,9 @@
   * [United States Army Corps of Engineers](https://en.wikipedia.org/wiki/United_States_Army_Corps_of_Engineers) (USACE)
 * [Regulation and licensure in engineering](https://en.wikipedia.org/wiki/Regulation_and_licensure_in_engineering)
 * [Order of the Engineer](https://en.wikipedia.org/wiki/Order_of_the_Engineer)
+  * Video [2023 Order of the Engineer at Stevens](https://www.youtube.com/watch?v=dGB1GiCfJwQ), May 23, 2023
+  * ["I Am Responsible for My Creations": What it Means to Be an Engineer](https://www.stevens.edu/news/i-am-responsible-for-my-creations-what-it-means-to-be-an-engineer), July 20, 2023
+  * [Stevens Inducts More Than 200 Graduating Seniors into the Order of the Engineer](https://www.stevens.edu/news/stevens-inducts-more-than-200-graduating-seniors-into-the-order-of-the) August 1, 2022
 * [Community emergency response team](https://en.wikipedia.org/wiki/Community_emergency_response_team) (CERT)
 * [Crossing guard](https://en.wikipedia.org/wiki/Crossing_guard)
   * [Jay-driver](https://en.wikipedia.org/wiki/Jay-driver)
