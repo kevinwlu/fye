@@ -2,6 +2,7 @@
 * [SUCCESS — Stevens Undergraduate Core Curriculum: Essential Skills for Success](https://www.stevens.edu/academics/undergraduate-study/success-the-stevens-core-curriculum)
   * [Recursive acronym](https://en.wikipedia.org/wiki/Recursive_acronym)
   * [Self-reference](https://en.wikipedia.org/wiki/Self-reference)
+  * [Stevens Announces Innovative New Core Curriculum: SUCCESS](https://www.stevens.edu/news/stevens-announces-innovative-new-core-curriculum-success)
 * [The First-Year Experience Program](https://en.wikipedia.org/wiki/The_First-Year_Experience_Program)
 * [*The Stute: The independent student newspaper of Stevens Institute of Technology*](https://thestute.com/)
   * [A look into the First Year Experience course](https://thestute.com/2024/09/06/a-look-into-the-first-year-experience-course/), September 6, 2024
@@ -375,16 +376,20 @@
 * [University Affiliated Research Center](https://en.wikipedia.org/wiki/University_Affiliated_Research_Center) (UARC)
 * [Systems Engineering Research Center](https://sercuarc.org/) (SERC)
   * [Capstone Marketplace](https://sercuarc.org/capstone-marketplace/)
+* [Sharing Space With NASA](https://www.stevens.edu/news/carving-out-space-nasa), November 19, 2023
 * [Reserve Officers' Training Corps](https://en.wikipedia.org/wiki/Reserve_Officers'_Training_Corps) (ROTC)
 * [Defense Civilian Training Corps](https://en.wikipedia.org/wiki/Defense_Civilian_Training_Corps) (DCTC)
 * [Entrepreneurship](https://en.wikipedia.org/wiki/Entrepreneurship)
 * [iSTEM@Stevens](https://www.stevens.edu/istem)
 * [Launchpad@Stevens](https://www.stevens.edu/school-engineering-science/launchpad)
+  * [Scholl Launchpad Awards Support Student Innovation at Stevens](https://www.stevens.edu/news/scholl-launchpad-awards-support-student-innovation-at-stevens), February 15, 2024
+  * [Thomas H. Scholl Awards Fuel Launchpad Innovations](https://www.stevens.edu/news/thomas-h-scholl-awards-fuel-launchpad-innovations), February 3, 2023
 * [Ansary Entrepreneurship Competition](https://www.stevens.edu/ansary-entrepreneurship-competition)
-* [Cyrus A. Ansary](https://en.wikipedia.org/wiki/Cyrus_A._Ansary)
-* Video [Ansary Entrepreneurship Competition](https://www.youtube.com/watch?v=wmFZ7QeU_oU), April 26, 2024
-* Video [Ansary Entrepreneurship Competition](https://www.youtube.com/watch?v=sF_2Pl72v_0), April 28, 2023
-* Video [Ansary Entrepreneurship Competition](https://www.youtube.com/watch?v=9ThfHbhPoYA), April 29, 2022
+   * [Cyrus A. Ansary](https://en.wikipedia.org/wiki/Cyrus_A._Ansary)
+   * [Excelling in Innovation & Entrepreneurship](https://www.stevens.edu/news/excelling-in-innovation-and-entrepreneurship), October 31, 2023
+   * Video [Ansary Entrepreneurship Competition](https://www.youtube.com/watch?v=wmFZ7QeU_oU), April 26, 2024
+   * Video [Ansary Entrepreneurship Competition](https://www.youtube.com/watch?v=sF_2Pl72v_0), April 28, 2023
+   * Video [Ansary Entrepreneurship Competition](https://www.youtube.com/watch?v=9ThfHbhPoYA), April 29, 2022
 * [Robert Daniel Kern](https://grainger.illinois.edu/alumni/hall-of-fame/9644) 1925—2022 founded [Generac](https://en.wikipedia.org/wiki/Generac) in 1959 and the [Kern Family Foundation](https://www.kffdn.org/) in 1998 that supported the [Kern Entrepreneurial Engineering Network]() (KEEN), [Project Lead the Way](https://en.wikipedia.org/wiki/Project_Lead_the_Way) (PLTW)
 * 3 Cs mindset
   * Curiosity — Investigate a rapidly changing world with insatiable curiosity
@@ -517,6 +522,14 @@
   * [Maslow's hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
 * [Sustainable Development Goals](https://en.wikipedia.org/wiki/Sustainable_Development_Goals) (SDGs)
 * [Environmental, social, and governance](https://en.wikipedia.org/wiki/Environmental,_social,_and_governance) (ESG)
+* [Volunteering](https://en.wikipedia.org/wiki/Volunteering)
+  * [Global Youth Service Day](https://en.wikipedia.org/wiki/Global_Youth_Service_Day)
+  * [International Volunteer Day](https://en.wikipedia.org/wiki/International_Volunteer_Day): December 5
+* [Community emergency response team](https://en.wikipedia.org/wiki/Community_emergency_response_team) (CERT)
+* [Crossing guard](https://en.wikipedia.org/wiki/Crossing_guard)
+  * [Jay-driver](https://en.wikipedia.org/wiki/Jay-driver)
+  * [Jaywalking](https://en.wikipedia.org/wiki/Jaywalking)
+* [Medical Reserve Corps](https://en.wikipedia.org/wiki/Medical_Reserve_Corps) (MRA)
 ## Week 14: Making Your Mark: Reflecting on Growth and Setting Your Legacy
 * Video [A Wall of Words! | SoulPancake Street Team](https://www.youtube.com/watch?v=qUHgbixI9k0), June 12, 2013
   * [Participant Media, LLC](https://en.wikipedia.org/wiki/Participant_(company)) was founded in 2004, acquired SoulPancake in 2016, and was defunct on April 16, 2024
@@ -530,12 +543,20 @@
 * [Order of the Engineer](https://en.wikipedia.org/wiki/Order_of_the_Engineer)
   * Video [2023 Order of the Engineer at Stevens](https://www.youtube.com/watch?v=dGB1GiCfJwQ), May 23, 2023
   * ["I Am Responsible for My Creations": What it Means to Be an Engineer](https://www.stevens.edu/news/i-am-responsible-for-my-creations-what-it-means-to-be-an-engineer), July 20, 2023
-  * [Stevens Inducts More Than 200 Graduating Seniors into the Order of the Engineer](https://www.stevens.edu/news/stevens-inducts-more-than-200-graduating-seniors-into-the-order-of-the) August 1, 2022
-* [Community emergency response team](https://en.wikipedia.org/wiki/Community_emergency_response_team) (CERT)
-* [Crossing guard](https://en.wikipedia.org/wiki/Crossing_guard)
-  * [Jay-driver](https://en.wikipedia.org/wiki/Jay-driver)
-  * [Jaywalking](https://en.wikipedia.org/wiki/Jaywalking)
-* [Medical Reserve Corps](https://en.wikipedia.org/wiki/Medical_Reserve_Corps) (MRA)
+  * [Stevens Inducts More Than 200 Graduating Seniors into the Order of the Engineer](https://www.stevens.edu/news/stevens-inducts-more-than-200-graduating-seniors-into-the-order-of-the), August 1, 2022
+* [Stevens Students Blaze Trails Offroad in SAE Baja Competition](https://www.stevens.edu/news/sae-baja-competition), July 31, 2024
+* [Sweet Beats, Cancer Killers, Magic Mushrooms and More: How Stevens’ 2024 Innovation Expo Rocked the House](https://www.stevens.edu/news/sweet-beats-cancer-killers-magic-mushrooms-and-more-how-stevens-2024), May 2, 2024
+* [Stevens Seniors Advance Health & Medicine at Innovation Expo 2024](https://www.stevens.edu/news/health-medicine-innovation-expo-2024), April 26, 2024
+* [How Industry and Government Partners, Including L3Harris, Champion Senior Design at Stevens](https://www.stevens.edu/news/how-industry-and-government-partners-including-l3harris-champion-senior), May 23, 2023
+* [This Stevens Institute of Technology Student Got a Head Start in Engineering: The budding power engineer started her career at 16](https://spectrum.ieee.org/megan-dion-student-profile), May 22, 2023
+* [Bright Bots, Dexterous Drones, Tight Grooves and Great Ideas: 2023 Innovation Expo Showcased Student Ingenuity](https://www.stevens.edu/news/bright-bots-dexterous-drones-tight-grooves-and-great-ideas-2023-innovation), May 2, 2023
+* [Pick Six: Six (of 200+) Reasons to Attend Stevens’ 2023 Innovation Expo April 28](https://www.stevens.edu/news/pick-six-six-of-200-reasons-to-attend-stevens-2023-innovation-expo-april-28), April 13, 2023
+* [Student–Athlete and Pinnacle Scholar Megan Dion Wins Electrical Engineering Scholarship](https://www.stevens.edu/news/student-athlete-and-pinnacle-scholar-megan-dion-wins-electrical-engineering), March 7, 2023
+* [Stevens Experience Jumpstarts Computer Engineering Alum’s Career](https://www.stevens.edu/news/stevens-experience-jumpstarts-computer-engineering-alums-career), December 21, 2022
+* [A Team Player and Role Model — Professionally, Academically and Athletically](https://www.stevens.edu/news/honored-for-high-academic-and-athletic-achievements-leadership-and-service), November 3, 2022
+* [Seniors Design Intelligent Greenhouse to Grow a More Sustainable Food Supply](https://www.stevens.edu/news/seniors-design-intelligent-greenhouse-grow-more-sustainable-food-supply), June 3, 2022
+* [Stevens’ 2022 Innovation Expo Offered Hot Licks, Cool Tech, Dueling Robots — and More](https://www.stevens.edu/news/stevens-2022-innovation-expo-offered-hot-licks-cool-tech-dueling-robots--and-more), May 10, 2022
+* [Pick 6: Six Reasons You Need to Attend Stevens Institute of Technology’s 2022 Innovation Expo on April 29](https://www.stevens.edu/news/pick-6-six-reasons-you-need-attend-stevens-institute-technologys-2022-innovation-expo-april-29), April 23, 2022
 ## Improv
 * [Improvisation](https://en.wikipedia.org/wiki/Improvisation)
 * [Improvisational theatre](https://en.wikipedia.org/wiki/Improvisational_theatre)
