@@ -510,8 +510,13 @@
 * [John C. Maxwell](https://en.wikipedia.org/wiki/John_C._Maxwell), "A leader is one who knows the way, goes the way, and shows the way."
 * [Social intelligence](https://en.wikipedia.org/wiki/Social_intelligence)
 * [Emotional intelligence](https://en.wikipedia.org/wiki/Emotional_intelligence)
+* [Emotion classification](https://en.wikipedia.org/wiki/Emotion_classification)
+  * [Robert Plutchik](https://en.wikipedia.org/wiki/Robert_Plutchik) 1927&mdash;2006
 * [Emotional self-regulation](https://en.wikipedia.org/wiki/Emotional_self-regulation)
-* [Empathy](https://en.wikipedia.org/wiki/Empathy)
+* [Empathy](https://en.wikipedia.org/wiki/Empathy): others' suffering brings us suffering
+* [Envy](https://en.wikipedia.org/wiki/Envy): others' happiness brings us suffering
+* [Schadenfreude](https://en.wikipedia.org/wiki/Schadenfreude): others' suffering brings us happiness
+* [Mudita](https://en.wikipedia.org/wiki/Mudita): others' happiness brings us happiness
 * [Self-awareness](https://en.wikipedia.org/wiki/Self-awareness)
 * [Social conscience](https://en.wikipedia.org/wiki/Social_conscience)
 * [Social consciousness](https://en.wikipedia.org/wiki/Social_consciousness)
