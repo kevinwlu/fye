@@ -384,6 +384,7 @@
 * [Launchpad@Stevens](https://www.stevens.edu/school-engineering-science/launchpad)
   * [Scholl Launchpad Awards Support Student Innovation at Stevens](https://www.stevens.edu/news/scholl-launchpad-awards-support-student-innovation-at-stevens), February 15, 2024
   * [Thomas H. Scholl Awards Fuel Launchpad Innovations](https://www.stevens.edu/news/thomas-h-scholl-awards-fuel-launchpad-innovations), February 3, 2023
+* [Thomas H. Scholl Lecture by Visiting Entrepreneurs](https://www.stevens.edu/page-basic/thomas-h-scholl-lecture-by-visiting-entrepreneurs)
 * [Ansary Entrepreneurship Competition](https://www.stevens.edu/ansary-entrepreneurship-competition)
    * [Cyrus A. Ansary](https://en.wikipedia.org/wiki/Cyrus_A._Ansary)
    * [Excelling in Innovation & Entrepreneurship](https://www.stevens.edu/news/excelling-in-innovation-and-entrepreneurship), October 31, 2023
