@@ -558,6 +558,7 @@
 * [Stevens Seniors Advance Health & Medicine at Innovation Expo 2024](https://www.stevens.edu/news/health-medicine-innovation-expo-2024), April 26, 2024
 * [How Industry and Government Partners, Including L3Harris, Champion Senior Design at Stevens](https://www.stevens.edu/news/how-industry-and-government-partners-including-l3harris-champion-senior), May 23, 2023
 * [This Stevens Institute of Technology Student Got a Head Start in Engineering: The budding power engineer started her career at 16](https://spectrum.ieee.org/megan-dion-student-profile), May 22, 2023
+* [Rediscovering the Language of Family Connections](https://www.stevens.edu/news/rediscovering-the-language-of-family-connections), May 19, 2023
 * [Bright Bots, Dexterous Drones, Tight Grooves and Great Ideas: 2023 Innovation Expo Showcased Student Ingenuity](https://www.stevens.edu/news/bright-bots-dexterous-drones-tight-grooves-and-great-ideas-2023-innovation), May 2, 2023
 * [Pick Six: Six (of 200+) Reasons to Attend Stevens’ 2023 Innovation Expo April 28](https://www.stevens.edu/news/pick-six-six-of-200-reasons-to-attend-stevens-2023-innovation-expo-april-28), April 13, 2023
 * [Student–Athlete and Pinnacle Scholar Megan Dion Wins Electrical Engineering Scholarship](https://www.stevens.edu/news/student-athlete-and-pinnacle-scholar-megan-dion-wins-electrical-engineering), March 7, 2023
@@ -566,6 +567,12 @@
 * [Seniors Design Intelligent Greenhouse to Grow a More Sustainable Food Supply](https://www.stevens.edu/news/seniors-design-intelligent-greenhouse-grow-more-sustainable-food-supply), June 3, 2022
 * [Stevens’ 2022 Innovation Expo Offered Hot Licks, Cool Tech, Dueling Robots — and More](https://www.stevens.edu/news/stevens-2022-innovation-expo-offered-hot-licks-cool-tech-dueling-robots--and-more), May 10, 2022
 * [Pick 6: Six Reasons You Need to Attend Stevens Institute of Technology’s 2022 Innovation Expo on April 29](https://www.stevens.edu/news/pick-6-six-reasons-you-need-attend-stevens-institute-technologys-2022-innovation-expo-april-29), April 23, 2022
+* [Stevens Institute of Technology’s Innovation Expo Showcases Student Inventions](https://www.stevens.edu/news/stevens-institute-technologys-innovation-expo-showcases-student-inventions), May 5, 2021
+* [How A University Pivoted to Virtual Instruction and Learning As the COVID-19 Crisis Escalated](https://www.stevens.edu/news/how-university-pivoted-virtual-learning-covid-19-crisis-escalated), May 29, 2020
+* [While Living Through a Pandemic, Stevens Class of 2020 Prepare to Make Its Mark](https://www.stevens.edu/news/while-living-through-pandemic-stevens-class-2020-prepare-make-their-mark), April 17, 2020
+* [With Athletic Season Cut Short, Stevens’ Star Volleyball Player Helps Process COVID-19 Tests Back Home, and Looks Ahead to Internship With the Navy](https://www.stevens.edu/news/athletic-season-cut-short-stevens-star-volleyball-player-helps-process-covid-19-tests-back-home-and), April 10, 2020
+* [Stevens Seniors Code Smart Watch App to Monitor Panic Attacks and Foster Communication Between Patients and Therapists](https://www.stevens.edu/news/stevens-seniors-code-smart-watch-app-monitor-panic-attacks-and-foster-communication-between-patients), April 8, 2020
+* [Grace Hopper Celebration of Women in Computing Tells Women to Dream Big](https://www.stevens.edu/news/grace-hopper-celebration-women-computing-tells-women-dream-big), February 5, 2020
 ## Improv
 * [Improvisation](https://en.wikipedia.org/wiki/Improvisation)
 * [Improvisational theatre](https://en.wikipedia.org/wiki/Improvisational_theatre)
