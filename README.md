@@ -514,6 +514,8 @@
   * [Robert Plutchik](https://en.wikipedia.org/wiki/Robert_Plutchik) 1927&mdash;2006
 * [Emotional self-regulation](https://en.wikipedia.org/wiki/Emotional_self-regulation)
 * [Empathy](https://en.wikipedia.org/wiki/Empathy): others' suffering brings us suffering
+* [Happiness](https://en.wikipedia.org/wiki/Happiness)
+* [Suffering](https://en.wikipedia.org/wiki/Suffering)
 * [Envy](https://en.wikipedia.org/wiki/Envy): others' happiness brings us suffering
 * [Schadenfreude](https://en.wikipedia.org/wiki/Schadenfreude): others' suffering brings us happiness
 * [Mudita](https://en.wikipedia.org/wiki/Mudita): others' happiness brings us happiness
