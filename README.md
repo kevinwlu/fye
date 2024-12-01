@@ -573,6 +573,7 @@
 * [With Athletic Season Cut Short, Stevens’ Star Volleyball Player Helps Process COVID-19 Tests Back Home, and Looks Ahead to Internship With the Navy](https://www.stevens.edu/news/athletic-season-cut-short-stevens-star-volleyball-player-helps-process-covid-19-tests-back-home-and), April 10, 2020
 * [Stevens Seniors Code Smart Watch App to Monitor Panic Attacks and Foster Communication Between Patients and Therapists](https://www.stevens.edu/news/stevens-seniors-code-smart-watch-app-monitor-panic-attacks-and-foster-communication-between-patients), April 8, 2020
 * [Grace Hopper Celebration of Women in Computing Tells Women to Dream Big](https://www.stevens.edu/news/grace-hopper-celebration-women-computing-tells-women-dream-big), February 5, 2020
+* [Stevens Seniors Create Safety Solution to Deter Active Shooters](https://www.stevens.edu/news/stevens-seniors-create-safety-solution-deter-active-shooters), March 19, 2019
 ## Improv
 * [Improvisation](https://en.wikipedia.org/wiki/Improvisation)
 * [Improvisational theatre](https://en.wikipedia.org/wiki/Improvisational_theatre)
