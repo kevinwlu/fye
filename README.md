@@ -486,6 +486,7 @@
   * [Utilitarianism](https://en.wikipedia.org/wiki/Utilitarianism)
   * [Deontology](https://en.wikipedia.org/wiki/Deontology)
   * [Virtue ethics](https://en.wikipedia.org/wiki/Virtue_ethics)
+  * [*Nicomachean Ethics*](https://en.wikipedia.org/wiki/Nicomachean_Ethics)
 * [Code of conduct](https://en.wikipedia.org/wiki/Code_of_conduct)
 * [John Rawls](https://en.wikipedia.org/wiki/John_Rawls) 1921&mdash;2002
   * [*A Theory of Justice*](https://en.wikipedia.org/wiki/A_Theory_of_Justice) 1971
@@ -530,6 +531,7 @@
 * [Mentorship](https://en.wikipedia.org/wiki/Mentorship)
 * [Abraham Maslow](https://en.wikipedia.org/wiki/Abraham_Maslow) 1908&mdash;1970
   * [Maslow's hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
+  * [Jonah complex](https://en.wikipedia.org/wiki/Jonah_complex)
 * [Sustainable Development Goals](https://en.wikipedia.org/wiki/Sustainable_Development_Goals) (SDGs)
 * [Environmental, social, and governance](https://en.wikipedia.org/wiki/Environmental,_social,_and_governance) (ESG)
 * [Volunteering](https://en.wikipedia.org/wiki/Volunteering)
@@ -575,14 +577,6 @@
 * [Stevens Seniors Code Smart Watch App to Monitor Panic Attacks and Foster Communication Between Patients and Therapists](https://www.stevens.edu/news/stevens-seniors-code-smart-watch-app-monitor-panic-attacks-and-foster-communication-between-patients), April 8, 2020
 * [Grace Hopper Celebration of Women in Computing Tells Women to Dream Big](https://www.stevens.edu/news/grace-hopper-celebration-women-computing-tells-women-dream-big), February 5, 2020
 * [Stevens Seniors Create Safety Solution to Deter Active Shooters](https://www.stevens.edu/news/stevens-seniors-create-safety-solution-deter-active-shooters), March 19, 2019
-## Improv
-* [Improvisation](https://en.wikipedia.org/wiki/Improvisation)
-* [Improvisational theatre](https://en.wikipedia.org/wiki/Improvisational_theatre)
-* [Applied improvisation](https://en.wikipedia.org/wiki/Applied_improvisation)
-* [Yes, and...](https://en.wikipedia.org/wiki/Yes,_and...)
-* [Kelly Leonard](https://en.wikipedia.org/wiki/Kelly_Leonard)
-* [The Second City](https://en.wikipedia.org/wiki/The_Second_City)
-* [Ensemble (musical theatre)](https://en.wikipedia.org/wiki/Ensemble_(musical_theatre))
 ## References
 * [*Critical Inquiry*](https://en.wikipedia.org/wiki/Critical_Inquiry)
 * [Institute of Education Sciences](https://en.wikipedia.org/wiki/Institute_of_Education_Sciences) (IES)
@@ -598,3 +592,11 @@ A Key to Educational Success for All Students*](https://www.routledge.com/Colleg
 * [The Difference a Cohort Makes: Understanding Developmental Learning Communities in Community Colleges](https://journals.sagepub.com/doi/abs/10.2190/CS.12.2.f) 2010
 * [Supporting Students' Intentions to Persist in STEM Disciplines: The Role of Living-Learning Programs among Other Social-Cognitive Factors](https://www.researchgate.net/profile/Jason-Garvey-2/publication/254947790_Supporting_Students%27_Intentions_to_Persist_in_STEM_Disciplines_The_Role_of_Living-Learning_Programs_Among_Other_Social-Cognitive_Factors/links/541b54fa0cf2218008c30cf5/Supporting-Students-Intentions-to-Persist-in-STEM-Disciplines-The-Role-of-Living-Learning-Programs-Among-Other-Social-Cognitive-Factors.pdf) 2012
 * [Vahe Permzadian](https://www.vahepermzadian.com/) and [Marcus Credé](https://psychology.iastate.edu/directory/dr-marcus-crede/), [Do First-Year Seminars Improve College Grades and Retention? A Quantitative Review of Their Overall Effectiveness and an Examination of Moderators of Effectiveness](https://journals.sagepub.com/doi/10.3102/0034654315584955) 2016
+---
+* [Improvisation](https://en.wikipedia.org/wiki/Improvisation)
+* [Improvisational theatre](https://en.wikipedia.org/wiki/Improvisational_theatre)
+* [Applied improvisation](https://en.wikipedia.org/wiki/Applied_improvisation)
+* [Yes, and...](https://en.wikipedia.org/wiki/Yes,_and...)
+* [Kelly Leonard](https://en.wikipedia.org/wiki/Kelly_Leonard)
+* [The Second City](https://en.wikipedia.org/wiki/The_Second_City)
+* [Ensemble (musical theatre)](https://en.wikipedia.org/wiki/Ensemble_(musical_theatre))
