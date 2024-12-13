@@ -149,6 +149,7 @@
   * [Marques Brownlee](https://en.wikipedia.org/wiki/Marques_Brownlee), class of 2015
     * [YouTube Channel](https://www.youtube.com/user/marquesbrownlee)
     * [2024 Undergraduate Commencement Keynote Speaker - MKBHD](https://www.youtube.com/watch?v=mwm48dM_riE)
+  * C. Merrill Chapin
 ## Week 1: IntroDUCKtions and Course Overview
 * Music [Higher Hopes](https://www.youtube.com/watch?app=desktop&v=4waCNmDnarQ)
   * [Background Music Lab](https://www.youtube.com/@background_music_lab)
