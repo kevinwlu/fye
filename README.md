@@ -82,7 +82,7 @@
     * [Edgar Palmer](https://stevensarchives.contentdm.oclc.org/digital/collection/StevensNP02/id/20453/) 1880&mdash;1943
   * [Jacobus Hall throughout the years](https://thestute.com/2018/11/30/jacobus-hall-throughout-the-years/)
   * [American Bureau of Shipping](https://en.wikipedia.org/wiki/American_Bureau_of_Shipping) (ABS)
-  * [C. Merrill Chapin Jr.](https://www.nytimes.com/1973/01/24/archives/c-merrill-chapin-jr-of-st-joseph-lead-74-dies.html) 1899&mdash;1973
+  * [C. Merrill Chapin Jr.](https://www.nytimes.com/1973/01/24/archives/c-merrill-chapin-jr-of-st-joseph-lead-74-dies.html) 1898&mdash;1973
   * [Luigi Zummo Pollara](https://www.nytimes.com/1994/08/06/obituaries/dr-luigi-pollara-80-founder-of-polymer-research-unit-dies.html) 1915&mdash;1994
     * [Polymer Processing Institute](https://www.polymers-ppi.com/) (PPI) founded in 1982
   * [A. James Clark](https://en.wikipedia.org/wiki/A._James_Clark) 1927&mdash;2015
