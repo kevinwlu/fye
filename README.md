@@ -73,6 +73,7 @@
   * [Anna Hyatt Huntington](https://en.wikipedia.org/wiki/Anna_Hyatt_Huntington) 1876&mdash;1973
   * [Kenneth S. M. Davidson](https://en.wikipedia.org/wiki/Kenneth_S._M._Davidson) 1898&mdash;1958
     * [Davidson Laboratory](https://www.stevens.edu/davidson-laboratory/about)
+  * [C. Merrill Chapin Jr.](https://www.nytimes.com/1973/01/24/archives/c-merrill-chapin-jr-of-st-joseph-lead-74-dies.html) 1898&mdash;1973
   * [Lore E. Feiler](https://www.stevens.edu/lore-el-center-for-womens-leadership/about-lore-e-feiler) 1914&mdash;2003
     * [Lore-El Center for Women's Leadership](https://www.stevens.edu/lore-el-center-for-womens-leadership)
   * [Center for Environmental Systems](https://www.stevens.edu/center-for-environmental-systems) (CES)
@@ -82,7 +83,6 @@
     * [Edgar Palmer](https://stevensarchives.contentdm.oclc.org/digital/collection/StevensNP02/id/20453/) 1880&mdash;1943
   * [Jacobus Hall throughout the years](https://thestute.com/2018/11/30/jacobus-hall-throughout-the-years/)
   * [American Bureau of Shipping](https://en.wikipedia.org/wiki/American_Bureau_of_Shipping) (ABS)
-  * [C. Merrill Chapin Jr.](https://www.nytimes.com/1973/01/24/archives/c-merrill-chapin-jr-of-st-joseph-lead-74-dies.html) 1898&mdash;1973
   * [Luigi Zummo Pollara](https://www.nytimes.com/1994/08/06/obituaries/dr-luigi-pollara-80-founder-of-polymer-research-unit-dies.html) 1915&mdash;1994
     * [Polymer Processing Institute](https://www.polymers-ppi.com/) (PPI) founded in 1982
   * [A. James Clark](https://en.wikipedia.org/wiki/A._James_Clark) 1927&mdash;2015
