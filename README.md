@@ -47,6 +47,7 @@
   * [Archibald Stevens Alexander Jr.](https://en.wikipedia.org/wiki/Archibald_S._Alexander) 1906&mdash;1979
   * [Mary Stuart Stevens Baird](https://www.stevens.edu/news/out-archives-powerful-friendship) 1901&mdash;1989
     * [Stevens Family Collection](https://library.stevens.edu/specialcollections)
+  * [J. P. Stevens High School](https://en.wikipedia.org/wiki/J._P._Stevens_High_School) named after John Peters Stevens Jr. 1897&mdash1976, the oldest son of [John Peters Stevens](https://en.wikipedia.org/wiki/John_Peters_Stevens) 1868&mdash;1929 who was the the seventh generation descendant of John Stevens who came to the United States in 1638, earlier than John Stevens Sr.
 * [Attila the Duck Profile](https://stevensducks.com/sports/2012/10/19/Attila%20the%20Duck%20Profile.aspx)
   * [Duck](https://en.wikipedia.org/wiki/Duck)
   * [Amphibian](https://en.wikipedia.org/wiki/Amphibian)
