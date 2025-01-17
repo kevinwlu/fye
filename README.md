@@ -371,6 +371,8 @@
 * [Benjamin A. Gilman International Scholarship](https://en.wikipedia.org/wiki/Benjamin_A._Gilman_International_Scholarship)
   * ["Benjamin A. Gilman Scholarship Gives Pell Grant Students a Chance to Go Abroad"](https://www.stevens.edu/news/benjamin-a-gilman-scholarship-gives-pell-grant-students-a-chance-to-go)
 * [Research](https://en.wikipedia.org/wiki/Research)
+* [Research Experiences for Undergraduates](https://en.wikipedia.org/wiki/Research_Experiences_for_Undergraduates) (REU)
+* [Undergraduate Research Opportunities Program](https://en.wikipedia.org/wiki/Undergraduate_Research_Opportunities_Program)
 * [Stevens Student Research](https://www.stevens.edu/research/student-reseach/student-research)
   * [ADAPT Scholar](https://www.stevens.edu/news/cross-disciplinary-research-team-wins-15m-national-science-foundation-grant-support-low-income-stem)
   * [Center for Innovative Computing and Networked Systems](https://www.stevens.edu/icns-center-for-innovative-computing-and-networked-systems) (iCNS)
