@@ -401,6 +401,7 @@
    * Video [Ansary Entrepreneurship Competition](https://www.youtube.com/watch?v=sF_2Pl72v_0), April 28, 2023
    * Video [Ansary Entrepreneurship Competition](https://www.youtube.com/watch?v=9ThfHbhPoYA), April 29, 2022
 * [Robert Daniel Kern](https://grainger.illinois.edu/alumni/hall-of-fame/9644) 1925—2022 founded [Generac](https://en.wikipedia.org/wiki/Generac) in 1959 and the [Kern Family Foundation](https://www.kffdn.org/) in 1998 that supported the [Kern Entrepreneurial Engineering Network]() (KEEN), [Project Lead the Way](https://en.wikipedia.org/wiki/Project_Lead_the_Way) (PLTW)
+  * [Stevens does not partner with Project Lead the Way](https://www.stevens.edu/admission-aid/undergraduate-admissions/accepted-students/ap-ib-and-college-transfer-credit#credit-for-college-level-courses)
 * 3 Cs mindset
   * Curiosity — Investigate a rapidly changing world with insatiable curiosity
   * Connections — Habitually pursue knowledge and integrate it with own discoveries to reveal innovative solutions
