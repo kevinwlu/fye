@@ -333,6 +333,7 @@
 * [Bill Hettler](https://www.hettler.com/)
 * Wellness wheel: emotional, environmental. financial, intellectual, occupational, hysical, spiritual, social
 * Wheel of life: (physical, mental), (family, lifestyle), (financial, time/productivity), (social/relationships, spiritual)
+* [Substance Abuse and Mental Health Services Administration](https://en.wikipedia.org/wiki/Substance_Abuse_and_Mental_Health_Services_Administration) (SAMHSA)
 * [Greg Anderson](https://www.healingcancer.info/ebook/greg-anderson), "Wellness is the complete integration of body, mind, and spirit - the realization that everything we do, think, feel, and believe has an effect on our state of well-being."
   * [Cancer Recovery Foundation International, Inc.](https://www.ftc.gov/legal-library/browse/cases-proceedings/cancer-recovery-foundation-inc)
 * [Holism](https://en.wikipedia.org/wiki/Holism)
