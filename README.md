@@ -72,6 +72,7 @@
   * [William Hall Walker](https://thestute.com/2023/03/03/walker-gymnasium-innovative-gym-for-the-innovation-university/) 1846&mdash;1917
     * [William Hall Walker Gymnasium](https://en.wikipedia.org/wiki/William_Hall_Walker_Gymnasium)
     * [Kodak](https://en.wikipedia.org/wiki/Kodak)
+  * [Charles Stewart Mott](https://en.wikipedia.org/wiki/Charles_Stewart_Mott) 1875&mdash;1973
   * [Anna Hyatt Huntington](https://en.wikipedia.org/wiki/Anna_Hyatt_Huntington) 1876&mdash;1973
   * [Kenneth S. M. Davidson](https://en.wikipedia.org/wiki/Kenneth_S._M._Davidson) 1898&mdash;1958
     * [Davidson Laboratory](https://www.stevens.edu/davidson-laboratory/about)
