@@ -372,8 +372,9 @@
 * Video [Experiential Learning](https://www.youtube.com/watch?v=yEP4MJMienw)
 * [Study Abroad](https://www.stevens.edu/academics/undergraduate-study/study-abroad)
 * [Pell Grant](https://en.wikipedia.org/wiki/Pell_Grant)
-* [Benjamin Gilman](https://en.wikipedia.org/wiki/Benjamin_Gilman) 1922&mdash;2016
+  * [Claiborne Pell](https://en.wikipedia.org/wiki/Claiborne_Pell) 1918&mdash;2009
 * [Benjamin A. Gilman International Scholarship](https://en.wikipedia.org/wiki/Benjamin_A._Gilman_International_Scholarship)
+  * [Benjamin Gilman](https://en.wikipedia.org/wiki/Benjamin_Gilman) 1922&mdash;2016
   * ["Benjamin A. Gilman Scholarship Gives Pell Grant Students a Chance to Go Abroad"](https://www.stevens.edu/news/benjamin-a-gilman-scholarship-gives-pell-grant-students-a-chance-to-go)
 * [Research](https://en.wikipedia.org/wiki/Research)
 * [Research Experiences for Undergraduates](https://en.wikipedia.org/wiki/Research_Experiences_for_Undergraduates) (REU)
