@@ -302,6 +302,7 @@
 * Video [Hard Skills vs. Soft Skills](https://www.youtube.com/watch?v=0FFLFcB9xfQ)
   * [GCFLearnFree.org](https://en.wikipedia.org/wiki/GCFLearnFree.org)
   * [YouTube Channel](https://www.youtube.com/@GCFLearnFree)
+* [Kryptonite](https://en.wikipedia.org/wiki/Kryptonite)
 * [Soft skills](https://en.wikipedia.org/wiki/Soft_skills)
 * [Robert Collier](https://en.wikipedia.org/wiki/Robert_Collier_(author)) 1885&mdash;1950, "Success is the sum of small efforts repeated day-in and day-out."
 * [Kevin Jubbal](https://kevinjubbalmd.com)
@@ -319,7 +320,9 @@
 * [Cooperative Education Program](https://www.stevens.edu/career-center/undergraduate-cooperative-education-program-co-op)
 * [Council on International Educational Exchange](https://en.wikipedia.org/wiki/CIEE) (CIEE)
 * [List of higher education associations and alliances](https://en.wikipedia.org/wiki/List_of_higher_education_associations_and_alliances)
-* [Kryptonite](https://en.wikipedia.org/wiki/Kryptonite)
+* [Advanced Placement](https://en.wikipedia.org/wiki/Advanced_Placement) (AP) 1952
+* [International Baccalaureate](https://en.wikipedia.org/wiki/International_Baccalaureate) (IB) 1968
+* [Caribbean Examinations Council](https://en.wikipedia.org/wiki/Caribbean_Examinations_Council) (CXC) 1972
 ## Week 7: Thriving in College: A Holistic Approach to Student Well-Being
 * Video [Personal Wellness](https://www.youtube.com/watch?v=sS9q7b72nzk)
 * Video [5 Steps to Wellbeing](https://www.youtube.com/watch?v=x6bz_ekkrYA)
