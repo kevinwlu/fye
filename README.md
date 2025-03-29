@@ -116,6 +116,8 @@
   * [Walter Kidde](https://en.wikipedia.org/wiki/Walter_Kidde) 1877&mdash;1943, class of 1897
   * [Louis Alan Hazeltine](https://en.wikipedia.org/wiki/Louis_Alan_Hazeltine) 1886&mdash;1964, class of 1906
     * [Neutrodyne](https://en.wikipedia.org/wiki/Neutrodyne) radio receiver 1922
+    * [List of IEEE Milestones](https://ethw.org/Milestones:List_of_IEEE_Milestones)
+      *  19 October 2024
   * [Samuel C. Williams](https://library.stevens.edu/scwilliams) 1894&mdash;1968, class of 1915
   * [Alexander Calder](https://en.wikipedia.org/wiki/Alexander_Calder) 1898&mdash;1976, class of 1919
     * [Before He Became an Iconic Artist, Alexander Calder Embraced Campus Life at Stevens](https://www.stevens.edu/news/he-became-iconic-artist-alexander-calder-embraced-campus-life-stevens)
