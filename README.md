@@ -88,6 +88,7 @@
   * [Jacobus Hall throughout the years](https://thestute.com/2018/11/30/jacobus-hall-throughout-the-years/)
   * [American Bureau of Shipping](https://en.wikipedia.org/wiki/American_Bureau_of_Shipping) (ABS)
   * [Anna Hyatt Huntington](https://en.wikipedia.org/wiki/Anna_Hyatt_Huntington) 1876&mdash;1973
+  * [Irving Langmuir](https://en.wikipedia.org/wiki/Irving_Langmuir) 1881&mdash;1957
   * [Mary Callery](https://en.wikipedia.org/wiki/Mary_Callery) 1903&mdash;1977
   * [Luigi Zummo Pollara](https://www.nytimes.com/1994/08/06/obituaries/dr-luigi-pollara-80-founder-of-polymer-research-unit-dies.html) 1915&mdash;1994
     * [Polymer Processing Institute](https://www.polymers-ppi.com/) (PPI) founded in 1982
