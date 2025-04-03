@@ -8,6 +8,7 @@
 * [*The Stute: The independent student newspaper of Stevens Institute of Technology*](https://thestute.com/)
   * [A look into the First Year Experience course](https://thestute.com/2024/09/06/a-look-into-the-first-year-experience-course/), September 6, 2024
 * [*Student Handbook*](https://stevens-institute-of-technology.dcatalog.com/v/Student-Handbook/)
+* [University Policy Library](https://www.stevens.edu/policies-library)
 * [Alma mater](https://en.wikipedia.org/wiki/Alma_mater)
 * [Alumni](https://en.wikipedia.org/wiki/Alumni)
 * [*Stevens Indicator*](https://www.stevens.edu/development-alumni-engagement/news/indicator)
