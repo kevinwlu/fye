@@ -155,6 +155,7 @@
   * [Gina M. Addeo](https://www.adcoonline.com/gina-about-page), class of 1986
     * [2013 Distinguished Alumni Award -- Business and Finance](https://www.youtube.com/watch?v=K32YL_lVnAs)
   * [Darío Gil](https://newsroom.ibm.com/dario-gil), class of 1998
+    * [Quantum and AI Are Our Next Problem-Solvers, Says IBM’s Research Director](https://www.stevens.edu/news/quantum-and-ai-are-our-next-problem-solvers-says-ibms-research-director) October 9, 2024
   * [Stephanie LeBlanc-Godfrey](https://www.stevens.edu/indicator/spring-summer-2023/things-became-clearer-when-i-challenged-the-no), class of 2006
   * [Marques Brownlee](https://en.wikipedia.org/wiki/Marques_Brownlee), class of 2015
     * [YouTube Channel](https://www.youtube.com/user/marquesbrownlee)
