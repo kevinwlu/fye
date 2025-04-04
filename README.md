@@ -91,7 +91,7 @@
   * [American Bureau of Shipping](https://en.wikipedia.org/wiki/American_Bureau_of_Shipping) (ABS)
   * [Anna Hyatt Huntington](https://en.wikipedia.org/wiki/Anna_Hyatt_Huntington) 1876&mdash;1973
   * [Irving Langmuir](https://en.wikipedia.org/wiki/Irving_Langmuir) 1881&mdash;1957
-  * [Mary Callery](https://en.wikipedia.org/wiki/Mary_Callery) 1903&mdash;1977, a freind of [Pablo Picasso](https://en.wikipedia.org/wiki/Pablo_Picasso) 1881&mdash;1973 and Alexander Calder 1898&mdash;1976
+  * [Mary Callery](https://en.wikipedia.org/wiki/Mary_Callery) 1903&mdash;1977, a freind of [Pablo Picasso](https://en.wikipedia.org/wiki/Pablo_Picasso) 1881&mdash;1973 and [Alexander Calder](https://en.wikipedia.org/wiki/Alexander_Calder) 1898&mdash;1976
     * [Moon and Stars](https://virtualglobetrotting.com/map/moon-and-stars-by-mary-callery/)
   * [Pierre Bourdelle](https://frenchsculpture.org/index.php/Detail/entities/4885) 1901&mdash;1966 was the son of [Antoine Bourdelle](https://en.wikipedia.org/wiki/Antoine_Bourdelle) 1861&mdash;1929
     * [American Spread Wing Eagle](https://virtualglobetrotting.com/map/american-spread-wing-eagle-by-pierre-bourdelle/)
