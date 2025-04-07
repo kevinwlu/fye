@@ -94,6 +94,7 @@
   * [Mary Callery](https://en.wikipedia.org/wiki/Mary_Callery) 1903&mdash;1977, a freind of [Pablo Picasso](https://en.wikipedia.org/wiki/Pablo_Picasso) 1881&mdash;1973 and [Alexander Calder](https://en.wikipedia.org/wiki/Alexander_Calder) 1898&mdash;1976
     * [Moon and Stars](https://virtualglobetrotting.com/map/moon-and-stars-by-mary-callery/)
   * [Pierre Bourdelle](https://frenchsculpture.org/index.php/Detail/entities/4885) 1901&mdash;1966 was the son of [Antoine Bourdelle](https://en.wikipedia.org/wiki/Antoine_Bourdelle) 1861&mdash;1929
+    * Antoine Bourdelle was a student of [Auguste Rodin](https://en.wikipedia.org/wiki/Auguste_Rodin) 1840&mdash;1917
     * [American Spread Wing Eagle](https://virtualglobetrotting.com/map/american-spread-wing-eagle-by-pierre-bourdelle/)
   * [Luigi Zummo Pollara](https://www.nytimes.com/1994/08/06/obituaries/dr-luigi-pollara-80-founder-of-polymer-research-unit-dies.html) 1915&mdash;1994
     * [Polymer Processing Institute](https://www.polymers-ppi.com/) (PPI) founded in 1982
