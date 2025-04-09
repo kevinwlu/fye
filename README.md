@@ -128,6 +128,9 @@
       *  19 October 2024
   * [Samuel C. Williams](https://library.stevens.edu/scwilliams) 1894&mdash;1968, class of 1915
   * [Alfred Kinsey](https://en.wikipedia.org/wiki/Alfred_Kinsey) 1894&mdash;1956
+    * [Eagle Scout](https://en.wikipedia.org/wiki/Eagle_Scout)
+    * [Gall wasp](https://en.wikipedia.org/wiki/Gall_wasp)
+    * [Oak apple](https://en.wikipedia.org/wiki/Oak_apple)
   * [Alexander Calder](https://en.wikipedia.org/wiki/Alexander_Calder) 1898&mdash;1976, class of 1919
     * [Before He Became an Iconic Artist, Alexander Calder Embraced Campus Life at Stevens](https://www.stevens.edu/news/he-became-iconic-artist-alexander-calder-embraced-campus-life-stevens)
     * [The Stevens Mobile](https://calder.org/works/hanging-mobile/the-stevens-mobile-1970/)
