@@ -77,6 +77,7 @@
     * [George Eastman](https://en.wikipedia.org/wiki/George_Eastman) 1854&mdash;1932 patented a [roller-holder for photograph](https://patents.google.com/patent/US317049) with William Walker in 1885
   * [Charles Stewart Mott](https://en.wikipedia.org/wiki/Charles_Stewart_Mott) 1875&mdash;1973
   * [Anna Hyatt Huntington](https://en.wikipedia.org/wiki/Anna_Hyatt_Huntington) 1876&mdash;1973
+    * [Los portadores de la antorcha](https://es.wikipedia.org/wiki/Los_portadores_de_la_antorcha)
   * [Kenneth S. M. Davidson](https://en.wikipedia.org/wiki/Kenneth_S._M._Davidson) 1898&mdash;1958
     * [Davidson Laboratory](https://www.stevens.edu/davidson-laboratory/about)
   * [C. Merrill Chapin Jr.](https://www.nytimes.com/1973/01/24/archives/c-merrill-chapin-jr-of-st-joseph-lead-74-dies.html) 1898&mdash;1973
