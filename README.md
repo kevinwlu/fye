@@ -75,7 +75,6 @@
     * [William Hall Walker Gymnasium](https://en.wikipedia.org/wiki/William_Hall_Walker_Gymnasium)
     * [Kodak](https://en.wikipedia.org/wiki/Kodak)
     * [George Eastman](https://en.wikipedia.org/wiki/George_Eastman) 1854&mdash;1932 patented a [roller-holder for photograph](https://patents.google.com/patent/US317049) with William Walker in 1885
-  * [Charles Stewart Mott](https://en.wikipedia.org/wiki/Charles_Stewart_Mott) 1875&mdash;1973
   * [Anna Hyatt Huntington](https://en.wikipedia.org/wiki/Anna_Hyatt_Huntington) 1876&mdash;1973
     * [Los portadores de la antorcha](https://es.wikipedia.org/wiki/Los_portadores_de_la_antorcha)
   * [Kenneth S. M. Davidson](https://en.wikipedia.org/wiki/Kenneth_S._M._Davidson) 1898&mdash;1958
@@ -125,6 +124,7 @@
     * [Walter Kidde & William Peirce Memorial Laboratory Buildings](https://stevensarchives.contentdm.oclc.org/digital/collection/p16277coll6/id/0/)
   * [Anson Wood Burchard](https://en.wikipedia.org/wiki/Anson_Wood_Burchard) 1865&mdash;1927, class of 1885
   * [William D. Hoxie](https://www.nytimes.com/1925/09/13/archives/wd-hoxie-leaves-142000-to-public-stevens-institute-and-several.html) 1866&mdash;1925, class of 1889
+  * [Charles Stewart Mott](https://en.wikipedia.org/wiki/Charles_Stewart_Mott) 1875&mdash;1973, class of 1897
   * [Walter Kidde](https://en.wikipedia.org/wiki/Walter_Kidde) 1877&mdash;1943, class of 1897
   * [Louis Alan Hazeltine](https://en.wikipedia.org/wiki/Louis_Alan_Hazeltine) 1886&mdash;1964, class of 1906
     * [Neutrodyne](https://en.wikipedia.org/wiki/Neutrodyne) radio receiver 1922
