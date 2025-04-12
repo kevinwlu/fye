@@ -101,7 +101,8 @@
   * [A. James Clark](https://en.wikipedia.org/wiki/A._James_Clark) 1927&mdash;2015
     * [A. James Clark Scholars Program](https://www.stevens.edu/a-james-clark-scholars-program) since fall 2018
   * [Henry P. Dobbelaar Jr.](https://www.na-advisors.com/staff-member/henry-p-dobbelaar-jr-p-e-p-p/) was Vice President for Facilities and Community Relations at Stevens Institute of Technology
-  * [Bernard Gallois](https://www.stevens.edu/news/engineering-for-the-real-world)
+  * [Bernard Gallois](https://www.stevens.edu/news/engineering-for-the-real-world) was Dean of the School of Engineering and Science from 1996 to 2002
+  * [Keith Sheppard](https://www.stevens.edu/profile/ksheppar) 
   * [David Vaccari](https://www.stevens.edu/profile/dvaccari), [“The Barbed Quatrefoil Is a 1500-Year-Old Symbol of Architectural Advance”](https://personal.stevens.edu/~dvaccari/Vaccari%20-%20Sancta%20Sophia.pdf)
     * [Quatrefoil](https://en.wikipedia.org/wiki/Quatrefoil)
     * [Pendentive](https://en.wikipedia.org/wiki/Pendentive)
