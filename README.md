@@ -139,6 +139,7 @@
     * [Before He Became an Iconic Artist, Alexander Calder Embraced Campus Life at Stevens](https://www.stevens.edu/news/he-became-iconic-artist-alexander-calder-embraced-campus-life-stevens)
     * [The Stevens Mobile](https://calder.org/works/hanging-mobile/the-stevens-mobile-1970/) 1970
     * [Hard to Swallow](https://calder.org/works/monumental-sculpture/hard-to-swallow-1966/) 1966
+    * [Calder Foundation](https://calder.org/)
   * Frank Jonas, Class of 1923
     * [Pendaflex](https://en.wikipedia.org/wiki/Pendaflex) 
   * Earl L. Griffith, Class of 1923
