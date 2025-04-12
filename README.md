@@ -79,7 +79,7 @@
     * [Los portadores de la antorcha](https://es.wikipedia.org/wiki/Los_portadores_de_la_antorcha)
   * [Kenneth S. M. Davidson](https://en.wikipedia.org/wiki/Kenneth_S._M._Davidson) 1898&mdash;1958
     * [Davidson Laboratory](https://www.stevens.edu/davidson-laboratory/about)
-  * [C. Merrill Chapin Jr.](https://www.nytimes.com/1973/01/24/archives/c-merrill-chapin-jr-of-st-joseph-lead-74-dies.html) 1898&mdash;1973
+  * [C. Merrill Chapin Jr.](https://www.nytimes.com/1973/01/24/archives/c-merrill-chapin-jr-of-st-joseph-lead-74-dies.html) 1898&mdash;1973 was a trustee and a member of the finance committee of the Stevens Institute of Technology
   * [Lore E. Feiler](https://www.stevens.edu/lore-el-center-for-womens-leadership/about-lore-e-feiler) 1914&mdash;2003
     * [Lore-El Center for Women's Leadership](https://www.stevens.edu/lore-el-center-for-womens-leadership)
   * [Center for Environmental Systems](https://www.stevens.edu/center-for-environmental-systems) (CES)
@@ -100,6 +100,7 @@
     * [Polymer Processing Institute](https://www.polymers-ppi.com/) (PPI) founded in 1982
   * [A. James Clark](https://en.wikipedia.org/wiki/A._James_Clark) 1927&mdash;2015
     * [A. James Clark Scholars Program](https://www.stevens.edu/a-james-clark-scholars-program) since fall 2018
+  * [Henry P. Dobbelaar Jr.](https://www.na-advisors.com/staff-member/henry-p-dobbelaar-jr-p-e-p-p/) was Vice President for Facilities and Community Relations at Stevens Institute of Technology
   * [Bernard Gallois](https://www.stevens.edu/news/engineering-for-the-real-world)
   * [David Vaccari](https://www.stevens.edu/profile/dvaccari), [“The Barbed Quatrefoil Is a 1500-Year-Old Symbol of Architectural Advance”](https://personal.stevens.edu/~dvaccari/Vaccari%20-%20Sancta%20Sophia.pdf)
     * [Quatrefoil](https://en.wikipedia.org/wiki/Quatrefoil)
