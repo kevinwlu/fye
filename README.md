@@ -17,6 +17,22 @@
 * [Facilitator](https://en.wikipedia.org/wiki/Facilitator)
 * [Active listening](https://en.wikipedia.org/wiki/Active_listening)
 * [Critical thinking](https://en.wikipedia.org/wiki/Critical_thinking)
+* [Academic dress](https://en.wikipedia.org/wiki/Academic_dress)
+* [Academic stole](https://en.wikipedia.org/wiki/Academic_stole)
+* [Regalia](https://en.wikipedia.org/wiki/Regalia)
+* [Tassel](https://en.wikipedia.org/wiki/Tassel)
+* [Dress code](https://en.wikipedia.org/wiki/Dress_code)
+* [List of engineering societies](https://en.wikipedia.org/wiki/List_of_engineering_societies)
+  * [American Society of Mechanical Engineers](https://en.wikipedia.org/wiki/American_Society_of_Mechanical_Engineers) (ASME)
+  * [Association for Computing Machinery](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery) (ACM)
+  * [Institute of Electrical and Electronics Engineers](https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers) (IEEE)
+    * [Eta Kappa Nu](https://en.wikipedia.org/wiki/Eta_Kappa_Nu) (HKN) was founded on October 28, 1904
+  * [Order of the Engineer](https://en.wikipedia.org/wiki/Order_of_the_Engineer)  
+  * [SAE International](https://en.wikipedia.org/wiki/SAE_International)
+  * [Smeatonian Society of Civil Engineers](https://en.wikipedia.org/wiki/Smeatonian_Society_of_Civil_Engineers)
+    * [John Smeaton](https://en.wikipedia.org/wiki/John_Smeaton) 1724&mdash;1792
+* [Professional fraternities and sororities](https://en.wikipedia.org/wiki/Professional_fraternities_and_sororities)
+* [Regulation and licensure in engineering](https://en.wikipedia.org/wiki/Regulation_and_licensure_in_engineering)
 ## History and Values of Stevens
 * [Stevens Institute of Technology](https://en.wikipedia.org/wiki/Stevens_Institute_of_Technology)
 * [Stevens family](https://en.wikipedia.org/wiki/Stevens_family)
@@ -589,17 +605,16 @@
 ## Week 14: Making Your Mark: Reflecting on Growth and Setting Your Legacy
 * Video [A Wall of Words! | SoulPancake Street Team](https://www.youtube.com/watch?v=qUHgbixI9k0), June 12, 2013
   * [Participant Media, LLC](https://en.wikipedia.org/wiki/Participant_(company)) was founded in 2004, acquired SoulPancake in 2016, and was defunct on April 16, 2024
+* Video [2023 Order of the Engineer at Stevens](https://www.youtube.com/watch?v=dGB1GiCfJwQ), May 23, 2023
+  * ["I Am Responsible for My Creations": What it Means to Be an Engineer](https://www.stevens.edu/news/i-am-responsible-for-my-creations-what-it-means-to-be-an-engineer), July 20, 2023
+  * [Stevens Inducts More Than 200 Graduating Seniors into the Order of the Engineer](https://www.stevens.edu/news/stevens-inducts-more-than-200-graduating-seniors-into-the-order-of-the), August 1, 2022
 * [Tag cloud](https://en.wikipedia.org/wiki/Tag_cloud)
 * [Reputation](https://en.wikipedia.org/wiki/Reputation)
 * [Role model](https://en.wikipedia.org/wiki/Role_model)
 * [Lifelong learning](https://en.wikipedia.org/wiki/Lifelong_learning)
+* [Eight Great Reasons You Don’t Want to Miss the 2025 Innovation Expo](https://www.stevens.edu/news/eight-great-reasons-you-dont-want-to-miss-the-2025-innovation-expo), April 7, 2025
 * [Army Corps Civil Engineer Still Puts in the Hours at 92](https://www.nad.usace.army.mil/Media/News-Releases/Article/3787977/army-corps-civil-engineer-still-puts-in-the-hours-at-92/), May 26, 2024
   * [United States Army Corps of Engineers](https://en.wikipedia.org/wiki/United_States_Army_Corps_of_Engineers) (USACE)
-* [Regulation and licensure in engineering](https://en.wikipedia.org/wiki/Regulation_and_licensure_in_engineering)
-* [Order of the Engineer](https://en.wikipedia.org/wiki/Order_of_the_Engineer)
-  * Video [2023 Order of the Engineer at Stevens](https://www.youtube.com/watch?v=dGB1GiCfJwQ), May 23, 2023
-  * ["I Am Responsible for My Creations": What it Means to Be an Engineer](https://www.stevens.edu/news/i-am-responsible-for-my-creations-what-it-means-to-be-an-engineer), July 20, 2023
-  * [Stevens Inducts More Than 200 Graduating Seniors into the Order of the Engineer](https://www.stevens.edu/news/stevens-inducts-more-than-200-graduating-seniors-into-the-order-of-the), August 1, 2022
 * [Stevens Students Blaze Trails Offroad in SAE Baja Competition](https://www.stevens.edu/news/sae-baja-competition), July 31, 2024
 * [Sweet Beats, Cancer Killers, Magic Mushrooms and More: How Stevens’ 2024 Innovation Expo Rocked the House](https://www.stevens.edu/news/sweet-beats-cancer-killers-magic-mushrooms-and-more-how-stevens-2024), May 2, 2024
 * [Stevens Seniors Advance Health & Medicine at Innovation Expo 2024](https://www.stevens.edu/news/health-medicine-innovation-expo-2024), April 26, 2024
