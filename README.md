@@ -13,6 +13,7 @@
 * [Accreditation](https://en.wikipedia.org/wiki/Accreditation)
   * [Stevens Accreditation](https://www.stevens.edu/office-of-institutional-research-and-effectiveness/accreditation)
   * [Middle States Commission on Higher Education](https://en.wikipedia.org/wiki/Middle_States_Commission_on_Higher_Education) (MSCHE)
+    * [Stevens Institute of Technology](https://www.msche.org/institution/0235/)
   * [ABET](https://en.wikipedia.org/wiki/ABET)
 * [Alma mater](https://en.wikipedia.org/wiki/Alma_mater)
 * [Alumni](https://en.wikipedia.org/wiki/Alumni)
