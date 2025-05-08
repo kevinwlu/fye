@@ -65,8 +65,8 @@
     * [Renaming of Alexander House to Martha Bayard Stevens Hall 9.8.22](/Renaming_of_Alexander_House_to_Martha_Bayard_Stevens_Hall_9.8.22.pdf)
     * [New Alexander House name honors Stevens family pioneer](https://thestute.com/2022/09/16/new-alexander-house-name-honors-stevens-family-pioneer/), September 16, 2022
   * [Edwin Augustus Stevens Jr.](https://en.wikipedia.org/wiki/Edwin_Augustus_Stevens_Jr.) 1858&mdash;1918
-  * [Caroline Bayard Stevens Wittpenn](https://en.wikipedia.org/wiki/Caroline_Bayard_Stevens_Wittpenn) 1859&mdash;1932
-  * [H. Otto Wittpenn](https://en.wikipedia.org/wiki/H._Otto_Wittpenn) 1871&mdash;1931
+  * [Caroline Bayard Stevens Wittpenn](https://en.wikipedia.org/wiki/Caroline_Bayard_Stevens_Wittpenn) 1859&mdash;1932 was the eldest daughter of Edwin Augustus Stevens and Martha Bayard Stevens
+  * [H. Otto Wittpenn](https://en.wikipedia.org/wiki/H._Otto_Wittpenn) 1871&mdash;1931 married Caroline Bayard Stevens on January 6, 1915
   * [Archibald Stevens Alexander](https://en.wikipedia.org/wiki/Archibald_Stevens_Alexander) 1880&mdash;1912
   * [Archibald Stevens Alexander Jr.](https://en.wikipedia.org/wiki/Archibald_S._Alexander) 1906&mdash;1979
   * [Mary Stuart Stevens Baird](https://www.stevens.edu/news/out-archives-powerful-friendship) 1901&mdash;1989
