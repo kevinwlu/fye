@@ -157,6 +157,7 @@
     * [Neutrodyne](https://en.wikipedia.org/wiki/Neutrodyne) radio receiver 1922
     * [List of IEEE Milestones](https://ethw.org/Milestones:List_of_IEEE_Milestones)
       *  19 October 2024
+  * [Lawrence C. F. Horle](https://en.wikipedia.org/wiki/Lawrence_C._F._Horle) 1892&mdash;1950, class of 1914
   * [Samuel C. Williams](https://library.stevens.edu/scwilliams) 1894&mdash;1968, class of 1915
   * [Alfred Kinsey](https://en.wikipedia.org/wiki/Alfred_Kinsey) 1894&mdash;1956
     * [Eagle Scout](https://en.wikipedia.org/wiki/Eagle_Scout)
