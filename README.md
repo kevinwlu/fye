@@ -138,9 +138,10 @@
     * [HASS Professor Bredin embarks on the research of actress Blanche Walsh](https://thestute.com/2024/09/06/hass-professor-bredin-embarks-on-the-research-of-actress-blanche-walsh/), September 6, 2024
     * [Blanche Walsh](https://en.wikipedia.org/wiki/Blanche_Walsh) 1873&mdash;1915
 * [Undergraduate Student Awards](https://www.stevens.edu/student-life/student-affairs/student-awards)
-  * [John Barnes](https://sfponline.site-ym.com/news/134283/Passing-of-John-Barnes-Class-of-2006.htm)
-  * [Barnes Wins 4k as Men's Finish First in Stevens Invitational](https://stevensducks.com/news/2007/9/21/MXC_3048.aspx)
   * [John Barnes '10 Memorial Scholarship](https://connect.stevens.edu/makeagift/scholarships)
+  * [Barnes Wins 4k as Men's Finish First in Stevens Invitational](https://stevensducks.com/news/2007/9/21/MXC_3048.aspx), September 21, 2007
+  * [John Barnes](https://sfponline.site-ym.com/news/134283/Passing-of-John-Barnes-Class-of-2006.htm), July 25, 2013
+  * [In Memoriam: John Barnes](https://notbuiltinaday.blogspot.com/2013/08/in-memoriam-john-barnes.html), August 2013
 * [Stevens Alumni Award Recipients](https://www.stevens.edu/development-alumni-engagement/connect/stevens-alumni-award-recipients)
 * [List of Stevens Institute of Technology alumni](https://en.wikipedia.org/wiki/List_of_Stevens_Institute_of_Technology_alumni)
   * [James Buchanan Pierce](https://stevensarchives.contentdm.oclc.org/digital/collection/StevensNP01/id/9757/) 1856&mdash;1928, class of 1877
