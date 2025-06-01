@@ -138,6 +138,9 @@
     * [HASS Professor Bredin embarks on the research of actress Blanche Walsh](https://thestute.com/2024/09/06/hass-professor-bredin-embarks-on-the-research-of-actress-blanche-walsh/), September 6, 2024
     * [Blanche Walsh](https://en.wikipedia.org/wiki/Blanche_Walsh) 1873&mdash;1915
 * [Undergraduate Student Awards](https://www.stevens.edu/student-life/student-affairs/student-awards)
+  * [John Barnes](https://sfponline.site-ym.com/news/134283/Passing-of-John-Barnes-Class-of-2006.htm)
+  * [Barnes Wins 4k as Men's Finish First in Stevens Invitational](https://stevensducks.com/news/2007/9/21/MXC_3048.aspx)
+  * [John Barnes '10 Memorial Scholarship](https://connect.stevens.edu/makeagift/scholarships)
 * [Stevens Alumni Award Recipients](https://www.stevens.edu/development-alumni-engagement/connect/stevens-alumni-award-recipients)
 * [List of Stevens Institute of Technology alumni](https://en.wikipedia.org/wiki/List_of_Stevens_Institute_of_Technology_alumni)
   * [James Buchanan Pierce](https://stevensarchives.contentdm.oclc.org/digital/collection/StevensNP01/id/9757/) 1856&mdash;1928, class of 1877
@@ -189,6 +192,7 @@
     * [History of DeBaun Auditorium](https://www.stevens.edu/history-of-debaun-auditorium)
   * [Kenneth J. Altorfer](https://www.pr.com/press-release/239422), class of 1950
   * [Frank T. Battista](https://stevens.giftplans.org/index.php?cID=350), class of 1954
+  * [David J. Farber](https://en.wikipedia.org/wiki/David_J._Farber), class of 1956
   * [John H. Hovey](https://www.vpfh.com/obituary/John-Hovey) 1934&mdash;2021, class of 1957
   * [Richard F. Harries](https://www.stevens.edu/news/stevens-upward-trajectory-inspires-historic-gift), class of 1958
   * [Frank J. Semcer, Sr.](https://www.stevens.edu/news/honoring-the-semcer-legacy-student-commons), class of 1965
