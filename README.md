@@ -434,13 +434,13 @@
 * [Jean Piaget](https://en.wikipedia.org/wiki/Jean_Piaget) 1896&mdash;1980
 * Video [Experiential Learning](https://www.youtube.com/watch?v=yEP4MJMienw)
 * [Study Abroad](https://www.stevens.edu/academics/undergraduate-study/study-abroad)
-* [Fulbright Program](https://en.wikipedia.org/wiki/Fulbright_Program)
+* [Fulbright Program](https://en.wikipedia.org/wiki/Fulbright_Program) established in 1946
   * [J. William Fulbright](https://en.wikipedia.org/wiki/J._William_Fulbright) 1905&mdash;1995
-* [Barry M. Goldwater Scholarship](https://en.wikipedia.org/wiki/Barry_M._Goldwater_Scholarship)
+* [Barry M. Goldwater Scholarship](https://en.wikipedia.org/wiki/Barry_M._Goldwater_Scholarship) established in 1986
   * [Barry Goldwater](https://en.wikipedia.org/wiki/Barry_Goldwater) 1909&mdash;1998
-* [Pell Grant](https://en.wikipedia.org/wiki/Pell_Grant)
+* [Pell Grant](https://en.wikipedia.org/wiki/Pell_Grant) established in 1965
   * [Claiborne Pell](https://en.wikipedia.org/wiki/Claiborne_Pell) 1918&mdash;2009
-* [Benjamin A. Gilman International Scholarship](https://en.wikipedia.org/wiki/Benjamin_A._Gilman_International_Scholarship)
+* [Benjamin A. Gilman International Scholarship](https://en.wikipedia.org/wiki/Benjamin_A._Gilman_International_Scholarship) established in 2000
   * [Benjamin Gilman](https://en.wikipedia.org/wiki/Benjamin_Gilman) 1922&mdash;2016
   * ["Benjamin A. Gilman Scholarship Gives Pell Grant Students a Chance to Go Abroad"](https://www.stevens.edu/news/benjamin-a-gilman-scholarship-gives-pell-grant-students-a-chance-to-go)
 * [Research](https://en.wikipedia.org/wiki/Research)
