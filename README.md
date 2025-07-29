@@ -334,6 +334,7 @@
   * [*The 7 Habits of Highly Effective People*](https://en.wikipedia.org/wiki/The_7_Habits_of_Highly_Effective_People) 1989
   * [*The 8th Habit*](https://en.wikipedia.org/wiki/The_8th_Habit) 2004
 * [Time management](https://en.wikipedia.org/wiki/Time_management)
+* [Sedentary lifestyle](https://en.wikipedia.org/wiki/Sedentary_lifestyle)
 * [Screen time](https://en.wikipedia.org/wiki/Screen_time)
 * [Fear of missing out](https://en.wikipedia.org/wiki/Fear_of_missing_out) (FOMO)
 * [Brain rot](https://en.wikipedia.org/wiki/Brain_rot)
