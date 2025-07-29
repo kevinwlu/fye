@@ -337,6 +337,7 @@
 * [Screen time](https://en.wikipedia.org/wiki/Screen_time)
 * [Fear of missing out](https://en.wikipedia.org/wiki/Fear_of_missing_out) (FOMO)
 * [Brain rot](https://en.wikipedia.org/wiki/Brain_rot)
+* [Clickbait](https://en.wikipedia.org/wiki/Clickbait)
 * [Spamming](https://en.wikipedia.org/wiki/Spamming)
 * [Information overload](https://en.wikipedia.org/wiki/Information_overload)
 * [Information pollution](https://en.wikipedia.org/wiki/Information_pollution)
