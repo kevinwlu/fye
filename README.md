@@ -167,6 +167,8 @@
     * [Stevens Celebrates Coveted IEEE Milestone Recognition for Neutrodyne Radio Circuit](https://www.stevens.edu/news/ieee-milestone-neutrodyne-ceremony-hazeltine)
     * [List of IEEE Milestones](https://ethw.org/Milestones:List_of_IEEE_Milestones)
       *  19 October 2024
+    * [Barrett Hazeltine](https://vivo.brown.edu/display/bhazelti)
+    * [Richard Deimel Hazeltine](https://research.com/u/richard-d-hazeltine)
   * [Lawrence C. F. Horle](https://en.wikipedia.org/wiki/Lawrence_C._F._Horle) 1892&mdash;1950, class of 1914
   * [Samuel C. Williams](https://library.stevens.edu/scwilliams) 1894&mdash;1968, class of 1915
   * [Alfred Kinsey](https://en.wikipedia.org/wiki/Alfred_Kinsey) 1894&mdash;1956
