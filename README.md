@@ -164,6 +164,7 @@
   * [Walter Kidde](https://en.wikipedia.org/wiki/Walter_Kidde) 1877&mdash;1943, class of 1897
   * [Louis Alan Hazeltine](https://en.wikipedia.org/wiki/Louis_Alan_Hazeltine) 1886&mdash;1964, class of 1906
     * [Neutrodyne](https://en.wikipedia.org/wiki/Neutrodyne) radio receiver 1922
+    * [Stevens Celebrates Coveted IEEE Milestone Recognition for Neutrodyne Radio Circuit](https://www.stevens.edu/news/ieee-milestone-neutrodyne-ceremony-hazeltine)
     * [List of IEEE Milestones](https://ethw.org/Milestones:List_of_IEEE_Milestones)
       *  19 October 2024
   * [Lawrence C. F. Horle](https://en.wikipedia.org/wiki/Lawrence_C._F._Horle) 1892&mdash;1950, class of 1914
