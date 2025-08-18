@@ -1,4 +1,4 @@
-# First Year Experience (FYE) 2024 Fall Semester
+# First Year Experience (FYE) &mdash; 2024 Fall Semester
 ## Week 1: IntroDUCKtions and Course Overview
 * Music [Higher Hopes](https://www.youtube.com/watch?app=desktop&v=4waCNmDnarQ)
   * [Background Music Lab](https://www.youtube.com/@background_music_lab)
