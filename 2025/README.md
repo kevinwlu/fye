@@ -1,6 +1,6 @@
 # First Year Experience (FYE) &mdash; 2025 Fall Semester
 ## Lesson 0: Orientation Meet and Greet
-
+* [Time capsule](https://en.wikipedia.org/wiki/Time_capsule)
 ## Lesson 1: Purpose and Possibility in College
 
 ## Lesson 2: Cracking the Code &mdash; The Hidden Curriculum
