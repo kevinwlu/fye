@@ -1,2 +1,30 @@
 # First Year Experience (FYE) &mdash; 2025 Fall Semester
-## Week One
+## Lesson 0: Orientation Meet and Greet
+
+## Lesson 1: Purpose and Possibility in College
+
+## Lesson 2: Cracking the Code &mdash; The Hidden Curriculum
+
+## Lesson 3: Fail Forward &mdash; Growth Mindset and Academic Integrity
+
+## Lesson 4: 
+
+## Lesson 5: 
+
+## Lesson 6: 
+
+## Lesson 7: 
+
+## Lesson 8: 
+
+## Lesson 9: 
+
+## Lesson 10: 
+
+## Lesson 11: 
+
+## Lesson 12: 
+
+## Lesson 13: 
+
+## Lesson 14: 
