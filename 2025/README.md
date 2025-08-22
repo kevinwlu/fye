@@ -23,7 +23,7 @@
 
 ## Lesson 10 - Career Kickoff: Exploring Majors & Professional Presence
 
-## Lesson 11 - Ethics IRL: Making Good Choices in a Messy World
+## Lesson 11 - Ethics in Real Life (IRL): Making Good Choices in a Messy World
 
 ## Lesson 12 - Unpacking the Defaults: How Empathy and Inclusion Build Belonging at College and Beyond
 
