@@ -10,9 +10,12 @@
   * [The Power of Believing That You Can Improve](https://www.youtube.com/watch?v=_X0mgOOSpLU&t=231s)
   * [Developing a Growth Mindset](https://www.youtube.com/watch?v=hiiEeMN7vbQ)
 ## Lesson 4 - Own Your Time: Time Management and Active Learning
-
+* [*Pedagogy of the Oppressed*](https://en.wikipedia.org/wiki/Pedagogy_of_the_Oppressed) by [Paulo Freire](https://en.wikipedia.org/wiki/Paulo_Freire) 1921&mdash;1997
+  * [PDF](https://files.libcom.org/files/Paulo%20Freire,%20Myra%20Bergman%20Ramos,%20Donaldo%20Macedo%20-%20Pedagogy%20of%20the%20Oppressed,%2030th%20Anniversary%20Edition%20(2000,%20Bloomsbury%20Academic).pdf)
 ## Lesson 5 - Thrive at Stevens: A Holistic Wellness Approach
-
+* [How to do nothing](https://medium.com/@the_jennitaur/how-to-do-nothing-57e100f59bbb) by [Jenny Odell](https://en.wikipedia.org/wiki/Jenny_Odell)
+  * [Eyeo 2017](https://vimeo.com/232544904)
+  * [Eyeo festival](https://en.wikipedia.org/wiki/Eyeo_festival)
 ## Lesson 6 - You Belong Here: Overcoming Imposter Syndrome
 
 ## Lesson 7 - Money Matters: Credit, Loans, and Debt
