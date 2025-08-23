@@ -22,11 +22,12 @@
 ## Lesson 7 - Money Matters: Credit, Loans, and Debt
 * [Money Adds Up](https://thestute.com/2023/12/01/money-adds-up/) by [Hima Thummala](https://www.linkedin.com/in/himathummala/)
 ## Lesson 8 - Choose Your Own Adventure
-
+* [Life skills](https://en.wikipedia.org/wiki/Life_skills)
 ## Lesson 9 - Active and Experiential Learning at Stevens
 
 ## Lesson 10 - Career Kickoff: Exploring Majors & Professional Presence
-
+* [Myers–Briggs Type Indicator](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator)
+* [CliftonStrengths](https://en.wikipedia.org/wiki/CliftonStrengths)
 ## Lesson 11 - Ethics in Real Life (IRL): Making Good Choices in a Messy World
 
 ## Lesson 12 - Unpacking the Defaults: How Empathy and Inclusion Build Belonging at College and Beyond
