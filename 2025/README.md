@@ -35,8 +35,9 @@
 * [PDF](https://shsdavisapes.pbworks.com/f/Omelas.pdf)
 * [Salem, Oregon](https://en.wikipedia.org/wiki/Salem,_Oregon)
 ## Lesson 12 - Unpacking the Defaults: How Empathy and Inclusion Build Belonging at College and Beyond
-* [Inclusion in Action: the Why and the How](https://www.youtube.com/watch?v=E93SQhsz8eA) 2025 by [Wei Zheng](https://www.stevens.edu/profile/wzheng11)
+* [Inclusion in Action: the Why and the How](https://www.youtube.com/watch?v=E93SQhsz8eA) by [Wei Zheng](https://www.stevens.edu/profile/wzheng11)
 * [*Building a House for Diversity: A Fable About a Giraffe & an Elephant Offers New Strategies for Today's Workforce*](https://www.amazon.com/Building-House-Diversity-Strategies-Workforce/dp/0814404634) 1999 by [R. Roosevelt Thomas, Jr.](https://en.wikipedia.org/wiki/R._Roosevelt_Thomas,_Jr.) 1944&mdash;2013
 ## Lesson 13 - Empowered to Act: Building a Community of Care
 * [Bystander Intervention Tip Sheet](https://www.apa.org/pi/health-equity/bystander-intervention)
 ## Lesson 14 - From Orientation to Ownership: What Kind of Duck Will You Be?
+* [Elevator pitch](https://en.wikipedia.org/wiki/Elevator_pitch)
