@@ -19,7 +19,7 @@
 
 ## Lesson 8 - Choose Your Own Adventure
 
-## Lesson 9 - Active & Experiential Learning at Stevens
+## Lesson 9 - Active and Experiential Learning at Stevens
 
 ## Lesson 10 - Career Kickoff: Exploring Majors & Professional Presence
 
