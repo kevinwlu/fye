@@ -17,9 +17,10 @@
   * [Eyeo 2017](https://vimeo.com/232544904)
   * [Eyeo festival](https://en.wikipedia.org/wiki/Eyeo_festival)
 ## Lesson 6 - You Belong Here: Overcoming Imposter Syndrome
-
+* [Impostor syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome)
+* [Imposter syndrome](https://thestute.com/2023/09/29/imposter-syndrome/) by [Nicole Cheung](https://www.linkedin.com/in/nicole-cheung-551500261/)
 ## Lesson 7 - Money Matters: Credit, Loans, and Debt
-
+* [Money Adds Up](https://thestute.com/2023/12/01/money-adds-up/) by [Hima Thummala](https://www.linkedin.com/in/himathummala/)
 ## Lesson 8 - Choose Your Own Adventure
 
 ## Lesson 9 - Active and Experiential Learning at Stevens
