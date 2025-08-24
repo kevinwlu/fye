@@ -366,6 +366,7 @@
   * [*How to Be Perfect*](https://en.wikipedia.org/wiki/How_to_Be_Perfect) 2022
   * [*The Good Place*](https://en.wikipedia.org/wiki/The_Good_Place) by 2016&mdash;2020
   * [*Parks and Recreation*](https://en.wikipedia.org/wiki/Parks_and_Recreation) 2009&mdash;2015
+    * [Galentine's Day (observance)](https://en.wikipedia.org/wiki/Galentine%27s_Day_(observance))
 * [Ethics of artificial intelligence](https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence)
   * [Superalignment](https://openai.com/index/introducing-superalignment/) July 5, 2023
   * [AI alignment](https://en.wikipedia.org/wiki/AI_alignment)
