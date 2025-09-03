@@ -17,6 +17,7 @@
     * [Stevens Institute of Technology](https://www.msche.org/institution/0235/)
   * [ABET](https://en.wikipedia.org/wiki/ABET)
 * [List of higher education associations and alliances](https://en.wikipedia.org/wiki/List_of_higher_education_associations_and_alliances)
+* [Association of Independent Technological Universities](https://en.wikipedia.org/wiki/Association_of_Independent_Technological_Universities) (AITU)
 * [List of research universities in the United States](https://en.wikipedia.org/wiki/List_of_research_universities_in_the_United_States)
   * [Association of American Universities](https://en.wikipedia.org/wiki/Association_of_American_Universities) (AAU)
   * [Carnegie Classification of Institutions of Higher Education](https://en.wikipedia.org/wiki/Carnegie_Classification_of_Institutions_of_Higher_Education)
