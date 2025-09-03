@@ -6,6 +6,8 @@
 * Stevens does not use the [Latin honors](https://en.wikipedia.org/wiki/Latin_honors)
 * [Dean's list and undergraduate class rank](https://www.stevens.edu/office-of-the-registrar/deans-list)
 * The undergraduate Degree with Honor, High Honor, or Highest Honor is conferred to the student who achieves a grade point average of 3.4, 3.6, or 3.85 for courses required for the degree.
+* [GlobalFoundries](https://en.wikipedia.org/wiki/GlobalFoundries)
+* [Remezcla](https://en.wikipedia.org/wiki/Remezcla)
 ## Lesson 2 - Cracking the Code: The Hidden Curriculum
 * [Life Prep 101](https://www.insidehighered.com/opinion/columns/higher-ed-gamma/2024/05/16/how-hidden-curriculum-prepares-students-post-college), May 16, 2024
 ## Lesson 3 - Fail Forward: Growth Mindset and Academic Integrity
