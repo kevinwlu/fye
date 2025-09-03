@@ -3,6 +3,7 @@
 * [Time capsule](https://en.wikipedia.org/wiki/Time_capsule)
 ## Lesson 1 - Purpose and Possibility in College
 * [Jacob Franco-Wadley: A Purpose-Driven Journey at Stevens](https://www.stevens.edu/news/jacob-franco-wadley-a-purpose-driven-journey-at-stevens), October 7, 2024
+* [Purpose](https://en.wikipedia.org/wiki/Purpose)
 * Stevens does not use the [Latin honors](https://en.wikipedia.org/wiki/Latin_honors)
 * [Dean's list and undergraduate class rank](https://www.stevens.edu/office-of-the-registrar/deans-list)
 * The undergraduate Degree with Honor, High Honor, or Highest Honor is conferred to the student who achieves a grade point average of 3.4, 3.6, or 3.85 for courses required for the degree.
