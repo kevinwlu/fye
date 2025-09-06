@@ -13,7 +13,16 @@
 * [GlobalFoundries](https://en.wikipedia.org/wiki/GlobalFoundries)
 * [Remezcla](https://en.wikipedia.org/wiki/Remezcla)
 ## Lesson 2 - Cracking the Code: The Hidden Curriculum
-* [Life Prep 101](https://www.insidehighered.com/opinion/columns/higher-ed-gamma/2024/05/16/how-hidden-curriculum-prepares-students-post-college), May 16, 2024
+* [Steven Mintz](https://en.wikipedia.org/wiki/Steven_Mintz), [Life Prep 101](https://www.insidehighered.com/opinion/columns/higher-ed-gamma/2024/05/16/how-hidden-curriculum-prepares-students-post-college), May 16, 2024
+* [Philip W. Jackson](https://en.wikipedia.org/wiki/Philip_W._Jackson) 1928&mdash;2015, *Life in Classrooms* 1968
+  * [Hidden curriculum](https://en.wikipedia.org/wiki/Hidden_curriculum)
+* [Benson R. Snyder](https://www.amacad.org/person/benson-r-snyder) 1923&mdash;2012, [*The Hidden Curriculum*](https://en.wikipedia.org/wiki/The_Hidden_Curriculum) 1970
+* [Kenneth Keniston](https://en.wikipedia.org/wiki/Kenneth_Keniston) 1930&mdash;2020
+* [Eric Margolis (journalist)](https://en.wikipedia.org/wiki/Eric_Margolis_(journalist)), Editor, *The Hidden Curriculum in Higher Education* 2001
+  * D. Peter Birkett, *Psychiarty in the Nursing Home* (2nd edition 2001) and [*The Psychiatry of Strok* (2nd edition 2008)
+* [Buffy Smith](https://dfc.stthomas.edu/about/faculty-staff/buffy-smith/), *Mentoring At-Risk Students Through the Hidden Curriculum of Higher Education* 2013
+* [Rachel Gable](https://press.princeton.edu/our-authors/gable-rachel), [*The Hidden Curriculum: First Generation Students at Legacy Universities*](https://press.princeton.edu/books/hardcover/9780691190761/the-hidden-curriculum) 2021
+* [Rob K. Henderson](https://en.wikipedia.org/wiki/Rob_K._Henderson)
 ## Lesson 3 - Fail Forward: Growth Mindset and Academic Integrity
 * [Carol Dweck](https://en.wikipedia.org/wiki/Carol_Dweck)
   * [The Power of Believing That You Can Improve](https://www.youtube.com/watch?v=_X0mgOOSpLU&t=231s)
