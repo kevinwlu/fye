@@ -14,6 +14,9 @@
 * [Remezcla](https://en.wikipedia.org/wiki/Remezcla)
 ## Lesson 2 - Cracking the Code: The Hidden Curriculum
 * [Steven Mintz](https://en.wikipedia.org/wiki/Steven_Mintz), [Life Prep 101](https://www.insidehighered.com/opinion/columns/higher-ed-gamma/2024/05/16/how-hidden-curriculum-prepares-students-post-college), May 16, 2024
+  * Lesson 1: Recognize the skills you acquired outside the classroom during your college years
+  * Lesson 2: Think about the relationships you formed during college and how these are deeper, richer and more meaningful than those you established earlier in life
+  * Lesson 3: Consider how you have learned to be a professional
 * [Philip W. Jackson](https://en.wikipedia.org/wiki/Philip_W._Jackson) 1928&mdash;2015, *Life in Classrooms* 1968
   * [Hidden curriculum](https://en.wikipedia.org/wiki/Hidden_curriculum)
 * [Benson R. Snyder](https://www.amacad.org/person/benson-r-snyder) 1923&mdash;2012, [*The Hidden Curriculum*](https://en.wikipedia.org/wiki/The_Hidden_Curriculum) 1970
