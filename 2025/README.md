@@ -28,9 +28,12 @@
 * [Rob K. Henderson](https://en.wikipedia.org/wiki/Rob_K._Henderson), *Troubled: A Memoir of Foster Care, Family, and Social Class* 2024
   * [Luxury belief](https://en.wikipedia.org/wiki/Luxury_belief)
 ## Lesson 3 - Fail Forward: Growth Mindset and Academic Integrity
+* [Mindset](https://en.wikipedia.org/wiki/Mindset)
+  * [Mindsetonline.com](https://mindsetonline.com/)
 * [Carol Dweck](https://en.wikipedia.org/wiki/Carol_Dweck)
-  * [The Power of Believing That You Can Improve](https://www.youtube.com/watch?v=_X0mgOOSpLU&t=231s)
-  * [Developing a Growth Mindset](https://www.youtube.com/watch?v=hiiEeMN7vbQ)
+  * [The Power of Believing That You Can Improve](https://www.youtube.com/watch?v=_X0mgOOSpLU&t=231s), December 17, 2014
+  * [Developing a Growth Mindset](https://www.youtube.com/watch?v=hiiEeMN7vbQ), October 9, 2014
+  * [The Power of Yet](https://www.youtube.com/watch?v=J-swZaKN2Ic), September 12, 2014
 ## Lesson 4 - Own Your Time: Time Management and Active Learning
 * [*Pedagogy of the Oppressed*](https://en.wikipedia.org/wiki/Pedagogy_of_the_Oppressed) by [Paulo Freire](https://en.wikipedia.org/wiki/Paulo_Freire) 1921&mdash;1997
   * [PDF](https://files.libcom.org/files/Paulo%20Freire,%20Myra%20Bergman%20Ramos,%20Donaldo%20Macedo%20-%20Pedagogy%20of%20the%20Oppressed,%2030th%20Anniversary%20Edition%20(2000,%20Bloomsbury%20Academic).pdf)
