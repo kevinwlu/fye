@@ -26,7 +26,7 @@
 * [Buffy Smith](https://dfc.stthomas.edu/about/faculty-staff/buffy-smith/), *Mentoring At-Risk Students Through the Hidden Curriculum of Higher Education* 2013
 * [Rachel Gable](https://press.princeton.edu/our-authors/gable-rachel), [*The Hidden Curriculum: First Generation Students at Legacy Universities*](https://press.princeton.edu/books/hardcover/9780691190761/the-hidden-curriculum) 2021
 * [Rob K. Henderson](https://en.wikipedia.org/wiki/Rob_K._Henderson), *Troubled: A Memoir of Foster Care, Family, and Social Class* 2024
-  * [Luxury belief](https://en.wikipedia.org/wiki/Luxury_belief): 
+  * [Luxury belief](https://en.wikipedia.org/wiki/Luxury_belief)
 ## Lesson 3 - Fail Forward: Growth Mindset and Academic Integrity
 * [Carol Dweck](https://en.wikipedia.org/wiki/Carol_Dweck)
   * [The Power of Believing That You Can Improve](https://www.youtube.com/watch?v=_X0mgOOSpLU&t=231s)
