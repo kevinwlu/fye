@@ -22,7 +22,7 @@
 * [Benson R. Snyder](https://www.amacad.org/person/benson-r-snyder) 1923&mdash;2012, [*The Hidden Curriculum*](https://en.wikipedia.org/wiki/The_Hidden_Curriculum) 1970
 * [Kenneth Keniston](https://en.wikipedia.org/wiki/Kenneth_Keniston) 1930&mdash;2020, *The Uncommitted: Alienated Youth in American Society* 1965
 * [Eric Margolis (journalist)](https://en.wikipedia.org/wiki/Eric_Margolis_(journalist)), Editor, *The Hidden Curriculum in Higher Education* 2001
-  * Reviewed by D. Peter Birkett, author of *Psychiarty in the Nursing Home* (2nd edition 2001) and [*The Psychiatry of Strok* (2nd edition 2008)
+  * Reviewed by D. Peter Birkett, author of *Psychiarty in the Nursing Home* (2nd edition 2001) and *The Psychiatry of Strok* (2nd edition 2008)
 * [Buffy Smith](https://dfc.stthomas.edu/about/faculty-staff/buffy-smith/), *Mentoring At-Risk Students Through the Hidden Curriculum of Higher Education* 2013
 * [Rachel Gable](https://press.princeton.edu/our-authors/gable-rachel), [*The Hidden Curriculum: First Generation Students at Legacy Universities*](https://press.princeton.edu/books/hardcover/9780691190761/the-hidden-curriculum) 2021
 * [Rob K. Henderson](https://en.wikipedia.org/wiki/Rob_K._Henderson), *Troubled: A Memoir of Foster Care, Family, and Social Class* 2024
