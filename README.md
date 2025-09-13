@@ -120,7 +120,6 @@
     * [Edgar Palmer](https://stevensarchives.contentdm.oclc.org/digital/collection/StevensNP02/id/20453/) 1880&mdash;1943
   * [Jacobus Hall throughout the years](https://thestute.com/2018/11/30/jacobus-hall-throughout-the-years/)
   * [American Bureau of Shipping](https://en.wikipedia.org/wiki/American_Bureau_of_Shipping) (ABS)
-  * [Anna Hyatt Huntington](https://en.wikipedia.org/wiki/Anna_Hyatt_Huntington) 1876&mdash;1973
   * [Irving Langmuir](https://en.wikipedia.org/wiki/Irving_Langmuir) 1881&mdash;1957
   * [Mary Callery](https://en.wikipedia.org/wiki/Mary_Callery) 1903&mdash;1977, a freind of [Pablo Picasso](https://en.wikipedia.org/wiki/Pablo_Picasso) 1881&mdash;1973 and [Alexander Calder](https://en.wikipedia.org/wiki/Alexander_Calder) 1898&mdash;1976
     * [Moon and Stars](https://virtualglobetrotting.com/map/moon-and-stars-by-mary-callery/)
