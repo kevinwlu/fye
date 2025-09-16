@@ -59,13 +59,14 @@
   * [Sibyl's Cave](https://en.wikipedia.org/wiki/Sibyl%27s_Cave) in Italy
   * [Elysian Fields (Hoboken, New Jersey)](https://en.wikipedia.org/wiki/Elysian_Fields_(Hoboken,_New_Jersey))
   * [Elysium](https://en.wikipedia.org/wiki/Elysium)
+  * [Hoboken’s original plan and first parks established in 1804](https://betterwaterfront.org/hudson-square-hobokens-first-park/)
+    * [USS *Portsmouth* (1843)](https://en.wikipedia.org/wiki/USS_Portsmouth_(1843))
+    * [*On the Waterfront*](https://en.wikipedia.org/wiki/On_the_Waterfront) 1954
+    * [Bringing Down the Gatehouse](https://www.stevens.edu/news/bringing-down-gatehouse), February 7, 2019
 * [Stevens family](https://www.stevens.edu/discover-stevens/stevens-history/the-stevens-family)
   * [John Stevens Sr.](https://www.geni.com/people/John-Stevens-Sr/6000000003381721966) 1682&mdash;1737 came to America in 1699 at the age of 17
   * [John Stevens Jr.](https://en.wikipedia.org/wiki/John_Stevens_(New_Jersey_politician)) 1715&mdash;1792
   * [Col. John Stevens III](https://en.wikipedia.org/wiki/John_Stevens_(inventor,_born_1749)) 1749&mdash;1838
-    * [Hoboken’s original plan and first parks established in 1804](https://betterwaterfront.org/hudson-square-hobokens-first-park/)
-    * [USS *Portsmouth* (1843)](https://en.wikipedia.org/wiki/USS_Portsmouth_(1843))
-    * [*On the Waterfront*](https://en.wikipedia.org/wiki/On_the_Waterfront) 1954
   * [John Cox Stevens](https://en.wikipedia.org/wiki/John_Cox_Stevens) 1785&mdash;1857
     * [America's Cup](https://en.wikipedia.org/wiki/America%27s_Cup)
   * [Robert L. Stevens](https://en.wikipedia.org/wiki/Robert_L._Stevens) 1787&mdash;1856
