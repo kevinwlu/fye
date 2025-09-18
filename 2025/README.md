@@ -35,7 +35,8 @@
   * [The Power of Believing That You Can Improve](https://www.youtube.com/watch?v=_X0mgOOSpLU&t=231s), December 17, 2014
   * [Developing a Growth Mindset](https://www.youtube.com/watch?v=hiiEeMN7vbQ), October 9, 2014
   * [The Power of Yet](https://www.youtube.com/watch?v=J-swZaKN2Ic), September 12, 2014
-  * [Learning curve](https://en.wikipedia.org/wiki/Learning_curve)
+* [Learning curve](https://en.wikipedia.org/wiki/Learning_curve)
+* [Growth curve](https://en.wikipedia.org/wiki/Growth_curve)
 * [Integrity](https://en.wikipedia.org/wiki/Integrity)
 * [Self-reflection](https://en.wikipedia.org/wiki/Self-reflection)
 ## Lesson 4 - Own Your Time: Time Management and Active Learning
