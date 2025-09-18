@@ -77,8 +77,8 @@
   * [Martha Bayard Stevens](https://en.wikipedia.org/wiki/Martha_Bayard_Stevens) 1831&mdash;1899
     * [Renaming of Alexander House to Martha Bayard Stevens Hall 9.8.22](/Renaming_of_Alexander_House_to_Martha_Bayard_Stevens_Hall_9.8.22.pdf)
     * [New Alexander House name honors Stevens family pioneer](https://thestute.com/2022/09/16/new-alexander-house-name-honors-stevens-family-pioneer/), September 16, 2022
-  * John Stevens IV 1856&mdash;1895
-    * Mary Picton Stevens Hammond 1885&mdash;1915
+  * [John Stevens IV](https://www.geni.com/people/John-Stevens/6000000018103211393) 1856&mdash;1895
+    * [Mary Picton Stevens Hammond](https://www.rmslusitania.info/people/saloon/mary-hammond/) 1885&mdash;1915
     * [Ogden H. Hammond](https://en.wikipedia.org/wiki/Ogden_H._Hammond) 1869&mdash;1956
     * [RMS *Lusitania*](https://en.wikipedia.org/wiki/RMS_Lusitania)
     * [Millicent Fenwick](https://en.wikipedia.org/wiki/Millicent_Fenwick) 1910&mdash;1992
