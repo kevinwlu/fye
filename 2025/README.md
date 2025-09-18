@@ -36,6 +36,7 @@
   * [Developing a Growth Mindset](https://www.youtube.com/watch?v=hiiEeMN7vbQ), October 9, 2014
   * [The Power of Yet](https://www.youtube.com/watch?v=J-swZaKN2Ic), September 12, 2014
 * [Integrity](https://en.wikipedia.org/wiki/Integrity)
+* [Self-reflection](https://en.wikipedia.org/wiki/Self-reflection)
 ## Lesson 4 - Own Your Time: Time Management and Active Learning
 * [*Pedagogy of the Oppressed*](https://en.wikipedia.org/wiki/Pedagogy_of_the_Oppressed) by [Paulo Freire](https://en.wikipedia.org/wiki/Paulo_Freire) 1921&mdash;1997
   * [PDF](https://files.libcom.org/files/Paulo%20Freire,%20Myra%20Bergman%20Ramos,%20Donaldo%20Macedo%20-%20Pedagogy%20of%20the%20Oppressed,%2030th%20Anniversary%20Edition%20(2000,%20Bloomsbury%20Academic).pdf)
