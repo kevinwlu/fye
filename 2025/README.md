@@ -41,12 +41,15 @@
 * [Self-reflection](https://en.wikipedia.org/wiki/Self-reflection)
 ## Lesson 4 - Own Your Time: Time Management and Active Learning
 * [Time management](https://en.wikipedia.org/wiki/Time_management)
+  * [Dilemma](https://en.wikipedia.org/wiki/Dilemma)
+  * [Information overload](https://en.wikipedia.org/wiki/Information_overload)
+  * [Fear of missing out](https://en.wikipedia.org/wiki/Fear_of_missing_out) (FOMO)
 * [Active learning](https://en.wikipedia.org/wiki/Active_learning)
   * [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique)
   * [SMART criteria](https://en.wikipedia.org/wiki/SMART_criteria)
   * [Learning by teaching](https://en.wikipedia.org/wiki/Learning_by_teaching)
 * [*Pedagogy of the Oppressed*](https://en.wikipedia.org/wiki/Pedagogy_of_the_Oppressed) 1968 by [Paulo Freire](https://en.wikipedia.org/wiki/Paulo_Freire) 1921&mdash;1997
-  * [PDF](https://files.libcom.org/files/Paulo%20Freire,%20Myra%20Bergman%20Ramos,%20Donaldo%20Macedo%20-%20Pedagogy%20of%20the%20Oppressed,%2030th%20Anniversary%20Edition%20(2000,%20Bloomsbury%20Academic).pdf)
+  * [PDF](https://files.libcom.org/files/Paulo%20Freire,%20Myra%20Bergman%20Ramos,%20Donaldo%20Macedo%20-%20Pedagogy%20of%20the%20Oppressed,%2030th%20Anniversary%20Edition%20(2000,%20Bloomsbury%20Academic).pdf) pp. 71-73 and pp. 78-81
   * [John Dewey](https://en.wikipedia.org/wiki/John_Dewey) 1859&mdash;1952
   * [Maria Montessori](https://en.wikipedia.org/wiki/Maria_Montessori) 1870&mdash;1952
 * [Open Syllabus Project](https://en.wikipedia.org/wiki/Open_Syllabus_Project) (OSP)
