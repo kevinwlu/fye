@@ -42,6 +42,7 @@
 ## Lesson 4 - Own Your Time: Time Management and Active Learning
 * [Time management](https://en.wikipedia.org/wiki/Time_management)
   * [Time perception](https://en.wikipedia.org/wiki/Time_perception)
+  * [*The 5 AM Club: Own Your Morning, Elevate Your Life*](https://en.wikipedia.org/wiki/The_5am_Club)
   * [Dilemma](https://en.wikipedia.org/wiki/Dilemma)
   * [Information overload](https://en.wikipedia.org/wiki/Information_overload)
   * [Fear of missing out](https://en.wikipedia.org/wiki/Fear_of_missing_out) (FOMO)
