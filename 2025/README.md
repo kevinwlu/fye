@@ -68,7 +68,7 @@
 * [Life skills](https://en.wikipedia.org/wiki/Life_skills)
 ## Lesson 9 - Active and Experiential Learning at Stevens
 * [Grabbing the Opportunity to Innovate](https://www.stevens.edu/news/computer-science-thomas-weinhardt-tool-grabber), May 5, 2025
-* [GitHub repository](https://github.com/tjamesw123/MotorizedGrabber)
+  * [MotorizedGrabber GitHub repository](https://github.com/tjamesw123/MotorizedGrabber)
 ## Lesson 10 - Career Kickoff: Exploring Majors & Professional Presence
 * [Should I change my major?](https://thestute.com/2023/11/03/should-i-change-my-major-2/)
 * [Myers–Briggs Type Indicator](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator)
