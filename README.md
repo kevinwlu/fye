@@ -106,7 +106,7 @@
   * [Harvey N. Davis](https://en.wikipedia.org/wiki/Harvey_N._Davis) 1881&mdash;1952
   * [Jess H. Davis](https://en.wikipedia.org/wiki/Jess_H._Davis) 1906&mdash;1972
   * [Kenneth C. Rogers](https://en.wikipedia.org/wiki/Kenneth_C._Rogers)
-  * Richard G. Griskey, Institute Professor Emeritus at the Stevens Institute of Technology, was the interim pressident in 1987
+  * Richard G. Griskey, Institute Professor Emeritus at the Stevens Institute of Technology, was acting pressident in 1987
   * [Harold J. Raveché](https://en.wikipedia.org/wiki/Harold_J._Ravech%C3%A9)
   * [Nariman Farvardin](https://en.wikipedia.org/wiki/Nariman_Farvardin)
 * [Getting to Know the Campus](https://web.stevens.edu/catalog/archive/2015-2016/campus.html)
