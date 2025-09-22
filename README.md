@@ -111,6 +111,7 @@
   * [Nariman Farvardin](https://en.wikipedia.org/wiki/Nariman_Farvardin)
 * [Getting to Know the Campus](https://web.stevens.edu/catalog/archive/2015-2016/campus.html)
   * [Andrew Carnegie](https://en.wikipedia.org/wiki/Andrew_Carnegie) 1835&mdash;1919
+  * [Robert Henry Thurston](https://en.wikipedia.org/wiki/Robert_Henry_Thurston) 1839&mdash;1903 was appointed the first professor of mechanical engineering at Stevens Institute of Technology in  1871
   * [William Hall Walker](https://thestute.com/2023/03/03/walker-gymnasium-innovative-gym-for-the-innovation-university/) 1846&mdash;1917
     * [William Hall Walker Gymnasium](https://en.wikipedia.org/wiki/William_Hall_Walker_Gymnasium)
     * [Kodak](https://en.wikipedia.org/wiki/Kodak)
@@ -219,7 +220,8 @@
   * [Vincent A. Rocco](https://connect.stevens.edu/classof67/inmemoriam), class of 1967
   * [Mark Crispin](https://en.wikipedia.org/wiki/Mark_Crispin) 1956&mdash;2012, class of 1977
   * [John “Sean” J. Hanlon IV](https://fsc.stevens.edu/sean-hanlon/), class of 1980
-  * [Virginia and Kevin Ruesterholz](https://stevens.giftplans.org/index.php?cID=434), class of 1983
+  * [Virginia P. Ruesterholz](https://en.wikipedia.org/wiki/Virginia_P._Ruesterholz)
+   * [Virginia and Kevin Ruesterholz](https://stevens.giftplans.org/index.php?cID=434), class of 1983
   * [Greg Gianforte](https://en.wikipedia.org/wiki/Greg_Gianforte), class of 1983
   * [Gina M. Addeo](https://www.adcoonline.com/gina-about-page), class of 1986
     * [2013 Distinguished Alumni Award -- Business and Finance](https://www.youtube.com/watch?v=K32YL_lVnAs)
