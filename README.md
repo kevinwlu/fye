@@ -102,7 +102,6 @@
   * [Is Khoda still alive?](https://thestute.com/2022/02/18/is-khoda-still-alive/), February 18, 2022
 * [List of presidents of Stevens Institute of Technology](https://en.wikipedia.org/wiki/List_of_presidents_of_Stevens_Institute_of_Technology)
   * [Henry Morton](https://en.wikipedia.org/wiki/Henry_Morton_(scientist)) 1836&mdash;1902
-    * [Morton Memorial Laboratory of Chemistry](https://en.wikipedia.org/wiki/Morton_Memorial_Laboratory_of_Chemistry)
   * [Alexander Crombie Humphreys](https://en.wikipedia.org/wiki/Alexander_Crombie_Humphreys) 1851&mdash;1927, class of 1881
   * [Harvey N. Davis](https://en.wikipedia.org/wiki/Harvey_N._Davis) 1881&mdash;1952
   * [Jess H. Davis](https://en.wikipedia.org/wiki/Jess_H._Davis) 1906&mdash;1972
@@ -110,10 +109,14 @@
   * [Harold J. Raveché](https://en.wikipedia.org/wiki/Harold_J._Ravech%C3%A9)
   * [Nariman Farvardin](https://en.wikipedia.org/wiki/Nariman_Farvardin)
 * [Getting to Know the Campus](https://web.stevens.edu/catalog/archive/2015-2016/campus.html)
+  * [National Register of Historic Places](https://en.wikipedia.org/wiki/National_Register_of_Historic_Places) (NRHP)
+    * [University and college buildings listed on the National Register of Historic Places](https://en.wikipedia.org/wiki/University_and_college_buildings_listed_on_the_National_Register_of_Historic_Places)
+    * [Edwin A. Stevens Hall](https://en.wikipedia.org/wiki/Edwin_A._Stevens_Hall) built in 1870 and registered on February 4, 1994
+    * [Morton Memorial Laboratory of Chemistry](https://en.wikipedia.org/wiki/Morton_Memorial_Laboratory_of_Chemistry) built from 1905 to 1906 and registered on April 25, 2022
+    * [William Hall Walker Gymnasium](https://en.wikipedia.org/wiki/William_Hall_Walker_Gymnasium) built from 1915 to 1916 and registered on May 9, 2019
   * [Andrew Carnegie](https://en.wikipedia.org/wiki/Andrew_Carnegie) 1835&mdash;1919
   * [Robert Henry Thurston](https://en.wikipedia.org/wiki/Robert_Henry_Thurston) 1839&mdash;1903 was appointed the first professor of mechanical engineering at Stevens Institute of Technology in  1871
   * [William Hall Walker](https://thestute.com/2023/03/03/walker-gymnasium-innovative-gym-for-the-innovation-university/) 1846&mdash;1917
-    * [William Hall Walker Gymnasium](https://en.wikipedia.org/wiki/William_Hall_Walker_Gymnasium)
     * [Kodak](https://en.wikipedia.org/wiki/Kodak)
     * [George Eastman](https://en.wikipedia.org/wiki/George_Eastman) 1854&mdash;1932 patented a [roller-holder for photograph](https://patents.google.com/patent/US317049) with William Walker in 1885
   * [Anna Hyatt Huntington](https://en.wikipedia.org/wiki/Anna_Hyatt_Huntington) 1876&mdash;1973
