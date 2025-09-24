@@ -22,6 +22,8 @@
 * [List of research universities in the United States](https://en.wikipedia.org/wiki/List_of_research_universities_in_the_United_States)
   * [Association of American Universities](https://en.wikipedia.org/wiki/Association_of_American_Universities) (AAU)
   * [Carnegie Classification of Institutions of Higher Education](https://en.wikipedia.org/wiki/Carnegie_Classification_of_Institutions_of_Higher_Education)
+* [College and university rankings in the United States](https://en.wikipedia.org/wiki/College_and_university_rankings_in_the_United_States)
+  * [*U.S. News & World Report* Best Colleges Ranking](https://en.wikipedia.org/wiki/U.S._News_%26_World_Report_Best_Colleges_Ranking)
 * [Alma mater](https://en.wikipedia.org/wiki/Alma_mater)
 * [Alumni](https://en.wikipedia.org/wiki/Alumni)
 * [*Stevens Indicator*](https://www.stevens.edu/development-alumni-engagement/news/indicator)
