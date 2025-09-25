@@ -52,8 +52,12 @@
   * [Learning by teaching](https://en.wikipedia.org/wiki/Learning_by_teaching)
 * [*Pedagogy of the Oppressed*](https://en.wikipedia.org/wiki/Pedagogy_of_the_Oppressed) 1968 by [Paulo Freire](https://en.wikipedia.org/wiki/Paulo_Freire) 1921&mdash;1997
   * [PDF](https://files.libcom.org/files/Paulo%20Freire,%20Myra%20Bergman%20Ramos,%20Donaldo%20Macedo%20-%20Pedagogy%20of%20the%20Oppressed,%2030th%20Anniversary%20Edition%20(2000,%20Bloomsbury%20Academic).pdf) pp. 71-73 and pp. 78-81 of Chapter 2
+  * [Georg Wilhelm Friedrich Hegel](https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel) 1770&mdash;1831
+  * [Raison d'être](https://en.wikipedia.org/wiki/Raison_d%27%C3%AAtre)
+  * [Critical consciousness](https://en.wikipedia.org/wiki/Critical_consciousness)
   * [John Dewey](https://en.wikipedia.org/wiki/John_Dewey) 1859&mdash;1952
   * [Maria Montessori](https://en.wikipedia.org/wiki/Maria_Montessori) 1870&mdash;1952
+  * [Erich Fromm](https://en.wikipedia.org/wiki/Erich_Fromm) 1900&mdash;1980
 * [Open Syllabus Project](https://en.wikipedia.org/wiki/Open_Syllabus_Project) (OSP)
 ## Lesson 5 - Thrive at Stevens: A Holistic Wellness Approach
 * [How to do nothing](https://medium.com/@the_jennitaur/how-to-do-nothing-57e100f59bbb) by [Jenny Odell](https://en.wikipedia.org/wiki/Jenny_Odell)
