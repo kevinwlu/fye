@@ -51,7 +51,7 @@
   * [SMART criteria](https://en.wikipedia.org/wiki/SMART_criteria)
   * [Learning by teaching](https://en.wikipedia.org/wiki/Learning_by_teaching)
 * [*Pedagogy of the Oppressed*](https://en.wikipedia.org/wiki/Pedagogy_of_the_Oppressed) 1968 by [Paulo Freire](https://en.wikipedia.org/wiki/Paulo_Freire) 1921&mdash;1997
-  * [PDF](https://files.libcom.org/files/Paulo%20Freire,%20Myra%20Bergman%20Ramos,%20Donaldo%20Macedo%20-%20Pedagogy%20of%20the%20Oppressed,%2030th%20Anniversary%20Edition%20(2000,%20Bloomsbury%20Academic).pdf) pp. 71-73 and pp. 78-81
+  * [PDF](https://files.libcom.org/files/Paulo%20Freire,%20Myra%20Bergman%20Ramos,%20Donaldo%20Macedo%20-%20Pedagogy%20of%20the%20Oppressed,%2030th%20Anniversary%20Edition%20(2000,%20Bloomsbury%20Academic).pdf) pp. 71-73 and pp. 78-81 of Chapter 2
   * [John Dewey](https://en.wikipedia.org/wiki/John_Dewey) 1859&mdash;1952
   * [Maria Montessori](https://en.wikipedia.org/wiki/Maria_Montessori) 1870&mdash;1952
 * [Open Syllabus Project](https://en.wikipedia.org/wiki/Open_Syllabus_Project) (OSP)
