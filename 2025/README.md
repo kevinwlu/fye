@@ -55,6 +55,7 @@
   * [Georg Wilhelm Friedrich Hegel](https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel) 1770&mdash;1831
   * [Raison d'être](https://en.wikipedia.org/wiki/Raison_d%27%C3%AAtre)
   * [Critical consciousness](https://en.wikipedia.org/wiki/Critical_consciousness)
+  * [Problem-posing education](https://en.wikipedia.org/wiki/Problem-posing_education)  
   * [John Dewey](https://en.wikipedia.org/wiki/John_Dewey) 1859&mdash;1952
   * [Maria Montessori](https://en.wikipedia.org/wiki/Maria_Montessori) 1870&mdash;1952
   * [Erich Fromm](https://en.wikipedia.org/wiki/Erich_Fromm) 1900&mdash;1980
