@@ -64,7 +64,11 @@
 * [How to do nothing](https://medium.com/@the_jennitaur/how-to-do-nothing-57e100f59bbb) by [Jenny Odell](https://en.wikipedia.org/wiki/Jenny_Odell)
   * [Eyeo 2017](https://vimeo.com/232544904)
   * [Eyeo festival](https://en.wikipedia.org/wiki/Eyeo_festival)
+* [Holism](https://en.wikipedia.org/wiki/Holism)
+* [Intentional stance](https://en.wikipedia.org/wiki/Intentional_stance)
+  * [Daniel Dennett](https://en.wikipedia.org/wiki/Daniel_Dennett) 1942&mdash;2024
 * [Circadian rhythm](https://en.wikipedia.org/wiki/Circadian_rhythm)
+  * [Nobel Prize in Physiology or Medicine 2017](https://www.nobelprize.org/prizes/medicine/2017/summary/) was awarded jointly to Jeffrey C. Hall, Michael Rosbash and Michael W. Young "for their discoveries of molecular mechanisms controlling the circadian rhythm"
 ## Lesson 6 - You Belong Here: Overcoming Imposter Syndrome
 * [Impostor syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome)
 * [Imposter syndrome](https://thestute.com/2023/09/29/imposter-syndrome/) by [Nicole Cheung](https://www.linkedin.com/in/nicole-cheung-551500261/)
