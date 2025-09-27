@@ -70,7 +70,14 @@
 * [D-Day (military term)](https://en.wikipedia.org/wiki/D-Day_(military_term))
 * [Time limit](https://en.wikipedia.org/wiki/Time_limit)
 * [Circadian rhythm](https://en.wikipedia.org/wiki/Circadian_rhythm)
-  * [Nobel Prize in Physiology or Medicine 2017](https://www.nobelprize.org/prizes/medicine/2017/summary/) was awarded jointly to Jeffrey C. Hall, Michael Rosbash and Michael W. Young "for their discoveries of molecular mechanisms controlling the circadian rhythm"
+  * [Nyctinasty](https://en.wikipedia.org/wiki/Nyctinasty)
+  * [Tamarind](https://en.wikipedia.org/wiki/Tamarind)
+  * [Mimosa pudica](https://en.wikipedia.org/wiki/Mimosa_pudica)
+    * [Jean-Jacques d'Ortous de Mairan](https://en.wikipedia.org/wiki/Jean-Jacques_d%27Ortous_de_Mairan) 1678&mdash;1771
+  * [Nobel Prize in Physiology or Medicine 2017](https://www.nobelprize.org/prizes/medicine/2017/summary/) was awarded jointly to
+    * [Jeffrey C. Hall](https://en.wikipedia.org/wiki/Jeffrey_C._Hall)
+    * [Michael Rosbash](https://en.wikipedia.org/wiki/Michael_Rosbash)
+    * [Michael W. Young](https://en.wikipedia.org/wiki/Michael_W._Young) \"for their discoveries of molecular mechanisms controlling the circadian rhythm"
 ## Lesson 6 - You Belong Here: Overcoming Imposter Syndrome
 * [Impostor syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome)
 * [Imposter syndrome](https://thestute.com/2023/09/29/imposter-syndrome/) by [Nicole Cheung](https://www.linkedin.com/in/nicole-cheung-551500261/)
