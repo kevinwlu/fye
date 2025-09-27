@@ -67,6 +67,8 @@
 * [Holism](https://en.wikipedia.org/wiki/Holism)
 * [Intentional stance](https://en.wikipedia.org/wiki/Intentional_stance)
   * [Daniel Dennett](https://en.wikipedia.org/wiki/Daniel_Dennett) 1942&mdash;2024
+* [D-Day (military term)](https://en.wikipedia.org/wiki/D-Day_(military_term))
+* [Time limit](https://en.wikipedia.org/wiki/Time_limit)
 * [Circadian rhythm](https://en.wikipedia.org/wiki/Circadian_rhythm)
   * [Nobel Prize in Physiology or Medicine 2017](https://www.nobelprize.org/prizes/medicine/2017/summary/) was awarded jointly to Jeffrey C. Hall, Michael Rosbash and Michael W. Young "for their discoveries of molecular mechanisms controlling the circadian rhythm"
 ## Lesson 6 - You Belong Here: Overcoming Imposter Syndrome
