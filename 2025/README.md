@@ -62,10 +62,17 @@
 * [Open Syllabus Project](https://en.wikipedia.org/wiki/Open_Syllabus_Project) (OSP)
 ## Lesson 5 - Thrive at Stevens: A Holistic Wellness Approach
 * [How to do nothing](https://medium.com/@the_jennitaur/how-to-do-nothing-57e100f59bbb) by [Jenny Odell](https://en.wikipedia.org/wiki/Jenny_Odell)
-  * [How to Do Nothing: Resisting The Attention Economy](https://www.youtube.com/watch?v=izjlP9qtmBU), Talks at Google, August 8, 2019
   * [Eyeo 2017](https://vimeo.com/232544904)
   * [Eyeo festival](https://en.wikipedia.org/wiki/Eyeo_festival)
+  * [How to Do Nothing: Resisting The Attention Economy](https://www.youtube.com/watch?v=izjlP9qtmBU), Talks at Google, August 8, 2019
+  * [Attention economy](https://en.wikipedia.org/wiki/Attention_economy)
   * [Morcom Rose Garden](https://en.wikipedia.org/wiki/Morcom_Rose_Garden), 700 Jean St., Oakland, CA 94610
+  * [Edvard Munch](https://en.wikipedia.org/wiki/Edvard_Munch) 1863&mdash;1944
+  * [Manifest destiny](https://en.wikipedia.org/wiki/Manifest_destiny)
+  * [Oli Mould](https://en.wikipedia.org/wiki/Oli_Mould)
+  * [Fiverr](https://en.wikipedia.org/wiki/Fiverr)
+  * [Bioregionalism](https://en.wikipedia.org/wiki/Bioregionalism)
+  * [John Marzluff](https://en.wikipedia.org/wiki/John_Marzluff)
   * [David Allen Sibley](https://en.wikipedia.org/wiki/David_Allen_Sibley)
     * [*The Sibley Guide to Birds*](https://en.wikipedia.org/wiki/The_Sibley_Guide_to_Birds)
   * [Gilles Deleuze](https://en.wikipedia.org/wiki/Gilles_Deleuze) 1925&mdash;1995
