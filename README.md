@@ -8,7 +8,7 @@
   * [Stevens Announces Innovative New Core Curriculum: SUCCESS](https://www.stevens.edu/news/stevens-announces-innovative-new-core-curriculum-success)
 * [The First-Year Experience Program](https://en.wikipedia.org/wiki/The_First-Year_Experience_Program)
 * [*The Stute: The independent student newspaper of Stevens Institute of Technology*](https://thestute.com/)
-  * [A look into the First Year Experience course](https://thestute.com/2024/09/06/a-look-into-the-first-year-experience-course/), September 6, 2024
+  * [A look into the First Year Experience course](https://thestute.com/2024/09/06/a-look-into-the-first-year-experience-course/), 6 September 2024
 * [Stevens Strategic Plan](https://www.stevens.edu/discover-stevens/strategic-plan)
 * [University Policy Library](https://www.stevens.edu/policies-library)
 * [*Student Handbook*](https://stevens-institute-of-technology.dcatalog.com/v/Student-Handbook/)
@@ -66,7 +66,7 @@
   * [Hoboken’s original plan and first parks established in 1804](https://betterwaterfront.org/hudson-square-hobokens-first-park/)
     * [USS *Portsmouth* (1843)](https://en.wikipedia.org/wiki/USS_Portsmouth_(1843))
     * [*On the Waterfront*](https://en.wikipedia.org/wiki/On_the_Waterfront) 1954
-    * [Bringing Down the Gatehouse](https://www.stevens.edu/news/bringing-down-gatehouse), February 7, 2019
+    * [Bringing Down the Gatehouse](https://www.stevens.edu/news/bringing-down-gatehouse), 7 February 2019
 * [Stevens family](https://www.stevens.edu/discover-stevens/stevens-history/the-stevens-family)
   * [John Stevens Sr.](https://www.geni.com/people/John-Stevens-Sr/6000000003381721966) 1682&mdash;1737 came to America in 1699 at the age of 17
   * [John Stevens Jr.](https://en.wikipedia.org/wiki/John_Stevens_(New_Jersey_politician)) 1715&mdash;1792
@@ -80,7 +80,7 @@
     * [Richard Upjohn](https://en.wikipedia.org/wiki/Richard_Upjohn) 1802&mdash;1878
   * [Martha Bayard Stevens](https://en.wikipedia.org/wiki/Martha_Bayard_Stevens) 1831&mdash;1899
     * [Renaming of Alexander House to Martha Bayard Stevens Hall 9.8.22](/Renaming_of_Alexander_House_to_Martha_Bayard_Stevens_Hall_9.8.22.pdf)
-    * [New Alexander House name honors Stevens family pioneer](https://thestute.com/2022/09/16/new-alexander-house-name-honors-stevens-family-pioneer/), September 16, 2022
+    * [New Alexander House name honors Stevens family pioneer](https://thestute.com/2022/09/16/new-alexander-house-name-honors-stevens-family-pioneer/), 16 September 2022
   * [John Stevens IV](https://www.geni.com/people/John-Stevens/6000000018103211393) 1856&mdash;1895
     * [Mary Picton Stevens Hammond](https://www.rmslusitania.info/people/saloon/mary-hammond/) 1885&mdash;1915
     * [Ogden H. Hammond](https://en.wikipedia.org/wiki/Ogden_H._Hammond) 1869&mdash;1956
@@ -88,7 +88,7 @@
     * [Millicent Fenwick](https://en.wikipedia.org/wiki/Millicent_Fenwick) 1910&mdash;1992
   * [Edwin Augustus Stevens Jr.](https://en.wikipedia.org/wiki/Edwin_Augustus_Stevens_Jr.) 1858&mdash;1918
   * [Caroline Bayard Stevens Wittpenn](https://en.wikipedia.org/wiki/Caroline_Bayard_Stevens_Wittpenn) 1859&mdash;1932 was the eldest daughter of Edwin Augustus Stevens and Martha Bayard Stevens
-  * [H. Otto Wittpenn](https://en.wikipedia.org/wiki/H._Otto_Wittpenn) 1871&mdash;1931 married Caroline Bayard Stevens on January 6, 1915
+  * [H. Otto Wittpenn](https://en.wikipedia.org/wiki/H._Otto_Wittpenn) 1871&mdash;1931 married Caroline Bayard Stevens on 6 January 6 1915
   * [Archibald Stevens Alexander](https://en.wikipedia.org/wiki/Archibald_Stevens_Alexander) 1880&mdash;1912
   * [Archibald Stevens Alexander Jr.](https://en.wikipedia.org/wiki/Archibald_S._Alexander) 1906&mdash;1979
   * [Mary Stuart Stevens Baird](https://www.stevens.edu/news/out-archives-powerful-friendship) 1901&mdash;1989
@@ -103,7 +103,7 @@
     * [Dunkelflaute](https://en.wikipedia.org/wiki/Dunkelflaute)
   * [Lame duck (politics)](https://en.wikipedia.org/wiki/Lame_duck_(politics))
 * [Khoda Senior Honor Society](https://web.stevens.edu/khoda/index.html)
-  * [Is Khoda still alive?](https://thestute.com/2022/02/18/is-khoda-still-alive/), February 18, 2022
+  * [Is Khoda still alive?](https://thestute.com/2022/02/18/is-khoda-still-alive/), 18 February 2022
 * [List of presidents of Stevens Institute of Technology](https://en.wikipedia.org/wiki/List_of_presidents_of_Stevens_Institute_of_Technology)
   * [Henry Morton](https://en.wikipedia.org/wiki/Henry_Morton_(scientist)) 1836&mdash;1902
   * [Alexander Crombie Humphreys](https://en.wikipedia.org/wiki/Alexander_Crombie_Humphreys) 1851&mdash;1927, class of 1881
@@ -117,8 +117,8 @@
   * [National Register of Historic Places](https://en.wikipedia.org/wiki/National_Register_of_Historic_Places) (NRHP)
     * [University and college buildings listed on the National Register of Historic Places](https://en.wikipedia.org/wiki/University_and_college_buildings_listed_on_the_National_Register_of_Historic_Places)
     * [Edwin A. Stevens Hall](https://en.wikipedia.org/wiki/Edwin_A._Stevens_Hall) built in 1870 and registered on February 4, 1994
-    * [Morton Memorial Laboratory of Chemistry](https://en.wikipedia.org/wiki/Morton_Memorial_Laboratory_of_Chemistry) built from 1905 to 1906 and registered on April 25, 2022
-    * [William Hall Walker Gymnasium](https://en.wikipedia.org/wiki/William_Hall_Walker_Gymnasium) built from 1915 to 1916 and registered on May 9, 2019
+    * [Morton Memorial Laboratory of Chemistry](https://en.wikipedia.org/wiki/Morton_Memorial_Laboratory_of_Chemistry) built from 1905 to 1906 and registered on 25 April 2022
+    * [William Hall Walker Gymnasium](https://en.wikipedia.org/wiki/William_Hall_Walker_Gymnasium) built from 1915 to 1916 and registered on 9 May 2019
   * [Andrew Carnegie](https://en.wikipedia.org/wiki/Andrew_Carnegie) 1835&mdash;1919
   * [Robert Henry Thurston](https://en.wikipedia.org/wiki/Robert_Henry_Thurston) 1839&mdash;1903 was appointed the first professor of mechanical engineering at Stevens Institute of Technology in  1871
   * [William Hall Walker](https://thestute.com/2023/03/03/walker-gymnasium-innovative-gym-for-the-innovation-university/) 1846&mdash;1917
@@ -155,12 +155,12 @@
     * [Quatrefoil](https://en.wikipedia.org/wiki/Quatrefoil)
     * [Pendentive](https://en.wikipedia.org/wiki/Pendentive)
   * [John Bredin](https://storiesofhopeeducation.wordpress.com/)
-    * [HASS Professor Bredin embarks on the research of actress Blanche Walsh](https://thestute.com/2024/09/06/hass-professor-bredin-embarks-on-the-research-of-actress-blanche-walsh/), September 6, 2024
+    * [HASS Professor Bredin embarks on the research of actress Blanche Walsh](https://thestute.com/2024/09/06/hass-professor-bredin-embarks-on-the-research-of-actress-blanche-walsh/), 6 September 2024
     * [Blanche Walsh](https://en.wikipedia.org/wiki/Blanche_Walsh) 1873&mdash;1915
 * [Undergraduate Student Awards](https://www.stevens.edu/student-life/student-affairs/student-awards)
   * [John Barnes '10 Memorial Scholarship](https://connect.stevens.edu/makeagift/scholarships)
-  * [Barnes Wins 4k as Men's Finish First in Stevens Invitational](https://stevensducks.com/news/2007/9/21/MXC_3048.aspx), September 21, 2007
-  * [John Barnes](https://sfponline.site-ym.com/news/134283/Passing-of-John-Barnes-Class-of-2006.htm), July 25, 2013
+  * [Barnes Wins 4k as Men's Finish First in Stevens Invitational](https://stevensducks.com/news/2007/9/21/MXC_3048.aspx), 21 September 21 2007
+  * [John Barnes](https://sfponline.site-ym.com/news/134283/Passing-of-John-Barnes-Class-of-2006.htm), 25 July 2013
   * [In Memoriam: John Barnes](https://notbuiltinaday.blogspot.com/2013/08/in-memoriam-john-barnes.html), August 2013
 * [Stevens Alumni Award Recipients](https://www.stevens.edu/development-alumni-engagement/connect/stevens-alumni-award-recipients)
 * [List of Stevens Institute of Technology alumni](https://en.wikipedia.org/wiki/List_of_Stevens_Institute_of_Technology_alumni)
@@ -234,7 +234,7 @@
   * [Gina M. Addeo](https://www.adcoonline.com/gina-about-page), class of 1986
     * [2013 Distinguished Alumni Award -- Business and Finance](https://www.youtube.com/watch?v=K32YL_lVnAs)
   * [Darío Gil](https://newsroom.ibm.com/dario-gil), class of 1998
-    * [Quantum and AI Are Our Next Problem-Solvers, Says IBM’s Research Director](https://www.stevens.edu/news/quantum-and-ai-are-our-next-problem-solvers-says-ibms-research-director), October 9, 2024
+    * [Quantum and AI Are Our Next Problem-Solvers, Says IBM’s Research Director](https://www.stevens.edu/news/quantum-and-ai-are-our-next-problem-solvers-says-ibms-research-director), 9 October 2024
   * [Stephanie LeBlanc-Godfrey](https://www.stevens.edu/indicator/spring-summer-2023/things-became-clearer-when-i-challenged-the-no), class of 2006
   * [Marques Brownlee](https://en.wikipedia.org/wiki/Marques_Brownlee), class of 2015
     * [YouTube Channel](https://www.youtube.com/user/marquesbrownlee)
