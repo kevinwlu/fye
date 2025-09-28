@@ -106,6 +106,16 @@
 * [Holism](https://en.wikipedia.org/wiki/Holism)
 * [Intentional stance](https://en.wikipedia.org/wiki/Intentional_stance)
   * [Daniel Dennett](https://en.wikipedia.org/wiki/Daniel_Dennett) 1942&mdash;2024
+* *Saving Times: Discovering a Life Beyond the Clock* or *Saving Times: Discovering a Life Beyond Productivity Culture* by Jenny Odell
+  > Introduction: A Message for the Meantime \
+  > Chapter 1: Whose Time, Whose Money? \
+  > Chapter 2: Self Timer \
+  > Chapter 3: Can There Be Leisure? \
+  > Chapter 4: Putting Time Back in Its Place \
+  > Chapter 5: A Change of Subject \
+  > Chapter 6: Uncommon Times \
+  > Chapter 7: Life Extension \
+  > Conclusion: Halving Time
 * [D-Day (military term)](https://en.wikipedia.org/wiki/D-Day_(military_term))
 * [Time limit](https://en.wikipedia.org/wiki/Time_limit)
 * [Circadian rhythm](https://en.wikipedia.org/wiki/Circadian_rhythm)
