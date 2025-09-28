@@ -62,8 +62,19 @@
 * [Open Syllabus Project](https://en.wikipedia.org/wiki/Open_Syllabus_Project) (OSP)
 ## Lesson 5 - Thrive at Stevens: A Holistic Wellness Approach
 * [How to do nothing](https://medium.com/@the_jennitaur/how-to-do-nothing-57e100f59bbb) by [Jenny Odell](https://en.wikipedia.org/wiki/Jenny_Odell)
+  * [How to Do Nothing: Resisting The Attention Economy](https://www.youtube.com/watch?v=izjlP9qtmBU), Talks at Google, August 8, 2019
   * [Eyeo 2017](https://vimeo.com/232544904)
   * [Eyeo festival](https://en.wikipedia.org/wiki/Eyeo_festival)
+  * [Gilles Deleuze](https://en.wikipedia.org/wiki/Gilles_Deleuze) 1925&mdash;1995
+  * [Pauline Oliveros](https://en.wikipedia.org/wiki/Pauline_Oliveros) 1931&mdash;2016
+  * [David Abram](https://en.wikipedia.org/wiki/David_Abram)
+  * [Audre Lorde](https://en.wikipedia.org/wiki/Audre_Lorde) 1934&mdash;1992
+  * [Mierle Laderman Ukeles](https://en.wikipedia.org/wiki/Mierle_Laderman_Ukeles)
+  * [Carissa Potter Carlson](https://www.carissapotter.com/)
+  * [Gordon Hempton](https://soundtracker.com/)
+    * [One Square Inch of Silence](https://en.wikipedia.org/wiki/One_Square_Inch_of_Silence)
+  * [Thomas Merton](https://en.wikipedia.org/wiki/Thomas_Merton) 1915&mdash;1968
+  * [Diogenes](https://en.wikipedia.org/wiki/Diogenes) 
 * [Holism](https://en.wikipedia.org/wiki/Holism)
 * [Intentional stance](https://en.wikipedia.org/wiki/Intentional_stance)
   * [Daniel Dennett](https://en.wikipedia.org/wiki/Daniel_Dennett) 1942&mdash;2024
