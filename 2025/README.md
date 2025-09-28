@@ -39,7 +39,7 @@
 * [Growth curve](https://en.wikipedia.org/wiki/Growth_curve)
 * [Integrity](https://en.wikipedia.org/wiki/Integrity)
 * [Academic Integrity](https://www.stevens.edu/academics/graduate-study/academic-integrity)
-  > The Graduate Student Code of Academic Integrity applies to all graduate students at Stevens and to undergraduate students enrolled in courses of level 600 or higher.
+  > The Graduate Student Code of Academic Integrity applies to all graduate students at Stevens and to undergraduate students enrolled in courses of level 600 or higher. \
   > Undergraduate students enrolled in 500-level courses are bound by the Undergraduate Honor System.
 * The Stute article [Behind the pledge: Understanding the impact of the Stevens Honor System](https://thestute.com/2024/02/09/behind-the-pledge-understanding-the-impact-of-the-stevens-honor-system/) by [Praneeth Vanguru](https://www.linkedin.com/in/praneeth-vanguru-4809b1291/)
 * [Self-reflection](https://en.wikipedia.org/wiki/Self-reflection)
@@ -69,6 +69,12 @@
 * [Open Syllabus Project](https://en.wikipedia.org/wiki/Open_Syllabus_Project) (OSP)
 ## Lesson 5 - Thrive at Stevens: A Holistic Wellness Approach
 * [How to do nothing](https://medium.com/@the_jennitaur/how-to-do-nothing-57e100f59bbb) by [Jenny Odell](https://en.wikipedia.org/wiki/Jenny_Odell)
+  > Chapter 1: The Case for Nothing \
+  > Chapter 2: The Impossibility of Retreat \
+  > Chapter 3: Anatomy of a Refusal \
+  > Chapter 4: Exercises in Attention \
+  > Chapter 5: Ecology of Strangers \
+  > Chapter 6: Restoring the Grounds for Thought
   * [Eyeo 2017](https://vimeo.com/232544904)
   * [Eyeo festival](https://en.wikipedia.org/wiki/Eyeo_festival)
   * [How to Do Nothing: Resisting The Attention Economy](https://www.youtube.com/watch?v=izjlP9qtmBU), Talks at Google, August 8, 2019
@@ -92,6 +98,7 @@
     * [One Square Inch of Silence](https://en.wikipedia.org/wiki/One_Square_Inch_of_Silence)
   * [Thomas Merton](https://en.wikipedia.org/wiki/Thomas_Merton) 1915&mdash;1968
   * [Diogenes](https://en.wikipedia.org/wiki/Diogenes)
+    * [*Calochortus amabilis*](https://en.wikipedia.org/wiki/Calochortus_amabilis) also known as Diogenes' lantern
   * [iNaturalist](https://en.wikipedia.org/wiki/INaturalist)
   * [Elkhorn Slough](https://en.wikipedia.org/wiki/Elkhorn_Slough)
   * [Old Survivor](https://en.wikipedia.org/wiki/Old_Survivor)
