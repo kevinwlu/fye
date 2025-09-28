@@ -38,7 +38,10 @@
 * [Learning curve](https://en.wikipedia.org/wiki/Learning_curve)
 * [Growth curve](https://en.wikipedia.org/wiki/Growth_curve)
 * [Integrity](https://en.wikipedia.org/wiki/Integrity)
-* [Behind the pledge: Understanding the impact of the Stevens Honor System](https://thestute.com/2024/02/09/behind-the-pledge-understanding-the-impact-of-the-stevens-honor-system/), February 9, 2024
+* [Academic Integrity](https://www.stevens.edu/academics/graduate-study/academic-integrity)
+  > The Graduate Student Code of Academic Integrity applies to all graduate students at Stevens and to undergraduate students enrolled in courses of level 600 or higher.
+  > Undergraduate students enrolled in 500-level courses are bound by the Undergraduate Honor System.
+* The Stute article [Behind the pledge: Understanding the impact of the Stevens Honor System](https://thestute.com/2024/02/09/behind-the-pledge-understanding-the-impact-of-the-stevens-honor-system/) by [Praneeth Vanguru](https://www.linkedin.com/in/praneeth-vanguru-4809b1291/)
 * [Self-reflection](https://en.wikipedia.org/wiki/Self-reflection)
 ## Lesson 4 - Own Your Time: Time Management and Active Learning
 * [Time](https://en.wikipedia.org/wiki/Time)
@@ -108,7 +111,11 @@
     "for their discoveries of molecular mechanisms controlling the circadian rhythm"
 ## Lesson 6 - You Belong Here: Overcoming Imposter Syndrome
 * [Impostor syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome)
-* [Imposter syndrome](https://thestute.com/2023/09/29/imposter-syndrome/) by [Nicole Cheung](https://www.linkedin.com/in/nicole-cheung-551500261/)
+* The Stute article [Imposter syndrome](https://thestute.com/2023/09/29/imposter-syndrome/) by [Nicole Cheung](https://www.linkedin.com/in/nicole-cheung-551500261/)
+* [Self-advocacy](https://en.wikipedia.org/wiki/Self-advocacy)
+* [Emotion](https://en.wikipedia.org/wiki/Emotion)
+* [Emotion classification](https://en.wikipedia.org/wiki/Emotion_classification)
+* [Robert Plutchik](https://en.wikipedia.org/wiki/Robert_Plutchik) 1927&mdash;2006
 ## Lesson 7 - Money Matters: Credit, Loans, and Debt
 * [Money Adds Up](https://thestute.com/2023/12/01/money-adds-up/) by [Hima Thummala](https://www.linkedin.com/in/himathummala/)
 ## Lesson 8 - Choose Your Own Adventure
