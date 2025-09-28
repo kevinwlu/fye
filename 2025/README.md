@@ -2,8 +2,10 @@
 ## Lesson 0 - Orientation Meet and Greet
 * [Time capsule](https://en.wikipedia.org/wiki/Time_capsule)
 ## Lesson 1 - Purpose and Possibility in College
-* [Jacob Franco-Wadley: A Purpose-Driven Journey at Stevens](https://www.stevens.edu/news/jacob-franco-wadley-a-purpose-driven-journey-at-stevens), October 7, 2024
+* [Jacob Franco-Wadley: A Purpose-Driven Journey at Stevens](https://www.stevens.edu/news/jacob-franco-wadley-a-purpose-driven-journey-at-stevens), 7 October 2024
 * [Purpose](https://en.wikipedia.org/wiki/Purpose)
+* [*Ikigai*](https://en.wikipedia.org/wiki/Ikigai)
+* [Meaning of life](https://en.wikipedia.org/wiki/Meaning_of_life)
 * [Grading in education](https://en.wikipedia.org/wiki/Grading_in_education)
 * Stevens does not use the [Latin honors](https://en.wikipedia.org/wiki/Latin_honors)
 * [Dean's list and undergraduate class rank](https://www.stevens.edu/office-of-the-registrar/deans-list)
@@ -13,7 +15,7 @@
 * [GlobalFoundries](https://en.wikipedia.org/wiki/GlobalFoundries)
 * [Remezcla](https://en.wikipedia.org/wiki/Remezcla)
 ## Lesson 2 - Cracking the Code: The Hidden Curriculum
-* [Steven Mintz](https://en.wikipedia.org/wiki/Steven_Mintz), [Life Prep 101](https://www.insidehighered.com/opinion/columns/higher-ed-gamma/2024/05/16/how-hidden-curriculum-prepares-students-post-college), May 16, 2024
+* [Steven Mintz](https://en.wikipedia.org/wiki/Steven_Mintz), [Life Prep 101](https://www.insidehighered.com/opinion/columns/higher-ed-gamma/2024/05/16/how-hidden-curriculum-prepares-students-post-college), 16 May 2024
   * [Cliché](https://en.wikipedia.org/wiki/Clich%C3%A9)
   * Lesson 1: Recognize the skills you acquired outside the classroom during your college years
   * Lesson 2: Think about the relationships you formed during college and how these are deeper, richer, and more meaningful than those you established earlier in life
@@ -32,9 +34,9 @@
 * [Mindset](https://en.wikipedia.org/wiki/Mindset)
   * [Mindsetonline.com](https://mindsetonline.com/)
 * [Carol Dweck](https://en.wikipedia.org/wiki/Carol_Dweck)
-  * [The Power of Believing That You Can Improve](https://www.youtube.com/watch?v=_X0mgOOSpLU&t=231s), December 17, 2014
-  * [Developing a Growth Mindset](https://www.youtube.com/watch?v=hiiEeMN7vbQ), October 9, 2014
-  * [The Power of Yet](https://www.youtube.com/watch?v=J-swZaKN2Ic), September 12, 2014
+  * [The Power of Believing That You Can Improve](https://www.youtube.com/watch?v=_X0mgOOSpLU&t=231s), 17 December 2014
+  * [Developing a Growth Mindset](https://www.youtube.com/watch?v=hiiEeMN7vbQ), 9 October 2014
+  * [The Power of Yet](https://www.youtube.com/watch?v=J-swZaKN2Ic), 12 September 2014
 * [Learning curve](https://en.wikipedia.org/wiki/Learning_curve)
 * [Growth curve](https://en.wikipedia.org/wiki/Growth_curve)
 * [Integrity](https://en.wikipedia.org/wiki/Integrity)
@@ -144,6 +146,7 @@
 * [Impostor syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome)
 * The Stute article [Imposter syndrome](https://thestute.com/2023/09/29/imposter-syndrome/) by [Nicole Cheung](https://www.linkedin.com/in/nicole-cheung-551500261/)
 * [Self-advocacy](https://en.wikipedia.org/wiki/Self-advocacy)
+* [*Hygge*](https://en.wikipedia.org/wiki/Hygge)
 * [Emotion](https://en.wikipedia.org/wiki/Emotion)
 * [Emotion classification](https://en.wikipedia.org/wiki/Emotion_classification)
 * [Robert Plutchik](https://en.wikipedia.org/wiki/Robert_Plutchik) 1927&mdash;2006
@@ -152,7 +155,7 @@
 ## Lesson 8 - Choose Your Own Adventure
 * [Life skills](https://en.wikipedia.org/wiki/Life_skills)
 ## Lesson 9 - Active and Experiential Learning at Stevens
-* [Grabbing the Opportunity to Innovate](https://www.stevens.edu/news/computer-science-thomas-weinhardt-tool-grabber), May 5, 2025
+* [Grabbing the Opportunity to Innovate](https://www.stevens.edu/news/computer-science-thomas-weinhardt-tool-grabber), 5 May 2025
   * [MotorizedGrabber GitHub repository](https://github.com/tjamesw123/MotorizedGrabber)
 ## Lesson 10 - Career Kickoff: Exploring Majors & Professional Presence
 * [Should I change my major?](https://thestute.com/2023/11/03/should-i-change-my-major-2/)
