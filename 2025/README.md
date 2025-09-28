@@ -77,7 +77,7 @@
   > Chapter 6: Restoring the Grounds for Thought
   * [Eyeo 2017](https://vimeo.com/232544904)
   * [Eyeo festival](https://en.wikipedia.org/wiki/Eyeo_festival)
-  * [How to Do Nothing: Resisting The Attention Economy](https://www.youtube.com/watch?v=izjlP9qtmBU), Talks at Google, August 8, 2019
+  * [*How to Do Nothing: Resisting the Attention Economy*](https://www.youtube.com/watch?v=izjlP9qtmBU) by Jenny Odell, Talks at Google, August 8, 2019
   * [Attention economy](https://en.wikipedia.org/wiki/Attention_economy)
   * [Morcom Rose Garden](https://en.wikipedia.org/wiki/Morcom_Rose_Garden), 700 Jean St., Oakland, CA 94610
   * [Edvard Munch](https://en.wikipedia.org/wiki/Edvard_Munch) 1863&mdash;1944
