@@ -65,6 +65,7 @@
   * [How to Do Nothing: Resisting The Attention Economy](https://www.youtube.com/watch?v=izjlP9qtmBU), Talks at Google, August 8, 2019
   * [Eyeo 2017](https://vimeo.com/232544904)
   * [Eyeo festival](https://en.wikipedia.org/wiki/Eyeo_festival)
+  * [Morcom Rose Garden](https://en.wikipedia.org/wiki/Morcom_Rose_Garden), 700 Jean St., Oakland, CA 94610
   * [Gilles Deleuze](https://en.wikipedia.org/wiki/Gilles_Deleuze) 1925&mdash;1995
   * [Pauline Oliveros](https://en.wikipedia.org/wiki/Pauline_Oliveros) 1931&mdash;2016
   * [David Abram](https://en.wikipedia.org/wiki/David_Abram)
@@ -74,7 +75,11 @@
   * [Gordon Hempton](https://soundtracker.com/)
     * [One Square Inch of Silence](https://en.wikipedia.org/wiki/One_Square_Inch_of_Silence)
   * [Thomas Merton](https://en.wikipedia.org/wiki/Thomas_Merton) 1915&mdash;1968
-  * [Diogenes](https://en.wikipedia.org/wiki/Diogenes) 
+  * [Diogenes](https://en.wikipedia.org/wiki/Diogenes)
+  * [iNaturalist](https://en.wikipedia.org/wiki/INaturalist)
+  * [Elkhorn Slough](https://en.wikipedia.org/wiki/Elkhorn_Slough)
+  * [Old Survivor](https://en.wikipedia.org/wiki/Old_Survivor)
+  * [Prospect Park (Brooklyn)](https://en.wikipedia.org/wiki/Prospect_Park_(Brooklyn))
 * [Holism](https://en.wikipedia.org/wiki/Holism)
 * [Intentional stance](https://en.wikipedia.org/wiki/Intentional_stance)
   * [Daniel Dennett](https://en.wikipedia.org/wiki/Daniel_Dennett) 1942&mdash;2024
