@@ -106,7 +106,7 @@
 * [Holism](https://en.wikipedia.org/wiki/Holism)
 * [Intentional stance](https://en.wikipedia.org/wiki/Intentional_stance)
   * [Daniel Dennett](https://en.wikipedia.org/wiki/Daniel_Dennett) 1942&mdash;2024
-* *Saving Times: Discovering a Life Beyond the Clock* or *Saving Times: Discovering a Life Beyond Productivity Culture* by Jenny Odell
+* *Saving Times: Discovering a Life Beyond the Clock* (U.S.) or *Saving Times: Discovering a Life Beyond Productivity Culture* (U.K.) by Jenny Odell
   > Introduction: A Message for the Meantime \
   > Chapter 1: Whose Time, Whose Money? \
   > Chapter 2: Self Timer \
