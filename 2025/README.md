@@ -103,6 +103,20 @@
   * [Elkhorn Slough](https://en.wikipedia.org/wiki/Elkhorn_Slough)
   * [Old Survivor](https://en.wikipedia.org/wiki/Old_Survivor)
   * [Prospect Park (Brooklyn)](https://en.wikipedia.org/wiki/Prospect_Park_(Brooklyn))
+* [Niksen](https://en.wikipedia.org/wiki/Niksen)
+  * *Niksen: Embracing the Dutch Art of Doing Nothing* by Olga Mecking, 2021
+  > Chapter 1: What Is Niksen? \
+  > Chapter 2: What If the Dutch Got It Right? \
+  > Chapter 3: Why Is Niksen So Hard? \
+  > Chapter 4: Niksen Is Good for You. Yes, It Is. \
+  > Chapter 5: Niksening Up Your Life \
+  > Chapter 6: When Niksen Doesn't Work \
+  > Chapter 7: Creating Nikstopia \
+  > Chapter 8: The Nikseneers' Manifesto \
+  > Chapter 9: Quick Niksen Tips \
+  > Chapter 10: Niken Tips from the Dutch \
+  > Chapter 11: Acknowledgments \
+  > Chapter 12: Bibliograpy
 * [Holism](https://en.wikipedia.org/wiki/Holism)
 * [Intentional stance](https://en.wikipedia.org/wiki/Intentional_stance)
   * [Daniel Dennett](https://en.wikipedia.org/wiki/Daniel_Dennett) 1942&mdash;2024
