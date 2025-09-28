@@ -66,6 +66,8 @@
   * [Eyeo 2017](https://vimeo.com/232544904)
   * [Eyeo festival](https://en.wikipedia.org/wiki/Eyeo_festival)
   * [Morcom Rose Garden](https://en.wikipedia.org/wiki/Morcom_Rose_Garden), 700 Jean St., Oakland, CA 94610
+  * [David Allen Sibley](https://en.wikipedia.org/wiki/David_Allen_Sibley)
+    * [*The Sibley Guide to Birds*](https://en.wikipedia.org/wiki/The_Sibley_Guide_to_Birds)
   * [Gilles Deleuze](https://en.wikipedia.org/wiki/Gilles_Deleuze) 1925&mdash;1995
   * [Pauline Oliveros](https://en.wikipedia.org/wiki/Pauline_Oliveros) 1931&mdash;2016
   * [David Abram](https://en.wikipedia.org/wiki/David_Abram)
