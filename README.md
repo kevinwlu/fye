@@ -1,5 +1,7 @@
 # First Year Experience (FYE)
 * [The future of universities](https://www.nature.com/immersive/d41586-025-03086-5/index.html), [*Nature*](https://en.wikipedia.org/wiki/Nature_(journal)), 24 September 2025
+* [Why Stevens](https://www.stevens.edu/info-for/why-stevens)
+* [Stevens by the Numbers](https://www.stevens.edu/discover-stevens/stevens-by-the-numbers)
 * [Stevens Overview of Advising and Registration](https://www.stevens.edu/page-basic/first-year-schedule) (SOAR)
 * [SUCCESS — Stevens Undergraduate Core Curriculum: Essential Skills for Success](https://www.stevens.edu/academics/undergraduate-study/success-the-stevens-core-curriculum)
   * [Recursive acronym](https://en.wikipedia.org/wiki/Recursive_acronym)
