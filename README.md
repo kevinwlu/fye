@@ -97,6 +97,7 @@
     * [Stevens Family Collection](https://library.stevens.edu/specialcollections)
   * [J. P. Stevens High School](https://en.wikipedia.org/wiki/J._P._Stevens_High_School) named after John Peters Stevens Jr. 1897&mdash;1976, the oldest son of [John Peters Stevens](https://en.wikipedia.org/wiki/John_Peters_Stevens) 1868&mdash;1929 who was the the seventh generation descendant of John Stevens who came to the United States in 1638, earlier than John Stevens Sr.
 * [Gilded Age](https://en.wikipedia.org/wiki/Gilded_Age)
+* [True to the Red and Gray: 150 Years of Stevens Traditions](https://www.stevens.edu/news/true-red-and-gray-150-years-stevens-traditions), 10 May 2021
 * [Attila the Duck Profile](https://stevensducks.com/sports/2012/10/19/Attila%20the%20Duck%20Profile.aspx)
   * [Duck](https://en.wikipedia.org/wiki/Duck)
   * [Amphibian](https://en.wikipedia.org/wiki/Amphibian)
