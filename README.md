@@ -152,6 +152,8 @@
   * [Pierre Bourdelle](https://frenchsculpture.org/index.php/Detail/entities/4885) 1901&mdash;1966 was the son of [Antoine Bourdelle](https://en.wikipedia.org/wiki/Antoine_Bourdelle) 1861&mdash;1929
     * Antoine Bourdelle was a student of [Auguste Rodin](https://en.wikipedia.org/wiki/Auguste_Rodin) 1840&mdash;1917
     * [American Spread Wing Eagle](https://virtualglobetrotting.com/map/american-spread-wing-eagle-by-pierre-bourdelle/)
+  * [*SS Stevens*](https://en.wikipedia.org/wiki/SS_Stevens)
+    * [Ship prefix](https://en.wikipedia.org/wiki/Ship_prefix)
   * [Luigi Zummo Pollara](https://www.nytimes.com/1994/08/06/obituaries/dr-luigi-pollara-80-founder-of-polymer-research-unit-dies.html) 1915&mdash;1994
     * [Polymer Processing Institute](https://www.polymers-ppi.com/) (PPI) founded in 1982
   * [A. James Clark](https://en.wikipedia.org/wiki/A._James_Clark) 1927&mdash;2015
