@@ -145,6 +145,7 @@
 ## Lesson 6 - You Belong Here: Overcoming Imposter Syndrome
 * [Impostor syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome)
 * The Stute article [Imposter syndrome](https://thestute.com/2023/09/29/imposter-syndrome/) by [Nicole Cheung](https://www.linkedin.com/in/nicole-cheung-551500261/)
+* [Social stigma](https://en.wikipedia.org/wiki/Social_stigma)
 * [Self-advocacy](https://en.wikipedia.org/wiki/Self-advocacy)
 * [*Hygge*](https://en.wikipedia.org/wiki/Hygge)
 * [Emotion](https://en.wikipedia.org/wiki/Emotion)
