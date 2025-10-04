@@ -154,6 +154,7 @@
 * [Emotion classification](https://en.wikipedia.org/wiki/Emotion_classification)
 * [Robert Plutchik](https://en.wikipedia.org/wiki/Robert_Plutchik) 1927&mdash;2006
 * [Personality psychology](https://en.wikipedia.org/wiki/Personality_psychology)
+* [Big Five personality traits](https://en.wikipedia.org/wiki/Big_Five_personality_traits)
 ## Lesson 7 - Money Matters: Credit, Loans, and Debt
 * [Money Adds Up](https://thestute.com/2023/12/01/money-adds-up/) by [Hima Thummala](https://www.linkedin.com/in/himathummala/)
 ## Lesson 8 - Choose Your Own Adventure
