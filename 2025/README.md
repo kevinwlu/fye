@@ -145,6 +145,8 @@
 ## Lesson 6 - You Belong Here: Overcoming Imposter Syndrome
 * [Impostor syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome)
 * The 2023 Stute article [Imposter syndrome](https://thestute.com/2023/09/29/imposter-syndrome/) by [Nicole Cheung](https://www.linkedin.com/in/nicole-cheung-551500261/)
+* [Imposter Syndrome Institute](https://impostorsyndrome.com/)
+  * [Valerie Young](https://impostorsyndrome.com/valerie-young/)
 * [*Lean In: Women, Work, and the Will to Lead*](https://en.wikipedia.org/wiki/Lean_In) 2013 by [Sheryl Sandberg](https://en.wikipedia.org/wiki/Sheryl_Sandberg) and [Nell Scovell](https://en.wikipedia.org/wiki/Nell_Scovell)
   * [Lean In Foundation](https://en.wikipedia.org/wiki/LeanIn.Org)
 * [Social stigma](https://en.wikipedia.org/wiki/Social_stigma)
@@ -155,6 +157,7 @@
 * [Robert Plutchik](https://en.wikipedia.org/wiki/Robert_Plutchik) 1927&mdash;2006
 * [Personality psychology](https://en.wikipedia.org/wiki/Personality_psychology)
 * [Big Five personality traits](https://en.wikipedia.org/wiki/Big_Five_personality_traits)
+* [Ben Franklin effect](https://en.wikipedia.org/wiki/Ben_Franklin_effect)
 ## Lesson 7 - Money Matters: Credit, Loans, and Debt
 * [Money Adds Up](https://thestute.com/2023/12/01/money-adds-up/) by [Hima Thummala](https://www.linkedin.com/in/himathummala/)
 ## Lesson 8 - Choose Your Own Adventure
