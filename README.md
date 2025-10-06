@@ -245,6 +245,11 @@
   * [Greg Gianforte](https://en.wikipedia.org/wiki/Greg_Gianforte), class of 1983
   * [Gina M. Addeo](https://www.adcoonline.com/gina-about-page), class of 1986
     * [2013 Distinguished Alumni Award -- Business and Finance](https://www.youtube.com/watch?v=K32YL_lVnAs)
+  * [Laura Overdeck](https://en.wikipedia.org/wiki/Laura_Overdeck)
+    * [Bedtime Math](https://en.wikipedia.org/wiki/Bedtime_Math)
+    * [Laura Overdeck, Math Education Reformer and Philanthropist, to Speak at Stevens 147th Commencement](https://www.stevens.edu/news/laura-overdeck-math-education-reformer-and-philanthropist-speak-stevens-147th-commencement), 15 March 2019
+    * [*Rule Breakers*](https://en.wikipedia.org/wiki/Rule_Breakers_(film))
+    * [Trailer](https://www.youtube.com/watch?v=_RhnigrbeLg)
   * [Darío Gil](https://newsroom.ibm.com/dario-gil), class of 1998
     * [Quantum and AI Are Our Next Problem-Solvers, Says IBM’s Research Director](https://www.stevens.edu/news/quantum-and-ai-are-our-next-problem-solvers-says-ibms-research-director), 9 October 2024
   * [Stephanie LeBlanc-Godfrey](https://www.stevens.edu/indicator/spring-summer-2023/things-became-clearer-when-i-challenged-the-no), class of 2006
