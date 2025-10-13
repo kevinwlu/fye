@@ -15,6 +15,7 @@
 * [Stevens Strategic Plan](https://www.stevens.edu/discover-stevens/strategic-plan)
 * [University Policy Library](https://www.stevens.edu/policies-library)
 * [*Student Handbook*](https://stevens-institute-of-technology.dcatalog.com/v/Student-Handbook/)
+* [Office of Institutional Research and Effectiveness](https://www.stevens.edu/office-of-institutional-research-and-effectiveness) (OIRE)
 * [Accreditation](https://en.wikipedia.org/wiki/Accreditation)
   * [Stevens Accreditation](https://www.stevens.edu/office-of-institutional-research-and-effectiveness/accreditation)
   * [Middle States Commission on Higher Education](https://en.wikipedia.org/wiki/Middle_States_Commission_on_Higher_Education) (MSCHE)
