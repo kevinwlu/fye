@@ -159,10 +159,25 @@
 * [Big Five personality traits](https://en.wikipedia.org/wiki/Big_Five_personality_traits)
 ## Lesson 7 - Money Matters: Credit, Loans, and Debt
 * [Money Adds Up](https://thestute.com/2023/12/01/money-adds-up/) by [Hima Thummala](https://www.linkedin.com/in/himathummala/)
+* [Debits and credits](https://en.wikipedia.org/wiki/Debits_and_credits)
+* [Credit score](https://en.wikipedia.org/wiki/Credit_score)
 * [FICO](https://en.wikipedia.org/wiki/FICO) founded in 1956
 * [National Foundation for Credit Counseling](https://en.wikipedia.org/wiki/National_Foundation_for_Credit_Counseling) (NFCC) founded in 1951
+* [Balance sheet](https://en.wikipedia.org/wiki/Balance_sheet)
+  * [Asset](https://en.wikipedia.org/wiki/Asset)
+  * [Liability (financial accounting)](https://en.wikipedia.org/wiki/Liability_(financial_accounting))
+* [Income statement](https://en.wikipedia.org/wiki/Income_statement)
+* [Student loan](https://en.wikipedia.org/wiki/Student_loan)
+* [529 plan](https://en.wikipedia.org/wiki/529_plan)
+* [Federal Work-Study Program](https://en.wikipedia.org/wiki/Federal_Work-Study_Program)
+* [401(k)](https://en.wikipedia.org/wiki/401(k))
+* [Individual retirement account](https://en.wikipedia.org/wiki/Individual_retirement_account) (IRA)
+* [Roth IRA](https://en.wikipedia.org/wiki/Roth_IRA)
 * [TIAA](https://en.wikipedia.org/wiki/TIAA) founded in 1918
 * [The Vanguard Group](https://en.wikipedia.org/wiki/The_Vanguard_Group) founded in 1975
+* [BlackRock](https://en.wikipedia.org/wiki/BlackRock) founded in 1988
+* [Mutual fund](https://en.wikipedia.org/wiki/Mutual_fund)
+* [Exchange-traded fund](https://en.wikipedia.org/wiki/Exchange-traded_fund) (ETF)
 ## Lesson 8 - Choose Your Own Adventure
 * [Life skills](https://en.wikipedia.org/wiki/Life_skills)
 ## Lesson 9 - Active and Experiential Learning at Stevens
