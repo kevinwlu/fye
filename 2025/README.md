@@ -185,6 +185,7 @@
 * [Form W-2](https://en.wikipedia.org/wiki/Form_W-2)
 * [Form W-9](https://en.wikipedia.org/wiki/Form_W-9)
 * [Form 1040](https://en.wikipedia.org/wiki/Form_1040)
+* [Minimum wage in the United States](https://en.wikipedia.org/wiki/Minimum_wage_in_the_United_States)
 ## Lesson 8 - Choose Your Own Adventure
 * [Life skills](https://en.wikipedia.org/wiki/Life_skills)
 ## Lesson 9 - Active and Experiential Learning at Stevens
