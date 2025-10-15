@@ -163,6 +163,7 @@
 * [Credit score](https://en.wikipedia.org/wiki/Credit_score)
 * [FICO](https://en.wikipedia.org/wiki/FICO) founded in 1956
 * [National Foundation for Credit Counseling](https://en.wikipedia.org/wiki/National_Foundation_for_Credit_Counseling) (NFCC) founded in 1951
+* [Comparison of free credit monitoring services](https://en.wikipedia.org/wiki/Comparison_of_free_credit_monitoring_services)
 * [Balance sheet](https://en.wikipedia.org/wiki/Balance_sheet)
   * [Asset](https://en.wikipedia.org/wiki/Asset)
   * [Liability (financial accounting)](https://en.wikipedia.org/wiki/Liability_(financial_accounting))
