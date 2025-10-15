@@ -159,6 +159,7 @@
 * [Big Five personality traits](https://en.wikipedia.org/wiki/Big_Five_personality_traits)
 ## Lesson 7 - Money Matters: Credit, Loans, and Debt
 * [Money Adds Up](https://thestute.com/2023/12/01/money-adds-up/) by [Hima Thummala](https://www.linkedin.com/in/himathummala/)
+* [FICO](https://en.wikipedia.org/wiki/FICO) founded in 1956
 * [National Foundation for Credit Counseling](https://en.wikipedia.org/wiki/National_Foundation_for_Credit_Counseling) (NFCC) founded in 1951
 * [TIAA](https://en.wikipedia.org/wiki/TIAA) founded in 1918
 * [The Vanguard Group](https://en.wikipedia.org/wiki/The_Vanguard_Group) founded in 1975
