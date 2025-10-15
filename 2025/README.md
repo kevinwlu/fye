@@ -161,6 +161,7 @@
 * [Money Adds Up](https://thestute.com/2023/12/01/money-adds-up/) by [Hima Thummala](https://www.linkedin.com/in/himathummala/)
 * [Debits and credits](https://en.wikipedia.org/wiki/Debits_and_credits)
 * [Credit score](https://en.wikipedia.org/wiki/Credit_score)
+* [Credit score in the United States](https://en.wikipedia.org/wiki/Credit_score_in_the_United_States)
 * [FICO](https://en.wikipedia.org/wiki/FICO) founded in 1956
 * [National Foundation for Credit Counseling](https://en.wikipedia.org/wiki/National_Foundation_for_Credit_Counseling) (NFCC) founded in 1951
 * [Comparison of free credit monitoring services](https://en.wikipedia.org/wiki/Comparison_of_free_credit_monitoring_services)
