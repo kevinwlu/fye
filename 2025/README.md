@@ -168,6 +168,7 @@
 * [Balance sheet](https://en.wikipedia.org/wiki/Balance_sheet)
   * [Asset](https://en.wikipedia.org/wiki/Asset)
   * [Liability (financial accounting)](https://en.wikipedia.org/wiki/Liability_(financial_accounting))
+  * [Equity (finance)](https://en.wikipedia.org/wiki/Equity_(finance))
 * [Income statement](https://en.wikipedia.org/wiki/Income_statement)
 * [Student loan](https://en.wikipedia.org/wiki/Student_loan)
 * [529 plan](https://en.wikipedia.org/wiki/529_plan)
