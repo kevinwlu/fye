@@ -171,6 +171,7 @@
 * [Minimum wage in the United States](https://en.wikipedia.org/wiki/Minimum_wage_in_the_United_States)
 ## Lesson 8 - Choose Your Own Adventure
 * [Life skills](https://en.wikipedia.org/wiki/Life_skills)
+* [Mortgage](https://en.wikipedia.org/wiki/Mortgage)
 * [Balance sheet](https://en.wikipedia.org/wiki/Balance_sheet)
   * [Asset](https://en.wikipedia.org/wiki/Asset)
   * [Liability (financial accounting)](https://en.wikipedia.org/wiki/Liability_(financial_accounting))
