@@ -165,14 +165,17 @@
 * [FICO](https://en.wikipedia.org/wiki/FICO) founded in 1956
 * [National Foundation for Credit Counseling](https://en.wikipedia.org/wiki/National_Foundation_for_Credit_Counseling) (NFCC) founded in 1951
 * [Comparison of free credit monitoring services](https://en.wikipedia.org/wiki/Comparison_of_free_credit_monitoring_services)
+* [Student loan](https://en.wikipedia.org/wiki/Student_loan)
+* [529 plan](https://en.wikipedia.org/wiki/529_plan)
+* [Federal Work-Study Program](https://en.wikipedia.org/wiki/Federal_Work-Study_Program)
+* [Minimum wage in the United States](https://en.wikipedia.org/wiki/Minimum_wage_in_the_United_States)
+## Lesson 8 - Choose Your Own Adventure
+* [Life skills](https://en.wikipedia.org/wiki/Life_skills)
 * [Balance sheet](https://en.wikipedia.org/wiki/Balance_sheet)
   * [Asset](https://en.wikipedia.org/wiki/Asset)
   * [Liability (financial accounting)](https://en.wikipedia.org/wiki/Liability_(financial_accounting))
   * [Equity (finance)](https://en.wikipedia.org/wiki/Equity_(finance))
 * [Income statement](https://en.wikipedia.org/wiki/Income_statement)
-* [Student loan](https://en.wikipedia.org/wiki/Student_loan)
-* [529 plan](https://en.wikipedia.org/wiki/529_plan)
-* [Federal Work-Study Program](https://en.wikipedia.org/wiki/Federal_Work-Study_Program)
 * [401(k)](https://en.wikipedia.org/wiki/401(k))
 * [403(b)](https://en.wikipedia.org/wiki/403(b))
 * [Individual retirement account](https://en.wikipedia.org/wiki/Individual_retirement_account) (IRA)
@@ -188,9 +191,6 @@
 * [Form W-2](https://en.wikipedia.org/wiki/Form_W-2)
 * [Form W-9](https://en.wikipedia.org/wiki/Form_W-9)
 * [Form 1040](https://en.wikipedia.org/wiki/Form_1040)
-* [Minimum wage in the United States](https://en.wikipedia.org/wiki/Minimum_wage_in_the_United_States)
-## Lesson 8 - Choose Your Own Adventure
-* [Life skills](https://en.wikipedia.org/wiki/Life_skills)
 ## Lesson 9 - Active and Experiential Learning at Stevens
 * [Grabbing the Opportunity to Innovate](https://www.stevens.edu/news/computer-science-thomas-weinhardt-tool-grabber), 5 May 2025
   * [MotorizedGrabber GitHub repository](https://github.com/tjamesw123/MotorizedGrabber)
