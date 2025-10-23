@@ -75,6 +75,8 @@
     * [USS *Portsmouth* (1843)](https://en.wikipedia.org/wiki/USS_Portsmouth_(1843))
     * [*On the Waterfront*](https://en.wikipedia.org/wiki/On_the_Waterfront) 1954
     * [Bringing Down the Gatehouse](https://www.stevens.edu/news/bringing-down-gatehouse), 7 February 2019
+  * [How Can We Manage Rodents in Hoboken?](https://www.hobokennj.gov/faqs/how-can-we-mitigate-rodents-in-hoboken)
+    * [Protecta EVO Express Bait Station](https://www.belllabs.com/products/us/pest-control/protecta-evo-express/)
 * [Stevens family](https://www.stevens.edu/discover-stevens/stevens-history/the-stevens-family)
   * [John Stevens Sr.](https://www.geni.com/people/John-Stevens-Sr/6000000003381721966) 1682&mdash;1737 came to America in 1699 at the age of 17
   * [John Stevens Jr.](https://en.wikipedia.org/wiki/John_Stevens_(New_Jersey_politician)) 1715&mdash;1792
