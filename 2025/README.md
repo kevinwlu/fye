@@ -169,8 +169,6 @@
 * [529 plan](https://en.wikipedia.org/wiki/529_plan)
 * [Federal Work-Study Program](https://en.wikipedia.org/wiki/Federal_Work-Study_Program)
 * [Minimum wage in the United States](https://en.wikipedia.org/wiki/Minimum_wage_in_the_United_States)
-## Lesson 8 - Choose Your Own Adventure
-* [Life skills](https://en.wikipedia.org/wiki/Life_skills)
 * [Mortgage](https://en.wikipedia.org/wiki/Mortgage)
 * [Balance sheet](https://en.wikipedia.org/wiki/Balance_sheet)
   * [Asset](https://en.wikipedia.org/wiki/Asset)
@@ -192,6 +190,10 @@
 * [Form W-2](https://en.wikipedia.org/wiki/Form_W-2)
 * [Form W-9](https://en.wikipedia.org/wiki/Form_W-9)
 * [Form 1040](https://en.wikipedia.org/wiki/Form_1040)
+## Lesson 8 - Choose Your Own Adventure
+* [Life skills](https://en.wikipedia.org/wiki/Life_skills)
+* [*Shark Tank*](https://en.wikipedia.org/wiki/Shark_Tank)
+* [Elevator pitch](https://en.wikipedia.org/wiki/Elevator_pitch)
 ## Lesson 9 - Active and Experiential Learning at Stevens
 * [Grabbing the Opportunity to Innovate](https://www.stevens.edu/news/computer-science-thomas-weinhardt-tool-grabber), 5 May 2025
   * [MotorizedGrabber GitHub repository](https://github.com/tjamesw123/MotorizedGrabber)
