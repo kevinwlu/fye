@@ -194,6 +194,9 @@
 * [Life skills](https://en.wikipedia.org/wiki/Life_skills)
 * [*Shark Tank*](https://en.wikipedia.org/wiki/Shark_Tank)
 * [Elevator pitch](https://en.wikipedia.org/wiki/Elevator_pitch)
+* [Ansary Entrepreneurship Competition](https://www.stevens.edu/ansary-entrepreneurship-competition)
+* [MGT 103](https://sites.google.com/view/mgt-103)
+* [School of Business Sponsors First High School Entrepreneurship and Artificial Intelligence Pitch Competition](https://www.stevens.edu/news/2025-high-school-entrepreneurship-and-artificial-intelligence-competition), 10 April 2025
 ## Lesson 9 - Active and Experiential Learning at Stevens
 * [Grabbing the Opportunity to Innovate](https://www.stevens.edu/news/computer-science-thomas-weinhardt-tool-grabber), 5 May 2025
   * [MotorizedGrabber GitHub repository](https://github.com/tjamesw123/MotorizedGrabber)
