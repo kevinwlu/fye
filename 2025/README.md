@@ -192,6 +192,9 @@
 * [Form 1040](https://en.wikipedia.org/wiki/Form_1040)
 ## Lesson 8 - Choose Your Own Adventure
 * [Life skills](https://en.wikipedia.org/wiki/Life_skills)
+* [Stevens Special Programs](https://www.stevens.edu/academics/undergraduate-study/special-programs)
+* [iSTEM](https://www.stevens.edu/istem)
+* [Launchpad@Stevens](https://www.stevens.edu/school-engineering-science/undergraduate-studies/launchpad)
 * [*Shark Tank*](https://en.wikipedia.org/wiki/Shark_Tank)
 * [Elevator pitch](https://en.wikipedia.org/wiki/Elevator_pitch)
 * [Ansary Entrepreneurship Competition](https://www.stevens.edu/ansary-entrepreneurship-competition)
