@@ -217,4 +217,4 @@
 ## Lesson 13 - Empowered to Act: Building a Community of Care
 * [Bystander Intervention Tip Sheet](https://www.apa.org/pi/health-equity/bystander-intervention)
 ## Lesson 14 - From Orientation to Ownership: What Kind of Duck Will You Be?
-* [Elevator pitch](https://en.wikipedia.org/wiki/Elevator_pitch)
+* [Stevens Development and Alumni Engagement](https://www.stevens.edu/development-alumni-engagement)
