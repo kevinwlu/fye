@@ -203,6 +203,11 @@
 ## Lesson 9 - Active and Experiential Learning at Stevens
 * [Grabbing the Opportunity to Innovate](https://www.stevens.edu/news/computer-science-thomas-weinhardt-tool-grabber), 5 May 2025
   * [MotorizedGrabber GitHub repository](https://github.com/tjamesw123/MotorizedGrabber)
+* [*Pedagogy of the Oppressed*](https://en.wikipedia.org/wiki/Pedagogy_of_the_Oppressed) 1968 by [Paulo Freire](https://en.wikipedia.org/wiki/Paulo_Freire) 1921&mdash;1997
+  * [PDF](https://files.libcom.org/files/Paulo%20Freire,%20Myra%20Bergman%20Ramos,%20Donaldo%20Macedo%20-%20Pedagogy%20of%20the%20Oppressed,%2030th%20Anniversary%20Edition%20(2000,%20Bloomsbury%20Academic).pdf) pp. 83-86 of Chapter 2
+    * Banking education: permanence
+    * Problem-posing education: change
+  * [Henri Bergson](https://en.wikipedia.org/wiki/Henri_Bergson) 1859&mdash;1941
 ## Lesson 10 - Career Kickoff: Exploring Majors & Professional Presence
 * [Should I change my major?](https://thestute.com/2023/11/03/should-i-change-my-major-2/)
 * [Myers–Briggs Type Indicator](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator)
