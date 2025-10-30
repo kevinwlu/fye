@@ -207,7 +207,12 @@
   * [PDF](https://files.libcom.org/files/Paulo%20Freire,%20Myra%20Bergman%20Ramos,%20Donaldo%20Macedo%20-%20Pedagogy%20of%20the%20Oppressed,%2030th%20Anniversary%20Edition%20(2000,%20Bloomsbury%20Academic).pdf) pp. 83-86 of Chapter 2
     * Banking education: permanence
     * Problem-posing education: change
+  * [Praxis (process)](https://en.wikipedia.org/wiki/Praxis_(process))
   * [Henri Bergson](https://en.wikipedia.org/wiki/Henri_Bergson) 1859&mdash;1941
+  * [George Herbert Mead](https://en.wikipedia.org/wiki/George_Herbert_Mead) 1863&mdash;1931
+  * [Mikhail Bakhtin](https://en.wikipedia.org/wiki/Mikhail_Bakhtin) 1895&mdash;1975
+  * [Dialogue (Bakhtin)](https://en.wikipedia.org/wiki/Dialogue_(Bakhtin))
+  * [Dialogical analysis](https://en.wikipedia.org/wiki/Dialogical_analysis)
 ## Lesson 10 - Career Kickoff: Exploring Majors & Professional Presence
 * [Should I change my major?](https://thestute.com/2023/11/03/should-i-change-my-major-2/)
 * [Myers–Briggs Type Indicator](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator)
