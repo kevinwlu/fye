@@ -64,6 +64,7 @@
   * [Georg Wilhelm Friedrich Hegel](https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel) 1770&mdash;1831
   * [Raison d'être](https://en.wikipedia.org/wiki/Raison_d%27%C3%AAtre)
   * [Critical consciousness](https://en.wikipedia.org/wiki/Critical_consciousness)
+  * [Banking model of education](https://en.wikipedia.org/wiki/Banking_model_of_education)
   * [Problem-posing education](https://en.wikipedia.org/wiki/Problem-posing_education)  
   * [John Dewey](https://en.wikipedia.org/wiki/John_Dewey) 1859&mdash;1952
   * [Maria Montessori](https://en.wikipedia.org/wiki/Maria_Montessori) 1870&mdash;1952
@@ -205,8 +206,8 @@
   * [MotorizedGrabber GitHub repository](https://github.com/tjamesw123/MotorizedGrabber)
 * [*Pedagogy of the Oppressed*](https://en.wikipedia.org/wiki/Pedagogy_of_the_Oppressed) 1968 by [Paulo Freire](https://en.wikipedia.org/wiki/Paulo_Freire) 1921&mdash;1997
   * [PDF](https://files.libcom.org/files/Paulo%20Freire,%20Myra%20Bergman%20Ramos,%20Donaldo%20Macedo%20-%20Pedagogy%20of%20the%20Oppressed,%2030th%20Anniversary%20Edition%20(2000,%20Bloomsbury%20Academic).pdf) pp. 83-86 of Chapter 2
-    * Banking education: permanence
-    * Problem-posing education: change
+    * [Banking model of education](https://en.wikipedia.org/wiki/Banking_model_of_education): [permanence](https://en.wikipedia.org/wiki/Permanence)
+    * [Problem-posing education](https://en.wikipedia.org/wiki/Problem-posing_education): change
   * [Praxis (process)](https://en.wikipedia.org/wiki/Praxis_(process))
   * [Henri Bergson](https://en.wikipedia.org/wiki/Henri_Bergson) 1859&mdash;1941
   * [George Herbert Mead](https://en.wikipedia.org/wiki/George_Herbert_Mead) 1863&mdash;1931
