@@ -37,6 +37,7 @@
   * [The Power of Believing That You Can Improve](https://www.youtube.com/watch?v=_X0mgOOSpLU&t=231s), 17 December 2014
   * [Developing a Growth Mindset](https://www.youtube.com/watch?v=hiiEeMN7vbQ), 9 October 2014
   * [The Power of Yet](https://www.youtube.com/watch?v=J-swZaKN2Ic), 12 September 2014
+  * [The Growth Mindset](https://www.youtube.com/watch?v=wh0OS4MrN3E), 19 August 2014
 * [Learning curve](https://en.wikipedia.org/wiki/Learning_curve)
 * [Growth curve](https://en.wikipedia.org/wiki/Growth_curve)
 * [Integrity](https://en.wikipedia.org/wiki/Integrity)
