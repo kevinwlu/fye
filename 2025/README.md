@@ -218,6 +218,8 @@
 * [Should I change my major?](https://thestute.com/2023/11/03/should-i-change-my-major-2/)
 * [Myers–Briggs Type Indicator](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator)
 * [CliftonStrengths](https://en.wikipedia.org/wiki/CliftonStrengths)
+* [Why Students Choose Stevens](https://www.stevens.edu/page-marketing-landing/why-students-choose-stevens)
+* [Labor Market Outcomes of College Graduates by Major](https://www.newyorkfed.org/research/college-labor-market#--:explore:outcomes-by-major)
 ## Lesson 11 - Ethics in Real Life (IRL): Making Good Choices in a Messy World
 * [The Ones Who Walk Away From Omelas](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas) 1973 by [Ursula K. Le Guin](https://en.wikipedia.org/wiki/Ursula_K._Le_Guin) 1929&mdash;2018
 * [PDF](https://shsdavisapes.pbworks.com/f/Omelas.pdf)
