@@ -44,7 +44,7 @@
 * [Academic Integrity](https://www.stevens.edu/academics/graduate-study/academic-integrity)
   > The Graduate Student Code of Academic Integrity applies to all graduate students at Stevens and to undergraduate students enrolled in courses of level 600 or higher. \
   > Undergraduate students enrolled in 500-level courses are bound by the Undergraduate Honor System.
-* The Stute article [Behind the pledge: Understanding the impact of the Stevens Honor System](https://thestute.com/2024/02/09/behind-the-pledge-understanding-the-impact-of-the-stevens-honor-system/) by [Praneeth Vanguru](https://www.linkedin.com/in/praneeth-vanguru-4809b1291/)
+* [Behind the pledge: Understanding the impact of the Stevens Honor System](https://thestute.com/2024/02/09/behind-the-pledge-understanding-the-impact-of-the-stevens-honor-system/) by [Praneeth Vanguru](https://thestute.com/author/pvanguru/), *The Stute*, 9 February 2024
 * [Self-reflection](https://en.wikipedia.org/wiki/Self-reflection)
 ## Lesson 4 - Own Your Time: Time Management and Active Learning
 * [Time](https://en.wikipedia.org/wiki/Time)
@@ -146,7 +146,7 @@
     "for their discoveries of molecular mechanisms controlling the circadian rhythm"
 ## Lesson 6 - You Belong Here: Overcoming Imposter Syndrome
 * [Impostor syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome)
-* The 2023 Stute article [Imposter syndrome](https://thestute.com/2023/09/29/imposter-syndrome/) by [Nicole Cheung](https://www.linkedin.com/in/nicole-cheung-551500261/)
+* [Imposter syndrome](https://thestute.com/2023/09/29/imposter-syndrome/) by [Nicole Cheung](https://thestute.com/author/ncheung2/), *The Stute*, 29 September 2023
 * [Imposter Syndrome Institute](https://impostorsyndrome.com/)
   * [Valerie Young](https://impostorsyndrome.com/valerie-young/)
 * [*Lean In: Women, Work, and the Will to Lead*](https://en.wikipedia.org/wiki/Lean_In) 2013 by [Sheryl Sandberg](https://en.wikipedia.org/wiki/Sheryl_Sandberg) and [Nell Scovell](https://en.wikipedia.org/wiki/Nell_Scovell)
@@ -216,7 +216,7 @@
   * [Dialogue (Bakhtin)](https://en.wikipedia.org/wiki/Dialogue_(Bakhtin))
   * [Dialogical analysis](https://en.wikipedia.org/wiki/Dialogical_analysis)
 ## Lesson 10 - Career Kickoff: Exploring Majors & Professional Presence
-* [Should I change my major?](https://thestute.com/2023/11/03/should-i-change-my-major-2/)
+* [Should I change my major?](https://thestute.com/2023/11/03/should-i-change-my-major-2/) by [Anna Dabrowski](https://thestute.com/author/adabrows/), *The Stute*, 3 November 2023
 * [Myers–Briggs Type Indicator](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator)
 * [CliftonStrengths](https://en.wikipedia.org/wiki/CliftonStrengths)
 * [Why Students Choose Stevens](https://www.stevens.edu/page-marketing-landing/why-students-choose-stevens)
