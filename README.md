@@ -51,6 +51,7 @@
 * [Tassel](https://en.wikipedia.org/wiki/Tassel)
 * [Dress code](https://en.wikipedia.org/wiki/Dress_code)
 * [List of engineering societies](https://en.wikipedia.org/wiki/List_of_engineering_societies)
+  * [American Institute of Aeronautics and Astronautics](https://en.wikipedia.org/wiki/American_Institute_of_Aeronautics_and_Astronautics) (AIAA)
   * [American Society of Mechanical Engineers](https://en.wikipedia.org/wiki/American_Society_of_Mechanical_Engineers) (ASME)
   * [Association for Computing Machinery](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery) (ACM)
   * [Institute of Electrical and Electronics Engineers](https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers) (IEEE)
