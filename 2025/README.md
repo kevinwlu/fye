@@ -220,6 +220,7 @@
 * [Myers–Briggs Type Indicator](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator)
 * [CliftonStrengths](https://en.wikipedia.org/wiki/CliftonStrengths)
 * [Why Students Choose Stevens](https://www.stevens.edu/page-marketing-landing/why-students-choose-stevens)
+  * [Find Your Flock Podcast](https://www.stevens.edu/find-your-flock-podcast)
 * [Labor Market Outcomes of College Graduates by Major](https://www.newyorkfed.org/research/college-labor-market#--:explore:outcomes-by-major)
 * [Occupational Information Network](https://en.wikipedia.org/wiki/Occupational_Information_Network) (O*NET)
   * [O*NET Online](https://www.onetonline.org/)
@@ -229,6 +230,10 @@
   * [PDF](https://shsdavisapes.pbworks.com/f/Omelas.pdf)
   * [Salem, Oregon](https://en.wikipedia.org/wiki/Salem,_Oregon)
   * [Procession](https://en.wikipedia.org/wiki/Procession)
+* [Utilitarianism](https://en.wikipedia.org/wiki/Utilitarianism)
+* [*The Brothers Karamazov*](https://en.wikipedia.org/wiki/The_Brothers_Karamazov) 1880 by [Fyodor Dostoevsky](https://en.wikipedia.org/wiki/Fyodor_Dostoevsky) 1821&mdash;1881
+* [The Moral Philosopher and the Moral Life](https://en.wikipedia.org/wiki/The_Moral_Philosopher_and_the_Moral_Life) 1891 by [William James
+](https://en.wikipedia.org/wiki/William_James) 1842&mdash;1910
 * [*Oliver Twist*](https://en.wikipedia.org/wiki/Oliver_Twist) 1838 by [Charles Dickens](https://en.wikipedia.org/wiki/Charles_Dickens) 1812&mdash1870
 ## Lesson 12 - Unpacking the Defaults: How Empathy and Inclusion Build Belonging at College and Beyond
 * [Inclusion in Action: the Why and the How](https://www.youtube.com/watch?v=E93SQhsz8eA) by [Wei Zheng](https://www.stevens.edu/profile/wzheng11)
