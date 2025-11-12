@@ -226,9 +226,10 @@
 * [Vertically Integrated Projects (VIP) Consortium](https://www.vip-consortium.org/)
 ## Lesson 11 - Ethics in Real Life (IRL): Making Good Choices in a Messy World
 * [The Ones Who Walk Away From Omelas](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas) 1973 by [Ursula K. Le Guin](https://en.wikipedia.org/wiki/Ursula_K._Le_Guin) 1929&mdash;2018
-* [PDF](https://shsdavisapes.pbworks.com/f/Omelas.pdf)
-* [Salem, Oregon](https://en.wikipedia.org/wiki/Salem,_Oregon)
-* [Procession](https://en.wikipedia.org/wiki/Procession)
+  * [PDF](https://shsdavisapes.pbworks.com/f/Omelas.pdf)
+  * [Salem, Oregon](https://en.wikipedia.org/wiki/Salem,_Oregon)
+  * [Procession](https://en.wikipedia.org/wiki/Procession)
+* [*Oliver Twist*](https://en.wikipedia.org/wiki/Oliver_Twist) 1838 by [Charles Dickens](https://en.wikipedia.org/wiki/Charles_Dickens) 1812&mdash1870
 ## Lesson 12 - Unpacking the Defaults: How Empathy and Inclusion Build Belonging at College and Beyond
 * [Inclusion in Action: the Why and the How](https://www.youtube.com/watch?v=E93SQhsz8eA) by [Wei Zheng](https://www.stevens.edu/profile/wzheng11)
 * [*Building a House for Diversity: A Fable About a Giraffe & an Elephant Offers New Strategies for Today's Workforce*](https://www.amazon.com/Building-House-Diversity-Strategies-Workforce/dp/0814404634) 1999 by [R. Roosevelt Thomas, Jr.](https://en.wikipedia.org/wiki/R._Roosevelt_Thomas,_Jr.) 1944&mdash;2013
