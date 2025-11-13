@@ -227,9 +227,10 @@
 * [Vertically Integrated Projects (VIP) Consortium](https://www.vip-consortium.org/)
 ## Lesson 11 - Ethics in Real Life (IRL): Making Good Choices in a Messy World
 * [The Ones Who Walk Away From Omelas](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas) 1973 by [Ursula K. Le Guin](https://en.wikipedia.org/wiki/Ursula_K._Le_Guin) 1929&mdash;2018
-  * [PDF](https://shsdavisapes.pbworks.com/f/Omelas.pdf)
+  * [PDF](https://shsdavisapes.pbworks.com/f/Omelas.pdf) from [*The Wind's Twelve Quarters*](https://en.wikipedia.org/wiki/The_Wind%27s_Twelve_Quarters) 1975
   * [Salem, Oregon](https://en.wikipedia.org/wiki/Salem,_Oregon)
   * [Procession](https://en.wikipedia.org/wiki/Procession)
+> Morality refers to an individual's personal beliefs about right and wrong, while ethics are a set of external rules or principles that guide a group or society’s behavior. Morality is more about personal conviction and a "theory" of how one should act, whereas ethics are the "practice" of those beliefs applied through societal or professional codes of conduct.
 * [Utilitarianism](https://en.wikipedia.org/wiki/Utilitarianism)
 * [*The Brothers Karamazov*](https://en.wikipedia.org/wiki/The_Brothers_Karamazov) 1880 by [Fyodor Dostoevsky](https://en.wikipedia.org/wiki/Fyodor_Dostoevsky) 1821&mdash;1881
 * [The Moral Philosopher and the Moral Life](https://en.wikipedia.org/wiki/The_Moral_Philosopher_and_the_Moral_Life) 1891 by [William James
