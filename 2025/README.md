@@ -233,14 +233,21 @@
   * [Procession](https://en.wikipedia.org/wiki/Procession)
 > Morality refers to an individual's personal beliefs about right and wrong, while ethics are a set of external rules or principles that guide a group or society’s behavior. Morality is more about personal conviction and a "theory" of how one should act, whereas ethics are the "practice" of those beliefs applied through societal or professional codes of conduct.
 * [Utilitarianism](https://en.wikipedia.org/wiki/Utilitarianism)
+* [Ethical dilemma](https://en.wikipedia.org/wiki/Ethical_dilemma)
+* [Lesser of two evils principle](https://en.wikipedia.org/wiki/Lesser_of_two_evils_principle)
+* [Trolley problem](https://en.wikipedia.org/wiki/Trolley_problem)
+* [Whistleblowing](https://en.wikipedia.org/wiki/Whistleblowing)
 * [*The Brothers Karamazov*](https://en.wikipedia.org/wiki/The_Brothers_Karamazov) 1880 by [Fyodor Dostoevsky](https://en.wikipedia.org/wiki/Fyodor_Dostoevsky) 1821&mdash;1881
 * [The Moral Philosopher and the Moral Life](https://en.wikipedia.org/wiki/The_Moral_Philosopher_and_the_Moral_Life) 1891 by [William James
 ](https://en.wikipedia.org/wiki/William_James) 1842&mdash;1910
-* [*Oliver Twist*](https://en.wikipedia.org/wiki/Oliver_Twist) 1838 by [Charles Dickens](https://en.wikipedia.org/wiki/Charles_Dickens) 1812&mdash1870
+* [*Oliver Twist*](https://en.wikipedia.org/wiki/Oliver_Twist) 1838 by [Charles Dickens](https://en.wikipedia.org/wiki/Charles_Dickens) 1812&mdash;1870
 ## Lesson 12 - Unpacking the Defaults: How Empathy and Inclusion Build Belonging at College and Beyond
 * [Inclusion in Action: the Why and the How](https://www.youtube.com/watch?v=E93SQhsz8eA) by [Wei Zheng](https://www.stevens.edu/profile/wzheng11)
 * [*Building a House for Diversity: A Fable About a Giraffe & an Elephant Offers New Strategies for Today's Workforce*](https://www.amazon.com/Building-House-Diversity-Strategies-Workforce/dp/0814404634) 1999 by [R. Roosevelt Thomas, Jr.](https://en.wikipedia.org/wiki/R._Roosevelt_Thomas,_Jr.) 1944&mdash;2013
 ## Lesson 13 - Empowered to Act: Building a Community of Care
 * [Bystander Intervention Tip Sheet](https://www.apa.org/pi/health-equity/bystander-intervention)
+* [Bystander effect](https://en.wikipedia.org/wiki/Bystander_effect)
+* [Good Samaritan law](https://en.wiktionary.org/wiki/Good_Samaritan_law)
+  * [Parable of the Good Samaritan](https://en.wikipedia.org/wiki/Parable_of_the_Good_Samaritan)
 ## Lesson 14 - From Orientation to Ownership: What Kind of Duck Will You Be?
 * [Stevens Development and Alumni Engagement](https://www.stevens.edu/development-alumni-engagement)
