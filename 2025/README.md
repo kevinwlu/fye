@@ -247,7 +247,8 @@
 ## Lesson 13 - Empowered to Act: Building a Community of Care
 * [Bystander Intervention Tip Sheet](https://www.apa.org/pi/health-equity/bystander-intervention)
 * [Bystander effect](https://en.wikipedia.org/wiki/Bystander_effect)
+* [Good Samaritan](https://en.wiktionary.org/wiki/Good_Samaritan)
+* [Parable of the Good Samaritan](https://en.wikipedia.org/wiki/Parable_of_the_Good_Samaritan)
 * [Good Samaritan law](https://en.wiktionary.org/wiki/Good_Samaritan_law)
-  * [Parable of the Good Samaritan](https://en.wikipedia.org/wiki/Parable_of_the_Good_Samaritan)
 ## Lesson 14 - From Orientation to Ownership: What Kind of Duck Will You Be?
 * [Stevens Development and Alumni Engagement](https://www.stevens.edu/development-alumni-engagement)
