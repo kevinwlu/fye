@@ -242,6 +242,11 @@
 ](https://en.wikipedia.org/wiki/William_James) 1842&mdash;1910
 * [*Oliver Twist*](https://en.wikipedia.org/wiki/Oliver_Twist) 1838 by [Charles Dickens](https://en.wikipedia.org/wiki/Charles_Dickens) 1812&mdash;1870
 ## Lesson 12 - Unpacking the Defaults: How Empathy and Inclusion Build Belonging at College and Beyond
+* [Default](https://en.wikipedia.org/wiki/Default)
+* [Empathy](https://en.wikipedia.org/wiki/Empathy)
+* [Inclusion](https://en.wikipedia.org/wiki/Inclusion)
+* [Belongingness](https://en.wikipedia.org/wiki/Belongingness)
+* [School belonging](https://en.wikipedia.org/wiki/School_belonging)
 * [Inclusion in Action: the Why and the How](https://www.youtube.com/watch?v=E93SQhsz8eA) by [Wei Zheng](https://www.stevens.edu/profile/wzheng11)
 * [*Building a House for Diversity: A Fable About a Giraffe & an Elephant Offers New Strategies for Today's Workforce*](https://www.amazon.com/Building-House-Diversity-Strategies-Workforce/dp/0814404634) 1999 by [R. Roosevelt Thomas, Jr.](https://en.wikipedia.org/wiki/R._Roosevelt_Thomas,_Jr.) 1944&mdash;2013
 ## Lesson 13 - Empowered to Act: Building a Community of Care
