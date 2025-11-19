@@ -130,6 +130,8 @@
   * Richard G. Griskey, Institute Professor Emeritus at the Stevens Institute of Technology, was acting pressident in 1987
   * [Harold J. Raveché](https://en.wikipedia.org/wiki/Harold_J._Ravech%C3%A9)
   * [Nariman Farvardin](https://en.wikipedia.org/wiki/Nariman_Farvardin)
+* [The President’s Leadership Council](https://www.stevens.edu/discover-stevens/leadership-and-vision/the-presidents-leadership-council)
+* [Board of Trustees](https://www.stevens.edu/discover-stevens/leadership-and-vision/board-of-trustees)
 * [Getting to Know the Campus](https://web.stevens.edu/catalog/archive/2015-2016/campus.html)
   * [National Register of Historic Places](https://en.wikipedia.org/wiki/National_Register_of_Historic_Places) (NRHP)
     * [University and college buildings listed on the National Register of Historic Places](https://en.wikipedia.org/wiki/University_and_college_buildings_listed_on_the_National_Register_of_Historic_Places)
