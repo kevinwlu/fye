@@ -243,6 +243,7 @@
 * [*Oliver Twist*](https://en.wikipedia.org/wiki/Oliver_Twist) 1838 by [Charles Dickens](https://en.wikipedia.org/wiki/Charles_Dickens) 1812&mdash;1870
 ## Lesson 12 - Unpacking the Defaults: How Empathy and Inclusion Build Belonging at College and Beyond
 * [Default](https://en.wikipedia.org/wiki/Default)
+* [Comfort zone](https://en.wikipedia.org/wiki/Comfort_zone)
 * [Empathy](https://en.wikipedia.org/wiki/Empathy)
 * [Inclusion](https://en.wikipedia.org/wiki/Inclusion)
 * [Belongingness](https://en.wikipedia.org/wiki/Belongingness)
