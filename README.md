@@ -62,6 +62,7 @@
   * [SAE International](https://en.wikipedia.org/wiki/SAE_International)
   * [Smeatonian Society of Civil Engineers](https://en.wikipedia.org/wiki/Smeatonian_Society_of_Civil_Engineers)
     * [John Smeaton](https://en.wikipedia.org/wiki/John_Smeaton) 1724&mdash;1792
+* [College fraternities and sororities](https://en.wikipedia.org/wiki/College_fraternities_and_sororities)
 * [Professional fraternities and sororities](https://en.wikipedia.org/wiki/Professional_fraternities_and_sororities)
 * [Regulation and licensure in engineering](https://en.wikipedia.org/wiki/Regulation_and_licensure_in_engineering)
 ## History and Values of Stevens
