@@ -64,9 +64,11 @@
     * [John Smeaton](https://en.wikipedia.org/wiki/John_Smeaton) 1724&mdash;1792
 * [College fraternities and sororities](https://en.wikipedia.org/wiki/College_fraternities_and_sororities)
   * [Sigma Phi Epsilon](https://en.wikipedia.org/wiki/Sigma_Phi_Epsilon) founded on November 1, 1901
+    * Three principles: Virtue, Diligence, and Brotherly Love (VDBL)
 * [National Panhellenic Conference](https://en.wikipedia.org/wiki/National_Panhellenic_Conference)
 * [Professional fraternities and sororities](https://en.wikipedia.org/wiki/Professional_fraternities_and_sororities)
 * [Regulation and licensure in engineering](https://en.wikipedia.org/wiki/Regulation_and_licensure_in_engineering)
+* [Honorific](https://en.wikipedia.org/wiki/Honorific)
 ## History and Values of Stevens
 * [Stevens Institute of Technology](https://en.wikipedia.org/wiki/Stevens_Institute_of_Technology)
 * [Stevens family](https://en.wikipedia.org/wiki/Stevens_family)
