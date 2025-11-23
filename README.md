@@ -63,7 +63,7 @@
   * [Smeatonian Society of Civil Engineers](https://en.wikipedia.org/wiki/Smeatonian_Society_of_Civil_Engineers)
     * [John Smeaton](https://en.wikipedia.org/wiki/John_Smeaton) 1724&mdash;1792
 * [College fraternities and sororities](https://en.wikipedia.org/wiki/College_fraternities_and_sororities)
-  * [Sigma Phi Epsilon](https://en.wikipedia.org/wiki/Sigma_Phi_Epsilon) founded on November 1, 1901
+  * [Sigma Phi Epsilon](https://en.wikipedia.org/wiki/Sigma_Phi_Epsilon) (SigEp) founded on November 1, 1901
     * Three principles: Virtue, Diligence, and Brotherly Love (VDBL)
 * [National Panhellenic Conference](https://en.wikipedia.org/wiki/National_Panhellenic_Conference)
 * [Professional fraternities and sororities](https://en.wikipedia.org/wiki/Professional_fraternities_and_sororities)
