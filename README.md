@@ -268,6 +268,7 @@
   * [Greg Gianforte](https://en.wikipedia.org/wiki/Greg_Gianforte), class of 1983
   * [Gina M. Addeo](https://www.adcoonline.com/gina-about-page), class of 1986
     * [2013 Distinguished Alumni Award -- Business and Finance](https://www.youtube.com/watch?v=K32YL_lVnAs)
+  * [Frank Effenberger](https://en.wikipedia.org/wiki/Frank_Effenberger), class of 1988
   * [Laura Overdeck](https://en.wikipedia.org/wiki/Laura_Overdeck)
     * [Bedtime Math](https://en.wikipedia.org/wiki/Bedtime_Math)
     * [Laura Overdeck, Math Education Reformer and Philanthropist, to Speak at Stevens 147th Commencement](https://www.stevens.edu/news/laura-overdeck-math-education-reformer-and-philanthropist-speak-stevens-147th-commencement), 15 March 2019
