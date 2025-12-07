@@ -50,6 +50,8 @@
 * [Regalia](https://en.wikipedia.org/wiki/Regalia)
 * [Tassel](https://en.wikipedia.org/wiki/Tassel)
 * [Dress code](https://en.wikipedia.org/wiki/Dress_code)
+* [Engineering and Technology History Wiki](https://en.wikipedia.org/wiki/Engineering_and_Technology_History_Wiki) (ETHW)
+  * [ETHW.org](https://ethw.org/)
 * [List of engineering societies](https://en.wikipedia.org/wiki/List_of_engineering_societies)
   * [American Institute of Aeronautics and Astronautics](https://en.wikipedia.org/wiki/American_Institute_of_Aeronautics_and_Astronautics) (AIAA)
   * [American Institute of Chemical Engineers](https://en.wikipedia.org/wiki/American_Institute_of_Chemical_Engineers) (AIChE)
