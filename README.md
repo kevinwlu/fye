@@ -76,6 +76,7 @@
 * [Professional fraternities and sororities](https://en.wikipedia.org/wiki/Professional_fraternities_and_sororities)
 * [Regulation and licensure in engineering](https://en.wikipedia.org/wiki/Regulation_and_licensure_in_engineering)
 * [Honorific](https://en.wikipedia.org/wiki/Honorific)
+* [Fundamentals of Engineering exam](https://en.wikipedia.org/wiki/Fundamentals_of_Engineering_exam)
 ## History and Values of Stevens
 * [Stevens Institute of Technology](https://en.wikipedia.org/wiki/Stevens_Institute_of_Technology)
 * [Stevens family](https://en.wikipedia.org/wiki/Stevens_family)
