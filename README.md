@@ -286,3 +286,4 @@
   * [Marques Brownlee](https://en.wikipedia.org/wiki/Marques_Brownlee), Class of 2015
     * [YouTube Channel](https://www.youtube.com/user/marquesbrownlee)
     * [2024 Undergraduate Commencement Keynote Speaker - MKBHD](https://www.youtube.com/watch?v=mwm48dM_riE)
+  * [Joseph Puciloski](https://localheadlinenews.com/joseph-puciloski-28/) 1997&mdash;2025, Class of 2019
