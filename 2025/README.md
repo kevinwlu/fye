@@ -258,4 +258,5 @@
 * [Good Samaritan law](https://en.wiktionary.org/wiki/Good_Samaritan_law)
 ## Lesson 14 - From Orientation to Ownership: What Kind of Duck Will You Be?
 * [Stevens Development and Alumni Engagement](https://www.stevens.edu/development-alumni-engagement)
+* [Stevens Alumni Association](https://www.stevens.edu/development-alumni-engagement/connect/stevens-alumni-association)
 * [Nationally Competitive Scholarships and Fellowships](https://www.stevens.edu/page-basic/nationally-competitive-scholarships-and-fellowships)
