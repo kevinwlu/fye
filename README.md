@@ -7,7 +7,7 @@
 * [SUCCESS — Stevens Undergraduate Core Curriculum: Essential Skills for Success](https://www.stevens.edu/academics/undergraduate-study/success-the-stevens-core-curriculum)
   * [Recursive acronym](https://en.wikipedia.org/wiki/Recursive_acronym)
   * [Self-reference](https://en.wikipedia.org/wiki/Self-reference)
-    * [Ouroboros](https://en.wikipedia.org/wiki/Ouroboros)
+  * [Ouroboros](https://en.wikipedia.org/wiki/Ouroboros)
   * [Stevens Announces Innovative New Core Curriculum: SUCCESS](https://www.stevens.edu/news/stevens-announces-innovative-new-core-curriculum-success)
 * [The First-Year Experience Program](https://en.wikipedia.org/wiki/The_First-Year_Experience_Program)
 * [*The Stute: The independent student newspaper of Stevens Institute of Technology*](https://thestute.com/)
@@ -19,7 +19,7 @@
 * [Accreditation](https://en.wikipedia.org/wiki/Accreditation)
   * [Stevens Accreditation](https://www.stevens.edu/office-of-institutional-research-and-effectiveness/accreditation)
   * [Middle States Commission on Higher Education](https://en.wikipedia.org/wiki/Middle_States_Commission_on_Higher_Education) (MSCHE)
-    * [Stevens Institute of Technology](https://www.msche.org/institution/0235/)
+  * [Stevens Institute of Technology](https://www.msche.org/institution/0235/)
   * [ABET](https://en.wikipedia.org/wiki/ABET) (Accreditation Board for Engineering and Technology)
   * [Association to Advance Collegiate Schools of Business](https://en.wikipedia.org/wiki/Association_to_Advance_Collegiate_Schools_of_Business) (AACSB)
 * [List of higher education associations and alliances](https://en.wikipedia.org/wiki/List_of_higher_education_associations_and_alliances)
@@ -30,10 +30,9 @@
   * [Association of American Universities](https://en.wikipedia.org/wiki/Association_of_American_Universities) (AAU)
   * [Carnegie Classification of Institutions of Higher Education](https://en.wikipedia.org/wiki/Carnegie_Classification_of_Institutions_of_Higher_Education)
   * [Classification of Instructional Programs](https://en.wikipedia.org/wiki/Classification_of_Instructional_Programs) (CIP)
-    * [CIP Code 11](https://nces.ed.gov/ipeds/cipcode/cipdetail.aspx?y=56&cip=11)
+  * [CIP Code 11](https://nces.ed.gov/ipeds/cipcode/cipdetail.aspx?y=56&cip=11)
 * [College and university rankings in the United States](https://en.wikipedia.org/wiki/College_and_university_rankings_in_the_United_States)
   * [*U.S. News & World Report* Best Colleges Ranking](https://en.wikipedia.org/wiki/U.S._News_%26_World_Report_Best_Colleges_Ranking)
-
 * [Alma mater](https://en.wikipedia.org/wiki/Alma_mater)
 * [Alumni](https://en.wikipedia.org/wiki/Alumni)
 * [*Stevens Indicator*](https://www.stevens.edu/development-alumni-engagement/news/indicator)
@@ -65,11 +64,11 @@
   * [American Society of Mechanical Engineers](https://en.wikipedia.org/wiki/American_Society_of_Mechanical_Engineers) (ASME)
   * [Association for Computing Machinery](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery) (ACM)
   * [Institute of Electrical and Electronics Engineers](https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers) (IEEE)
-    * [Eta Kappa Nu](https://en.wikipedia.org/wiki/Eta_Kappa_Nu) (HKN) was founded on October 28, 1904
+  * [Eta Kappa Nu](https://en.wikipedia.org/wiki/Eta_Kappa_Nu) (HKN) was founded on October 28, 1904
   * [Order of the Engineer](https://en.wikipedia.org/wiki/Order_of_the_Engineer)  
   * [SAE International](https://en.wikipedia.org/wiki/SAE_International)
   * [Smeatonian Society of Civil Engineers](https://en.wikipedia.org/wiki/Smeatonian_Society_of_Civil_Engineers)
-    * [John Smeaton](https://en.wikipedia.org/wiki/John_Smeaton) 1724&mdash;1792
+  * [John Smeaton](https://en.wikipedia.org/wiki/John_Smeaton) 1724&mdash;1792
 * [Find Your Flock podcast](https://www.stevens.edu/find-your-flock-podcast)
 * [College fraternities and sororities](https://en.wikipedia.org/wiki/College_fraternities_and_sororities)
   * [Greek alphabet](https://en.wikipedia.org/wiki/Greek_alphabet)
