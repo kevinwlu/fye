@@ -68,8 +68,10 @@
   * [Eta Kappa Nu](https://en.wikipedia.org/wiki/Eta_Kappa_Nu) (HKN) was founded on October 28, 1904
   * [Order of the Engineer](https://en.wikipedia.org/wiki/Order_of_the_Engineer)  
   * [SAE International](https://en.wikipedia.org/wiki/SAE_International)
+  * [Sigma Xi](https://en.wikipedia.org/wiki/Sigma_Xi) founded in 1886
   * [Smeatonian Society of Civil Engineers](https://en.wikipedia.org/wiki/Smeatonian_Society_of_Civil_Engineers)
   * [John Smeaton](https://en.wikipedia.org/wiki/John_Smeaton) 1724&mdash;1792
+  * [Tau Beta Pi](https://en.wikipedia.org/wiki/Tau_Beta_Pi) founded in 1885
 * [Find Your Flock podcast](https://www.stevens.edu/find-your-flock-podcast)
 * [College fraternities and sororities](https://en.wikipedia.org/wiki/College_fraternities_and_sororities)
   * [Greek alphabet](https://en.wikipedia.org/wiki/Greek_alphabet)
