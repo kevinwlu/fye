@@ -96,6 +96,7 @@
 * [Nearly Everyone Gets A’s at Yale. Does That Cheapen the Grade?](https://www.nytimes.com/2023/12/05/nyregion/yale-grade-inflation.html), December 5, 2023
 * [Grade Inflation in College: Trends and Why It Happens](https://www.bestcolleges.com/research/grade-inflation-trends-and-causes/), May 23, 2024
 * [One Solution for Too Many A’s? Harvard Considers Giving A+ Grades.](https://www.nytimes.com/2026/01/29/us/harvard-grade-inflation.html), January 29, 2026
+* [Faculty Committee Proposes Cap on A Grades, New Internal Ranking System](https://www.thecrimson.com/article/2026/2/6/faculty-propose-grade-cap/), February 6, 2026
 * [Undergraduate Grading Report for AY 2024-2025](https://drive.google.com/file/d/1zdmbmlH5yD6262vcb6WUKj4wJbmyxJWk/view)
 ## History and Values of Stevens
 * [Stevens Institute of Technology](https://en.wikipedia.org/wiki/Stevens_Institute_of_Technology)
