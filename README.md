@@ -45,6 +45,7 @@
   * [Bachelor's degree](https://en.wikipedia.org/wiki/Bachelor%27s_degree)
   * [Master's degree](https://en.wikipedia.org/wiki/Master%27s_degree)
   * [Doctorate](https://en.wikipedia.org/wiki/Doctorate)
+* [General Educational Development](https://en.wikipedia.org/wiki/General_Educational_Development) (GED)
 * [Curriculum](https://en.wikipedia.org/wiki/Curriculum)
 * [Syllabus](https://en.wikipedia.org/wiki/Syllabus)
 * [Course credit](https://en.wikipedia.org/wiki/Course_credit)
