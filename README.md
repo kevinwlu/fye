@@ -93,7 +93,7 @@
 ## Grading and Scaffolding
 * [Instructional scaffolding](https://en.wikipedia.org/wiki/Instructional_scaffolding)
 * [Grading in education](https://en.wikipedia.org/wiki/Grading_in_education)
-* [Growth Mindset and Enhanced Learning](https://teachingcommons.stanford.edu/teaching-guides/foundations-course-design/learning-activities/growth-mindset-and-enhanced-learning)
+* [Growth Mindset and Enhanced Learning](https://teachingcommons.stanford.edu/teaching-guides/foundations-course-design/learning-activities/growth-mindset-and-enhanced-learning), Stanford University
 * [Grade inflation](https://en.wikipedia.org/wiki/Grade_inflation)
 * [Grade Inflation at American Colleges and Universities](https://gradeinflation.com/) by [Stuart Rojstaczer](https://en.wikipedia.org/wiki/Stuart_Rojstaczer), Duke University
 * [Princeton University Faculty Committee Recommends Ending Grade Deflation Targets](https://paw.princeton.edu/article/faculty-committee-recommends-ending-grade-deflation-targets), July 9, 2014
