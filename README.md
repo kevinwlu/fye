@@ -62,18 +62,22 @@
 * [Engineering and Technology History Wiki](https://en.wikipedia.org/wiki/Engineering_and_Technology_History_Wiki) (ETHW)
   * [ETHW.org](https://ethw.org/)
 * [List of engineering societies](https://en.wikipedia.org/wiki/List_of_engineering_societies)
+  * [American Academy of Environmental Engineers and Scientists](https://en.wikipedia.org/wiki/American_Academy_of_Environmental_Engineers_and_Scientists) (AAEES)
   * [American Institute of Aeronautics and Astronautics](https://en.wikipedia.org/wiki/American_Institute_of_Aeronautics_and_Astronautics) (AIAA)
   * [American Institute of Chemical Engineers](https://en.wikipedia.org/wiki/American_Institute_of_Chemical_Engineers) (AIChE)
+  * [American Society of Civil Engineers](https://en.wikipedia.org/wiki/American_Society_of_Civil_Engineers) (ASCE)
   * [ASM International (society)](https://en.wikipedia.org/wiki/ASM_International_(society))
   * [American Society of Mechanical Engineers](https://en.wikipedia.org/wiki/American_Society_of_Mechanical_Engineers) (ASME)
   * [Association for Computing Machinery](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery) (ACM)
+  * [Chi Epsilon](https://en.wikipedia.org/wiki/Chi_Epsilon) (XE) founded in 1922
   * [Institute of Electrical and Electronics Engineers](https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers) (IEEE)
   * [Eta Kappa Nu](https://en.wikipedia.org/wiki/Eta_Kappa_Nu) (HKN) was founded on October 28, 1904
   * [Order of the Engineer](https://en.wikipedia.org/wiki/Order_of_the_Engineer)  
   * [SAE International](https://en.wikipedia.org/wiki/SAE_International)
   * [Sigma Xi](https://en.wikipedia.org/wiki/Sigma_Xi) founded in 1886
   * [Smeatonian Society of Civil Engineers](https://en.wikipedia.org/wiki/Smeatonian_Society_of_Civil_Engineers)
-  * [John Smeaton](https://en.wikipedia.org/wiki/John_Smeaton) 1724&mdash;1792
+    * [John Smeaton](https://en.wikipedia.org/wiki/John_Smeaton) 1724&mdash;1792
+  * [Society of Naval Architects and Marine Engineers](https://en.wikipedia.org/wiki/Society_of_Naval_Architects_and_Marine_Engineers) (SNAME)
   * [Tau Beta Pi](https://en.wikipedia.org/wiki/Tau_Beta_Pi) founded in 1885
 * [Find Your Flock podcast](https://www.stevens.edu/find-your-flock-podcast)
 * [College fraternities and sororities](https://en.wikipedia.org/wiki/College_fraternities_and_sororities)
