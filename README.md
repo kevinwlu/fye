@@ -68,6 +68,7 @@
   * [American Society of Civil Engineers](https://en.wikipedia.org/wiki/American_Society_of_Civil_Engineers) (ASCE)
   * [ASM International (society)](https://en.wikipedia.org/wiki/ASM_International_(society))
   * [American Society of Mechanical Engineers](https://en.wikipedia.org/wiki/American_Society_of_Mechanical_Engineers) (ASME)
+  * [American Water Works Association](https://en.wikipedia.org/wiki/American_Water_Works_Association) (AWWA)
   * [Association for Computing Machinery](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery) (ACM)
   * [Chi Epsilon](https://en.wikipedia.org/wiki/Chi_Epsilon) (XE) founded in 1922
   * [Institute of Electrical and Electronics Engineers](https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers) (IEEE)
@@ -77,8 +78,10 @@
   * [Sigma Xi](https://en.wikipedia.org/wiki/Sigma_Xi) founded in 1886
   * [Smeatonian Society of Civil Engineers](https://en.wikipedia.org/wiki/Smeatonian_Society_of_Civil_Engineers)
     * [John Smeaton](https://en.wikipedia.org/wiki/John_Smeaton) 1724&mdash;1792
+  * [Stevens Sustainability Student Groups](https://www.stevens.edu/sustainability/student-groups-sustainability)
   * [Society of Naval Architects and Marine Engineers](https://en.wikipedia.org/wiki/Society_of_Naval_Architects_and_Marine_Engineers) (SNAME)
   * [Tau Beta Pi](https://en.wikipedia.org/wiki/Tau_Beta_Pi) founded in 1885
+  * [Water Environment Federation](https://en.wikipedia.org/wiki/Water_Environment_Federation) (WEF)
 * [Find Your Flock podcast](https://www.stevens.edu/find-your-flock-podcast)
 * [College fraternities and sororities](https://en.wikipedia.org/wiki/College_fraternities_and_sororities)
   * [Greek alphabet](https://en.wikipedia.org/wiki/Greek_alphabet)
