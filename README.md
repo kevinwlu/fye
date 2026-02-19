@@ -62,6 +62,8 @@
 * [Engineering and Technology History Wiki](https://en.wikipedia.org/wiki/Engineering_and_Technology_History_Wiki) (ETHW)
   * [ETHW.org](https://ethw.org/)
 * [Engineering for US All](https://e4usa.org/) (e4usa)
+  * [NSF Credit and Placement Initiative](https://e4usa.org/college-credit/opportunity-partner-e4usa-nsf-credit-and-placement-initiative)
+  * [AP Engineering Credit](https://e4usa.org/college-credit/case-apr-engineering-credit-through-e4usa)
 * [List of engineering societies](https://en.wikipedia.org/wiki/List_of_engineering_societies)
   * [American Academy of Environmental Engineers and Scientists](https://en.wikipedia.org/wiki/American_Academy_of_Environmental_Engineers_and_Scientists) (AAEES)
   * [American Institute of Aeronautics and Astronautics](https://en.wikipedia.org/wiki/American_Institute_of_Aeronautics_and_Astronautics) (AIAA)
