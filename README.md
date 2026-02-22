@@ -115,6 +115,11 @@
 * [Grade Inflation in College: Trends and Why It Happens](https://www.bestcolleges.com/research/grade-inflation-trends-and-causes/), May 23, 2024
 * [One Solution for Too Many A’s? Harvard Considers Giving A+ Grades](https://www.nytimes.com/2026/01/29/us/harvard-grade-inflation.html), January 29, 2026
   * [Harvard College Faculty Committee Proposes Cap on A Grades, New Internal Ranking System](https://www.thecrimson.com/article/2026/2/6/faculty-propose-grade-cap/), February 6, 2026
+  * [The True Cost of Grade Inflation at Harvard](https://www.harvardmagazine.com/university-news/harvard-grade-inflation-faculty-marks), February 13, 2026
+    * Hardvard leaders want to curb the abundance of A's. It might not be easy
+    * How grade inflation created "the most stressed-out world of all"
+    * When students become this obsessed with grades, the student-teacher interaction is framed in transactional terms
+    * The challenge will be to help students feel they're working hard within a system that has meaning
 * [Carnegie Mellon Late/Make-up Work Policy](https://www.cmu.edu/teaching/designteach/syllabus/checklist/lateworkpolicy.html)
 * [University of Nebraska-Lincoln Late Work Policies](https://teaching.unl.edu/resources/inclusive-teaching/flexible-late-work-policies/)
 ## History and Values of Stevens
