@@ -70,6 +70,7 @@
   * [American Institute of Aeronautics and Astronautics](https://en.wikipedia.org/wiki/American_Institute_of_Aeronautics_and_Astronautics) (AIAA)
   * [American Institute of Chemical Engineers](https://en.wikipedia.org/wiki/American_Institute_of_Chemical_Engineers) (AIChE)
   * [American Society of Civil Engineers](https://en.wikipedia.org/wiki/American_Society_of_Civil_Engineers) (ASCE)
+  * [American Society for Engineering Education](https://en.wikipedia.org/wiki/American_Society_for_Engineering_Education) (ASEE) founded in 1893
   * [ASM International (society)](https://en.wikipedia.org/wiki/ASM_International_(society))
   * [American Society of Mechanical Engineers](https://en.wikipedia.org/wiki/American_Society_of_Mechanical_Engineers) (ASME)
   * [American Water Works Association](https://en.wikipedia.org/wiki/American_Water_Works_Association) (AWWA)
