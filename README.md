@@ -275,6 +275,7 @@
     * [The Stevens Mobile](https://calder.org/works/hanging-mobile/the-stevens-mobile-1970/) 1970
     * [Hard to Swallow](https://calder.org/works/monumental-sculpture/hard-to-swallow-1966/) 1966
     * [Calder Foundation](https://calder.org/)
+  * [James C. Nicoll Jr.](https://www.stevens.edu/center-for-environmental-systems/facilities), Class of 1921
   * [Frederick B. Llewellyn](https://en.wikipedia.org/wiki/Frederick_B._Llewellyn) 1897&mdash;1971, Class of 1922
   * Frank Jonas, Class of 1923
     * [Pendaflex](https://en.wikipedia.org/wiki/Pendaflex) 
