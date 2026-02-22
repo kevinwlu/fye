@@ -103,6 +103,7 @@
 * [Learning management system](https://en.wikipedia.org/wiki/Learning_management_system) (LMS)
 * [List of learning management systems](https://en.wikipedia.org/wiki/List_of_learning_management_systems)
 ## Adaptive Expertise
+* [Adaptive expertise](https://en.wikipedia.org/wiki/Adaptive_expertise)
 * [Cross-Disciplinary Research Team Wins $1.5M National Science Foundation Grant to Support Low-Income STEM Students at Stevens](https://www.stevens.edu/news/cross-disciplinary-research-team-wins-15m-national-science-foundation-grant-support-low-income-stem)
 * [Fostering Adaptive Expertise to Increase Retention and Graduation of Low-Income STEM Students](https://researchwith.stevens.edu/en/projects/fostering-adaptive-expertise-to-increase-retention-and-graduation-2/)
 * [A Tool to Measure Adaptive Expertise in Biomedical Engineering Students](/Fisher_Peterson_ASEE2001.pdf), ASEE 2001
