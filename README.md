@@ -101,6 +101,12 @@
 * [Fundamentals of Engineering exam](https://en.wikipedia.org/wiki/Fundamentals_of_Engineering_exam)
 * [Learning management system](https://en.wikipedia.org/wiki/Learning_management_system) (LMS)
 * [List of learning management systems](https://en.wikipedia.org/wiki/List_of_learning_management_systems)
+## Adaptive Expertise
+* [Cross-Disciplinary Research Team Wins $1.5M National Science Foundation Grant to Support Low-Income STEM Students at Stevens](https://www.stevens.edu/news/cross-disciplinary-research-team-wins-15m-national-science-foundation-grant-support-low-income-stem)
+* [Fostering Adaptive Expertise to Increase Retention and Graduation of Low-Income STEM Students](https://researchwith.stevens.edu/en/projects/fostering-adaptive-expertise-to-increase-retention-and-graduation-2/)
+* [A Tool to Measure Adaptive Expertise in Biomedical Engineering Students](/Fisher_Peterson_ASEE2001.pdf)
+* [Measuring Adaptive Expertise Amongst First-Year STEM Students](/measuring-adaptive-expertise-amongst-first-year-stem-students.pdf)
+* [Establishing Baseline Measurements of Adaptive Expertise in First-Year STEM Students](/establishing-baseline-measurements-of-adaptive-expertise-in-first-year-stem-students.pdf)
 ## Grading and Scaffolding
 * [Instructional scaffolding](https://en.wikipedia.org/wiki/Instructional_scaffolding)
 * [Grading in education](https://en.wikipedia.org/wiki/Grading_in_education)
