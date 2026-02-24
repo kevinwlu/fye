@@ -112,6 +112,7 @@
 ## Grading and Scaffolding
 * [Instructional scaffolding](https://en.wikipedia.org/wiki/Instructional_scaffolding)
 * [Grading in education](https://en.wikipedia.org/wiki/Grading_in_education)
+  * [Norm-referenced test](https://en.wikipedia.org/wiki/Norm-referenced_test)
 * [Growth Mindset and Enhanced Learning](https://teachingcommons.stanford.edu/teaching-guides/foundations-course-design/learning-activities/growth-mindset-and-enhanced-learning), Stanford University
 * [Grade inflation](https://en.wikipedia.org/wiki/Grade_inflation)
 * [Grade Inflation at American Colleges and Universities](https://gradeinflation.com/) by [Stuart Rojstaczer](https://en.wikipedia.org/wiki/Stuart_Rojstaczer), Duke University
