@@ -115,6 +115,7 @@
   * [Norm-referenced test](https://en.wikipedia.org/wiki/Norm-referenced_test)
 * [Growth Mindset and Enhanced Learning](https://teachingcommons.stanford.edu/teaching-guides/foundations-course-design/learning-activities/growth-mindset-and-enhanced-learning), Stanford University
 * [Grade inflation](https://en.wikipedia.org/wiki/Grade_inflation)
+  * [Addressing the Grade Inflation Collective Action Problem](https://www.ed.gov/about/homeroom-blog/addressing-grade-inflation-collective-action-problem), September 30, 2025
   * [Grade Inflation in College: Trends and Why It Happens](https://www.bestcolleges.com/research/grade-inflation-trends-and-causes/), May 23, 2024
     * The median college GPA increased by 21.5% over the past 30 years
   * [Grade Inflation at American Colleges and Universities](https://gradeinflation.com/) by [Stuart Rojstaczer](https://en.wikipedia.org/wiki/Stuart_Rojstaczer), Duke University, March 29, 2016
