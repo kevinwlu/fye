@@ -103,13 +103,14 @@
 * [Learning management system](https://en.wikipedia.org/wiki/Learning_management_system) (LMS)
 * [List of learning management systems](https://en.wikipedia.org/wiki/List_of_learning_management_systems)
 ## Adaptive Expertise
-* [Adaptive expertise](https://en.wikipedia.org/wiki/Adaptive_expertise)
+* [Adaptive expertise](https://en.wikipedia.org/wiki/Adaptive_expertise) by Richard M. Felder
 * [Cross-Disciplinary Research Team Wins $1.5M National Science Foundation Grant to Support Low-Income STEM Students at Stevens](https://www.stevens.edu/news/cross-disciplinary-research-team-wins-15m-national-science-foundation-grant-support-low-income-stem)
 * [Fostering Adaptive Expertise to Increase Retention and Graduation of Low-Income STEM Students](https://researchwith.stevens.edu/en/projects/fostering-adaptive-expertise-to-increase-retention-and-graduation-2/)
 * [A Tool to Measure Adaptive Expertise in Biomedical Engineering Students](/Fisher_Peterson_ASEE2001.pdf), ASEE 2001
 * [Measuring Adaptive Expertise Amongst First-Year STEM Students](/measuring-adaptive-expertise-amongst-first-year-stem-students.pdf), ASEE 2022
 * [Establishing Baseline Measurements of Adaptive Expertise in First-Year STEM Students](/establishing-baseline-measurements-of-adaptive-expertise-in-first-year-stem-students.pdf), ASEE 2024
 ## Grading and Scaffolding
+* [Learning and Teaching Styles in Engineering Education](/LS-1988.pdf)
 * [Instructional scaffolding](https://en.wikipedia.org/wiki/Instructional_scaffolding)
 * [Grading in education](https://en.wikipedia.org/wiki/Grading_in_education)
   * [Norm-referenced test](https://en.wikipedia.org/wiki/Norm-referenced_test)
