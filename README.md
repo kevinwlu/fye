@@ -116,7 +116,8 @@
 * [Growth Mindset and Enhanced Learning](https://teachingcommons.stanford.edu/teaching-guides/foundations-course-design/learning-activities/growth-mindset-and-enhanced-learning), Stanford University
 * [Grade inflation](https://en.wikipedia.org/wiki/Grade_inflation)
   * [Grade Inflation in College: Trends and Why It Happens](https://www.bestcolleges.com/research/grade-inflation-trends-and-causes/), May 23, 2024
-  * [Grade Inflation at American Colleges and Universities](https://gradeinflation.com/) by [Stuart Rojstaczer](https://en.wikipedia.org/wiki/Stuart_Rojstaczer), Duke University
+    * The median college GPA increased by 21.5% over the past 30 years
+  * [Grade Inflation at American Colleges and Universities](https://gradeinflation.com/) by [Stuart Rojstaczer](https://en.wikipedia.org/wiki/Stuart_Rojstaczer), Duke University, March 29, 2016
 * [Princeton University Faculty Committee Recommends Ending Grade Deflation Targets](https://paw.princeton.edu/article/faculty-committee-recommends-ending-grade-deflation-targets), July 9, 2014
   * [Princeton University Undergraduate Grading Report for AY 2024-2025](https://drive.google.com/file/d/1zdmbmlH5yD6262vcb6WUKj4wJbmyxJWk/view)
   * [Princeton University Grading Policy](https://odoc.princeton.edu/faculty/teaching-support/grading)
