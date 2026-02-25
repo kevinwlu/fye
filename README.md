@@ -135,6 +135,9 @@
     * The challenge will be to help students feel they're working hard within a system that has meaning
 * [Carnegie Mellon Late/Make-up Work Policy](https://www.cmu.edu/teaching/designteach/syllabus/checklist/lateworkpolicy.html)
 * [University of Nebraska-Lincoln Late Work Policies](https://teaching.unl.edu/resources/inclusive-teaching/flexible-late-work-policies/)
+* [Ungrading: an FAQ](https://www.jessestommel.com/ungrading-an-faq/), February 6, 2020
+* [A media guide to ungrading](https://gradingforgrowth.com/p/a-media-guide-to-ungrading), May 1, 2023
+* [The Ungrading Learning Theory We Have Is Not the Ungrading Learning Theory We Need](https://www.lifescied.org/doi/10.1187/cbe.24-01-0031), July 9, 2024
 ## History and Values of Stevens
 * [Stevens Institute of Technology](https://en.wikipedia.org/wiki/Stevens_Institute_of_Technology)
 * [Stevens family](https://en.wikipedia.org/wiki/Stevens_family)
