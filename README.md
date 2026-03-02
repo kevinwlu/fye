@@ -13,6 +13,8 @@
 * [The First-Year Experience Program](https://en.wikipedia.org/wiki/The_First-Year_Experience_Program)
 * [*The Stute: The independent student newspaper of Stevens Institute of Technology*](https://thestute.com/)
   * [A look into the First Year Experience course](https://thestute.com/2024/09/06/a-look-into-the-first-year-experience-course/), 6 September 2024
+  * [The Syllabus Bank: know before you enroll](https://thestute.com/2025/10/10/the-syllabus-bank-know-before-you-enroll/), 10 October 2025
+  * [Curriculum for AI major launching Fall 2026](https://thestute.com/2026/02/27/curriculum-for-ai-major-launching-fall-2026/), 27 February 2026
 * [Stevens Strategic Plan](https://www.stevens.edu/discover-stevens/strategic-plan)
 * [University Policy Library](https://www.stevens.edu/policies-library)
 * [*Student Handbook*](https://stevens-institute-of-technology.dcatalog.com/v/Student-Handbook/)
