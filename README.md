@@ -28,6 +28,8 @@
   * [Association to Advance Collegiate Schools of Business](https://en.wikipedia.org/wiki/Association_to_Advance_Collegiate_Schools_of_Business) (AACSB)
 * [List of higher education associations and alliances](https://en.wikipedia.org/wiki/List_of_higher_education_associations_and_alliances)
 * [Association of Independent Technological Universities](https://en.wikipedia.org/wiki/Association_of_Independent_Technological_Universities) (AITU)
+* [Institute of International Education](https://en.wikipedia.org/wiki/Institute_of_International_Education) (IIE)
+  * [IIE Global Engineering Education Exchange](https://globale3.studioabroad.com/) (IIE Global E3)
 * [American Council of Engineering Companies](https://en.wikipedia.org/wiki/American_Council_of_Engineering_Companies) (ACEC)
 * [National Council of Examiners for Engineering and Surveying](https://en.wikipedia.org/wiki/National_Council_of_Examiners_for_Engineering_and_Surveying) (NCEES)
 * [Title IV of the Higher Education Act of 1965](https://en.wikipedia.org/wiki/Title_IV_of_the_Higher_Education_Act_of_1965)
