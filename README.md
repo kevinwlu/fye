@@ -82,7 +82,9 @@
   * [Association for Computing Machinery](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery) (ACM)
   * [Chi Epsilon](https://en.wikipedia.org/wiki/Chi_Epsilon) (XE) founded in 1922
   * [Institute of Electrical and Electronics Engineers](https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers) (IEEE)
-  * [Eta Kappa Nu](https://en.wikipedia.org/wiki/Eta_Kappa_Nu) (HKN) was founded on October 28, 1904
+    * [Eta Kappa Nu](https://en.wikipedia.org/wiki/Eta_Kappa_Nu) (HKN) was founded on October 28, 1904
+    * [Keyboard Typing Marathon](https://ieeektm.org/) (KTM)
+    * [Micromouse](https://en.wikipedia.org/wiki/Micromouse)
   * [Order of the Engineer](https://en.wikipedia.org/wiki/Order_of_the_Engineer)  
   * [SAE International](https://en.wikipedia.org/wiki/SAE_International)
   * [Sigma Xi](https://en.wikipedia.org/wiki/Sigma_Xi) founded in 1886
