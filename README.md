@@ -85,6 +85,7 @@
     * [Eta Kappa Nu](https://en.wikipedia.org/wiki/Eta_Kappa_Nu) (HKN) was founded on October 28, 1904
     * [Keyboard Typing Marathon](https://ieeektm.org/) (KTM)
     * [Micromouse](https://en.wikipedia.org/wiki/Micromouse)
+    * [To Make More Engineers, We’ll Need More Than Robots](https://transmitter.ieee.org/to-make-more-engineers-well-need-more-than-robots/) by [Sarah Kate Wilson](https://en.wikipedia.org/wiki/Sarah_Kate_Wilson), February 19, 2026
   * [Order of the Engineer](https://en.wikipedia.org/wiki/Order_of_the_Engineer)  
   * [SAE International](https://en.wikipedia.org/wiki/SAE_International)
   * [Sigma Xi](https://en.wikipedia.org/wiki/Sigma_Xi) founded in 1886
