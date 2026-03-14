@@ -365,5 +365,6 @@
 * [United States visas by type](https://en.wikipedia.org/wiki/Category:United_States_visas_by_type)
 * [EB-1 visa](https://en.wikipedia.org/wiki/EB-1_visa)
 * [EB-2 visa](https://en.wikipedia.org/wiki/EB-2_visa)
+* [F visa](https://en.wikipedia.org/wiki/F_visa)
 * [Curricular Practical Training](https://en.wikipedia.org/wiki/Curricular_Practical_Training) (CPT)
 * [Optional Practical Training](https://en.wikipedia.org/wiki/Optional_Practical_Training) (OPT)
