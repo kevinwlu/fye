@@ -360,3 +360,10 @@
     * [2024 Undergraduate Commencement Keynote Speaker - MKBHD](https://www.youtube.com/watch?v=mwm48dM_riE)
   * [Brianna Nicole Gallo](https://www.scaliahome.com/obituaries/Brianna-Gallo/#!/Obituary) 1996&mdash;2018, Class of 2018
   * [Joseph Pierce Puciloski](https://localheadlinenews.com/joseph-puciloski-28/) 1997&mdash;2025, Class of 2019
+---
+* [Alien of extraordinary ability](https://en.wikipedia.org/wiki/Alien_of_extraordinary_ability)
+* [United States visas by type](https://en.wikipedia.org/wiki/Category:United_States_visas_by_type)
+* [EB-1 visa](https://en.wikipedia.org/wiki/EB-1_visa)
+* [EB-2 visa](https://en.wikipedia.org/wiki/EB-2_visa)
+* [Curricular Practical Training](https://en.wikipedia.org/wiki/Curricular_Practical_Training) (CPT)
+* [Optional Practical Training](https://en.wikipedia.org/wiki/Optional_Practical_Training) (OPT)
