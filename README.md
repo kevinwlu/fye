@@ -112,6 +112,7 @@
 * [Fundamentals of Engineering exam](https://en.wikipedia.org/wiki/Fundamentals_of_Engineering_exam)
 * [Learning management system](https://en.wikipedia.org/wiki/Learning_management_system) (LMS)
 * [List of learning management systems](https://en.wikipedia.org/wiki/List_of_learning_management_systems)
+* [Corporate Outreach & Professional Advancement](https://www.stevens.edu/school-business/copa-corporate-outreach-and-professional-advancement) (COPA)
 ## Adaptive Expertise
 * [Adaptive expertise](https://en.wikipedia.org/wiki/Adaptive_expertise)
 * [Cross-Disciplinary Research Team Wins $1.5M National Science Foundation Grant to Support Low-Income STEM Students at Stevens](https://www.stevens.edu/news/cross-disciplinary-research-team-wins-15m-national-science-foundation-grant-support-low-income-stem)
