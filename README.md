@@ -104,6 +104,7 @@
     * [List of Sigma Phi Epsilon chapters](https://en.wikipedia.org/wiki/List_of_Sigma_Phi_Epsilon_chapters)
     * [New Jersey Alpha](https://stevens.sigep.org/) (NJA) Chapter founded on May 7, 1938
     * [Fraternities Tackle Mental Health With JED](https://www.insidehighered.com/news/student-success/health-wellness/2026/02/24/fraternities-tackle-mental-health-jed), February 24, 2026
+* [National Center for Faculty Development and Diversity](https://www.ncfdd.org/) (NCFDD)
 * [National Panhellenic Conference](https://en.wikipedia.org/wiki/National_Panhellenic_Conference)
 * [Professional fraternities and sororities](https://en.wikipedia.org/wiki/Professional_fraternities_and_sororities)
 * [Regulation and licensure in engineering](https://en.wikipedia.org/wiki/Regulation_and_licensure_in_engineering)
