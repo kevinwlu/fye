@@ -114,6 +114,10 @@
 * [Learning management system](https://en.wikipedia.org/wiki/Learning_management_system) (LMS)
 * [List of learning management systems](https://en.wikipedia.org/wiki/List_of_learning_management_systems)
 * [Corporate Outreach & Professional Advancement](https://www.stevens.edu/school-business/copa-corporate-outreach-and-professional-advancement) (COPA)
+* [Study abroad](https://www.stevens.edu/academics/undergraduate-study/study-abroad)
+  * [Academic Programs International](https://apiabroad.com/) (API)
+  * [University of New Haven](https://www.newhaven.edu/academics/verto-education-study-abroad/index.php)
+  * [Verto Education](https://vertoeducation.org/)
 ## Adaptive Expertise
 * [Adaptive expertise](https://en.wikipedia.org/wiki/Adaptive_expertise)
 * [Cross-Disciplinary Research Team Wins $1.5M National Science Foundation Grant to Support Low-Income STEM Students at Stevens](https://www.stevens.edu/news/cross-disciplinary-research-team-wins-15m-national-science-foundation-grant-support-low-income-stem)
