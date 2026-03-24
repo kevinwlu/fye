@@ -117,8 +117,10 @@
 * [Corporate Outreach & Professional Advancement](https://www.stevens.edu/school-business/copa-corporate-outreach-and-professional-advancement) (COPA)
 * [Study abroad](https://www.stevens.edu/academics/undergraduate-study/study-abroad)
   * [Academic Programs International](https://apiabroad.com/) (API)
-  * [University of New Haven](https://www.newhaven.edu/academics/verto-education-study-abroad/index.php)
+  * [Institute for Study Abroad](https://ifsa-butler.org/) (IFSA)
+    * [Butler University](https://en.wikipedia.org/wiki/Butler_University)
   * [Verto Education](https://vertoeducation.org/)
+    * [University of New Haven](https://www.newhaven.edu/academics/verto-education-study-abroad/index.php)
 ## Adaptive Expertise
 * [Adaptive expertise](https://en.wikipedia.org/wiki/Adaptive_expertise)
 * [Cross-Disciplinary Research Team Wins $1.5M National Science Foundation Grant to Support Low-Income STEM Students at Stevens](https://www.stevens.edu/news/cross-disciplinary-research-team-wins-15m-national-science-foundation-grant-support-low-income-stem)
