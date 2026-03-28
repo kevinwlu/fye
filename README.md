@@ -345,6 +345,7 @@
     * [Pinnacle Scholars Program](https://www.stevens.edu/pinnacle-scholars)
   * [Thomas A. Corcoran](https://connect.stevens.edu/donor-stories/thomas-corcoran), Class of 1967
   * [Vincent A. Rocco](https://connect.stevens.edu/classof67/inmemoriam), Class of 1967
+  * [](https://www.stevens.edu/news/stevens-alumnus-richard-noble-inspires-entrepreneurial-spirit-chemical-engineering)
   * [Gerard J. Foschini](https://en.wikipedia.org/wiki/Gerard_J._Foschini) 1940&mdash;2023, Ph.D. 1967
     * [Bell Laboratories Layered Space-Time](https://en.wikipedia.org/wiki/Bell_Laboratories_Layered_Space-Time) (BLAST)
     * [Multiple-input and multiple-output](https://en.wikipedia.org/wiki/MIMO) (MIMO)
@@ -364,11 +365,13 @@
   * [Darío Gil](https://newsroom.ibm.com/dario-gil), Class of 1998
     * [Quantum and AI Are Our Next Problem-Solvers, Says IBM’s Research Director](https://www.stevens.edu/news/quantum-and-ai-are-our-next-problem-solvers-says-ibms-research-director), 9 October 2024
   * [Stephanie LeBlanc-Godfrey](https://www.stevens.edu/indicator/spring-summer-2023/things-became-clearer-when-i-challenged-the-no), Class of 2006
+  * [Suzanne D’Addio](https://www.stevens.edu/news/successful-chemical-engineering-alum-reflects-on-how-her-time-at-stevens), Class of 2007
   * [Marques Brownlee](https://en.wikipedia.org/wiki/Marques_Brownlee), Class of 2015
     * [YouTube Channel](https://www.youtube.com/user/marquesbrownlee)
     * [2024 Undergraduate Commencement Keynote Speaker - MKBHD](https://www.youtube.com/watch?v=mwm48dM_riE)
   * [Brianna Nicole Gallo](https://www.scaliahome.com/obituaries/Brianna-Gallo/#!/Obituary) 1996&mdash;2018, Class of 2018
   * [Joseph Pierce Puciloski](https://localheadlinenews.com/joseph-puciloski-28/) 1997&mdash;2025, Class of 2019
+  * [Stevens Alumni: 40 Under 40](https://www.stevens.edu/news/stevens-alumni-40-under-40), May 10, 2021
 ---
 * [Alien of extraordinary ability](https://en.wikipedia.org/wiki/Alien_of_extraordinary_ability)
 * [United States visas by type](https://en.wikipedia.org/wiki/Category:United_States_visas_by_type)
