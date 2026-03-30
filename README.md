@@ -78,6 +78,7 @@
   * [American Society for Engineering Education](https://en.wikipedia.org/wiki/American_Society_for_Engineering_Education) (ASEE) founded in 1893
   * [ASM International (society)](https://en.wikipedia.org/wiki/ASM_International_(society))
   * [American Society of Mechanical Engineers](https://en.wikipedia.org/wiki/American_Society_of_Mechanical_Engineers) (ASME)
+  * [American Society of Safety Professionals](https://en.wikipedia.org/wiki/American_Society_of_Safety_Professionals) (ASSP)
   * [American Water Works Association](https://en.wikipedia.org/wiki/American_Water_Works_Association) (AWWA)
   * [Association for Computing Machinery](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery) (ACM)
   * [Chi Epsilon](https://en.wikipedia.org/wiki/Chi_Epsilon) (XE) founded in 1922
