@@ -347,10 +347,10 @@
     * [Pinnacle Scholars Program](https://www.stevens.edu/pinnacle-scholars)
   * [Thomas A. Corcoran](https://connect.stevens.edu/donor-stories/thomas-corcoran), Class of 1967
   * [Vincent A. Rocco](https://connect.stevens.edu/classof67/inmemoriam), Class of 1967
-  * [](https://www.stevens.edu/news/stevens-alumnus-richard-noble-inspires-entrepreneurial-spirit-chemical-engineering)
   * [Gerard J. Foschini](https://en.wikipedia.org/wiki/Gerard_J._Foschini) 1940&mdash;2023, Ph.D. 1967
     * [Bell Laboratories Layered Space-Time](https://en.wikipedia.org/wiki/Bell_Laboratories_Layered_Space-Time) (BLAST)
     * [Multiple-input and multiple-output](https://en.wikipedia.org/wiki/MIMO) (MIMO)
+  * [Richard Noble](https://www.stevens.edu/news/stevens-alumnus-richard-noble-inspires-entrepreneurial-spirit-chemical-engineering), Class of 1968
   * [Mark Crispin](https://en.wikipedia.org/wiki/Mark_Crispin) 1956&mdash;2012, Class of 1977
   * [John “Sean” J. Hanlon IV](https://fsc.stevens.edu/sean-hanlon/), Class of 1980
   * [Virginia P. Ruesterholz](https://en.wikipedia.org/wiki/Virginia_P._Ruesterholz)
