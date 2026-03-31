@@ -329,6 +329,7 @@
     * [Bubble Wrap](https://en.wikipedia.org/wiki/Bubble_Wrap_(brand))
   * [Frederick Reines](https://en.wikipedia.org/wiki/Frederick_Reines) 1918&mdash;1998, Class of 1939
   * [Beatrice Hicks](https://en.wikipedia.org/wiki/Beatrice_Hicks) 1919&mdash;1979, Class of 1949 (MS physics)
+  * [William R. Cuming](https://www.legacy.com/us/obituaries/legacyremembers/william-cuming-obituary?id=24193575) 1921&mdash;2009, Class of 1942
   * [Art Francis](https://stevensarchives.contentdm.oclc.org/digital/collection/StevensNP02/id/33261), Class of 1942
   * [Thomas James Hattrick](https://web.stevens.edu/khoda/alumni/1940.html), Class of 1942
   * [William J. Canavan Jr.](https://www.nytimes.com/2000/07/24/classified/paid-notice-deaths-canavan-william-john-jr.html) 1922&mdash;2000, Class of 1944
