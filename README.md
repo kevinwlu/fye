@@ -338,7 +338,8 @@
     * [History of DeBaun Auditorium](https://www.stevens.edu/history-of-debaun-auditorium)
   * [Kenneth J. Altorfer](https://www.pr.com/press-release/239422), Class of 1950
   * [Frank T. Battista](https://stevens.giftplans.org/index.php?cID=350), Class of 1954
-  * [David J. Farber](https://en.wikipedia.org/wiki/David_J._Farber), Class of 1956
+  * [David J. Farber](https://en.wikipedia.org/wiki/David_J._Farber), 1934&mdash;2026, Class of 1956
+    * [‘Grandfather of the Internet,’ Stevens Alumnus Leaves a Lasting Legacy](https://www.stevens.edu/news/grandfather-of-the-internet-stevens-alumnus-leaves-a-lasting-legacy), February 10, 2026
   * [John H. Hovey](https://www.vpfh.com/obituary/John-Hovey) 1934&mdash;2021, Class of 1957
   * [Richard F. Harries](https://www.stevens.edu/news/stevens-upward-trajectory-inspires-historic-gift), Class of 1958
   * [Frank J. Semcer, Sr.](https://www.stevens.edu/news/honoring-the-semcer-legacy-student-commons), Class of 1965
