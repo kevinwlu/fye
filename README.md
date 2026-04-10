@@ -99,6 +99,8 @@
 * [Find Your Flock podcast](https://www.stevens.edu/find-your-flock-podcast)
 * [Grace Hopper Celebration of Women in Computing](https://en.wikipedia.org/wiki/Grace_Hopper_Celebration_of_Women_in_Computing) (GHC)
   * [AnitaB.org](https://en.wikipedia.org/wiki/AnitaB.org)
+  * [Anita Borg](https://en.wikipedia.org/wiki/Anita_Borg) 1949&mdash;2003
+  * [Telle Whitney](https://en.wikipedia.org/wiki/Telle_Whitney)
 * [Society of Women Engineers](https://en.wikipedia.org/wiki/Society_of_Women_Engineers) (SWE)
 * [Stevens Women in Computer Science](https://ducklink.stevens.edu/swics/home/) (SWiCS)
 * [College fraternities and sororities](https://en.wikipedia.org/wiki/College_fraternities_and_sororities)
