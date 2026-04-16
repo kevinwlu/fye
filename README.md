@@ -164,6 +164,7 @@
 * [Ungrading: an FAQ](https://www.jessestommel.com/ungrading-an-faq/), February 6, 2020
 * [A media guide to ungrading](https://gradingforgrowth.com/p/a-media-guide-to-ungrading), May 1, 2023
 * [The Ungrading Learning Theory We Have Is Not the Ungrading Learning Theory We Need](https://www.lifescied.org/doi/10.1187/cbe.24-01-0031), July 9, 2024
+* [*Report of the Yale Committee on Trust in Higher Education*](https://president.yale.edu/sites/default/files/2026-04/Report-of-the-Committee-on-Trust-in-Higher-Education.pdf), April 10, 2026
 ## History and Values of Stevens
 * [Stevens Institute of Technology](https://en.wikipedia.org/wiki/Stevens_Institute_of_Technology)
 * [Stevens family](https://en.wikipedia.org/wiki/Stevens_family)
