@@ -82,6 +82,7 @@
   * [American Water Works Association](https://en.wikipedia.org/wiki/American_Water_Works_Association) (AWWA)
   * [Association for Computing Machinery](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery) (ACM)
   * [Chi Epsilon](https://en.wikipedia.org/wiki/Chi_Epsilon) (XE) founded in 1922
+  * [Engineers Without Borders](https://en.wikipedia.org/wiki/Engineers_Without_Borders) (EWB) 
   * [Institute of Electrical and Electronics Engineers](https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers) (IEEE)
     * [Eta Kappa Nu](https://en.wikipedia.org/wiki/Eta_Kappa_Nu) (HKN) was founded on October 28, 1904
     * [Keyboard Typing Marathon](https://ieeektm.org/) (KTM)
