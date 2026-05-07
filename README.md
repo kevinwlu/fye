@@ -160,6 +160,7 @@
     * How grade inflation created "the most stressed-out world of all"
     * When students become this obsessed with grades, the student-teacher interaction is framed in transactional terms
     * The challenge will be to help students feel they're working hard within a system that has meaning
+  * [Harvard students revolt over new grading policy they call ‘racist’](https://www.yahoo.com/news/articles/harvard-students-revolt-over-grading-195702425.html), April 23, 2026
 * [Carnegie Mellon Late/Make-up Work Policy](https://www.cmu.edu/teaching/designteach/syllabus/checklist/lateworkpolicy.html)
 * [University of Nebraska-Lincoln Late Work Policies](https://teaching.unl.edu/resources/inclusive-teaching/flexible-late-work-policies/)
 * [Ungrading: an FAQ](https://www.jessestommel.com/ungrading-an-faq/), February 6, 2020
