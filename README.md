@@ -153,6 +153,8 @@
   * [Princeton University Grading Policy](https://odoc.princeton.edu/faculty/teaching-support/grading)
 * [Nearly Everyone Gets A’s at Yale. Does That Cheapen the Grade?](https://www.nytimes.com/2023/12/05/nyregion/yale-grade-inflation.html), December 5, 2023
   * [Ray Fair](https://en.wikipedia.org/wiki/Ray_Fair), Yale University
+2024
+  * [*Report of the Yale Committee on Trust in Higher Education*](https://president.yale.edu/sites/default/files/2026-04/Report-of-the-Committee-on-Trust-in-Higher-Education.pdf), April 10, 2026
 * [One Solution for Too Many A’s? Harvard Considers Giving A+ Grades](https://www.nytimes.com/2026/01/29/us/harvard-grade-inflation.html), January 29, 2026
   * [Harvard College Faculty Committee Proposes Cap on A Grades, New Internal Ranking System](https://www.thecrimson.com/article/2026/2/6/faculty-propose-grade-cap/), February 6, 2026
   * [The True Cost of Grade Inflation at Harvard](https://www.harvardmagazine.com/university-news/harvard-grade-inflation-faculty-marks), February 13, 2026
@@ -165,8 +167,7 @@
 * [University of Nebraska-Lincoln Late Work Policies](https://teaching.unl.edu/resources/inclusive-teaching/flexible-late-work-policies/)
 * [Ungrading: an FAQ](https://www.jessestommel.com/ungrading-an-faq/), February 6, 2020
 * [A media guide to ungrading](https://gradingforgrowth.com/p/a-media-guide-to-ungrading), May 1, 2023
-* [The Ungrading Learning Theory We Have Is Not the Ungrading Learning Theory We Need](https://www.lifescied.org/doi/10.1187/cbe.24-01-0031), July 9, 2024
-* [*Report of the Yale Committee on Trust in Higher Education*](https://president.yale.edu/sites/default/files/2026-04/Report-of-the-Committee-on-Trust-in-Higher-Education.pdf), April 10, 2026
+* [The Ungrading Learning Theory We Have Is Not the Ungrading Learning Theory We Need](https://www.lifescied.org/doi/10.1187/cbe.24-01-0031), July 9, 
 ## History and Values of Stevens
 * [Stevens Institute of Technology](https://en.wikipedia.org/wiki/Stevens_Institute_of_Technology)
 * [Stevens family](https://en.wikipedia.org/wiki/Stevens_family)
