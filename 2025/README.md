@@ -71,7 +71,7 @@
   * [Maria Montessori](https://en.wikipedia.org/wiki/Maria_Montessori) 1870&mdash;1952
   * [Erich Fromm](https://en.wikipedia.org/wiki/Erich_Fromm) 1900&mdash;1980
 * [Open Syllabus Project](https://en.wikipedia.org/wiki/Open_Syllabus_Project) (OSP)
-* [Vince Lombardi](https://en.wikipedia.org/wiki/Vince_Lombardi) 1913&mdash&1970
+* [Vince Lombardi](https://en.wikipedia.org/wiki/Vince_Lombardi) 1913&mdash;1970
   * [Quotations](https://en.wikiquote.org/wiki/Vince_Lombardi)
 ## Lesson 5 - Thrive at Stevens: A Holistic Wellness Approach
 * [How to do nothing](https://medium.com/@the_jennitaur/how-to-do-nothing-57e100f59bbb) by [Jenny Odell](https://en.wikipedia.org/wiki/Jenny_Odell)
