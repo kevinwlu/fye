@@ -71,13 +71,6 @@
   * [Maria Montessori](https://en.wikipedia.org/wiki/Maria_Montessori) 1870&mdash;1952
   * [Erich Fromm](https://en.wikipedia.org/wiki/Erich_Fromm) 1900&mdash;1980
 * [Open Syllabus Project](https://en.wikipedia.org/wiki/Open_Syllabus_Project) (OSP)
-* [Eric Jerome Dickey](https://en.wikipedia.org/wiki/Eric_Jerome_Dickey) 1961&mdash;2021
-  > Early is on on time, on time is late, and late is unacceptable
-* [Vince Lombardi](https://en.wikipedia.org/wiki/Vince_Lombardi) 1913&mdash;1970
-  > If you're not 15 minutes early, you're late
-  * [Quotations](https://en.wikiquote.org/wiki/Vince_Lombardi)
-  * [7 Things You May Not Know About Vince Lombardi](https://now.fordham.edu/fordham-magazine/7-things-you-may-not-know-about-vince-lombardi/)
-  * [StoryWorks E132 - Lombardi Time - If You’re On Time, You’re Late](https://www.youtube.com/watch?v=ctwp5XbOUrE)
 ## Lesson 5 - Thrive at Stevens: A Holistic Wellness Approach
 * [How to do nothing](https://medium.com/@the_jennitaur/how-to-do-nothing-57e100f59bbb) by [Jenny Odell](https://en.wikipedia.org/wiki/Jenny_Odell)
   > Chapter 1: The Case for Nothing \
