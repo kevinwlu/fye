@@ -1,5 +1,6 @@
 # First Year Experience (FYE)
 * [The future of universities](https://www.nature.com/immersive/d41586-025-03086-5/index.html), [*Nature*](https://en.wikipedia.org/wiki/Nature_(journal)), 24 September 2025
+* [An Unusual New Study of Nearly a Million Students Details What College Does for Earnings](https://www.chronicle.com/article/an-unusual-new-study-of-nearly-a-million-students-details-what-college-does-for-earnings), May 14, 2026
 * [Why Stevens](https://www.stevens.edu/info-for/why-stevens)
 * [Stevens by the Numbers](https://www.stevens.edu/discover-stevens/stevens-by-the-numbers)
 * [Stevens Undergraduate Study](https://www.stevens.edu/academics/undergraduate-study)
