@@ -39,6 +39,8 @@
 * [List of research universities in the United States](https://en.wikipedia.org/wiki/List_of_research_universities_in_the_United_States)
   * [Association of American Universities](https://en.wikipedia.org/wiki/Association_of_American_Universities) (AAU)
   * [Carnegie Classification of Institutions of Higher Education](https://en.wikipedia.org/wiki/Carnegie_Classification_of_Institutions_of_Higher_Education)
+    * [Carnegie Foundation for the Advancement of Teaching](https://en.wikipedia.org/wiki/Carnegie_Foundation_for_the_Advancement_of_Teaching) (CFAT)
+    * [Clark Kerr](https://en.wikipedia.org/wiki/Clark_Kerr) 1911&mdash;2003
   * [Classification of Instructional Programs](https://en.wikipedia.org/wiki/Classification_of_Instructional_Programs) (CIP)
   * [CIP Code 11](https://nces.ed.gov/ipeds/cipcode/cipdetail.aspx?y=56&cip=11)
 * [College and university rankings in the United States](https://en.wikipedia.org/wiki/College_and_university_rankings_in_the_United_States)
