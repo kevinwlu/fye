@@ -39,6 +39,7 @@
 * [List of research universities in the United States](https://en.wikipedia.org/wiki/List_of_research_universities_in_the_United_States)
   * [Association of American Universities](https://en.wikipedia.org/wiki/Association_of_American_Universities) (AAU)
   * [Carnegie Classification of Institutions of Higher Education](https://en.wikipedia.org/wiki/Carnegie_Classification_of_Institutions_of_Higher_Education)
+    * [Carnegie Unit and Student Hour](https://en.wikipedia.org/wiki/Carnegie_Unit_and_Student_Hour)
     * [Carnegie Foundation for the Advancement of Teaching](https://en.wikipedia.org/wiki/Carnegie_Foundation_for_the_Advancement_of_Teaching) (CFAT)
     * [Clark Kerr](https://en.wikipedia.org/wiki/Clark_Kerr) 1911&mdash;2003
   * [Classification of Instructional Programs](https://en.wikipedia.org/wiki/Classification_of_Instructional_Programs) (CIP)
@@ -61,7 +62,6 @@
 * [Curriculum](https://en.wikipedia.org/wiki/Curriculum)
 * [Syllabus](https://en.wikipedia.org/wiki/Syllabus)
 * [Course credit](https://en.wikipedia.org/wiki/Course_credit)
-* [Carnegie Unit and Student Hour](https://en.wikipedia.org/wiki/Carnegie_Unit_and_Student_Hour)
 * [Facilitation](https://en.wikipedia.org/wiki/Facilitation_(organisational))
 * [Facilitator](https://en.wikipedia.org/wiki/Facilitator)
 * [Active listening](https://en.wikipedia.org/wiki/Active_listening)
