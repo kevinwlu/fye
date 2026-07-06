@@ -91,9 +91,14 @@
   * [Engineers Without Borders](https://en.wikipedia.org/wiki/Engineers_Without_Borders) (EWB) 
   * [Institute of Electrical and Electronics Engineers](https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers) (IEEE)
     * [Eta Kappa Nu](https://en.wikipedia.org/wiki/Eta_Kappa_Nu) (HKN) was founded on October 28, 1904
+    * [Industry Newsletter](https://www.ieee.org/about/industry/newsletter)
     * [Keyboard Typing Marathon](https://ieeektm.org/) (KTM)
     * [Micromouse](https://en.wikipedia.org/wiki/Micromouse)
+    * [Student Professional Awareness](https://students.ieee.org/student-opportunities/professional-awareness/) (SPAx)
+      * [YouTube video](https://www.youtube.com/watch?v=Qol4tNFu9yA)
     * [To Make More Engineers, We’ll Need More Than Robots](https://transmitter.ieee.org/to-make-more-engineers-well-need-more-than-robots/) by [Sarah Kate Wilson](https://en.wikipedia.org/wiki/Sarah_Kate_Wilson), February 19, 2026
+    * [vTools](https://kb.ieee.org/vtools/blog/kbtopic/vtools/)
+      * [Evet Categories](https://kb.ieee.org/vtools/blog/kb/event-categories-and-sub-categories/)
   * [Order of the Engineer](https://en.wikipedia.org/wiki/Order_of_the_Engineer)  
   * [SAE International](https://en.wikipedia.org/wiki/SAE_International)
   * [Sigma Xi](https://en.wikipedia.org/wiki/Sigma_Xi) founded in 1886
