@@ -140,6 +140,8 @@
     * [Butler University](https://en.wikipedia.org/wiki/Butler_University)
   * [Verto Education](https://vertoeducation.org/)
     * [University of New Haven](https://www.newhaven.edu/academics/verto-education-study-abroad/index.php)
+  * [NAFSA: Association of International Educators](https://en.wikipedia.org/wiki/NAFSA:_Association_of_International_Educators) was founded in 1947 as the National Association of Foreign Student Advisers
+  * [English as a second or foreign language](https://en.wikipedia.org/wiki/English_as_a_second_or_foreign_language)
 * [*The Discussion Book: 50 Great Ways to Get People Talking*](https://www.wiley.com/en-br/The+Discussion+Book%3A+50+Great+Ways+to+Get+People+Talking-p-9781119049715)
 * Alison King, "[From Sage on the Stage to Guide on the Side](https://www.jstor.org/stable/27558571)," College Teaching, Vol. 41, No. 1 (Winter, 1993), pp. 30-35
 * [LibreTexts](https://en.wikipedia.org/wiki/LibreTexts)
