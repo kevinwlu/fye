@@ -138,6 +138,7 @@
   * [Academic Programs International](https://apiabroad.com/) (API)
   * [Institute for Study Abroad](https://ifsa-butler.org/) (IFSA)
     * [Butler University](https://en.wikipedia.org/wiki/Butler_University)
+  * [Cultural Insurance Services International](https://www.culturalinsurance.com/) (CISI)
   * [Verto Education](https://vertoeducation.org/)
     * [University of New Haven](https://www.newhaven.edu/academics/verto-education-study-abroad/index.php)
   * [NAFSA: Association of International Educators](https://en.wikipedia.org/wiki/NAFSA:_Association_of_International_Educators) was founded in 1947 as the National Association of Foreign Student Advisers
