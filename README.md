@@ -46,6 +46,7 @@
   * [CIP Code 11](https://nces.ed.gov/ipeds/cipcode/cipdetail.aspx?y=56&cip=11)
 * [College and university rankings in the United States](https://en.wikipedia.org/wiki/College_and_university_rankings_in_the_United_States)
   * [*U.S. News & World Report* Best Colleges Ranking](https://en.wikipedia.org/wiki/U.S._News_%26_World_Report_Best_Colleges_Ranking)
+* [Fiske Guide to Colleges](https://en.wikipedia.org/wiki/Fiske_Guide_to_Colleges)
 * [Alma mater](https://en.wikipedia.org/wiki/Alma_mater)
   * [The Stevens Alma Mater: Members of the Stevens Choir, Past & Present Classes of 2007 through 2024](https://www.youtube.com/watch?v=7TkPoKJ6qM0), December 22, 2020
   * [Music at Stevens](https://www.stevens.edu/page-basic/music-at-stevens)
