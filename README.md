@@ -24,6 +24,13 @@
 * [Accreditation](https://en.wikipedia.org/wiki/Accreditation)
   * [Stevens Accreditation](https://www.stevens.edu/office-of-institutional-research-and-effectiveness/accreditation)
   * [Middle States Commission on Higher Education](https://en.wikipedia.org/wiki/Middle_States_Commission_on_Higher_Education) (MSCHE)
+    * Standard I: Mission and Goals
+    * Standard II: Ethics and Integrity
+    * Standard III: Design and Delivery of the Student Learning Experience
+    * Standard IV: Support of the Student Experience
+    * Standard V: Educational Effectiveness Assessment
+    * Standard VI: Planning, Resources, and Institutional Improvement
+    * Standard VII: Governance, Leadership, and Administration
   * [Stevens Institute of Technology](https://www.msche.org/institution/0235/)
   * [ABET](https://en.wikipedia.org/wiki/ABET) (Accreditation Board for Engineering and Technology)
     * [ABET Accreditation and Artificial Intelligence](https://www.abet.org/accreditation/ai-policy/)
