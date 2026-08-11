@@ -1,4 +1,8 @@
 # First Year Experience (FYE) &mdash; 2026 Fall Semester
+* [Neurodiversity](https://en.wikipedia.org/wiki/Neurodiversity)
+  * [Judy Singer](https://en.wikipedia.org/wiki/Judy_Singer)
+  * [Stanford Neurodiversity Project](https://med.stanford.edu/neurodiversity.html)
+  * [Barbara Oakley](https://en.wikipedia.org/wiki/Barbara_Oakley)
 ## Lesson 0 - Orientation Meet and Greet
 
 ## Lesson 1 - 
