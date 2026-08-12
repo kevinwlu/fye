@@ -28,7 +28,7 @@
 
 ## Lesson 10 - 
 
-## Lesson 11 - 
+## Lesson 11 - Learning Beyond the Classroom
 * Designated Peer-Led Moment: Learn by Doing Exercise
 
 ## Lesson 12 - 
