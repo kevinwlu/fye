@@ -1,4 +1,6 @@
 # First Year Experience (FYE) &mdash; 2026 Fall Semester
+* [*You Got In! Now What?: 100 Insights into Finding Your Best Life in College*](https://humsci.stanford.edu/feature/you-got-now-what-james-t-hamilton-communication), March 11, 2025
+  * [James Hamilton](https://profiles.stanford.edu/james-hamilton)
 * [Neurodiversity](https://en.wikipedia.org/wiki/Neurodiversity)
   * [Judy Singer](https://en.wikipedia.org/wiki/Judy_Singer)
   * [Stanford Neurodiversity Project](https://med.stanford.edu/neurodiversity.html)
