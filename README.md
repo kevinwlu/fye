@@ -298,6 +298,8 @@
     * [American Spread Wing Eagle](https://virtualglobetrotting.com/map/american-spread-wing-eagle-by-pierre-bourdelle/)
   * [*SS Stevens*](https://en.wikipedia.org/wiki/SS_Stevens)
     * [Ship prefix](https://en.wikipedia.org/wiki/Ship_prefix)
+    * [Screw steamer](https://en.wikipedia.org/wiki/Screw_steamer) (SS)
+    * [Royal Mail Ship](https://en.wikipedia.org/wiki/Royal_Mail_Ship) (RMS)
     * [The Anchor Returns](https://www.stevens.edu/indicator/fall-2024/the-anchor-returns), 5 April 2024
   * [Luigi Zummo Pollara](https://www.nytimes.com/1994/08/06/obituaries/dr-luigi-pollara-80-founder-of-polymer-research-unit-dies.html) 1915&mdash;1994
     * [Polymer Processing Institute](https://www.polymers-ppi.com/) (PPI) founded in 1982
