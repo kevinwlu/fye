@@ -365,7 +365,7 @@
   * Earl L. Griffith, Class of 1923
   * William H. McLean, Class of 1931
   * Frederick L. Bissinger 1911&mdash;2009, Class of 1933
-  * [Charles V. Schaefer Jr.](https://www.nytimes.com/1999/11/25/nyregion/charles-schaefer-jr-dies-at-85-businessman-and-philanthropist.html) 1914&mdash;1999, Class of 1936
+  * [Charles Valentine Schaefer Jr.](https://www.nytimes.com/1999/11/25/nyregion/charles-schaefer-jr-dies-at-85-businessman-and-philanthropist.html) 1914&mdash;1999, [Class of 1936](https://stevensarchives.contentdm.oclc.org/digital/collection/StevensYB01/id/17816/)
   * [Alfred Fielding](https://edubilla.com/inventor/alfred-w-fielding/) 1917&mdash;1994, Class of 1939
     * [Bubble Wrap](https://en.wikipedia.org/wiki/Bubble_Wrap_(brand))
   * [Frederick Reines](https://en.wikipedia.org/wiki/Frederick_Reines) 1918&mdash;1998, Class of 1939
