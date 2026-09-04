@@ -14,7 +14,7 @@
 ## Lesson 1 - Purpose & Possibility in College
 
 
-## Lesson 2 - Purpose & Possibility in College
+## Lesson 2 - Cracking the Code: The Hidden Curriculum
 **Designated Peer-Led Moment: Hidden Curriculum**
 
 ## Lesson 3 - Study Smarter: Evidence-Based Strategies for Active Learning and Academic Success
