@@ -10,6 +10,7 @@
 * [Trivia](https://en.wikipedia.org/wiki/Trivia)
 * [Habit](https://en.wikipedia.org/wiki/Habit)
 * [Experiential learning](https://en.wikipedia.org/wiki/Experiential_learning) (ExL)
+* [Tooth brushing](https://en.wikipedia.org/wiki/Tooth_brushing)
 ## Lesson 1 - Purpose & Possibility in College
 
 
