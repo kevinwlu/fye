@@ -97,7 +97,7 @@ action and its characteristics: cooperation, unity, organization, and
 cultural synthesis. 
 * [The science of studying for finals](https://thestute.com/2024/05/03/the-science-of-studying-for-finals/)
 ## Lesson 4 - Own Your Time: Time Management & Active Learning
-* [*You Got In! Now What?: 100 Insights into Finding Your Best Life in College*](https://humsci.stanford.edu/feature/you-got-now-what-james-t-hamilton-communication), March 11, 2025
+* [*You Got In! Now What?: 100 Insights Into Finding Your Best Life in College*](https://humsci.stanford.edu/feature/you-got-now-what-james-t-hamilton-communication), March 11, 2025
   * [James T. Hamilton](https://profiles.stanford.edu/james-hamilton) is the Vice Provost for Undergraduate Education and the Hearst Professor of Communication and director of the Stanford Journalism Program in the Department of Communication.
   * [Book site](https://yougotinbook.com/)
 44. Get S'More Out of Life
