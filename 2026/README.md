@@ -15,28 +15,28 @@
 ## Lesson 1 - Purpose & Possibility in College
 * [*The Secret Syllabus: A Guide to the Unwritten Rules of College Success*](https://press.princeton.edu/books/paperback/9780691224428/the-secret-syllabus)
 1. The Big Picture: Every Culture Has Rules and Norms. Some Are Written, But Many Are Not
-Setting Goals: It’s Not the Plan, But the Planning
+\Setting Goals: It’s Not the Plan, But the Planning
 2. Not Having a Career Plan on Day 1 Usually Is Better than Having One
 3. Planning Your Schedule This Term, This Year, and Through Graduation
 4. Planning Semester and Life Goals
 5. Planning Daily and Weekly Goals
-Achieving Goals: How to Interact Effectively and Get Stuff That You Need
+\Achieving Goals: How to Interact Effectively and Get Stuff That You Need
 6. In Choosing Your Courses Seek Great Teachers
 7. Office Hours: How to Get the Most from Your Instructors When You Control the Agenda
 8. Classroom Behavior: How to Master Content and Make a Positive Impression on Your Instructor
 9. Nurturing Your Relationships with Instructors: The Path to Recommendations, a Mentor, Jobs, and More
-The Nuts and Bolts of Learning and Performing
+\The Nuts and Bolts of Learning and Performing
 10. How to Study (The Lessons You Need but Never Got)
 11. Exams: How to Perform When It Counts Most
 12. Papers and Other Writing Assignments: Say It Better
 13. How to Study a Language
-Overcoming Barriers to Success
+\Overcoming Barriers to Success
 14. Resilience: Everyone Falls; Only Some Get Back Up
 15. Exam Postmortem: How to Learn from the Experience
-Career Planning
+\Career Planning
 16. Getting into the Graduate School of Your Choice: The Process (and the Secret)
 17. What Makes You an Appealing Job Candidate? It’s Not What You Think
-Conclusion
+\Conclusion
 18. The Big Picture, Revisited: If You Remember Just One Lesson Five Years from Now, It’s This …
 ## Lesson 2 - Cracking the Code: The Hidden Curriculum
 **Designated Peer-Led Moment: Hidden Curriculum**
