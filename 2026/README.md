@@ -26,7 +26,7 @@
 8. Classroom Behavior: How to Master Content and Make a Positive Impression on Your Instructor
 9. Nurturing Your Relationships With Instructors: The Path to Recommendations, a Mentor, Jobs, and More
 > The Nuts and Bolts of Learning and Performing
-10. How to Study (The Lessons You Need But Never Got)
+10. How to Study (The Lessons You Need but Never Got)
 11. Exams: How to Perform When It Counts Most
 12. Papers and Other Writing Assignments: Say It Better
 13. How to Study a Language
