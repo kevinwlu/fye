@@ -1,6 +1,4 @@
 # First Year Experience (FYE) &mdash; 2026 Fall Semester
-* [*You Got In! Now What?: 100 Insights into Finding Your Best Life in College*](https://humsci.stanford.edu/feature/you-got-now-what-james-t-hamilton-communication), March 11, 2025
-  * [James Hamilton](https://profiles.stanford.edu/james-hamilton)
 * [Neurodiversity](https://en.wikipedia.org/wiki/Neurodiversity)
   * [Judy Singer](https://en.wikipedia.org/wiki/Judy_Singer)
   * [Stanford Neurodiversity Project](https://med.stanford.edu/neurodiversity.html)
@@ -69,6 +67,7 @@
 15. For Parents: Preparing, Supporting, and Understanding Your Student
 16. Summing Up
 ## Lesson 3 - Study Smarter: Evidence-Based Strategies for Active Learning and Academic Success
+* [What Works, What Doesn't](https://www.scientificamerican.com/article/what-works-what-doesn-t/): Some study techniques accelerate learning, whereas others are just a waste of time—but which ones are which? An unprecedented review maps out the best pathways to follow
 * [*Pedagogy of the Oppressed*](https://en.wikipedia.org/wiki/Pedagogy_of_the_Oppressed) 1968 by [Paulo Freire](https://en.wikipedia.org/wiki/Paulo_Freire) 1921&mdash;1997
   * [PDF](https://files.libcom.org/files/Paulo%20Freire,%20Myra%20Bergman%20Ramos,%20Donaldo%20Macedo%20-%20Pedagogy%20of%20the%20Oppressed,%2030th%20Anniversary%20Edition%20(2000,%20Bloomsbury%20Academic).pdf) pp. 71-73 and pp. 78-81 of Chapter 2
 1. The justification for a pedagogy of the oppressed; the contradiction
@@ -96,8 +95,13 @@ action and its characteristics: conquest, divide and rule,
 manipulation, and cultural invasion; the theory of dialogical
 action and its characteristics: cooperation, unity, organization, and
 cultural synthesis. 
+* [The science of studying for finals](https://thestute.com/2024/05/03/the-science-of-studying-for-finals/)
 ## Lesson 4 - Own Your Time: Time Management & Active Learning
-
+* [*You Got In! Now What?: 100 Insights into Finding Your Best Life in College*](https://humsci.stanford.edu/feature/you-got-now-what-james-t-hamilton-communication), March 11, 2025
+  * [James T. Hamilton](https://profiles.stanford.edu/james-hamilton) is the Vice Provost for Undergraduate Education and the Hearst Professor of Communication and director of the Stanford Journalism Program in the Department of Communication.
+  * [Book site](https://yougotinbook.com/)
+44. Get S'More Out of Life
+45. Have Your Calendar Reflect Your Values
 ## Lesson 5 - Fail Forward: How Setbacks Strengthen Success
 
 ## Lesson 6 - Doing the Right Thing: Ethics and Integrity in Academic Life
