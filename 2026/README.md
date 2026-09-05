@@ -69,7 +69,33 @@
 15. For Parents: Preparing, Supporting, and Understanding Your Student
 16. Summing Up
 ## Lesson 3 - Study Smarter: Evidence-Based Strategies for Active Learning and Academic Success
-
+* [*Pedagogy of the Oppressed*](https://en.wikipedia.org/wiki/Pedagogy_of_the_Oppressed) 1968 by [Paulo Freire](https://en.wikipedia.org/wiki/Paulo_Freire) 1921&mdash;1997
+  * [PDF](https://files.libcom.org/files/Paulo%20Freire,%20Myra%20Bergman%20Ramos,%20Donaldo%20Macedo%20-%20Pedagogy%20of%20the%20Oppressed,%2030th%20Anniversary%20Edition%20(2000,%20Bloomsbury%20Academic).pdf) pp. 71-73 and pp. 78-81 of Chapter 2
+1. The justification for a pedagogy of the oppressed; the contradiction
+between the oppressors and the oppressed, and how it is overcome;
+oppression and the oppressors; oppression and the oppressed;
+liberation: not a gift, not a self-achievement, but a mutual process.
+2. The "banking" concept of education as an instrument of oppression—
+its presuppositions—a critique; the problem-posing concept of
+education as an instrument for liberation—-its presuppositions; the
+"banking" concept and the teacher-student contradiction; the
+problem-posing concept and the supersedence of the teacherstudent contradiction; education: a mutual process, world-mediated;
+people as uncompleted beings, conscious of their incompletion, and
+their attempt to be more fully human. 
+3. Dialogics—the essence of education as the practice of freedom;
+dialogics and dialogue; dialogue and the search for program
+content; the human-world relationship, "generative themes," and
+the program content of education as the practice of freedom; the
+investigation of "generative themes" and its methodology; the
+awakening of critical consciousness through the investigation of
+"generative themes"; the various stages of the investigation.
+4. Antidialogics and dialogics as matrices of opposing theories of
+cultural action: the former as an instrument of oppression and the
+latter as an instrument of liberation; the theory of antidialogical
+action and its characteristics: conquest, divide and rule,
+manipulation, and cultural invasion; the theory of dialogical
+action and its characteristics: cooperation, unity, organization, and
+cultural synthesis. 
 ## Lesson 4 - Own Your Time: Time Management & Active Learning
 
 ## Lesson 5 - Fail Forward: How Setbacks Strengthen Success
