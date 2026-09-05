@@ -13,7 +13,9 @@
 * [Sitting](https://en.wikipedia.org/wiki/Sitting)
 * [Tooth brushing](https://en.wikipedia.org/wiki/Tooth_brushing)
 ## Lesson 1 - Purpose & Possibility in College
-* [*The Secret Syllabus: A Guide to the Unwritten Rules of College Success*](https://press.princeton.edu/books/paperback/9780691224428/the-secret-syllabus)
+* [*The Secret Syllabus: A Guide to the Unwritten Rules of College Success*](https://press.princeton.edu/books/paperback/9780691224428/the-secret-syllabus) 2022
+  * [Jay Phelan](https://lifeboat.com/ex/bios.jay.phelan)
+  * [Terence Burnham](https://www.chapman.edu/our-faculty/terence-burnham.aspx)
 1. The Big Picture: Every Culture Has Rules and Norms. Some Are Written, But Many Are Not
 > Setting Goals: It’s Not the Plan, But the Planning
 2. Not Having a Career Plan on Day 1 Usually Is Better Than Having One
