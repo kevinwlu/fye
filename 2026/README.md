@@ -75,9 +75,9 @@
 between the oppressors and the oppressed, and how it is overcome;
 oppression and the oppressors; oppression and the oppressed;
 liberation: not a gift, not a self-achievement, but a mutual process.
-2. The "banking" concept of education as an instrument of oppression—
+2. The "banking" concept of education as an instrument of oppression–
 its presuppositions—a critique; the problem-posing concept of
-education as an instrument for liberation—-its presuppositions; the
+education as an instrument for liberation–its presuppositions; the
 "banking" concept and the teacher-student contradiction; the
 problem-posing concept and the supersedence of the teacherstudent contradiction; education: a mutual process, world-mediated;
 people as uncompleted beings, conscious of their incompletion, and
