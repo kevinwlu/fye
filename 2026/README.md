@@ -38,6 +38,7 @@
 17. What Makes You an Appealing Job Candidate? It’s Not What You Think
 > Conclusion
 18. The Big Picture, Revisited: If You Remember Just One Lesson Five Years from Now, It’s This …
+* [Jacob Franco-Wadley: A Purpose-Driven Journey at Stevens](https://www.stevens.edu/news/jacob-franco-wadley-a-purpose-driven-journey-at-stevens), 7 October 2024
 ## Lesson 2 - Cracking the Code: The Hidden Curriculum
 **Designated Peer-Led Moment: Hidden Curriculum**
 
