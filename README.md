@@ -209,6 +209,9 @@
   * [Sibyl's Cave](https://en.wikipedia.org/wiki/Sibyl%27s_Cave) in Italy
   * [Elysian Fields (Hoboken, New Jersey)](https://en.wikipedia.org/wiki/Elysian_Fields_(Hoboken,_New_Jersey))
   * [Elysium](https://en.wikipedia.org/wiki/Elysium)
+  * [The Hoboken Artifact That’s Older Than America: All About the Stevens Cannon](https://www.hobokengirl.com/stevens-cannon-hoboken-legend/)
+    * Manufactured in Strasbourg, Sweden, in 1761, the Stevens’ Cannon flaunts the name La Girouette, meaning Weathervane in French, for she can pivot like the breeze and blow harder than the wind.
+    * [Weather vane](https://en.wikipedia.org/wiki/Weather_vane)
   * [Hoboken’s original plan and first parks established in 1804](https://betterwaterfront.org/hudson-square-hobokens-first-park/)
     * [USS *Portsmouth* (1843)](https://en.wikipedia.org/wiki/USS_Portsmouth_(1843))
     * [*On the Waterfront*](https://en.wikipedia.org/wiki/On_the_Waterfront) 1954
