@@ -34,7 +34,7 @@
   * [Stevens Institute of Technology](https://www.msche.org/institution/0235/)
   * [ABET](https://en.wikipedia.org/wiki/ABET) (Accreditation Board for Engineering and Technology)
     * [ABET Accreditation and Artificial Intelligence](https://www.abet.org/accreditation/ai-policy/)
-  * [Association to Advance Collegiate Schools of Business](https://en.wikipedia.org/wiki/Association_to_Advance_Collegiate_Schools_of_Business) (AACSB)
+  * [Association to Advance Collegiate Schools of Business](https://en.wikipedia.org/wiki/Association_to_Advance_Collegiate_Schools_of_Business) (AACSB)****
   * [Educational Credential Evaluators](https://en.wikipedia.org/wiki/Educational_Credential_Evaluators) (ECE)
 * [List of higher education associations and alliances](https://en.wikipedia.org/wiki/List_of_higher_education_associations_and_alliances)
 * [Association of Independent Technological Universities](https://en.wikipedia.org/wiki/Association_of_Independent_Technological_Universities) (AITU)
@@ -230,6 +230,7 @@
     * [Edwin A. Stevens Hall](https://en.wikipedia.org/wiki/Edwin_A._Stevens_Hall)
     * [Richard Upjohn](https://en.wikipedia.org/wiki/Richard_Upjohn) 1802&mdash;1878
   * [Martha Bayard Stevens](https://en.wikipedia.org/wiki/Martha_Bayard_Stevens) 1831&mdash;1899
+    * [Bayard family](https://en.wikipedia.org/wiki/Bayard_family)
     * [Renaming of Alexander House to Martha Bayard Stevens Hall 9.8.22](/Renaming_of_Alexander_House_to_Martha_Bayard_Stevens_Hall_9.8.22.pdf)
     * [New Alexander House name honors Stevens family pioneer](https://thestute.com/2022/09/16/new-alexander-house-name-honors-stevens-family-pioneer/), 16 September 2022
   * [John Stevens IV](https://www.geni.com/people/John-Stevens/6000000018103211393) 1856&mdash;1895
