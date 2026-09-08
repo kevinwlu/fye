@@ -211,9 +211,13 @@
     * [Elysium](https://en.wikipedia.org/wiki/Elysium)
     * On June 19, 1846, the first match game of baseball was played here on the Elysian Fields between the Knickerbockers and the New Yorks. It is generally conceded that until this time the game was not seriously regarded.
   * [The Hoboken Artifact That’s Older Than America: All About the Stevens Cannon](https://www.hobokengirl.com/stevens-cannon-hoboken-legend/)
-    * [Strasbourg](https://en.wikipedia.org/wiki/Strasbourg)
     * Manufactured in 1761, the Stevens Cannon, La Girouette, meaning Weather vane in French, for she can pivot like the breeze and blow harder than the wind
     * [Weather vane](https://en.wikipedia.org/wiki/Weather_vane)
+    * [Strasbourg](https://en.wikipedia.org/wiki/Strasbourg)
+    * [Timeline of Strasbourg](https://en.wikipedia.org/wiki/Timeline_of_Strasbourg)
+    * [Jean Maritz](https://en.wikipedia.org/wiki/Jean_Maritz) 1680&mdash;1743
+    * [Vallière system](https://en.wikipedia.org/wiki/Valli%C3%A8re_system)
+    * [Gribeauval system](https://en.wikipedia.org/wiki/Gribeauval_system)
     * [Pierre-Augustin de Beaumarchais](https://en.wikipedia.org/wiki/Pierre-Augustin_de_Beaumarchais)
   * [Hoboken’s original plan and first parks established in 1804](https://betterwaterfront.org/hudson-square-hobokens-first-park/)
     * [USS *Portsmouth* (1843)](https://en.wikipedia.org/wiki/USS_Portsmouth_(1843))
