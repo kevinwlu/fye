@@ -41,7 +41,7 @@
 17. What Makes You an Appealing Job Candidate? It’s Not What You Think
 > Conclusion
 18. The Big Picture, Revisited: If You Remember Just One Lesson Five Years From Now, It’s This …
-* *Reclaiming Purpose: The University in an AI World* 2026 by [Paul LeBlanc](https://en.wikipedia.org/wiki/Paul_LeBlanc_(university_president))
+* *Reclaiming Purpose: The University in an AI World* by [Paul LeBlanc](https://en.wikipedia.org/wiki/Paul_LeBlanc_(university_president)) 2026
 1. When the World Changed
 2. A Brief History of AI for the Layperson
 3. The Idea of the University Revisited: From [Epistemology](https://en.wikipedia.org/wiki/Epistemology) to [Ontology](https://en.wikipedia.org/wiki/Ontology)
@@ -51,7 +51,6 @@
 7. The Role of the Faculty in the University of the Future
 8. Reimagining the Postsecondary Ecosystem
 9. Developing Better Humans for the Age of AI
-
 ## Lesson 2 - Cracking the Code: The Hidden Curriculum
 **Designated Peer-Led Moment: Hidden Curriculum**
 * [*Will This Be on the Test? What Your Professors Really Want You to Know About Succeeding in College*](https://press.princeton.edu/books/paperback/9780691179537/will-this-be-on-the-test) 2019
