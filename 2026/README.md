@@ -41,7 +41,7 @@
 17. What Makes You an Appealing Job Candidate? It’s Not What You Think\
 *Conclusion*
 18. The Big Picture, Revisited: If You Remember Just One Lesson Five Years From Now, It’s This …
-* *Reclaiming Purpose: The University in an AI World* by [Paul LeBlanc](https://en.wikipedia.org/wiki/Paul_LeBlanc_(university_president)) 2026
+* [*Reclaiming Purpose: The University in an AI World*](https://www.wiley.com/en-fr/shop/general-introductory-business-management/reclaiming-purpose-the-university-in-an-ai-world-p-9781394407477) by [Paul LeBlanc](https://en.wikipedia.org/wiki/Paul_LeBlanc_(university_president)) 2026
 1. When the World Changed
 2. A Brief History of AI for the Layperson
 3. The Idea of the University Revisited: From [Epistemology](https://en.wikipedia.org/wiki/Epistemology) to [Ontology](https://en.wikipedia.org/wiki/Ontology)
