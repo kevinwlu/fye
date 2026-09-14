@@ -18,7 +18,7 @@
   * [Jay Phelan](https://lifeboat.com/ex/bios.jay.phelan) received his PhD in biology from Harvard University and is on the life sciences faculty at UCLA. He is the author of *What Is Life? A Guide to Biology* and (with Terry Burnham) the international bestseller *Mean Genes* (2001).
   * [Terence Burnham](https://www.chapman.edu/our-faculty/terence-burnham.aspx) received his PhD in business economics from Harvard and is a finance professor at Chapman University. His books include *Mean Markets and Lizard Brains* (2005).
 1. The Big Picture: Every Culture Has Rules and Norms. Some Are Written, But Many Are Not\
-*Setting Goals: It’s Not the Plan, But the Planning*
+*Setting Goals: It’s Not the Plan, but the Planning*
 2. Not Having a Career Plan on Day 1 Usually Is Better Than Having One
 3. Planning Your Schedule This Term, This Year, and Through Graduation
 4. Planning Semester and Life Goals
