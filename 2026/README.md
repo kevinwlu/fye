@@ -17,29 +17,29 @@
 * [*The Secret Syllabus: A Guide to the Unwritten Rules of College Success*](https://press.princeton.edu/books/paperback/9780691224428/the-secret-syllabus) 2022
   * [Jay Phelan](https://lifeboat.com/ex/bios.jay.phelan) received his PhD in biology from Harvard University and is on the life sciences faculty at UCLA. He is the author of *What Is Life? A Guide to Biology* and (with Terry Burnham) the international bestseller *Mean Genes* (2001).
   * [Terence Burnham](https://www.chapman.edu/our-faculty/terence-burnham.aspx) received his PhD in business economics from Harvard and is a finance professor at Chapman University. His books include *Mean Markets and Lizard Brains* (2005).
-1. The Big Picture: Every Culture Has Rules and Norms. Some Are Written, But Many Are Not
-> Setting Goals: It’s Not the Plan, But the Planning
+1. The Big Picture: Every Culture Has Rules and Norms. Some Are Written, But Many Are Not\
+*Setting Goals: It’s Not the Plan, But the Planning*
 2. Not Having a Career Plan on Day 1 Usually Is Better Than Having One
 3. Planning Your Schedule This Term, This Year, and Through Graduation
 4. Planning Semester and Life Goals
-5. Planning Daily and Weekly Goals
-> Achieving Goals: How to Interact Effectively and Get Stuff That You Need
+5. Planning Daily and Weekly Goals\
+*Achieving Goals: How to Interact Effectively and Get Stuff That You Need*
 6. In Choosing Your Courses Seek Great Teachers
 7. Office Hours: How to Get the Most From Your Instructors When You Control the Agenda
 8. Classroom Behavior: How to Master Content and Make a Positive Impression on Your Instructor
-9. Nurturing Your Relationships With Instructors: The Path to Recommendations, a Mentor, Jobs, and More
-> The Nuts and Bolts of Learning and Performing
+9. Nurturing Your Relationships With Instructors: The Path to Recommendations, a Mentor, Jobs, and More\
+*The Nuts and Bolts of Learning and Performing*
 10. How to Study (The Lessons You Need but Never Got)
 11. Exams: How to Perform When It Counts Most
 12. Papers and Other Writing Assignments: Say It Better
-13. How to Study a Language
-> Overcoming Barriers to Success
+13. How to Study a Language\
+*Overcoming Barriers to Success*
 14. Resilience: Everyone Falls; Only Some Get Back Up
-15. Exam Postmortem: How to Learn From the Experience
-> Career Planning
+15. Exam Postmortem: How to Learn From the Experience\
+*Career Planning*
 16. Getting into the Graduate School of Your Choice: The Process (and the Secret)
-17. What Makes You an Appealing Job Candidate? It’s Not What You Think
-> Conclusion
+17. What Makes You an Appealing Job Candidate? It’s Not What You Think\
+*Conclusion*
 18. The Big Picture, Revisited: If You Remember Just One Lesson Five Years From Now, It’s This …
 * *Reclaiming Purpose: The University in an AI World* by [Paul LeBlanc](https://en.wikipedia.org/wiki/Paul_LeBlanc_(university_president)) 2026
 1. When the World Changed
