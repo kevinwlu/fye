@@ -41,6 +41,16 @@
 > Conclusion
 18. The Big Picture, Revisited: If You Remember Just One Lesson Five Years From Now, It’s This …
 * [Jacob Franco-Wadley: A Purpose-Driven Journey at Stevens](https://www.stevens.edu/news/jacob-franco-wadley-a-purpose-driven-journey-at-stevens), 7 October 2024
+* *Reclaiming Purpose: The University in an AI World* by [Paul LeBlanc](https://en.wikipedia.org/wiki/Paul_LeBlanc_(university_president))
+1. When the World Changed
+2. A Brief History of AI for the Layperson
+3. The Idea of the University Revisited: From Epistemology to Ontology
+4. Anthropomorphism and Mattering: Living and Learning with Aliens
+5. Rethinking Our Learning Models: From One Size Fits All to Precision Learning
+6. What Is a University to Do?
+7. The Role of the Faculty in the University of the Future
+8. Reimagining the Postsecondary Ecosystem
+9. Developing Better Humans for the Age of AI
 ## Lesson 2 - Cracking the Code: The Hidden Curriculum
 **Designated Peer-Led Moment: Hidden Curriculum**
 * [*Will This Be on the Test? What Your Professors Really Want You to Know About Succeeding in College*](https://press.princeton.edu/books/paperback/9780691179537/will-this-be-on-the-test) 2019
