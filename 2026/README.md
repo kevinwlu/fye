@@ -13,6 +13,7 @@
 * [Sitting](https://en.wikipedia.org/wiki/Sitting)
 * [Tooth brushing](https://en.wikipedia.org/wiki/Tooth_brushing)
 ## Lesson 1 - Purpose & Possibility in College
+* [Jacob Franco-Wadley: A Purpose-Driven Journey at Stevens](https://www.stevens.edu/news/jacob-franco-wadley-a-purpose-driven-journey-at-stevens), 7 October 2024
 * [*The Secret Syllabus: A Guide to the Unwritten Rules of College Success*](https://press.princeton.edu/books/paperback/9780691224428/the-secret-syllabus) 2022
   * [Jay Phelan](https://lifeboat.com/ex/bios.jay.phelan) received his PhD in biology from Harvard University and is on the life sciences faculty at UCLA. He is the author of *What Is Life? A Guide to Biology* and (with Terry Burnham) the international bestseller *Mean Genes* (2001).
   * [Terence Burnham](https://www.chapman.edu/our-faculty/terence-burnham.aspx) received his PhD in business economics from Harvard and is a finance professor at Chapman University. His books include *Mean Markets and Lizard Brains* (2005).
@@ -40,17 +41,17 @@
 17. What Makes You an Appealing Job Candidate? It’s Not What You Think
 > Conclusion
 18. The Big Picture, Revisited: If You Remember Just One Lesson Five Years From Now, It’s This …
-* [Jacob Franco-Wadley: A Purpose-Driven Journey at Stevens](https://www.stevens.edu/news/jacob-franco-wadley-a-purpose-driven-journey-at-stevens), 7 October 2024
-* *Reclaiming Purpose: The University in an AI World* by [Paul LeBlanc](https://en.wikipedia.org/wiki/Paul_LeBlanc_(university_president))
+* *Reclaiming Purpose: The University in an AI World* 2026 by [Paul LeBlanc](https://en.wikipedia.org/wiki/Paul_LeBlanc_(university_president))
 1. When the World Changed
 2. A Brief History of AI for the Layperson
-3. The Idea of the University Revisited: From Epistemology to Ontology
+3. The Idea of the University Revisited: From [Epistemology](https://en.wikipedia.org/wiki/Epistemology) to [Ontology](https://en.wikipedia.org/wiki/Ontology)
 4. Anthropomorphism and Mattering: Living and Learning with Aliens
 5. Rethinking Our Learning Models: From One Size Fits All to Precision Learning
 6. What Is a University to Do?
 7. The Role of the Faculty in the University of the Future
 8. Reimagining the Postsecondary Ecosystem
 9. Developing Better Humans for the Age of AI
+
 ## Lesson 2 - Cracking the Code: The Hidden Curriculum
 **Designated Peer-Led Moment: Hidden Curriculum**
 * [*Will This Be on the Test? What Your Professors Really Want You to Know About Succeeding in College*](https://press.princeton.edu/books/paperback/9780691179537/will-this-be-on-the-test) 2019
