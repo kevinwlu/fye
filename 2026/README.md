@@ -20,6 +20,9 @@
 1. The Big Picture: Every Culture Has Rules and Norms. Some Are Written, But Many Are Not\
 *Setting Goals: It’s Not the Plan, but the Planning*
 2. Not Having a Career Plan on Day 1 Usually Is Better Than Having One
+* [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs)
+* [Jane Goodall](https://en.wikipedia.org/wiki/Jane_Goodall)
+* [John Harbaugh](https://en.wikipedia.org/wiki/John_Harbaugh)
 3. Planning Your Schedule This Term, This Year, and Through Graduation
 4. Planning Semester and Life Goals
 5. Planning Daily and Weekly Goals\
