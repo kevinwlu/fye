@@ -48,7 +48,7 @@
 1. When the World Changed
 2. A Brief History of AI for the Layperson
 3. The Idea of the University Revisited: From [Epistemology](https://en.wikipedia.org/wiki/Epistemology) to [Ontology](https://en.wikipedia.org/wiki/Ontology)
-4. Anthropomorphism and Mattering: Living and Learning with Aliens
+4. [Anthropomorphism](https://en.wikipedia.org/wiki/Anthropomorphism) and Mattering: Living and Learning With Aliens
 5. Rethinking Our Learning Models: From One Size Fits All to Precision Learning
 6. What Is a University to Do?
 7. The Role of the Faculty in the University of the Future
