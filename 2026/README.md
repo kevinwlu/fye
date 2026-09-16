@@ -52,7 +52,7 @@
 5. Rethinking Our Learning Models: From One Size Fits All to Precision Learning
 6. What Is a University to Do?
 7. The Role of the Faculty in the University of the Future
-8. Reimagining the Postsecondary Ecosystem
+8. Reimagining the [Postsecondary](https://en.wikipedia.org/wiki/Tertiary_education) Ecosystem
 9. Developing Better Humans for the Age of AI
 ## Lesson 2 - Cracking the Code: The Hidden Curriculum
 **Designated Peer-Led Moment: Hidden Curriculum**
