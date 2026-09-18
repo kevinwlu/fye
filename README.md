@@ -213,11 +213,13 @@
   * [The Hoboken Artifact That’s Older Than America: All About the Stevens Cannon](https://www.hobokengirl.com/stevens-cannon-hoboken-legend/)
     * Manufactured in 1761, the Stevens Cannon, La Girouette, meaning Weather vane in French, for she can pivot like the breeze and blow harder than the wind
     * [Weather vane](https://en.wikipedia.org/wiki/Weather_vane)
+    * [Cloak & Dagger: French Cannons and the Battles of Saratoga](https://www.nps.gov/sara/learn/historyculture/cloak-dagger-french-cannons-and-the-battles-of-saratoga.htm)
     * [Strasbourg](https://en.wikipedia.org/wiki/Strasbourg)
-    * [Timeline of Strasbourg](https://en.wikipedia.org/wiki/Timeline_of_Strasbourg)
-    * [Jean Maritz](https://en.wikipedia.org/wiki/Jean_Maritz) 1680&mdash;1743
+    * [Swedish 4-pounder cannon](https://en.wikipedia.org/wiki/Swedish_4-pounder_cannon)
     * [Vallière system](https://en.wikipedia.org/wiki/Valli%C3%A8re_system)
     * [Gribeauval system](https://en.wikipedia.org/wiki/Gribeauval_system)
+    * [Timeline of Strasbourg](https://en.wikipedia.org/wiki/Timeline_of_Strasbourg)
+    * [Jean Maritz](https://en.wikipedia.org/wiki/Jean_Maritz) 1680&mdash;1743
     * [Pierre-Augustin de Beaumarchais](https://en.wikipedia.org/wiki/Pierre-Augustin_de_Beaumarchais)
   * [Hoboken’s original plan and first parks established in 1804](https://betterwaterfront.org/hudson-square-hobokens-first-park/)
     * [USS *Portsmouth* (1843)](https://en.wikipedia.org/wiki/USS_Portsmouth_(1843))
