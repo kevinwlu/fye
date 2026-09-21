@@ -59,26 +59,26 @@
 * [*Will This Be on the Test? What Your Professors Really Want You to Know About Succeeding in College*](https://press.princeton.edu/books/paperback/9780691179537/will-this-be-on-the-test) 2019
   * Dana T. Johnson taught for many years at the College of William and Mary, where she twice won the Simon Prize for Excellence in the Teaching of Mathematics, and has three decades of experience teaching college freshmen.
   * Jennifer E. Price is a biologist who has much experience teaching online as well as traditional college courses.
-0. Introduction: Why Are You Going to College?
-> Getting the Big Picture
+0. Introduction: Why Are You Going to College?\
+*Getting the Big Picture*
 1. It’s Not All About You
 2. Just Kidding! It Is All About You: Personal Responsibility
 3. Who Are Your Professors?
-4. College as a Springboard to the Workplace, the Military, or Graduate School
-> Inside Your College Classroom
+4. College as a Springboard to the Workplace, the Military, or Graduate School\
+*Inside Your College Classroom*
 5. The Written Rules of the Classroom: The Syllabus
 6. The Unwritten Rules of the Classroom: Acceptable Classroom Behaviors
-7. The Virtual Classroom: Special Considerations for Online Courses
-> Communicating With Your Professor
+7. The Virtual Classroom: Special Considerations for Online Courses\
+*Communicating With Your Professor*
 8. Office Hours
 9. Email Etiquette
-10. Letters of Recommendation
-> More Advice for College Success
+10. Letters of Recommendation\
+*More Advice for College Success*
 11. Getting the Best Grades You Can
 12. Polishing Your Written Work
 13. Managing Your Coursework and Your Time
-14. Ethical Considerations
-> Final Words of Wisdom
+14. Ethical Considerations\
+*Final Words of Wisdom*
 15. For Parents: Preparing, Supporting, and Understanding Your Student
 16. Summing Up
 ## Lesson 3 - Study Smarter: Evidence-Based Strategies for Active Learning and Academic Success
