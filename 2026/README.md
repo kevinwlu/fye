@@ -58,8 +58,8 @@
 ## Lesson 2 - Cracking the Code: The Hidden Curriculum
 **Designated Peer-Led Moment: Hidden Curriculum**
 * [*Will This Be on the Test? What Your Professors Really Want You to Know About Succeeding in College*](https://press.princeton.edu/books/paperback/9780691179537/will-this-be-on-the-test) 2019
-  * Dana T. Johnson taught for many years at the College of William and Mary, where she twice won the Simon Prize for Excellence in the Teaching of Mathematics, and has three decades of experience teaching college freshmen.
-  * Jennifer E. Price is a biologist who has much experience teaching online as well as traditional college courses.
+  * [Dana T. Johnson](https://press.princeton.edu/our-authors/johnson-dana-t) taught for many years at the College of William and Mary, where she twice won the Simon Prize for Excellence in the Teaching of Mathematics, and has three decades of experience teaching college freshmen.
+  * [Jennifer E. Price](https://press.princeton.edu/our-authors/price-jennifer-e) is a biologist who has much experience teaching online as well as traditional college courses.
 0. Introduction: Why Are You Going to College?\
 **Getting the Big Picture**
 1. It’s Not All About You
