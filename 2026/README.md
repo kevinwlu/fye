@@ -5,6 +5,7 @@
   * [Judy Singer](https://en.wikipedia.org/wiki/Judy_Singer)
   * [Stanford Neurodiversity Project](https://med.stanford.edu/neurodiversity.html)
   * [Barbara Oakley](https://en.wikipedia.org/wiki/Barbara_Oakley)
+* [Stimming](https://en.wikipedia.org/wiki/Stimming)
 ## Lesson 0 - Orientation Meet and Greet
 **Designated Peer-Led Moment: Leave One, Build One**
 * [Trivia](https://en.wikipedia.org/wiki/Trivia)
