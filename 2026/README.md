@@ -18,7 +18,7 @@
   * [Jay Phelan](https://lifeboat.com/ex/bios.jay.phelan) received his PhD in biology from Harvard University and is on the life sciences faculty at UCLA. He is the author of *What Is Life? A Guide to Biology* and (with Terry Burnham) the international bestseller *Mean Genes* (2001).
   * [Terence Burnham](https://www.chapman.edu/our-faculty/terence-burnham.aspx) received his PhD in business economics from Harvard and is a finance professor at Chapman University. His books include *Mean Markets and Lizard Brains* (2005).
 1. The Big Picture: Every Culture Has Rules and Norms. Some Are Written, but Many Are Not\
-*Setting Goals: It’s Not the Plan, but the Planning*
+==Setting Goals: It’s Not the Plan, but the Planning==
 2. Not Having a Career Plan on Day 1 Usually Is Better Than Having One
 * [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs)
 * [Jane Goodall](https://en.wikipedia.org/wiki/Jane_Goodall)
@@ -26,23 +26,23 @@
 3. Planning Your Schedule This Term, This Year, and Through Graduation
 4. Planning Semester and Life Goals
 5. Planning Daily and Weekly Goals\
-*Achieving Goals: How to Interact Effectively and Get Stuff That You Need*
+==Achieving Goals: How to Interact Effectively and Get Stuff That You Need==
 6. In Choosing Your Courses Seek Great Teachers
 7. Office Hours: How to Get the Most From Your Instructors When You Control the Agenda
 8. Classroom Behavior: How to Master Content and Make a Positive Impression on Your Instructor
 9. Nurturing Your Relationships With Instructors: The Path to Recommendations, a Mentor, Jobs, and More\
-*The Nuts and Bolts of Learning and Performing*
+==The Nuts and Bolts of Learning and Performing==
 10. How to Study (The Lessons You Need but Never Got)
 11. Exams: How to Perform When It Counts Most
 12. Papers and Other Writing Assignments: Say It Better
 13. How to Study a Language\
-*Overcoming Barriers to Success*
+==Overcoming Barriers to Success==
 14. Resilience: Everyone Falls; Only Some Get Back Up
 15. Exam Postmortem: How to Learn From the Experience\
-*Career Planning*
+==Career Planning==
 16. Getting into the Graduate School of Your Choice: The Process (and the Secret)
 17. What Makes You an Appealing Job Candidate? It’s Not What You Think\
-*Conclusion*
+==Conclusion==
 18. The Big Picture, Revisited: If You Remember Just One Lesson Five Years From Now, It’s This …
 * [*Reclaiming Purpose: The University in an AI World*](https://www.wiley.com/en-fr/shop/general-introductory-business-management/reclaiming-purpose-the-university-in-an-ai-world-p-9781394407477) by [Paul LeBlanc](https://en.wikipedia.org/wiki/Paul_LeBlanc_(university_president)) 2026
 1. When the World Changed
@@ -60,25 +60,25 @@
   * Dana T. Johnson taught for many years at the College of William and Mary, where she twice won the Simon Prize for Excellence in the Teaching of Mathematics, and has three decades of experience teaching college freshmen.
   * Jennifer E. Price is a biologist who has much experience teaching online as well as traditional college courses.
 0. Introduction: Why Are You Going to College?\
-*Getting the Big Picture*
+==Getting the Big Picture==
 1. It’s Not All About You
 2. Just Kidding! It Is All About You: Personal Responsibility
 3. Who Are Your Professors?
 4. College as a Springboard to the Workplace, the Military, or Graduate School\
-*Inside Your College Classroom*
+==Inside Your College Classroom==
 5. The Written Rules of the Classroom: The Syllabus
 6. The Unwritten Rules of the Classroom: Acceptable Classroom Behaviors
 7. The Virtual Classroom: Special Considerations for Online Courses\
-*Communicating With Your Professor*
+==Communicating With Your Professor==
 8. Office Hours
 9. Email Etiquette
 10. Letters of Recommendation\
-*More Advice for College Success*
+==More Advice for College Success==
 11. Getting the Best Grades You Can
 12. Polishing Your Written Work
 13. Managing Your Coursework and Your Time
 14. Ethical Considerations\
-*Final Words of Wisdom*
+==Final Words of Wisdom==
 15. For Parents: Preparing, Supporting, and Understanding Your Student
 16. Summing Up
 ## Lesson 3 - Study Smarter: Evidence-Based Strategies for Active Learning and Academic Success
