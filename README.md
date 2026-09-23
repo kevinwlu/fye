@@ -214,7 +214,8 @@
     * Manufactured in 1761, the Stevens Cannon, La Girouette, meaning Weather vane in French, for she can pivot like the breeze and blow harder than the wind
     * [Weather vane](https://en.wikipedia.org/wiki/Weather_vane)
     * [Cloak & Dagger: French Cannons and the Battles of Saratoga](https://www.nps.gov/sara/learn/historyculture/cloak-dagger-french-cannons-and-the-battles-of-saratoga.htm)
-    * [Strasbourg](https://en.wikipedia.org/wiki/Strasbourg)
+    * [Strasbourg](https://en.wikipedia.org/wiki/Strasbourg) 
+    * [La Marseillaise](https://en.wikipedia.org/wiki/La_Marseillaise) is the national anthem of France written in 1792 by [Claude Joseph Rouget de Lisle](https://en.wikipedia.org/wiki/Claude_Joseph_Rouget_de_Lisle) 1760&mdash;1836 in Strasbourg
     * [Swedish 4-pounder cannon](https://en.wikipedia.org/wiki/Swedish_4-pounder_cannon)
     * [Vallière system](https://en.wikipedia.org/wiki/Valli%C3%A8re_system)
     * [Gribeauval system](https://en.wikipedia.org/wiki/Gribeauval_system)
