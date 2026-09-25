@@ -13,6 +13,7 @@
 * [Experiential learning](https://en.wikipedia.org/wiki/Experiential_learning) (ExL)
 * [Sitting](https://en.wikipedia.org/wiki/Sitting)
 * [Tooth brushing](https://en.wikipedia.org/wiki/Tooth_brushing)
+## Unit 1
 ## Lesson 1 - Purpose & Possibility in College
 * [Jacob Franco-Wadley: A Purpose-Driven Journey at Stevens](https://www.stevens.edu/news/jacob-franco-wadley-a-purpose-driven-journey-at-stevens), 7 October 2024
 * [*The Secret Syllabus: A Guide to the Unwritten Rules of College Success*](https://press.princeton.edu/books/paperback/9780691224428/the-secret-syllabus) 2022
@@ -116,13 +117,25 @@ cultural synthesis.
 * [*You Got In! Now What?: 100 Insights Into Finding Your Best Life in College*](https://yougotinbook.com/)
 44. Get S'More Out of Life
 45. Have Your Calendar Reflect Your Values
+## Unit 2 
+* Growth minset
+* Academic integrity – focus on AI
+* Imposter syndrome
+* [*The Discussion Book: 50 Great Ways to Get People Talking*](https://www.wiley.com/en-us/shop/general-introductory-business-management/the-discussion-book-50-great-ways-to-get-people-talking-p-9781119049715)
 ## Lesson 5 - Fail Forward: How Setbacks Strengthen Success
-
+Breona Pizzuta, "To the Version of Me Who Started This School Year," *The Stute*
 ## Lesson 6 - Doing the Right Thing: Ethics and Integrity in Academic Life
-
+* Ursula K. Le Guin's "The Ones Who Walk Away From Omelas"
+* "The Human Art of Writing"
+* "Transforming Education"
+* *Modern-Day Oracles or Bullshit Machines?*
 ## Lesson 7 - You Belong Here: Navigating Imposter Feelings Through Connection and Compassion
 **Designated Peer-Led Moment: Imposter Syndrome Article**
-
+* "Everyone Feels Like an Imposter,"
+* "Life Is Not Linear,"
+* "Ditch the Duck Syndrome"
+* *You Got In! Now What?: 100 Insights Into Finding Your Best Life in College*
+## Unit 3
 ## Lesson 8 - Academic Planning with Purpose: Preparing for Registration and Beyond
 
 ## Lesson 9 - Balancing It All: Managing Stress and Supporting Your Wellbeing
