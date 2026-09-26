@@ -326,7 +326,11 @@
   * [David Vaccari](https://www.stevens.edu/profile/dvaccari), [“The Barbed Quatrefoil Is a 1500-Year-Old Symbol of Architectural Advance”](https://personal.stevens.edu/~dvaccari/Vaccari%20-%20Sancta%20Sophia.pdf)
     * [Quatrefoil](https://en.wikipedia.org/wiki/Quatrefoil)
     * [Pendentive](https://en.wikipedia.org/wiki/Pendentive)
+  * [How the Sparkles Emoji Became the Symbol of Our AI Future](https://www.wsj.com/tech/ai/how-the-sparkles-emoji-became-the-symbol-of-our-ai-future-e7786eef), August 17, 2024
+    * [All That Sparkles Is AI: Researching the rise of Google’s twinkling AI icon](https://design.google/library/ai-sparkle-icon-research-pozos-schmidt) by Rose Pozos and Lennard Schmidt
+    * [How the sparkles emoji took over AI: Companies from Google to Adobe are using the icon as shorthand for the fuzzy magic of their AI tools.](https://www.fastcompany.com/91030156/how-the-sparkle-emoji-took-over-ai), February 17, 2024
     * [Star polygons in art and culture](https://en.wikipedia.org/wiki/Star_polygons_in_art_and_culture)
+    * [Sparkles emoji](https://en.wikipedia.org/wiki/Sparkles_emoji)
   * [John Bredin](https://storiesofhopeeducation.wordpress.com/)
     * [HASS Professor Bredin embarks on the research of actress Blanche Walsh](https://thestute.com/2024/09/06/hass-professor-bredin-embarks-on-the-research-of-actress-blanche-walsh/), 6 September 2024
     * [Blanche Walsh](https://en.wikipedia.org/wiki/Blanche_Walsh) 1873&mdash;1915
