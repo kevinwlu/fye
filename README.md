@@ -326,6 +326,7 @@
   * [David Vaccari](https://www.stevens.edu/profile/dvaccari), [“The Barbed Quatrefoil Is a 1500-Year-Old Symbol of Architectural Advance”](https://personal.stevens.edu/~dvaccari/Vaccari%20-%20Sancta%20Sophia.pdf)
     * [Quatrefoil](https://en.wikipedia.org/wiki/Quatrefoil)
     * [Pendentive](https://en.wikipedia.org/wiki/Pendentive)
+    * [Star polygons in art and culture](https://en.wikipedia.org/wiki/Star_polygons_in_art_and_culture)
   * [John Bredin](https://storiesofhopeeducation.wordpress.com/)
     * [HASS Professor Bredin embarks on the research of actress Blanche Walsh](https://thestute.com/2024/09/06/hass-professor-bredin-embarks-on-the-research-of-actress-blanche-walsh/), 6 September 2024
     * [Blanche Walsh](https://en.wikipedia.org/wiki/Blanche_Walsh) 1873&mdash;1915
