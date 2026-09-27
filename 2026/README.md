@@ -97,15 +97,15 @@ Interleaved Practice: Mixing Apples and Oranges\
 **What Doesn't Work**\
 Highlighting\
 Rereading\
-**Authors**\
-* [John Dunlosky](https://scholar.google.com/citations?user=u8UPK_cAAAAJ&hl=en)\
-* [Katherine A. Rawson](https://scholar.google.com/citations?user=IHkL3-UAAAAJ&hl=en)\
-  * [Katherine A. Rawson](https://en.wikipedia.org/wiki/Katherine_A._Rawson)\
-  * [Knowledge neglect](https://en.wikipedia.org/wiki/Knowledge_neglect)\
-* [Elizabeth J. Marsh](https://scholar.google.com/citations?user=6Lpzzh4AAAAJ&hl=en)\
-* [Mitchell J. Nathan](https://scholar.google.com/citations?user=a2emA50AAAAJ&hl=en)\
-  [Mitchell J. Nathan](https://en.wikipedia.org/wiki/Mitchell_J._Nathan)\
-* [Daniel T. Willingham](https://en.wikipedia.org/wiki/Daniel_T._Willingham)\
+**Authors**
+* [John Dunlosky](https://scholar.google.com/citations?user=u8UPK_cAAAAJ&hl=en)
+* [Katherine A. Rawson](https://scholar.google.com/citations?user=IHkL3-UAAAAJ&hl=en)
+  * [Katherine A. Rawson](https://en.wikipedia.org/wiki/Katherine_A._Rawson)
+  * [Knowledge neglect](https://en.wikipedia.org/wiki/Knowledge_neglect)
+* [Elizabeth J. Marsh](https://scholar.google.com/citations?user=6Lpzzh4AAAAJ&hl=en)
+* [Mitchell J. Nathan](https://scholar.google.com/citations?user=a2emA50AAAAJ&hl=en)
+  [Mitchell J. Nathan](https://en.wikipedia.org/wiki/Mitchell_J._Nathan)
+* [Daniel T. Willingham](https://en.wikipedia.org/wiki/Daniel_T._Willingham)
   * [*Why Don't Students Like School?*](https://en.wikipedia.org/wiki/Why_Don't_Students_Like_School%3F) 2009
 * [Critical pedagogy](https://en.wikipedia.org/wiki/Critical_pedagogy)
 * [*Pedagogy of the Oppressed*](https://en.wikipedia.org/wiki/Pedagogy_of_the_Oppressed) 1968 by [Paulo Freire](https://en.wikipedia.org/wiki/Paulo_Freire) 1921&mdash;1997\
