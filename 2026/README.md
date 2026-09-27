@@ -136,7 +136,7 @@ the theory of dialogical action and its characteristics: cooperation, unity, org
 * Riyana Phadke, "[The science of studying for finals](https://thestute.com/2024/05/03/the-science-of-studying-for-finals/)," *The Stute*, May 3, 2024
 ## Lesson 4 - Own Your Time: Time Management & Active Learning
 * [*You Got In! Now What?: 100 Insights Into Finding Your Best Life in College*](https://yougotinbook.com/)
-44. Get S'More Out of Life
+44. Get [S'More](https://en.wikipedia.org/wiki/S%27more) Out of Life
 45. Have Your Calendar Reflect Your Values
 ## Unit 2 – Confidence, Ethics, and Belonging (Lessons 5-7): Developing confidence and addressing challenges
 * Growth minset
