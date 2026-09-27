@@ -116,9 +116,9 @@
 * [Donaldo Macedo](https://en.wikipedia.org/wiki/Donaldo_Macedo)
 * [Critical pedagogy](https://en.wikipedia.org/wiki/Critical_pedagogy)
 * [Banking model of education](https://en.wikipedia.org/wiki/Banking_model_of_education)
-* [Problem-posing education](https://en.wikipedia.org/wiki/Problem-posing_education)
+* [Problem-posing education](https://en.wikipedia.org/wiki/Problem-posing_education)\
 **Foreword**
-* [Richard Shaull](https://en.wikipedia.org/wiki/Richard_Shaull) 1919&mdash;2002
+* [Richard Shaull](https://en.wikipedia.org/wiki/Richard_Shaull) 1919&mdash;2002\
 **Chapter 1**\
 The justification for a pedagogy of the oppressed;\
 the contradiction between the oppressors and the oppressed, and how it is overcome;\
