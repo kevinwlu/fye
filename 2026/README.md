@@ -92,9 +92,11 @@
 3. Elaborative Interrogation: Channel Your Inner Four-Year-Old
 4. Self-Explanation: How Do I know
 5. Interleaved Practice: Mixing Apples and Oranges\
+
 **What Doesn't Work**
   * Highlighting
   * Rereading\
+
 **Authors**
   * [John Dunlosky](https://scholar.google.com/citations?user=u8UPK_cAAAAJ&hl=en)
   * [Katherine A. Rawson](https://scholar.google.com/citations?user=IHkL3-UAAAAJ&hl=en)
