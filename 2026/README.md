@@ -110,12 +110,10 @@
   * [Daniel T. Willingham](https://en.wikipedia.org/wiki/Daniel_T._Willingham)
     * [*Why Don't Students Like School?*](https://en.wikipedia.org/wiki/Why_Don't_Students_Like_School%3F) 2009
 ---
-* [*Pedagogy of the Oppressed*](https://en.wikipedia.org/wiki/Pedagogy_of_the_Oppressed) 1968 by [Paulo Freire](https://en.wikipedia.org/wiki/Paulo_Freire) 1921&mdash;1997\
-[PDF](https://files.libcom.org/files/Paulo%20Freire,%20Myra%20Bergman%20Ramos,%20Donaldo%20Macedo%20-%20Pedagogy%20of%20the%20Oppressed,%2030th%20Anniversary%20Edition%20(2000,%20Bloomsbury%20Academic).pdf) pp. 71-73 and pp. 78-81 of Chapter 2
 * [Critical pedagogy](https://en.wikipedia.org/wiki/Critical_pedagogy)
-* [Banking model of education](https://en.wikipedia.org/wiki/Banking_model_of_education)
-* [Problem-posing education](https://en.wikipedia.org/wiki/Problem-posing_education)\
-**Introduction** by [Donaldo Macedo](https://en.wikipedia.org/wiki/Donaldo_Macedo) in 2000
+* [*Pedagogy of the Oppressed*](https://en.wikipedia.org/wiki/Pedagogy_of_the_Oppressed) 1968 by [Paulo Freire](https://en.wikipedia.org/wiki/Paulo_Freire) 1921&mdash;1997\
+[PDF](https://files.libcom.org/files/Paulo%20Freire,%20Myra%20Bergman%20Ramos,%20Donaldo%20Macedo%20-%20Pedagogy%20of%20the%20Oppressed,%2030th%20Anniversary%20Edition%20(2000,%20Bloomsbury%20Academic).pdf) pp. 71-73 and pp. 78-81 of Chapter 2\
+**Introduction** by [Donaldo Macedo](https://en.wikipedia.org/wiki/Donaldo_Macedo) in 2000\
 **Foreword** by [Richard Shaull](https://en.wikipedia.org/wiki/Richard_Shaull) 1919&mdash;2002\
 **Chapter 1**\
 The justification for a pedagogy of the oppressed;\
@@ -124,8 +122,8 @@ oppression and the oppressors;\
 oppression and the oppressed;\
 liberation: not a gift, not a self-achievement, but a mutual process.\
 **Chapter 2**\
-The "banking" concept of education as an instrument of [oppression](https://en.wikipedia.org/wiki/Oppression)–its [presuppositions](https://en.wikipedia.org/wiki/Presupposition)—a critique;\
-the problem-posing concept of education as an instrument for [liberation](https://en.wikipedia.org/wiki/Liberation_psychology)–its presuppositions;\
+The ["banking" concept of education](https://en.wikipedia.org/wiki/Banking_model_of_education) as an instrument of [oppression](https://en.wikipedia.org/wiki/Oppression)–its [presuppositions](https://en.wikipedia.org/wiki/Presupposition)—a critique;\
+the [problem-posing concept of education](https://en.wikipedia.org/wiki/Problem-posing_education) as an instrument for [liberation](https://en.wikipedia.org/wiki/Liberation_psychology)–its presuppositions;\
 the "banking" concept and the teacher-student contradiction;\
 the problem-posing concept and the supersedence of the teacher-student contradiction;\
 education: a mutual process, world-mediated;\
