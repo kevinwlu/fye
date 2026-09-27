@@ -1,6 +1,7 @@
 # First Year Experience (FYE) &mdash; 2026 Fall Semester
 * [*You Got In! Now What?: 100 Insights Into Finding Your Best Life in College*](https://humsci.stanford.edu/feature/you-got-now-what-james-t-hamilton-communication), March 11, 2025
   * [James T. Hamilton](https://profiles.stanford.edu/james-hamilton) is the Vice Provost for Undergraduate Education and the Hearst Professor of Communication and director of the Stanford Journalism Program in the Department of Communication.
+* [Curse of knowledge](https://en.wikipedia.org/wiki/Curse_of_knowledge)
 * [Neurodiversity](https://en.wikipedia.org/wiki/Neurodiversity)
   * [Judy Singer](https://en.wikipedia.org/wiki/Judy_Singer)
   * [Stanford Neurodiversity Project](https://med.stanford.edu/neurodiversity.html)
@@ -13,7 +14,7 @@
 * [Experiential learning](https://en.wikipedia.org/wiki/Experiential_learning) (ExL)
 * [Sitting](https://en.wikipedia.org/wiki/Sitting)
 * [Tooth brushing](https://en.wikipedia.org/wiki/Tooth_brushing)
-## Unit 1
+# Unit 1 – Foundation and Transition (Lessons 1–4): Building Belonging and Navigating College Expectations
 ## Lesson 1 - Purpose & Possibility in College
 * [Jacob Franco-Wadley: A Purpose-Driven Journey at Stevens](https://www.stevens.edu/news/jacob-franco-wadley-a-purpose-driven-journey-at-stevens), 7 October 2024
 * [*The Secret Syllabus: A Guide to the Unwritten Rules of College Success*](https://press.princeton.edu/books/paperback/9780691224428/the-secret-syllabus) 2022
@@ -143,7 +144,7 @@ the theory of dialogical action and its characteristics: cooperation, unity, org
 * [*You Got In! Now What?: 100 Insights Into Finding Your Best Life in College*](https://yougotinbook.com/)
 44. Get [S'More](https://en.wikipedia.org/wiki/S%27more) Out of Life
 45. Have Your Calendar Reflect Your Values
-## Unit 2 – Confidence, Ethics, and Belonging (Lessons 5-7): Developing confidence and addressing challenges
+# Unit 2 – Confidence, Ethics, and Belonging (Lessons 5-7): Developing Confidence and Addressing Challenges
 * Growth minset
 * Academic integrity – focus on AI
 * Imposter syndrome
@@ -161,18 +162,20 @@ Breona Pizzuta, "To the Version of Me Who Started This School Year," *The Stute*
 * "Life Is Not Linear,"
 * "Ditch the Duck Syndrome"
 * *You Got In! Now What?: 100 Insights Into Finding Your Best Life in College*
-## Unit 3
-## Lesson 8 - Academic Planning with Purpose: Preparing for Registration and Beyond
+# Unit 3 – Planning and Resources (Lessons 8–10): Connecting Goals to Practical Pathways
+## Lesson 8 - Academic Planning With Purpose: Preparing for Registration and Beyond
 
 ## Lesson 9 - Balancing It All: Managing Stress and Supporting Your Wellbeing
 
 ## Lesson 10 - Money Matters: Building Financial Confidence in College
 
+# Unit 4 – Beyond the Classroom (Lessons 11–12): Expanding Opportunities and Career Preparation
 ## Lesson 11 - Learning Beyond the Classroom: Exploring Experiential Opportunities at Stevens
 **Designated Peer-Led Moment: Learn by Doing Exercise**
 
 ## Lesson 12 - Your Major as a Foundation, Not a Destination: Career Preparation
 
+# Unit 5 – Reflection and Growth (Lessons 13–14): Showcasing Learning and Looking Forward
 ## Lesson 13 - Showcase Your Growth: Student Presentations and Reflections, Part I
 
 ## Lesson 14 - Showcase Your Growth: Student Presentations and Reflections, Part II
