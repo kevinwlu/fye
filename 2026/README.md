@@ -110,7 +110,7 @@
     * [*Why Don't Students Like School?*](https://en.wikipedia.org/wiki/Why_Don't_Students_Like_School%3F) 2009
 ---
 * [*Pedagogy of the Oppressed*](https://en.wikipedia.org/wiki/Pedagogy_of_the_Oppressed) 1968 by [Paulo Freire](https://en.wikipedia.org/wiki/Paulo_Freire) 1921&mdash;1997
-  * [PDF](https://files.libcom.org/files/Paulo%20Freire,%20Myra%20Bergman%20Ramos,%20Donaldo%20Macedo%20-%20Pedagogy%20of%20the%20Oppressed,%2030th%20Anniversary%20Edition%20(2000,%20Bloomsbury%20Academic).pdf) pp. 71-73 and pp. 78-81 of Chapter 2\
+* [PDF](https://files.libcom.org/files/Paulo%20Freire,%20Myra%20Bergman%20Ramos,%20Donaldo%20Macedo%20-%20Pedagogy%20of%20the%20Oppressed,%2030th%20Anniversary%20Edition%20(2000,%20Bloomsbury%20Academic).pdf) pp. 71-73 and pp. 78-81 of Chapter 2\
 Chapter 1\
 The justification for a pedagogy of the oppressed;\
 the contradiction between the oppressors and the oppressed, and how it is overcome;\
