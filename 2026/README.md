@@ -87,14 +87,14 @@
 * [What Works, What Doesn't](https://www.scientificamerican.com/article/what-works-what-doesn-t/): Some study techniques accelerate learning, whereas others are just a waste of time—but which ones are which? An unprecedented review maps out the best pathways to follow\
 **The Gold Star Winners**
 1. Self-Testing: Quizzing Yourself Gets High Marks
-2. Distributed Practice: For Best Results, Spread Your Study Over Time
+2. Distributed Practice: For Best Results, Spread Your Study Over Time\
 **The Runners-Up**
 3. Elaborative Interrogation: Channel Your Inner Four-Year-Old
 4. Self-Explanation: How Do I know
-5. Interleaved Practice: Mixing Apples and Oranges
+5. Interleaved Practice: Mixing Apples and Oranges\
 **What Doesn't Work**
 1. Highlighting
-2. Rereading
+2. Rereading\
 **Authors**
   * [John Dunlosky](https://scholar.google.com/citations?user=u8UPK_cAAAAJ&hl=en)
   * [Katherine A. Rawson](https://scholar.google.com/citations?user=IHkL3-UAAAAJ&hl=en)
