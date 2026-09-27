@@ -125,8 +125,8 @@ the problem-posing concept and the supersedence of the teacher-student contradic
 education: a mutual process, world-mediated;\
 people as uncompleted beings, conscious of their incompletion, and their attempt to be more fully human.\
 Chapter 3\
-Dialogics—the essence of education as the practice of freedom;\
-[dialogics](https://en.wikipedia.org/wiki/Dialogic) and dialogue;\
+[Dialogics](https://en.wikipedia.org/wiki/Dialogic)—the essence of education as the practice of freedom;\
+dialogics and dialogue;\
 dialogue and the search for program content;\
 the human-world relationship, "generative themes," and the program content of education as the practice of freedom;\
 the investigation of "generative themes" and its methodology;\
