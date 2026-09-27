@@ -85,6 +85,11 @@
 16. Summing Up
 ## Lesson 3 - Study Smarter: Evidence-Based Strategies for Active Learning and Academic Success
 * [What Works, What Doesn't](https://www.scientificamerican.com/article/what-works-what-doesn-t/): Some study techniques accelerate learning, whereas others are just a waste of time—but which ones are which? An unprecedented review maps out the best pathways to follow
+  1. Self-Testing: Quizzing Yourself Gets High Marks
+  1. Distributed Practice: For Best Results, Spread Your Study Over Time
+  1. Elaborative Interrogation: Channel Your Inner Four-Year-Old
+  1. Self-Explanation: How Do I know
+  1. Interleaved Practice: Mixing Apples and Oranges
   * [John Dunlosky](https://scholar.google.com/citations?user=u8UPK_cAAAAJ&hl=en)
   * [Katherine A. Rawson](https://scholar.google.com/citations?user=IHkL3-UAAAAJ&hl=en)
     * [Katherine A. Rawson](https://en.wikipedia.org/wiki/Katherine_A._Rawson)
@@ -126,7 +131,7 @@ cultural synthesis.
 * [*You Got In! Now What?: 100 Insights Into Finding Your Best Life in College*](https://yougotinbook.com/)
 44. Get S'More Out of Life
 45. Have Your Calendar Reflect Your Values
-## Unit 2 
+## Unit 2 – Confidence, Ethics, and Belonging (Lessons 5-7): Developing confidence and addressing challenges
 * Growth minset
 * Academic integrity – focus on AI
 * Imposter syndrome
