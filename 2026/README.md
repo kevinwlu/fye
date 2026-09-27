@@ -112,6 +112,13 @@
 ---
 * [*Pedagogy of the Oppressed*](https://en.wikipedia.org/wiki/Pedagogy_of_the_Oppressed) 1968 by [Paulo Freire](https://en.wikipedia.org/wiki/Paulo_Freire) 1921&mdash;1997
 * [PDF](https://files.libcom.org/files/Paulo%20Freire,%20Myra%20Bergman%20Ramos,%20Donaldo%20Macedo%20-%20Pedagogy%20of%20the%20Oppressed,%2030th%20Anniversary%20Edition%20(2000,%20Bloomsbury%20Academic).pdf) pp. 71-73 and pp. 78-81 of Chapter 2\
+**Introduction** 2000
+* [Donaldo Macedo](https://en.wikipedia.org/wiki/Donaldo_Macedo)
+* [Critical pedagogy](https://en.wikipedia.org/wiki/Critical_pedagogy)
+* [Banking model of education](https://en.wikipedia.org/wiki/Banking_model_of_education)
+* [Problem-posing education](https://en.wikipedia.org/wiki/Problem-posing_education)
+**Foreword**
+* [Richard Shaull](https://en.wikipedia.org/wiki/Richard_Shaull) 1919&mdash;2002
 **Chapter 1**\
 The justification for a pedagogy of the oppressed;\
 the contradiction between the oppressors and the oppressed, and how it is overcome;\
