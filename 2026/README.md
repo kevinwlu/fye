@@ -86,19 +86,17 @@
 15. For Parents: Preparing, Supporting, and Understanding Your Student
 16. Summing Up
 ## Lesson 3 - Study Smarter: Evidence-Based Strategies for Active Learning and Academic Success
-* [What Works, What Doesn't](https://www.scientificamerican.com/article/what-works-what-doesn-t/): Some study techniques accelerate learning, whereas others are just a waste of time—but which ones are which? An unprecedented review maps out the best pathways to follow
-
+* Riyana Phadke, "[The science of studying for finals](https://thestute.com/2024/05/03/the-science-of-studying-for-finals/)," *The Stute*, May 3, 2024
+* [What Works, What Doesn't](https://www.scientificamerican.com/article/what-works-what-doesn-t/): Some study techniques accelerate learning, whereas others are just a waste of time—but which ones are which? An unprecedented review maps out the best pathways to follow\
 **What Works**
 1. Self-Testing: Quizzing Yourself Gets High Marks
 2. Distributed Practice: For Best Results, Spread Your Study Over Time
 3. Elaborative Interrogation: Channel Your Inner Four-Year-Old
 4. Self-Explanation: How Do I know
-5. Interleaved Practice: Mixing Apples and Oranges
-
+5. Interleaved Practice: Mixing Apples and Oranges\
 **What Doesn't Work**
   * Highlighting
-  * Rereading
-
+  * Rereading\
 **Authors**
   * [John Dunlosky](https://scholar.google.com/citations?user=u8UPK_cAAAAJ&hl=en)
   * [Katherine A. Rawson](https://scholar.google.com/citations?user=IHkL3-UAAAAJ&hl=en)
@@ -109,7 +107,6 @@
     * [Mitchell J. Nathan](https://en.wikipedia.org/wiki/Mitchell_J._Nathan)
   * [Daniel T. Willingham](https://en.wikipedia.org/wiki/Daniel_T._Willingham)
     * [*Why Don't Students Like School?*](https://en.wikipedia.org/wiki/Why_Don't_Students_Like_School%3F) 2009
----
 * [Critical pedagogy](https://en.wikipedia.org/wiki/Critical_pedagogy)
 * [*Pedagogy of the Oppressed*](https://en.wikipedia.org/wiki/Pedagogy_of_the_Oppressed) 1968 by [Paulo Freire](https://en.wikipedia.org/wiki/Paulo_Freire) 1921&mdash;1997\
 [PDF](https://files.libcom.org/files/Paulo%20Freire,%20Myra%20Bergman%20Ramos,%20Donaldo%20Macedo%20-%20Pedagogy%20of%20the%20Oppressed,%2030th%20Anniversary%20Edition%20(2000,%20Bloomsbury%20Academic).pdf) pp. 71-73 and pp. 78-81 of Chapter 2\
@@ -140,9 +137,7 @@ the various stages of the investigation.\
 Antidialogics and dialogics as matrices of opposing theories of cultural action: the former as an instrument of oppression and the
 latter as an instrument of liberation;\
 the theory of antidialogical action and its characteristics: conquest, divide and rule, manipulation, and cultural invasion;\
-the theory of dialogical action and its characteristics: cooperation, unity, organization, and cultural synthesis. 
-
-* Riyana Phadke, "[The science of studying for finals](https://thestute.com/2024/05/03/the-science-of-studying-for-finals/)," *The Stute*, May 3, 2024
+the theory of dialogical action and its characteristics: cooperation, unity, organization, and cultural synthesis.
 ## Lesson 4 - Own Your Time: Time Management & Active Learning
 * [*You Got In! Now What?: 100 Insights Into Finding Your Best Life in College*](https://yougotinbook.com/)
 44. Get [S'More](https://en.wikipedia.org/wiki/S%27more) Out of Life
