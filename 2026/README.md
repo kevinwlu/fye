@@ -46,6 +46,7 @@
 17. What Makes You an Appealing Job Candidate? It’s Not What You Think\
 **Conclusion**
 18. The Big Picture, Revisited: If You Remember Just One Lesson Five Years From Now, It’s This …
+
 * [*Reclaiming Purpose: The University in an AI World*](https://www.wiley.com/en-fr/shop/general-introductory-business-management/reclaiming-purpose-the-university-in-an-ai-world-p-9781394407477) by [Paul LeBlanc](https://en.wikipedia.org/wiki/Paul_LeBlanc_(university_president)) 2026
 1. When the World Changed
 2. A Brief History of AI for the Layperson
@@ -135,7 +136,8 @@ action and its characteristics: conquest, divide and rule,
 manipulation, and cultural invasion; the theory of dialogical
 action and its characteristics: cooperation, unity, organization, and
 cultural synthesis. 
-* [The science of studying for finals](https://thestute.com/2024/05/03/the-science-of-studying-for-finals/)
+
+* Riyana Phadke, "[The science of studying for finals](https://thestute.com/2024/05/03/the-science-of-studying-for-finals/)," *The Stute*, May 3, 2024
 ## Lesson 4 - Own Your Time: Time Management & Active Learning
 * [*You Got In! Now What?: 100 Insights Into Finding Your Best Life in College*](https://yougotinbook.com/)
 44. Get S'More Out of Life
