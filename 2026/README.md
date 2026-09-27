@@ -86,6 +86,14 @@
 ## Lesson 3 - Study Smarter: Evidence-Based Strategies for Active Learning and Academic Success
 * [What Works, What Doesn't](https://www.scientificamerican.com/article/what-works-what-doesn-t/): Some study techniques accelerate learning, whereas others are just a waste of time—but which ones are which? An unprecedented review maps out the best pathways to follow
   * [John Dunlosky](https://scholar.google.com/citations?user=u8UPK_cAAAAJ&hl=en)
+  * [Katherine A. Rawson](https://scholar.google.com/citations?user=IHkL3-UAAAAJ&hl=en)
+    * [Katherine A. Rawson](https://en.wikipedia.org/wiki/Katherine_A._Rawson)
+    * [Knowledge neglect](https://en.wikipedia.org/wiki/Knowledge_neglect)
+  * [Elizabeth J. Marsh](https://scholar.google.com/citations?user=6Lpzzh4AAAAJ&hl=en)
+  * [Mitchell J. Nathan](https://scholar.google.com/citations?user=a2emA50AAAAJ&hl=en)
+    * [Mitchell J. Nathan](https://en.wikipedia.org/wiki/Mitchell_J._Nathan)
+  * [Daniel T. Willingham](https://en.wikipedia.org/wiki/Daniel_T._Willingham)
+    * [*Why Don't Students Like School?*](https://en.wikipedia.org/wiki/Why_Don't_Students_Like_School%3F) 2009
 * [*Pedagogy of the Oppressed*](https://en.wikipedia.org/wiki/Pedagogy_of_the_Oppressed) 1968 by [Paulo Freire](https://en.wikipedia.org/wiki/Paulo_Freire) 1921&mdash;1997
   * [PDF](https://files.libcom.org/files/Paulo%20Freire,%20Myra%20Bergman%20Ramos,%20Donaldo%20Macedo%20-%20Pedagogy%20of%20the%20Oppressed,%2030th%20Anniversary%20Edition%20(2000,%20Bloomsbury%20Academic).pdf) pp. 71-73 and pp. 78-81 of Chapter 2
 1. The justification for a pedagogy of the oppressed; the contradiction
