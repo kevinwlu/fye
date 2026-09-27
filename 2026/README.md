@@ -114,30 +114,30 @@ Rereading\
 **Foreword** by [Richard Shaull](https://en.wikipedia.org/wiki/Richard_Shaull) 1919&mdash;2002\
 **Chapter 1**\
 The justification for a pedagogy of the oppressed;\
-the contradiction between the oppressors and the oppressed, and how it is overcome;\
-oppression and the oppressors;\
-oppression and the oppressed;\
-liberation: not a gift, not a self-achievement, but a mutual process.\
+The contradiction between the oppressors and the oppressed, and how it is overcome;\
+[Oppression](https://en.wikipedia.org/wiki/Oppression) and the oppressors;\
+Oppression and the oppressed;\
+[Liberation](https://en.wikipedia.org/wiki/Liberation_psychology): not a gift, not a self-achievement, but a mutual process.\
 **Chapter 2**\
-The ["banking" concept of education](https://en.wikipedia.org/wiki/Banking_model_of_education) as an instrument of [oppression](https://en.wikipedia.org/wiki/Oppression)–its [presuppositions](https://en.wikipedia.org/wiki/Presupposition)—a critique;\
-the [problem-posing concept of education](https://en.wikipedia.org/wiki/Problem-posing_education) as an instrument for [liberation](https://en.wikipedia.org/wiki/Liberation_psychology)–its presuppositions;\
-the "banking" concept and the teacher-student contradiction;\
-the problem-posing concept and the supersedence of the teacher-student contradiction;\
-education: a mutual process, world-mediated;\
-people as uncompleted beings, conscious of their incompletion, and their attempt to be more fully human.\
+The ["banking" concept of education](https://en.wikipedia.org/wiki/Banking_model_of_education) as an instrument of oppression–its [presuppositions](https://en.wikipedia.org/wiki/Presupposition)—a critique;\
+The [problem-posing concept of education](https://en.wikipedia.org/wiki/Problem-posing_education) as an instrument for liberation–its presuppositions;\
+The "banking" concept and the teacher-student contradiction;\
+The problem-posing concept and the supersedence of the teacher-student contradiction;\
+Education: a mutual process, world-mediated;\
+People as uncompleted beings, conscious of their incompletion, and their attempt to be more fully human.\
 **Chapter 3**\
 [Dialogics](https://en.wikipedia.org/wiki/Dialogic)—the essence of education as the practice of freedom;\
-dialogics and dialogue;\
-dialogue and the search for program content;\
-the human-world relationship, "generative themes," and the program content of education as the practice of freedom;\
-the investigation of "generative themes" and its methodology;\
-the awakening of critical consciousness through the investigation of "generative themes";\
-the various stages of the investigation.\
+Dialogics and dialogue;\
+Dialogue and the search for program content;\
+The human-world relationship, "generative themes," and the program content of education as the practice of freedom;\
+The investigation of "generative themes" and its methodology;\
+The awakening of critical consciousness through the investigation of "generative themes";\
+The various stages of the investigation.\
 **Chapter 4**\
 Antidialogics and dialogics as matrices of opposing theories of cultural action: the former as an instrument of oppression and the
 latter as an instrument of liberation;\
-the theory of antidialogical action and its characteristics: conquest, divide and rule, manipulation, and cultural invasion;\
-the theory of dialogical action and its characteristics: cooperation, unity, organization, and cultural synthesis.
+The theory of antidialogical action and its characteristics: conquest, divide and rule, manipulation, and cultural invasion;\
+The theory of dialogical action and its characteristics: cooperation, unity, organization, and cultural synthesis.
 ## Lesson 4 - Own Your Time: Time Management & Active Learning
 * [*You Got In! Now What?: 100 Insights Into Finding Your Best Life in College*](https://yougotinbook.com/)
 44. Get [S'More](https://en.wikipedia.org/wiki/S%27more) Out of Life
