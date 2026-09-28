@@ -146,7 +146,9 @@ The theory of dialogical action and its characteristics: cooperation, unity, org
 * Growth minset
 * Academic integrity – focus on AI
 * Imposter syndrome
-* [*The Discussion Book: 50 Great Ways to Get People Talking*](https://www.wiley.com/en-us/shop/general-introductory-business-management/the-discussion-book-50-great-ways-to-get-people-talking-p-9781119049715)
+* [*The Discussion Book: 50 Great Ways to Get People Talking*](https://www.wiley.com/en-us/shop/general-introductory-business-management/the-discussion-book-50-great-ways-to-get-people-talking-p-9781119049715) 2016
+  * [Stephen D. Brookfield](https://en.wikipedia.org/wiki/Stephen_Brookfield)
+  * [Stephen Preskill](https://scholar.google.com/citations?user=JAb2Y-AAAAAJ&hl=en)
 ## Lesson 5 - Fail Forward: How Setbacks Strengthen Success
 Breona Pizzuta, "To the Version of Me Who Started This School Year," *The Stute*
 ## Lesson 6 - Doing the Right Thing: Ethics and Integrity in Academic Life
