@@ -99,6 +99,8 @@
   * [Chi Epsilon](https://en.wikipedia.org/wiki/Chi_Epsilon) (XE) founded in 1922
   * [Engineers Without Borders](https://en.wikipedia.org/wiki/Engineers_Without_Borders) (EWB) 
   * [Institute of Electrical and Electronics Engineers](https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers) (IEEE)
+    * [American Institute of Electrical Engineers](https://en.wikipedia.org/wiki/American_Institute_of_Electrical_Engineers) 1884&mdash;1962
+    * [Institute of Radio Engineers](https://en.wikipedia.org/wiki/Institute_of_Radio_Engineers) 1912&mdash;1962
     * [Eta Kappa Nu](https://en.wikipedia.org/wiki/Eta_Kappa_Nu) (HKN) was founded on October 28, 1904
     * [Industry Newsletter](https://www.ieee.org/about/industry/newsletter)
     * [Keyboard Typing Marathon](https://ieeektm.org/) (KTM)
