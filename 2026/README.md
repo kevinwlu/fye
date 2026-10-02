@@ -145,6 +145,7 @@ The theory of dialogical action and its characteristics: cooperation, unity, org
 * [Stanford marshmallow experiment](https://en.wikipedia.org/wiki/Stanford_marshmallow_experiment) 1970
 45. Have Your Calendar Reflect Your Values
 * [Simone Stolzoff](https://simonestolzoff.com/)
+* [Nir Eyal](https://en.wikipedia.org/wiki/Nir_Eyal)
 # Unit 2 – Confidence, Ethics, and Belonging (Lessons 5-7): Developing Confidence and Addressing Challenges
 * Growth minset
 * Academic integrity – focus on AI
