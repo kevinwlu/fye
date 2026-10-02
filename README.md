@@ -376,6 +376,7 @@
     * [Gall wasp](https://en.wikipedia.org/wiki/Gall_wasp)
     * [Oak apple](https://en.wikipedia.org/wiki/Oak_apple)
   * [Alexander Calder](https://en.wikipedia.org/wiki/Alexander_Calder) 1898&mdash;1976, Class of 1919
+    * [Enduring Flight: Alexander Calder](https://www.stevens.edu/indicator/spring-2026/enduring-flight-alexander-calder)
     * [Before He Became an Iconic Artist, Alexander Calder Embraced Campus Life at Stevens](https://www.stevens.edu/news/he-became-iconic-artist-alexander-calder-embraced-campus-life-stevens)
     * [The Stevens Mobile](https://calder.org/works/hanging-mobile/the-stevens-mobile-1970/) 1970
     * [Hard to Swallow](https://calder.org/works/monumental-sculpture/hard-to-swallow-1966/) 1966
