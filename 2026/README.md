@@ -141,7 +141,10 @@ The theory of dialogical action and its characteristics: cooperation, unity, org
 ## Lesson 4 - Own Your Time: Time Management & Active Learning
 * [*You Got In! Now What?: 100 Insights Into Finding Your Best Life in College*](https://yougotinbook.com/)
 44. Get [S'More](https://en.wikipedia.org/wiki/S%27more) Out of Life
+* [Walter Mischel](https://en.wikipedia.org/wiki/Walter_Mischel) 1930&mdash;2018
+* [Stanford marshmallow experiment](https://en.wikipedia.org/wiki/Stanford_marshmallow_experiment) 1970
 45. Have Your Calendar Reflect Your Values
+* [Simone Stolzoff](https://simonestolzoff.com/)
 # Unit 2 – Confidence, Ethics, and Belonging (Lessons 5-7): Developing Confidence and Addressing Challenges
 * Growth minset
 * Academic integrity – focus on AI
