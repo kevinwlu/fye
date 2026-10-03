@@ -140,9 +140,10 @@ The theory of antidialogical action and its characteristics: conquest, divide an
 The theory of dialogical action and its characteristics: cooperation, unity, organization, and cultural synthesis.
 ## Lesson 4 - Own Your Time: Time Management & Active Learning
 * [*You Got In! Now What?: 100 Insights Into Finding Your Best Life in College*](https://yougotinbook.com/)
-44. Get [S'More](https://en.wikipedia.org/wiki/S%27more) Out of Life
+44. Get [S'More](https://en.wikipedia.org/wiki/S%27more) out of Life
 * [Walter Mischel](https://en.wikipedia.org/wiki/Walter_Mischel) 1930&mdash;2018
-* [Stanford marshmallow experiment](https://en.wikipedia.org/wiki/Stanford_marshmallow_experiment) 1970
+* [Stanford marshmallow experiment](https://en.wikipedia.org/wiki/Stanford_marshmallow_experiment) 1970]
+* [Delayed gratification](https://en.wikipedia.org/wiki/Delayed_gratification)
 45. Have Your Calendar Reflect Your Values
 * [Simone Stolzoff](https://simonestolzoff.com/)
 * [Nir Eyal](https://en.wikipedia.org/wiki/Nir_Eyal)
