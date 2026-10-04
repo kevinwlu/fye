@@ -144,6 +144,7 @@ The theory of dialogical action and its characteristics: cooperation, unity, org
 * [Walter Mischel](https://en.wikipedia.org/wiki/Walter_Mischel) 1930&mdash;2018
 * [Stanford marshmallow experiment](https://en.wikipedia.org/wiki/Stanford_marshmallow_experiment) 1970]
 * [Delayed gratification](https://en.wikipedia.org/wiki/Delayed_gratification)
+* [Grit (personality trait)](https://en.wikipedia.org/wiki/Grit_(personality_trait))
 45. Have Your Calendar Reflect Your Values
 * [Simone Stolzoff](https://simonestolzoff.com/)
 * [Nir Eyal](https://en.wikipedia.org/wiki/Nir_Eyal)
