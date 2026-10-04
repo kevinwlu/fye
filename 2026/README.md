@@ -148,6 +148,7 @@ The theory of dialogical action and its characteristics: cooperation, unity, org
 45. Have Your Calendar Reflect Your Values
 * [Simone Stolzoff](https://simonestolzoff.com/)
 * [Nir Eyal](https://en.wikipedia.org/wiki/Nir_Eyal)
+* [SMART criteria](https://en.wikipedia.org/wiki/SMART_criteria): Specific, Measurable, Achievable, Relevant, and Time-Bound
 # Unit 2 – Confidence, Ethics, and Belonging (Lessons 5-7): Developing Confidence and Addressing Challenges
 * Growth minset
 * Academic integrity – focus on AI
