@@ -350,6 +350,8 @@
   * [James Buchanan Pierce](https://stevensarchives.contentdm.oclc.org/digital/collection/StevensNP01/id/9757/) 1856&mdash;1928, Class of 1877
     * [Pierce Dining Hall](https://dineoncampus.com/stevensdining/pierce-dining-hall)
     * [General James Pierce](https://bissella9.wordpress.com/tag/general-james-pierce/) 1810&mdash;1874
+    * [Franklin Pierce](https://en.wikipedia.org/wiki/Franklin_Pierce) 1804&mdash;1869
+    * [Barbara Bush](https://en.wikipedia.org/wiki/Barbara_Bush) 1925&mdash;2018
   * [John W. Lieb](https://en.wikipedia.org/wiki/John_W._Lieb) 1860&mdash;1929, Class of 1880
     * [John W. Lieb Memorial Collection of Leonardo da Vinci](https://library.stevens.edu/specialcollections)
   * [Alexander Crombie Humphreys](https://en.wikipedia.org/wiki/Alexander_Crombie_Humphreys) 1851&mdash;1927, Class of 1881
