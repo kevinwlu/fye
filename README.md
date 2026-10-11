@@ -106,8 +106,10 @@
     * [Keyboard Typing Marathon](https://ieeektm.org/) (KTM)
     * [Micromouse](https://en.wikipedia.org/wiki/Micromouse)
       * [Veritasium | The Fastest Maze-Solving Competition On Earth](https://www.youtube.com/watch?v=ZMQbHMgK2rw)
+         * [Theseus](https://en.wikipedia.org/wiki/Theseus)
       * [Stevens 2025](https://drive.google.com/file/d/1pMl4TA4fiMl4wBo93n7kcLAfUSpiUG2u/view)
       * [Stevens 2026](https://drive.google.com/drive/folders/1AkzKY6WTHPH2oUAlo7DIiQ3C7wjxkKvA)
+      * [Micromouse 3D](https://github.com/Zggis/micromouse-3d)
     * [Student Professional Awareness](https://students.ieee.org/student-opportunities/professional-awareness/) (SPAx)
       * [YouTube video](https://www.youtube.com/watch?v=Qol4tNFu9yA)
     * [To Make More Engineers, We’ll Need More Than Robots](https://transmitter.ieee.org/to-make-more-engineers-well-need-more-than-robots/) by [Sarah Kate Wilson](https://en.wikipedia.org/wiki/Sarah_Kate_Wilson), February 19, 2026
