@@ -157,8 +157,10 @@ The theory of dialogical action and its characteristics: cooperation, unity, org
   * [Stephen D. Brookfield](https://en.wikipedia.org/wiki/Stephen_Brookfield)
   * [Stephen Preskill](https://scholar.google.com/citations?user=JAb2Y-AAAAAJ&hl=en)
 ## Lesson 5 - Fail Forward: How Setbacks Strengthen Success
-* [The power of believing that you can improve](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve), TEDxNorrkoping, November 2014
+* [The Power of Believing That You Can Improve](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve), TEDxNorrkoping, November 2014
   * [Carol Dweck](https://en.wikipedia.org/wiki/Carol_Dweck)
+  * [TED (conference)](https://en.wikipedia.org/wiki/TED_(conference)): Technology, Entertainment, Design
+  * [Norrköping](https://en.wikipedia.org/wiki/Norrk%C3%B6ping)
 * Breona Pizzuta, ["To the Version of Me Who Started This School Year,"](https://thestute.com/2026/05/01/to-the-version-of-me-who-started-this-school-year/) *The Stute*, May 1, 2026
 ## Lesson 6 - Doing the Right Thing: Ethics and Integrity in Academic Life
 * ["The Ones Who Walk Away From Omelas"](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas)
