@@ -157,12 +157,37 @@ The theory of dialogical action and its characteristics: cooperation, unity, org
   * [Stephen D. Brookfield](https://en.wikipedia.org/wiki/Stephen_Brookfield)
   * [Stephen Preskill](https://scholar.google.com/citations?user=JAb2Y-AAAAAJ&hl=en)
 ## Lesson 5 - Fail Forward: How Setbacks Strengthen Success
-Breona Pizzuta, "To the Version of Me Who Started This School Year," *The Stute*
+* [The power of believing that you can improve](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve), TEDxNorrkoping, November 2014
+  * [Carol Dweck](https://en.wikipedia.org/wiki/Carol_Dweck)
+* Breona Pizzuta, ["To the Version of Me Who Started This School Year,"](https://thestute.com/2026/05/01/to-the-version-of-me-who-started-this-school-year/) *The Stute*, May 1, 2026
+
 ## Lesson 6 - Doing the Right Thing: Ethics and Integrity in Academic Life
-* Ursula K. Le Guin's "The Ones Who Walk Away From Omelas"
-* "The Human Art of Writing"
-* "Transforming Education"
-* *Modern-Day Oracles or Bullshit Machines?*
+* ["The Ones Who Walk Away From Omelas"](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas)
+  * [Ursula Kroeber Le Guin](https://en.wikipedia.org/wiki/Ursula_K._Le_Guin) 1929&mdash;2018
+* [*Modern-Day Oracles or Bullshit Machines? How to Thrive in a ChatGPT World*](https://thebullshitmachines.com/)
+  * [Carl T. Bergstrom](https://en.wikipedia.org/wiki/Carl_Bergstrom)
+    * [Google Scholar](https://scholar.google.com/citations?user=upKiqHMAAAAJ&hl=en)
+  * [Jevin D. West](https://jevinwest.org/)
+    * [Google Scholar](https://scholar.google.com/citations?user=db5ZPlkAAAAJ&hl=en)
+  * Introduction: How to Thrive in a ChatGPT World
+  * Lesson 1: Autocomplete in Overdrive
+  * Lesson 2: The Nature of Bullshit
+  * Lesson 3: Turing Tests and Bullshit Benchmarks
+  * Lesson 4: Computers Tou Can Talk To
+  * Lesson 5: Hard to Understand, Harder to Fix
+  * Lesson 6: No, They ARen't Doing That!
+  * Lesson 7: From Voice Cloning to Shrimp Jesus
+  * Lesson 8: Poisonous Mushrooms and Doggie Passports
+  * Lesson 9: Blue Links Matter
+  * **Lesson 10: The Human Art of Writing**
+  * **Lesson 11: Transforming Education**
+  * Lesson 12: The AI Scientist
+  * Lesson 13: Bullshit Machines for Bullshit Work
+  * Lesson 14: Authenticity
+  * Lesson 15: Artificial Intelligence and Human Stupidity
+  * Lesson 16: The First-Step Fallacy
+  * Lesson 17: Your Own Private Truman Show
+  * Lesson 18: Democracy
 ## Lesson 7 - You Belong Here: Navigating Imposter Feelings Through Connection and Compassion
 **Designated Peer-Led Moment: Imposter Syndrome Article**
 * "Everyone Feels Like an Imposter,"
