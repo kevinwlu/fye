@@ -165,6 +165,7 @@ The theory of dialogical action and its characteristics: cooperation, unity, org
 ## Lesson 6 - Doing the Right Thing: Ethics and Integrity in Academic Life
 * ["The Ones Who Walk Away From Omelas"](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas)
   * [Ursula Kroeber Le Guin](https://en.wikipedia.org/wiki/Ursula_K._Le_Guin) 1929&mdash;2018
+  * [Salem, Oregon](https://en.wikipedia.org/wiki/Salem,_Oregon)
 * [*Modern-Day Oracles or Bullshit Machines?*](https://thebullshitmachines.com/)
   * [Carl T. Bergstrom](https://en.wikipedia.org/wiki/Carl_Bergstrom)
     * [Google Scholar](https://scholar.google.com/citations?user=upKiqHMAAAAJ&hl=en)
