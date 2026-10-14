@@ -171,14 +171,16 @@ The theory of dialogical action and its characteristics: cooperation, unity, org
     * [Google Scholar](https://scholar.google.com/citations?user=upKiqHMAAAAJ&hl=en)
   * [Jevin D. West](https://jevinwest.org/)
     * [Google Scholar](https://scholar.google.com/citations?user=db5ZPlkAAAAJ&hl=en)
+  * [Bullshit](https://en.wikipedia.org/wiki/Bullshit)
   * Introduction: How to Thrive in a ChatGPT World
-  * Lesson 1: Autocomplete in Overdrive
+  * Lesson 1: [Autocomplete](https://en.wikipedia.org/wiki/Autocomplete) in [Overdrive](https://en.wikipedia.org/wiki/Overdrive_(mechanics))
   * Lesson 2: The Nature of Bullshit
   * Lesson 3: Turing Tests and Bullshit Benchmarks
-  * Lesson 4: Computers Tou Can Talk To
+  * Lesson 4: Computers You Can Talk To
   * Lesson 5: Hard to Understand, Harder to Fix
-  * Lesson 6: No, They ARen't Doing That!
+  * Lesson 6: No, They Aren't Doing That!
   * Lesson 7: From Voice Cloning to Shrimp Jesus
+    * [AI slop](https://en.wikipedia.org/wiki/AI_slop)
   * Lesson 8: Poisonous Mushrooms and Doggie Passports
   * Lesson 9: Blue Links Matter
   * **Lesson 10: The Human Art of Writing**
@@ -187,8 +189,8 @@ The theory of dialogical action and its characteristics: cooperation, unity, org
   * Lesson 13: Bullshit Machines for Bullshit Work
   * Lesson 14: Authenticity
   * Lesson 15: Artificial Intelligence and Human Stupidity
-  * Lesson 16: The First-Step Fallacy
-  * Lesson 17: Your Own Private Truman Show
+  * Lesson 16: The First-Step [Fallacy](https://en.wikipedia.org/wiki/Fallacy)
+  * Lesson 17: Your Own Private [Truman Show](https://en.wikipedia.org/wiki/The_Truman_Show)
   * Lesson 18: Democracy
 ## Lesson 7 - You Belong Here: Navigating Imposter Feelings Through Connection and Compassion
 **Designated Peer-Led Moment: Imposter Syndrome Article**
