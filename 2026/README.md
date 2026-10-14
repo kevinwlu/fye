@@ -15,7 +15,7 @@
 * [Sitting](https://en.wikipedia.org/wiki/Sitting)
 * [Tooth brushing](https://en.wikipedia.org/wiki/Tooth_brushing)
 # Unit 1 – Foundation and Transition (Lessons 1–4): Building Belonging and Navigating College Expectations
-## Lesson 1 - Purpose & Possibility in College
+## Lesson 1 - Purpose and Possibility in College
 * [Jacob Franco-Wadley: A Purpose-Driven Journey at Stevens](https://www.stevens.edu/news/jacob-franco-wadley-a-purpose-driven-journey-at-stevens), 7 October 2024
 * [*The Secret Syllabus: A Guide to the Unwritten Rules of College Success*](https://press.princeton.edu/books/paperback/9780691224428/the-secret-syllabus) 2022
   * [Jay Phelan](https://lifeboat.com/ex/bios.jay.phelan) received his PhD in biology from Harvard University and is on the life sciences faculty at UCLA. He is the author of *What Is Life? A Guide to Biology* and (with Terry Burnham) the international bestseller *Mean Genes* (2001).
@@ -138,7 +138,7 @@ Antidialogics and dialogics as matrices of opposing theories of cultural action:
 latter as an instrument of liberation;\
 The theory of antidialogical action and its characteristics: conquest, divide and rule, manipulation, and cultural invasion;\
 The theory of dialogical action and its characteristics: cooperation, unity, organization, and cultural synthesis.
-## Lesson 4 - Own Your Time: Time Management & Active Learning
+## Lesson 4 - Own Your Time: Time Management and Active Learning
 * [*You Got In! Now What?: 100 Insights Into Finding Your Best Life in College*](https://yougotinbook.com/)
 44. Get [S'More](https://en.wikipedia.org/wiki/S%27more) out of Life
 * [Walter Mischel](https://en.wikipedia.org/wiki/Walter_Mischel) 1930&mdash;2018
@@ -197,6 +197,7 @@ The theory of dialogical action and its characteristics: cooperation, unity, org
 * "Everyone Feels Like an Imposter,"
 * "Life Is Not Linear,"
 * "Ditch the Duck Syndrome"
+  * [Imprinting (psychology)](https://en.wikipedia.org/wiki/Imprinting_(psychology))
 * *You Got In! Now What?: 100 Insights Into Finding Your Best Life in College*
 # Unit 3 – Planning and Resources (Lessons 8–10): Connecting Goals to Practical Pathways
 ## Lesson 8 - Academic Planning With Purpose: Preparing for Registration and Beyond
