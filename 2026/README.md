@@ -210,7 +210,8 @@ The theory of dialogical action and its characteristics: cooperation, unity, org
 * Rest, play
 * [The Quiet Space](https://stage2.stevens.edu/student-life/office-of-student-culture-belonging/spirituality/quiet-space)
 * [5-4-3-2-1 Coping Technique for Anxiety](https://www.urmc.rochester.edu/behavioral-health-partners/bhp-blog/april-2018/5-4-3-2-1-coping-technique-for-anxiety)
-* [Headspace Student Plan](https://www.headspace.com/studentplan)
+* [Headspace (company)](https://en.wikipedia.org/wiki/Headspace_(company))
+  * [Headspace Student Plan](https://www.headspace.com/studentplan)
 ## Lesson 10 - Money Matters: Building Financial Confidence in College
 
 # Unit 4 – Beyond the Classroom (Lessons 11–12): Expanding Opportunities and Career Preparation
