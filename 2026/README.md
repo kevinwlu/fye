@@ -200,10 +200,17 @@ The theory of dialogical action and its characteristics: cooperation, unity, org
   * [Imprinting (psychology)](https://en.wikipedia.org/wiki/Imprinting_(psychology))
 * *You Got In! Now What?: 100 Insights Into Finding Your Best Life in College*
 # Unit 3 – Planning and Resources (Lessons 8–10): Connecting Goals to Practical Pathways
+* Helping students build the skills to deal with real-life chanllenges that can affect their ability to 
 ## Lesson 8 - Academic Planning With Purpose: Preparing for Registration and Beyond
-
+* Pre-reading "Question Yourself: I like, I Wish, What If?"
+* Walk through the process of academic planning and registration
+* Opportunity to make connections to previous lesson on time management (planning a realistic week)
 ## Lesson 9 - Balancing It All: Managing Stress and Supporting Your Wellbeing
-
+* Pre-readings challenge "the grind mindset or that college requires constant productivity ("Do Nothing" and "Don't Grind")
+* Rest, play
+* [The Quiet Space](https://stage2.stevens.edu/student-life/office-of-student-culture-belonging/spirituality/quiet-space)
+* [5-4-3-2-1 Coping Technique for Anxiety](https://www.urmc.rochester.edu/behavioral-health-partners/bhp-blog/april-2018/5-4-3-2-1-coping-technique-for-anxiety)
+* [Headspace Student Plan](https://www.headspace.com/studentplan)
 ## Lesson 10 - Money Matters: Building Financial Confidence in College
 
 # Unit 4 – Beyond the Classroom (Lessons 11–12): Expanding Opportunities and Career Preparation
