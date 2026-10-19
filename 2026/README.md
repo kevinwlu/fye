@@ -180,15 +180,29 @@ The theory of dialogical action and its characteristics: cooperation, unity, org
     * [Turing test](https://en.wikipedia.org/wiki/Turing_test)
     * [ELIZA effect](https://en.wikipedia.org/wiki/ELIZA_effect) 
   * Lesson 4: Computers You Can Talk To
+    * [Macintosh 128K](https://en.wikipedia.org/wiki/Macintosh_128K)
+    * [Commodore PET](https://en.wikipedia.org/wiki/Commodore_PET)
   * Lesson 5: Hard to Understand, Harder to Fix
   * Lesson 6: No, They Aren't Doing That!
+    * [*Memento* (film)](https://en.wikipedia.org/wiki/Memento_(film))
   * Lesson 7: From Voice Cloning to Shrimp Jesus
+    * [Pig butchering scam](https://en.wikipedia.org/wiki/Pig_butchering_scam)
     * [AI slop](https://en.wikipedia.org/wiki/AI_slop)
+    * [Sludge content](https://en.wikipedia.org/wiki/Sludge_content)
   * Lesson 8: Poisonous Mushrooms and Doggie Passports
   * Lesson 9: Blue Links Matter
+    * [*GeoGuessr*](https://en.wikipedia.org/wiki/GeoGuessr)
+    * [Exchangeable image file format](https://en.wikipedia.org/wiki/Exif) (Exif)
   * **Lesson 10: The Human Art of Writing**
+    * [*One Hundred Years of Solitude*](https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude)
   * **Lesson 11: Transforming Education**
+    * [Functional fixedness](https://en.wikipedia.org/wiki/Functional_fixedness)
+    * [Anchoring effect](https://en.wikipedia.org/wiki/Anchoring_effect)
   * Lesson 12: The AI Scientist
+    * [Dendral](https://en.wikipedia.org/wiki/Dendral)
+    * [Dendrite](https://en.wikipedia.org/wiki/Dendrite)
+    * [Sakana AI](https://en.wikipedia.org/wiki/Sakana_AI)
+    * [Cargo cult](https://en.wikipedia.org/wiki/Cargo_cult)
   * Lesson 13: Bullshit Machines for Bullshit Work
   * Lesson 14: Authenticity
   * Lesson 15: Artificial Intelligence and Human Stupidity
