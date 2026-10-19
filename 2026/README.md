@@ -204,6 +204,7 @@ The theory of dialogical action and its characteristics: cooperation, unity, org
     * [Functional fixedness](https://en.wikipedia.org/wiki/Functional_fixedness)
     * [Anchoring effect](https://en.wikipedia.org/wiki/Anchoring_effect)
     * [Einstellung effect](https://en.wikipedia.org/wiki/Einstellung_effect)
+    * [Water pouring puzzle](https://en.wikipedia.org/wiki/Water_pouring_puzzle)
   * Lesson 12: The AI Scientist
     * [Dendral](https://en.wikipedia.org/wiki/Dendral)
     * [Dendrite](https://en.wikipedia.org/wiki/Dendrite)
