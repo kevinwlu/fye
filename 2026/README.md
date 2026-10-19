@@ -185,6 +185,7 @@ The theory of dialogical action and its characteristics: cooperation, unity, org
     * [Macintosh 128K](https://en.wikipedia.org/wiki/Macintosh_128K)
     * [Commodore PET](https://en.wikipedia.org/wiki/Commodore_PET)
   * Lesson 5: Hard to Understand, Harder to Fix
+    * [Reinforcement learning from human feedback](https://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback) (RLHF)
     * [List of AI-assisted software development tools](https://en.wikipedia.org/wiki/List_of_AI-assisted_software_development_tools)
   * Lesson 6: No, They Aren't Doing That!
     * [*Memento* (film)](https://en.wikipedia.org/wiki/Memento_(film))
