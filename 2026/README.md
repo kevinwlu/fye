@@ -173,16 +173,19 @@ The theory of dialogical action and its characteristics: cooperation, unity, org
     * [Google Scholar](https://scholar.google.com/citations?user=db5ZPlkAAAAJ&hl=en)
   * [Bullshit](https://en.wikipedia.org/wiki/Bullshit)
   * Introduction: How to Thrive in a ChatGPT World
+    * [Oracle](https://en.wikipedia.org/wiki/Oracle)
   * Lesson 1: [Autocomplete](https://en.wikipedia.org/wiki/Autocomplete) in [Overdrive](https://en.wikipedia.org/wiki/Overdrive_(mechanics))
   * Lesson 2: The Nature of Bullshit
     * [Brandolini's law](https://en.wikipedia.org/wiki/Brandolini%27s_law)
   * Lesson 3: Turing Tests and Bullshit Benchmarks
+    * Anthropoglossic
     * [Turing test](https://en.wikipedia.org/wiki/Turing_test)
     * [ELIZA effect](https://en.wikipedia.org/wiki/ELIZA_effect) 
   * Lesson 4: Computers You Can Talk To
     * [Macintosh 128K](https://en.wikipedia.org/wiki/Macintosh_128K)
     * [Commodore PET](https://en.wikipedia.org/wiki/Commodore_PET)
   * Lesson 5: Hard to Understand, Harder to Fix
+    * [List of AI-assisted software development tools](https://en.wikipedia.org/wiki/List_of_AI-assisted_software_development_tools)
   * Lesson 6: No, They Aren't Doing That!
     * [*Memento* (film)](https://en.wikipedia.org/wiki/Memento_(film))
   * Lesson 7: From Voice Cloning to Shrimp Jesus
@@ -190,6 +193,7 @@ The theory of dialogical action and its characteristics: cooperation, unity, org
     * [AI slop](https://en.wikipedia.org/wiki/AI_slop)
     * [Sludge content](https://en.wikipedia.org/wiki/Sludge_content)
   * Lesson 8: Poisonous Mushrooms and Doggie Passports
+    * [AI safety](https://en.wikipedia.org/wiki/AI_safety)
   * Lesson 9: Blue Links Matter
     * [*GeoGuessr*](https://en.wikipedia.org/wiki/GeoGuessr)
     * [Exchangeable image file format](https://en.wikipedia.org/wiki/Exif) (Exif)
@@ -204,11 +208,23 @@ The theory of dialogical action and its characteristics: cooperation, unity, org
     * [Sakana AI](https://en.wikipedia.org/wiki/Sakana_AI)
     * [Cargo cult](https://en.wikipedia.org/wiki/Cargo_cult)
   * Lesson 13: Bullshit Machines for Bullshit Work
+    * [Anodyne](https://en.wikipedia.org/wiki/Anodyne)
+    * [David Graeber](https://en.wikipedia.org/wiki/David_Graeber), [*Bullshit Jobs: A Theory*](https://en.wikipedia.org/wiki/Bullshit_Jobs) 2018
   * Lesson 14: Authenticity
+    * [Fable](https://en.wikipedia.org/wiki/Fable)
+    * [Ted Chiang](https://en.wikipedia.org/wiki/Ted_Chiang)
   * Lesson 15: Artificial Intelligence and Human Stupidity
   * Lesson 16: The First-Step [Fallacy](https://en.wikipedia.org/wiki/Fallacy)
+    * [Model collapse](https://en.wikipedia.org/wiki/Model_collapse)
+    * [Retrieval-augmented generation](https://en.wikipedia.org/wiki/Retrieval-augmented_generation) (RAG)
   * Lesson 17: Your Own Private [Truman Show](https://en.wikipedia.org/wiki/The_Truman_Show)
+    * [Simulacrum](https://en.wikipedia.org/wiki/Simulacrum)
   * Lesson 18: Democracy
+    * [Net neutrality](https://en.wikipedia.org/wiki/Net_neutrality)
+    * [Man-in-the-middle attack](https://en.wikipedia.org/wiki/Man-in-the-middle_attack) (MITM)
+    * [Firehose of falsehood](https://en.wikipedia.org/wiki/Firehose_of_falsehood)
+    * [Garry Kasparov](https://en.wikipedia.org/wiki/Garry_Kasparov)
+  * Instructor Guide
 ## Lesson 7 - You Belong Here: Navigating Imposter Feelings Through Connection and Compassion
 **Designated Peer-Led Moment: Imposter Syndrome Article**
 * "Everyone Feels Like an Imposter,"
