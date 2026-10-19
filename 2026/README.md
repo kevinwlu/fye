@@ -175,7 +175,10 @@ The theory of dialogical action and its characteristics: cooperation, unity, org
   * Introduction: How to Thrive in a ChatGPT World
   * Lesson 1: [Autocomplete](https://en.wikipedia.org/wiki/Autocomplete) in [Overdrive](https://en.wikipedia.org/wiki/Overdrive_(mechanics))
   * Lesson 2: The Nature of Bullshit
+    * [Brandolini's law](https://en.wikipedia.org/wiki/Brandolini%27s_law)
   * Lesson 3: Turing Tests and Bullshit Benchmarks
+    * [Turing test](https://en.wikipedia.org/wiki/Turing_test)
+    * [ELIZA effect](https://en.wikipedia.org/wiki/ELIZA_effect) 
   * Lesson 4: Computers You Can Talk To
   * Lesson 5: Hard to Understand, Harder to Fix
   * Lesson 6: No, They Aren't Doing That!
