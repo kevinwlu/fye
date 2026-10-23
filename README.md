@@ -403,10 +403,15 @@
   * [William R. Cuming](https://www.legacy.com/us/obituaries/legacyremembers/william-cuming-obituary?id=24193575) 1921&mdash;2009, Class of 1942
   * [Art Francis](https://stevensarchives.contentdm.oclc.org/digital/collection/StevensNP02/id/33261), Class of 1942
   * [Thomas James Hattrick](https://web.stevens.edu/khoda/alumni/1940.html), Class of 1942
-  * [William J. Canavan Jr.](https://www.nytimes.com/2000/07/24/classified/paid-notice-deaths-canavan-william-john-jr.html) 1922&mdash;2000, Class of 1944
+  * [William J. Canavan Jr.](https://www.nytimes.com/2000/07/24/classified/paid-notice-deaths-canavan-william-john-jr.html) 1922&mdash;2000, Class of 1944 
   * [Wesley J. Howe](https://www.nytimes.com/2002/04/19/business/wesley-howe-80-becton-dickinson-chief.html) 1922&mdash;2002, Class of 1951/1953
+    * [Stevens Board of Trustees 1991](https://stevensarchives.contentdm.oclc.org/digital/collection/StevensYB01/id/26384/)
   * [Kenneth DeBaun](https://www.pressdemocrat.com/article/news/obituary-kenneth-debaun/) 1927&mdash;2010, Class of 1949
     * [History of DeBaun Auditorium](https://www.stevens.edu/history-of-debaun-auditorium)
+  * [Leo C. Cunniff](https://stevensarchives.contentdm.oclc.org/digital/collection/StevensNP02/id/34447/) 1926&mdash;1996, Class of 1950
+    * [Edwin A. Stevens Building](https://www.historypin.org/collections/20365/)
+    * [The Stevens Indicator, Fall 1990](https://stevensarchives.contentdm.oclc.org/digital/collection/StevensNP02/id/31536/)
+    * [Memorial](https://www.findagrave.com/memorial/128551556/leo-c.-cunniff)
   * [Kenneth J. Altorfer](https://www.pr.com/press-release/239422), Class of 1950
   * [Frank T. Battista](https://stevens.giftplans.org/index.php?cID=350), Class of 1954
   * [David J. Farber](https://en.wikipedia.org/wiki/David_J._Farber), 1934&mdash;2026, Class of 1956
