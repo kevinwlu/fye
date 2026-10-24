@@ -233,7 +233,7 @@ The theory of dialogical action and its characteristics: cooperation, unity, org
   * Instructor Guide
 ## Lesson 7 - You Belong Here: Navigating Imposter Feelings Through Connection and Compassion
 **Designated Peer-Led Moment: Imposter Syndrome Article**
-* Nicole Cheung, [Imposter syndrome](https://thestute.com/2023/09/29/imposter-syndrome/), *Stute*, September 29, 2023
+* Nicole Cheung, "[Imposter syndrome](https://thestute.com/2023/09/29/imposter-syndrome/)," *The Stute*, September 29, 2023
 * *You Got In! Now What?: 100 Insights Into Finding Your Best Life in College*
 38. "Everyone Feels Like an Imposter"
   * [Julian Castro](https://en.wikipedia.org/wiki/Julian_Castro)
@@ -246,10 +246,13 @@ The theory of dialogical action and its characteristics: cooperation, unity, org
 # Unit 3 – Planning and Resources (Lessons 8–10): Connecting Goals to Practical Pathways
 * Helping students build the skills to deal with real-life chanllenges that can affect their ability to 
 ## Lesson 8 - Academic Planning With Purpose: Preparing for Registration and Beyond
+* Tasha Khosla, "[Scheduling 101: a guide to course registration](https://thestute.com/2023/04/21/scheduling-101-a-guide-to-course-registration/)," *The Stute*, April 21, 2023
 * *You Got In! Now What?: 100 Insights Into Finding Your Best Life in College*
 28. Pre-reading "Question Yourself: I like, I Wish, What If?"
   * [Sarah Stein Greenberg](https://dschool.stanford.edu/directory/sarah-stein-greenberg)
+    * [Hasso Plattner Institute of Design](https://en.wikipedia.org/wiki/Hasso_Plattner_Institute_of_Design)
   * [Majo Molfino](https://majomolfino.com/)
+  * [Ken Robinson (educationalist)](https://en.wikipedia.org/wiki/Ken_Robinson_(educationalist))
 * Walk through the process of academic planning and registration
 * Opportunity to make connections to previous lesson on time management (planning a realistic week)
 ## Lesson 9 - Balancing It All: Managing Stress and Supporting Your Wellbeing
