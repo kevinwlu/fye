@@ -297,3 +297,6 @@ The theory of dialogical action and its characteristics: cooperation, unity, org
 ## Lesson 13 - Showcase Your Growth: Student Presentations and Reflections, Part I
 
 ## Lesson 14 - Showcase Your Growth: Student Presentations and Reflections, Part II
+* *You Got In! Now What?: 100 Insights Into Finding Your Best Life in College*
+1. Pursue an Education, Not Just the Degree
+  * [Michael Spence](https://en.wikipedia.org/wiki/Michael_Spence)
