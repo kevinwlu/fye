@@ -248,7 +248,7 @@ The theory of dialogical action and its characteristics: cooperation, unity, org
 ## Lesson 8 - Academic Planning With Purpose: Preparing for Registration and Beyond
 * Tasha Khosla, "[Scheduling 101: a guide to course registration](https://thestute.com/2023/04/21/scheduling-101-a-guide-to-course-registration/)," *The Stute*, April 21, 2023
 * *You Got In! Now What?: 100 Insights Into Finding Your Best Life in College*
-28. Pre-reading "Question Yourself: I like, I Wish, What If?"
+28. Question Yourself: I like, I Wish, What If?
   * [Sarah Stein Greenberg](https://dschool.stanford.edu/directory/sarah-stein-greenberg)
     * [Hasso Plattner Institute of Design](https://en.wikipedia.org/wiki/Hasso_Plattner_Institute_of_Design)
   * [Majo Molfino](https://majomolfino.com/)
@@ -256,20 +256,43 @@ The theory of dialogical action and its characteristics: cooperation, unity, org
 * Walk through the process of academic planning and registration
 * Opportunity to make connections to previous lesson on time management (planning a realistic week)
 ## Lesson 9 - Balancing It All: Managing Stress and Supporting Your Wellbeing
-* Pre-readings challenge "the grind mindset or that college requires constant productivity ("Do Nothing" and "Don't Grind")
-* Rest, play
+* *You Got In! Now What?: 100 Insights Into Finding Your Best Life in College*
+47. Do Nothing
+  * [Chip Heath](https://en.wikipedia.org/wiki/Chip_Heath)
+  * [Dan Heath](https://en.wikipedia.org/wiki/Dan_Heath)
+  * [Jenny Odell](https://en.wikipedia.org/wiki/Jenny_Odell)
+93. Don't ... Grind
+  * [Edward Slingerland](https://en.wikipedia.org/wiki/Edward_Slingerland)
+  * [Kelly McGonigal](https://en.wikipedia.org/wiki/Kelly_McGonigal)
 * [The Quiet Space](https://stage2.stevens.edu/student-life/office-of-student-culture-belonging/spirituality/quiet-space)
 * [5-4-3-2-1 Coping Technique for Anxiety](https://www.urmc.rochester.edu/behavioral-health-partners/bhp-blog/april-2018/5-4-3-2-1-coping-technique-for-anxiety)
 * [Headspace (company)](https://en.wikipedia.org/wiki/Headspace_(company))
   * [Headspace Student Plan](https://www.headspace.com/studentplan)
 ## Lesson 10 - Money Matters: Building Financial Confidence in College
-
+* [Personal Finance for College Students 101](https://www.youtube.com/watch?v=IoAcSgwrzHw)
 # Unit 4 – Beyond the Classroom (Lessons 11–12): Expanding Opportunities and Career Preparation
 ## Lesson 11 - Learning Beyond the Classroom: Exploring Experiential Opportunities at Stevens
 **Designated Peer-Led Moment: Learn by Doing Exercise**
-
+* Jeylan Jubran, [What no one tells you about your first internship](https://thestute.com/2025/02/14/what-no-one-tells-you-about-your-first-internship/), *The Stute*, February 14, 2025
+* [Grabbing the Opportunity to Innovate: Working in Stevens’ MakerSpace creative lab, computer science major Thomas Weinhardt developed and delivered an electronic extended reach grabber for a youth with limited muscular function](https://www.stevens.edu/news/computer-science-thomas-weinhardt-tool-grabber), May 5, 2025
+* *You Got In! Now What?: 100 Insights Into Finding Your Best Life in College*
+34. Pursue Crazy Ideas
+  * [Phil Knight](https://en.wikipedia.org/wiki/Phil_Knight)
+  * [Issa Rae](https://en.wikipedia.org/wiki/Issa_Rae)
 ## Lesson 12 - Your Major as a Foundation, Not a Destination: Career Preparation
-
+* *You Got In! Now What?: 100 Insights Into Finding Your Best Life in College*
+13. Choosing Your Major Is Not Choosing Your Career
+  * [Issa Rae](https://en.wikipedia.org/wiki/Issa_Rae)  
+14. Study What's Interesting
+  * [Robert Sapolsky](https://en.wikipedia.org/wiki/Robert_Sapolsky)
+  * [Guy Kawasaki](https://en.wikipedia.org/wiki/Guy_Kawasaki)
+15. Don't Let Passion Be Your Only Guide
+  * [William Damon](https://en.wikipedia.org/wiki/William_Damon)
+  * [Atul Gawande](https://en.wikipedia.org/wiki/Atul_Gawande)
+16. Be Open to the Flow
+  * [Emma Seppälä](https://www.emmaseppala.com/)
+  * [Mihaly Csikszentmihalyi](https://en.wikipedia.org/wiki/Mihaly_Csikszentmihalyi) 1934&mdash;2021]
+  * [Sami Jo Small](https://en.wikipedia.org/wiki/Sami_Jo_Small)
 # Unit 5 – Reflection and Growth (Lessons 13–14): Showcasing Learning and Looking Forward
 ## Lesson 13 - Showcase Your Growth: Student Presentations and Reflections, Part I
 
