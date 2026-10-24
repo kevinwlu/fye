@@ -6,6 +6,8 @@
   * [Judy Singer](https://en.wikipedia.org/wiki/Judy_Singer)
   * [Stanford Neurodiversity Project](https://med.stanford.edu/neurodiversity.html)
   * [Barbara Oakley](https://en.wikipedia.org/wiki/Barbara_Oakley)
+  * [Aphantasia](https://en.wikipedia.org/wiki/Aphantasia)
+  * [Hyperphantasia](https://en.wikipedia.org/wiki/Hyperphantasia)
 * [Stimming](https://en.wikipedia.org/wiki/Stimming)
 ## Lesson 0 - Orientation Meet and Greet
 **Designated Peer-Led Moment: Leave One, Build One**
@@ -217,6 +219,7 @@ The theory of dialogical action and its characteristics: cooperation, unity, org
     * [Fable](https://en.wikipedia.org/wiki/Fable)
     * [Ted Chiang](https://en.wikipedia.org/wiki/Ted_Chiang)
   * Lesson 15: Artificial Intelligence and Human Stupidity
+    * [Imprinting (psychology)](https://en.wikipedia.org/wiki/Imprinting_(psychology))
   * Lesson 16: The First-Step [Fallacy](https://en.wikipedia.org/wiki/Fallacy)
     * [Model collapse](https://en.wikipedia.org/wiki/Model_collapse)
     * [Retrieval-augmented generation](https://en.wikipedia.org/wiki/Retrieval-augmented_generation) (RAG)
@@ -230,11 +233,16 @@ The theory of dialogical action and its characteristics: cooperation, unity, org
   * Instructor Guide
 ## Lesson 7 - You Belong Here: Navigating Imposter Feelings Through Connection and Compassion
 **Designated Peer-Led Moment: Imposter Syndrome Article**
-* "Everyone Feels Like an Imposter,"
-* "Life Is Not Linear,"
-* "Ditch the Duck Syndrome"
-  * [Imprinting (psychology)](https://en.wikipedia.org/wiki/Imprinting_(psychology))
+* Nicole Cheung, [Imposter syndrome](https://thestute.com/2023/09/29/imposter-syndrome/), *Stute*, September 29, 2023
 * *You Got In! Now What?: 100 Insights Into Finding Your Best Life in College*
+38. "Everyone Feels Like an Imposter"
+  * [Julian Castro](https://en.wikipedia.org/wiki/Julian_Castro)
+  * [Condoleezza Rice](https://en.wikipedia.org/wiki/Condoleezza_Rice)
+39. "Life Is Not Linear"
+  * [Melissa A. Hosek](https://ealc.stanford.edu/people/melissa-hosek)  
+40. "Ditch the Duck Syndrome"
+  * [Emma Seppälä](https://www.emmaseppala.com/)
+  * [Jenny Odell](https://en.wikipedia.org/wiki/Jenny_Odell)
 # Unit 3 – Planning and Resources (Lessons 8–10): Connecting Goals to Practical Pathways
 * Helping students build the skills to deal with real-life chanllenges that can affect their ability to 
 ## Lesson 8 - Academic Planning With Purpose: Preparing for Registration and Beyond
