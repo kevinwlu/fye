@@ -246,7 +246,10 @@ The theory of dialogical action and its characteristics: cooperation, unity, org
 # Unit 3 – Planning and Resources (Lessons 8–10): Connecting Goals to Practical Pathways
 * Helping students build the skills to deal with real-life chanllenges that can affect their ability to 
 ## Lesson 8 - Academic Planning With Purpose: Preparing for Registration and Beyond
-* Pre-reading "Question Yourself: I like, I Wish, What If?"
+* *You Got In! Now What?: 100 Insights Into Finding Your Best Life in College*
+28. Pre-reading "Question Yourself: I like, I Wish, What If?"
+  * [Sarah Stein Greenberg](https://dschool.stanford.edu/directory/sarah-stein-greenberg)
+  * [Majo Molfino](https://majomolfino.com/)
 * Walk through the process of academic planning and registration
 * Opportunity to make connections to previous lesson on time management (planning a realistic week)
 ## Lesson 9 - Balancing It All: Managing Stress and Supporting Your Wellbeing
