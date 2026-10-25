@@ -8,6 +8,7 @@
   * [Barbara Oakley](https://en.wikipedia.org/wiki/Barbara_Oakley)
   * [Aphantasia](https://en.wikipedia.org/wiki/Aphantasia)
   * [Hyperphantasia](https://en.wikipedia.org/wiki/Hyperphantasia)
+* [The Neuroscience Behind Writing: Handwriting vs. Typing—Who Wins the Battle?](https://pmc.ncbi.nlm.nih.gov/articles/PMC11943480/)
 * [Stimming](https://en.wikipedia.org/wiki/Stimming)
 ## Lesson 0 - Orientation Meet and Greet
 **Designated Peer-Led Moment: Leave One, Build One**
