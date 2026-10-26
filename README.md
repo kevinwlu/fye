@@ -290,6 +290,8 @@
   * [Kenneth A. Roe](https://www.nae.edu/188744/KENNETH-A-ROE-19161991) 1916&mdash;1991
     * [*The Stute*](https://stevensarchives.contentdm.oclc.org/digital/collection/StevensNP01/id/13209/), February 3, 1978
     * [*The Link*](https://stevensarchives.contentdm.oclc.org/digital/collection/StevensYB01/id/26384/) 1991
+* [Student governments in the United States](https://en.wikipedia.org/wiki/Student_governments_in_the_United_States)
+  * [American Student Government Association](https://en.wikipedia.org/wiki/American_Student_Government_Association) (ASGA)
 * [Getting to Know the Campus](https://web.stevens.edu/catalog/archive/2015-2016/campus.html)
   * [National Register of Historic Places](https://en.wikipedia.org/wiki/National_Register_of_Historic_Places) (NRHP)
     * [University and college buildings listed on the National Register of Historic Places](https://en.wikipedia.org/wiki/University_and_college_buildings_listed_on_the_National_Register_of_Historic_Places)
