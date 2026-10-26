@@ -31,7 +31,7 @@
     * Standard V: Educational Effectiveness Assessment
     * Standard VI: Planning, Resources, and Institutional Improvement
     * Standard VII: Governance, Leadership, and Administration
-  * [Stevens Institute of Technology](https://www.msche.org/institution/0235/)
+  * [](https://www.msche.org/institution/0235/)
   * [ABET](https://en.wikipedia.org/wiki/ABET) (Accreditation Board for Engineering and Technology)
     * [ABET Accreditation and Artificial Intelligence](https://www.abet.org/accreditation/ai-policy/)
   * [Association to Advance Collegiate Schools of Business](https://en.wikipedia.org/wiki/Association_to_Advance_Collegiate_Schools_of_Business) (AACSB)****
@@ -287,6 +287,9 @@
   * [Nariman Farvardin](https://en.wikipedia.org/wiki/Nariman_Farvardin)
 * [The President’s Leadership Council](https://www.stevens.edu/discover-stevens/leadership-and-vision/the-presidents-leadership-council)
 * [Board of Trustees](https://www.stevens.edu/discover-stevens/leadership-and-vision/board-of-trustees)
+  * [Kenneth A. Roe](https://www.nae.edu/188744/KENNETH-A-ROE-19161991) 1916&mdash;1991
+    * [*The Stute*](https://stevensarchives.contentdm.oclc.org/digital/collection/StevensNP01/id/13209/), February 3, 1978
+    * [*The Link*](https://stevensarchives.contentdm.oclc.org/digital/collection/StevensYB01/id/26384/) 1991
 * [Getting to Know the Campus](https://web.stevens.edu/catalog/archive/2015-2016/campus.html)
   * [National Register of Historic Places](https://en.wikipedia.org/wiki/National_Register_of_Historic_Places) (NRHP)
     * [University and college buildings listed on the National Register of Historic Places](https://en.wikipedia.org/wiki/University_and_college_buildings_listed_on_the_National_Register_of_Historic_Places)
