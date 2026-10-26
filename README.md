@@ -31,7 +31,7 @@
     * Standard V: Educational Effectiveness Assessment
     * Standard VI: Planning, Resources, and Institutional Improvement
     * Standard VII: Governance, Leadership, and Administration
-  * [](https://www.msche.org/institution/0235/)
+    * [Stevens Institute of Technology](https://www.msche.org/institution/0235/)
   * [ABET](https://en.wikipedia.org/wiki/ABET) (Accreditation Board for Engineering and Technology)
     * [ABET Accreditation and Artificial Intelligence](https://www.abet.org/accreditation/ai-policy/)
   * [Association to Advance Collegiate Schools of Business](https://en.wikipedia.org/wiki/Association_to_Advance_Collegiate_Schools_of_Business) (AACSB)****
