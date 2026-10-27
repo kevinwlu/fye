@@ -2,6 +2,8 @@
 * [The future of universities](https://www.nature.com/immersive/d41586-025-03086-5/index.html), [*Nature*](https://en.wikipedia.org/wiki/Nature_(journal)), 24 September 2025
 * [An Unusual New Study of Nearly a Million Students Details What College Does for Earnings](https://www.chronicle.com/article/an-unusual-new-study-of-nearly-a-million-students-details-what-college-does-for-earnings), May 14, 2026
   * [Texas Statewide Study of Postsecondary Value-added Earnings](https://www.texas-psc.org/)
+* [College Degree Earnings Guide](https://www.nytimes.com/interactive/2026/10/07/your-money/college-degree-earnings-guide.html), October 7, 2026
+* [*The Chronicle of Higher Education*](https://en.wikipedia.org/wiki/The_Chronicle_of_Higher_Education)
 * [Why Stevens](https://www.stevens.edu/info-for/why-stevens)
 * [Stevens by the Numbers](https://www.stevens.edu/discover-stevens/stevens-by-the-numbers)
 * [Stevens Undergraduate Study](https://www.stevens.edu/academics/undergraduate-study)
