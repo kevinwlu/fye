@@ -94,7 +94,7 @@
   * [American Society of Civil Engineers](https://en.wikipedia.org/wiki/American_Society_of_Civil_Engineers) (ASCE)
   * [American Society for Engineering Education](https://en.wikipedia.org/wiki/American_Society_for_Engineering_Education) (ASEE) founded in 1893
   * [ASM International (society)](https://en.wikipedia.org/wiki/ASM_International_(society))
-  * [American Society of Mechanical Engineers](https://en.wikipedia.org/wiki/American_Society_of_Mechanical_Engineers) (ASME)
+  * [American Society of Mechanical Engineers](https://en.wikipedia.org/wiki/American_Society_of_Mechanical_Engineers) (ASME) founded in 1880
   * [American Society of Safety Professionals](https://en.wikipedia.org/wiki/American_Society_of_Safety_Professionals) (ASSP)
   * [American Water Works Association](https://en.wikipedia.org/wiki/American_Water_Works_Association) (AWWA)
   * [Association for Computing Machinery](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery) (ACM)
@@ -246,6 +246,7 @@
     * [America's Cup](https://en.wikipedia.org/wiki/America%27s_Cup)
   * [Robert L. Stevens](https://en.wikipedia.org/wiki/Robert_L._Stevens) 1787&mdash;1856
     * [Rail profile](https://en.wikipedia.org/wiki/Rail_profile)
+    * [Stevens Battery](https://en.wikipedia.org/wiki/Stevens_Battery) 
   * [Edwin Augustus Stevens](https://en.wikipedia.org/wiki/Edwin_Augustus_Stevens) 1795&mdash;1868
     * [Edwin A. Stevens Hall](https://en.wikipedia.org/wiki/Edwin_A._Stevens_Hall)
     * [Richard Upjohn](https://en.wikipedia.org/wiki/Richard_Upjohn) 1802&mdash;1878
@@ -287,7 +288,8 @@
   * Richard G. Griskey, Institute Professor Emeritus at the Stevens Institute of Technology, was acting pressident in 1987
   * [Harold J. Raveché](https://en.wikipedia.org/wiki/Harold_J._Ravech%C3%A9)
   * [Nariman Farvardin](https://en.wikipedia.org/wiki/Nariman_Farvardin)
-* [The President’s Leadership Council](https://www.stevens.edu/discover-stevens/leadership-and-vision/the-presidents-leadership-council)
+  * [The President’s Leadership Council](https://www.stevens.edu/discover-stevens/leadership-and-vision/the-presidents-leadership-council)
+* [Robert Henry Thurston](https://en.wikipedia.org/wiki/Robert_Henry_Thurston) October 25, 1839&mdash;October 25, 1903 the first professor of mechanical engineering at Stevens Institute of Technology from 1871 to 1885 and the first president of the American Society of Mechanical Engineers from 1880 to 1882
 * [Board of Trustees](https://www.stevens.edu/discover-stevens/leadership-and-vision/board-of-trustees)
   * [Kenneth A. Roe](https://www.nae.edu/188744/KENNETH-A-ROE-19161991) 1916&mdash;1991
     * [*The Stute*](https://stevensarchives.contentdm.oclc.org/digital/collection/StevensNP01/id/13209/), February 3, 1978
