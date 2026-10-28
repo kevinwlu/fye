@@ -246,8 +246,11 @@
     * [America's Cup](https://en.wikipedia.org/wiki/America%27s_Cup)
   * [Robert L. Stevens](https://en.wikipedia.org/wiki/Robert_L._Stevens) 1787&mdash;1856
     * [Rail profile](https://en.wikipedia.org/wiki/Rail_profile)
-    * [Stevens Battery](https://en.wikipedia.org/wiki/Stevens_Battery) 
   * [Edwin Augustus Stevens](https://en.wikipedia.org/wiki/Edwin_Augustus_Stevens) 1795&mdash;1868
+    * [Stevens Battery](https://en.wikipedia.org/wiki/Stevens_Battery)
+    * [USRC *Naugatuck*](https://en.wikipedia.org/wiki/USRC_Naugatuck)
+    * [The Ship That Couldn't Be Built](https://www.usni.org/magazines/naval-history-magazine/2008/october/ship-couldnt-be-built), October 2008
+    * [United States Revenue Cutter Service](https://en.wikipedia.org/wiki/United_States_Revenue_Cutter_Service)
     * [Edwin A. Stevens Hall](https://en.wikipedia.org/wiki/Edwin_A._Stevens_Hall)
     * [Richard Upjohn](https://en.wikipedia.org/wiki/Richard_Upjohn) 1802&mdash;1878
   * [Martha Bayard Stevens](https://en.wikipedia.org/wiki/Martha_Bayard_Stevens) 1831&mdash;1899
