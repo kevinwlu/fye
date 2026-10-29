@@ -89,7 +89,7 @@
 15. For Parents: Preparing, Supporting, and Understanding Your Student
 16. Summing Up
 ## Lesson 3 - Study Smarter: Evidence-Based Strategies for Active Learning and Academic Success
-* Riyana Phadke, "[The science of studying for finals](https://thestute.com/2024/05/03/the-science-of-studying-for-finals/)," *The Stute*, May 3, 2024
+* "[The science of studying for finals](https://thestute.com/2024/05/03/the-science-of-studying-for-finals/)," *The Stute*, May 3, 2024
 * [What Works, What Doesn't](https://www.scientificamerican.com/article/what-works-what-doesn-t/): Some study techniques accelerate learning, whereas others are just a waste of time—but which ones are which? An unprecedented review maps out the best pathways to follow\
 **What Works**\
 Self-Testing: Quizzing Yourself Gets High Marks\
@@ -164,7 +164,7 @@ The theory of dialogical action and its characteristics: cooperation, unity, org
   * [Carol Dweck](https://en.wikipedia.org/wiki/Carol_Dweck)
   * [TED (conference)](https://en.wikipedia.org/wiki/TED_(conference)): Technology, Entertainment, Design
   * [Norrköping](https://en.wikipedia.org/wiki/Norrk%C3%B6ping)
-* Breona Pizzuta, ["To the Version of Me Who Started This School Year,"](https://thestute.com/2026/05/01/to-the-version-of-me-who-started-this-school-year/) *The Stute*, May 1, 2026
+* ["To the Version of Me Who Started This School Year,"](https://thestute.com/2026/05/01/to-the-version-of-me-who-started-this-school-year/) *The Stute*, May 1, 2026
 ## Lesson 6 - Doing the Right Thing: Ethics and Integrity in Academic Life
 * ["The Ones Who Walk Away From Omelas"](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas)
   * [Ursula Kroeber Le Guin](https://en.wikipedia.org/wiki/Ursula_K._Le_Guin) 1929&mdash;2018
@@ -234,7 +234,7 @@ The theory of dialogical action and its characteristics: cooperation, unity, org
   * Instructor Guide
 ## Lesson 7 - You Belong Here: Navigating Imposter Feelings Through Connection and Compassion
 **Designated Peer-Led Moment: Imposter Syndrome Article**
-* Nicole Cheung, "[Imposter syndrome](https://thestute.com/2023/09/29/imposter-syndrome/)," *The Stute*, September 29, 2023
+* "[Imposter syndrome](https://thestute.com/2023/09/29/imposter-syndrome/)," *The Stute*, September 29, 2023
 * *You Got In! Now What?: 100 Insights Into Finding Your Best Life in College*
 38. "Everyone Feels Like an Imposter"
   * [Julian Castro](https://en.wikipedia.org/wiki/Julian_Castro)
@@ -244,6 +244,8 @@ The theory of dialogical action and its characteristics: cooperation, unity, org
 40. "Ditch the Duck Syndrome"
   * [Emma Seppälä](https://www.emmaseppala.com/)
   * [Jenny Odell](https://en.wikipedia.org/wiki/Jenny_Odell)
+* ["Leading with Grounded Confidence,"](https://executiveeducation.wharton.upenn.edu/thought-leadership/wharton-at-work/2026/02/leading-with-grounded-confidence/) 
+* [Dunning–Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
 # Unit 3 – Planning and Resources (Lessons 8–10): Connecting Goals to Practical Pathways
 * Helping students build the skills to deal with real-life chanllenges that can affect their ability to 
 ## Lesson 8 - Academic Planning With Purpose: Preparing for Registration and Beyond
@@ -274,7 +276,7 @@ The theory of dialogical action and its characteristics: cooperation, unity, org
 # Unit 4 – Beyond the Classroom (Lessons 11–12): Expanding Opportunities and Career Preparation
 ## Lesson 11 - Learning Beyond the Classroom: Exploring Experiential Opportunities at Stevens
 **Designated Peer-Led Moment: Learn by Doing Exercise**
-* Jeylan Jubran, [What no one tells you about your first internship](https://thestute.com/2025/02/14/what-no-one-tells-you-about-your-first-internship/), *The Stute*, February 14, 2025
+* [What no one tells you about your first internship](https://thestute.com/2025/02/14/what-no-one-tells-you-about-your-first-internship/), *The Stute*, February 14, 2025
 * [Grabbing the Opportunity to Innovate: Working in Stevens’ MakerSpace creative lab, computer science major Thomas Weinhardt developed and delivered an electronic extended reach grabber for a youth with limited muscular function](https://www.stevens.edu/news/computer-science-thomas-weinhardt-tool-grabber), May 5, 2025
 * *You Got In! Now What?: 100 Insights Into Finding Your Best Life in College*
 34. Pursue Crazy Ideas
