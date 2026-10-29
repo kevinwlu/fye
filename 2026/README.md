@@ -235,6 +235,8 @@ The theory of dialogical action and its characteristics: cooperation, unity, org
 ## Lesson 7 - You Belong Here: Navigating Imposter Feelings Through Connection and Compassion
 **Designated Peer-Led Moment: Imposter Syndrome Article**
 * "[Imposter syndrome](https://thestute.com/2023/09/29/imposter-syndrome/)," *The Stute*, September 29, 2023
+* ["Leading with Grounded Confidence"](https://executiveeducation.wharton.upenn.edu/thought-leadership/wharton-at-work/2026/02/leading-with-grounded-confidence/) 
+* [Dunning–Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
 * *You Got In! Now What?: 100 Insights Into Finding Your Best Life in College*
 38. "Everyone Feels Like an Imposter"
   * [Julian Castro](https://en.wikipedia.org/wiki/Julian_Castro)
@@ -244,8 +246,6 @@ The theory of dialogical action and its characteristics: cooperation, unity, org
 40. "Ditch the Duck Syndrome"
   * [Emma Seppälä](https://www.emmaseppala.com/)
   * [Jenny Odell](https://en.wikipedia.org/wiki/Jenny_Odell)
-* ["Leading with Grounded Confidence,"](https://executiveeducation.wharton.upenn.edu/thought-leadership/wharton-at-work/2026/02/leading-with-grounded-confidence/) 
-* [Dunning–Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
 # Unit 3 – Planning and Resources (Lessons 8–10): Connecting Goals to Practical Pathways
 * Helping students build the skills to deal with real-life chanllenges that can affect their ability to 
 ## Lesson 8 - Academic Planning With Purpose: Preparing for Registration and Beyond
