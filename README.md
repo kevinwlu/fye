@@ -404,9 +404,9 @@
   * [Frederick B. Llewellyn](https://en.wikipedia.org/wiki/Frederick_B._Llewellyn) 1897&mdash;1971, Class of 1922
   * Frank Jonas, Class of 1923
     * [Pendaflex](https://en.wikipedia.org/wiki/Pendaflex) 
-  * Earl L. Griffith, Class of 1923
-  * William H. McLean, Class of 1931
-  * Frederick L. Bissinger 1911&mdash;2009, Class of 1933
+  * [Earl L. Griffith](https://web.stevens.edu/catalog/archive/2007_2008_Catalog/campus.html), Class of 1923
+  * [William H. McLean](https://library.stevens.edu/archives/findingaids), Class of 1931
+  * [Frederick Lewis Bissinger](https://web.stevens.edu/dtd/DTD/rhoalumni.htm) 1911&mdash;2009, Class of 1933
   * [Charles Valentine Schaefer Jr.](https://www.nytimes.com/1999/11/25/nyregion/charles-schaefer-jr-dies-at-85-businessman-and-philanthropist.html) 1914&mdash;1999, [Class of 1936](https://stevensarchives.contentdm.oclc.org/digital/collection/StevensYB01/id/17816/)
   * [Alfred Fielding](https://edubilla.com/inventor/alfred-w-fielding/) 1917&mdash;1994, Class of 1939
     * [Bubble Wrap](https://en.wikipedia.org/wiki/Bubble_Wrap_(brand))
