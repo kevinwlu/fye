@@ -242,10 +242,11 @@
   * [John Stevens Sr.](https://www.geni.com/people/John-Stevens-Sr/6000000003381721966) 1682&mdash;1737 came to America in 1699 at the age of 17
   * [John Stevens Jr.](https://en.wikipedia.org/wiki/John_Stevens_(New_Jersey_politician)) 1715&mdash;1792
   * [Col. John Stevens III](https://en.wikipedia.org/wiki/John_Stevens_(inventor,_born_1749)) 1749&mdash;1838
+    * [Phoenix (steamboat)](https://en.wikipedia.org/wiki/Phoenix_(steamboat))
   * [John Cox Stevens](https://en.wikipedia.org/wiki/John_Cox_Stevens) 1785&mdash;1857
     * [America's Cup](https://en.wikipedia.org/wiki/America%27s_Cup)
-  * [Robert L. Stevens](https://en.wikipedia.org/wiki/Robert_L._Stevens) 1787&mdash;1856
-    * [Rail profile](https://en.wikipedia.org/wiki/Rail_profile)
+  * [Robert Livingston Stevens](https://en.wikipedia.org/wiki/Robert_L._Stevens) 1787&mdash;1856
+    * [Flanged T-rail](https://en.wikipedia.org/wiki/Rail_profile#Flanged_T-rail)
   * [Edwin Augustus Stevens](https://en.wikipedia.org/wiki/Edwin_Augustus_Stevens) 1795&mdash;1868
     * [Stevens Battery](https://en.wikipedia.org/wiki/Stevens_Battery)
     * [USRC *Naugatuck*](https://en.wikipedia.org/wiki/USRC_Naugatuck)
@@ -278,7 +279,7 @@
   * [Amphibian](https://en.wikipedia.org/wiki/Amphibian)
   * [Triphibian](https://en.wiktionary.org/wiki/triphibian), e.g., a duck can move on land, water, or in the air
   * [Duck curve](https://en.wikipedia.org/wiki/Duck_curve)
-    * [Dunkelflaute](https://en.wikipedia.org/wiki/Dunkelflaute)
+    * [*Dunkelflaute*](https://en.wikipedia.org/wiki/Dunkelflaute)
   * [Lame duck (politics)](https://en.wikipedia.org/wiki/Lame_duck_(politics))
 * [Khoda Senior Honor Society](https://web.stevens.edu/khoda/index.html)
   * [Is Khoda still alive?](https://thestute.com/2022/02/18/is-khoda-still-alive/), 18 February 2022
