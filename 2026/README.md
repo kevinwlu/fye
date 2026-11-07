@@ -249,7 +249,7 @@ The theory of dialogical action and its characteristics: cooperation, unity, org
 # Unit 3 – Planning and Resources (Lessons 8–10): Connecting Goals to Practical Pathways
 * Helping students build the skills to deal with real-life chanllenges that can affect their ability to 
 ## Lesson 8 - Academic Planning With Purpose: Preparing for Registration and Beyond
-* Tasha Khosla, "[Scheduling 101: a guide to course registration](https://thestute.com/2023/04/21/scheduling-101-a-guide-to-course-registration/)," *The Stute*, April 21, 2023
+* "[Scheduling 101: a guide to course registration](https://thestute.com/2023/04/21/scheduling-101-a-guide-to-course-registration/)," *The Stute*, April 21, 2023
 * *You Got In! Now What?: 100 Insights Into Finding Your Best Life in College*
 28. Question Yourself: I like, I Wish, What If?
   * [Sarah Stein Greenberg](https://dschool.stanford.edu/directory/sarah-stein-greenberg)
@@ -273,6 +273,7 @@ The theory of dialogical action and its characteristics: cooperation, unity, org
   * [Headspace Student Plan](https://www.headspace.com/studentplan)
 ## Lesson 10 - Money Matters: Building Financial Confidence in College
 * [Personal Finance for College Students 101](https://www.youtube.com/watch?v=IoAcSgwrzHw)
+* "[Money Adds Up](https://thestute.com/2023/12/01/money-adds-up/)," *The Stute*, December 1, 2023
 # Unit 4 – Beyond the Classroom (Lessons 11–12): Expanding Opportunities and Career Preparation
 ## Lesson 11 - Learning Beyond the Classroom: Exploring Experiential Opportunities at Stevens
 **Designated Peer-Led Moment: Learn by Doing Exercise**
@@ -303,3 +304,6 @@ The theory of dialogical action and its characteristics: cooperation, unity, org
 * *You Got In! Now What?: 100 Insights Into Finding Your Best Life in College*
 1. Pursue an Education, Not Just the Degree
   * [Michael Spence](https://en.wikipedia.org/wiki/Michael_Spence)
+15. Don't Let Passion Be Your Only Guide
+  * [William Damon](https://en.wikipedia.org/wiki/William_Damon)
+  * [Atul Gawande](https://en.wikipedia.org/wiki/Atul_Gawande)
