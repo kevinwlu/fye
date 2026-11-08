@@ -393,6 +393,8 @@
   * [Samuel C. Williams](https://library.stevens.edu/scwilliams) 1894&mdash;1968, Class of 1915
   * [Alfred Charles Kinsey](https://en.wikipedia.org/wiki/Alfred_Kinsey) 1894&mdash;1956
     * [Eagle Scout](https://en.wikipedia.org/wiki/Eagle_Scout)
+    * [Kinsey Institute](https://en.wikipedia.org/wiki/Kinsey_Institute)
+    * [About Dr. Alfred C. Kinsey](https://kinseyinstitute.org/about/alfred-kinsey.html)
     * [Gall wasp](https://en.wikipedia.org/wiki/Gall_wasp)
     * [Oak apple](https://en.wikipedia.org/wiki/Oak_apple)
     * [Alfred Seguine Kinsey](https://www.nytimes.com/1943/04/08/archives/alfre-s-kiny-z-stevens-professor-teacher-of-shop-practice-had.html) 1871&mdash;1943
