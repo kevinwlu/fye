@@ -391,10 +391,11 @@
   * [Gustav G. Freygang](https://stevensarchives.contentdm.oclc.org/digital/collection/StevensNP02/id/22736/) 1886&mdash;1964, Class of 1909
   * [Lawrence C. F. Horle](https://en.wikipedia.org/wiki/Lawrence_C._F._Horle) 1892&mdash;1950, Class of 1914
   * [Samuel C. Williams](https://library.stevens.edu/scwilliams) 1894&mdash;1968, Class of 1915
-  * [Alfred Kinsey](https://en.wikipedia.org/wiki/Alfred_Kinsey) 1894&mdash;1956
+  * [Alfred Charles Kinsey](https://en.wikipedia.org/wiki/Alfred_Kinsey) 1894&mdash;1956
     * [Eagle Scout](https://en.wikipedia.org/wiki/Eagle_Scout)
     * [Gall wasp](https://en.wikipedia.org/wiki/Gall_wasp)
     * [Oak apple](https://en.wikipedia.org/wiki/Oak_apple)
+    * [Alfred Seguine Kinsey](https://www.nytimes.com/1943/04/08/archives/alfre-s-kiny-z-stevens-professor-teacher-of-shop-practice-had.html) 1871&mdash;1943
   * [Alexander Calder](https://en.wikipedia.org/wiki/Alexander_Calder) 1898&mdash;1976, Class of 1919
     * [Enduring Flight: Alexander Calder](https://www.stevens.edu/indicator/spring-2026/enduring-flight-alexander-calder)
     * [Before He Became an Iconic Artist, Alexander Calder Embraced Campus Life at Stevens](https://www.stevens.edu/news/he-became-iconic-artist-alexander-calder-embraced-campus-life-stevens)
