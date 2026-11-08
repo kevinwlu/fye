@@ -434,7 +434,7 @@
     * [‘Grandfather of the Internet,’ Stevens Alumnus Leaves a Lasting Legacy](https://www.stevens.edu/news/grandfather-of-the-internet-stevens-alumnus-leaves-a-lasting-legacy), February 10, 2026
   * [John H. Hovey](https://www.vpfh.com/obituary/John-Hovey) 1934&mdash;2021, Class of 1957
   * [Richard F. Harries](https://www.stevens.edu/news/stevens-upward-trajectory-inspires-historic-gift), Class of 1958
-  * [Norman N. Li](https://en.wikipedia.org/wiki/Norman_N._Li), PhD 1963
+  * [Norman N. Li](https://en.wikipedia.org/wiki/Norman_N._Li), Sc.D. 1963
   * [Frank J. Semcer, Sr.](https://www.stevens.edu/news/honoring-the-semcer-legacy-student-commons), Class of 1965
     * [The Semcer Center for Healthcare Innovation](https://www.stevens.edu/center-for-healthcare-innovation)
   * [Lawrence T. Babbio Jr.](https://en.wikipedia.org/wiki/Lawrence_Babbio_Jr.), Class of 1966
