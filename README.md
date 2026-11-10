@@ -183,6 +183,9 @@
 * [Grading in education](https://en.wikipedia.org/wiki/Grading_in_education)
   * [Norm-referenced test](https://en.wikipedia.org/wiki/Norm-referenced_test)
 * [Growth Mindset and Enhanced Learning](https://teachingcommons.stanford.edu/teaching-guides/foundations-course-design/learning-activities/growth-mindset-and-enhanced-learning), Stanford University
+* [Grading for Growth](https://gradingforgrowth.com/)
+  * [Finding common ground with grading systems](https://gradingforgrowth.com/p/finding-common-ground-with-grading), August 30, 2021
+  * [20 small starts for alternative grading](https://gradingforgrowth.com/p/20-small-starts-for-alternative-grading), March 11, 2024
 * [Grade inflation](https://en.wikipedia.org/wiki/Grade_inflation)
   * [Addressing the Grade Inflation Collective Action Problem](https://www.ed.gov/about/homeroom-blog/addressing-grade-inflation-collective-action-problem), September 30, 2025
   * [Grade Inflation in College: Trends and Why It Happens](https://www.bestcolleges.com/research/grade-inflation-trends-and-causes/), May 23, 2024
