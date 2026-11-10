@@ -189,6 +189,8 @@
     * The median college GPA increased by 21.5% over the past 30 years
     * [Courtney Haun](https://www.linkedin.com/in/courtneyhaun/)
   * [Grade Inflation at American Colleges and Universities](https://gradeinflation.com/) by [Stuart Rojstaczer](https://en.wikipedia.org/wiki/Stuart_Rojstaczer), Duke University, March 29, 2016
+  * [The Real Problem Behind Grade Inflation](https://www.chronicle.com/article/the-real-problem-behind-grade-inflation), March 27, 2026
+  * [Student Learning and Grade Inflation](https://chaosmarder.substack.com/p/student-learning-and-grade-inflation), October 15, 2025
 * [Princeton University Faculty Committee Recommends Ending Grade Deflation Targets](https://paw.princeton.edu/article/faculty-committee-recommends-ending-grade-deflation-targets), July 9, 2014
   * [Princeton University Undergraduate Grading Report for AY 2024-2025](https://drive.google.com/file/d/1zdmbmlH5yD6262vcb6WUKj4wJbmyxJWk/view)
   * [Princeton University Grading Policy](https://odoc.princeton.edu/faculty/teaching-support/grading)
