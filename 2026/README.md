@@ -272,8 +272,8 @@ The theory of dialogical action and its characteristics: cooperation, unity, org
 * [Headspace (company)](https://en.wikipedia.org/wiki/Headspace_(company))
   * [Headspace Student Plan](https://www.headspace.com/studentplan)
 ## Lesson 10 - Money Matters: Building Financial Confidence in College
-* [Personal Finance for College Students 101](https://www.youtube.com/watch?v=IoAcSgwrzHw)
 * "[Money Adds Up](https://thestute.com/2023/12/01/money-adds-up/)," *The Stute*, December 1, 2023
+* [Personal Finance for College Students 101](https://www.youtube.com/watch?v=IoAcSgwrzHw)
 # Unit 4 – Beyond the Classroom (Lessons 11–12): Expanding Opportunities and Career Preparation
 ## Lesson 11 - Learning Beyond the Classroom: Exploring Experiential Opportunities at Stevens
 **Designated Peer-Led Moment: Learn by Doing Exercise**
