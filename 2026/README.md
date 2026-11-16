@@ -284,6 +284,7 @@ The theory of dialogical action and its characteristics: cooperation, unity, org
   * [YouTube](https://www.youtube.com/@studyhall)
   * [Free Application for Federal Student Aid](https://en.wikipedia.org/wiki/FAFSA) (FAFSA)
   * [Student financial aid in the United States](https://en.wikipedia.org/wiki/Student_financial_aid_in_the_United_States)
+  * [Promissory note](https://en.wikipedia.org/wiki/Promissory_note)
   * [Federal Work-Study Program](https://en.wikipedia.org/wiki/Federal_Work-Study_Program)
   * [Minimum wage](https://en.wikipedia.org/wiki/Minimum_wage)
 * "[Money Lessons I Learned in College: Real Talk From 6 Finance Nerds](https://www.nerdwallet.com/ca/p/article/finance/money-lessons-i-learned-in-college-finance-nerds)," September 2, 2025
@@ -294,6 +295,7 @@ The theory of dialogical action and its characteristics: cooperation, unity, org
   5. Focus on the priceless stuff
   6. Keep it simple
   * [NerdWallet](https://en.wikipedia.org/wiki/NerdWallet) founded in August 2009
+  * [Annual percentage rate](https://en.wikipedia.org/wiki/Annual_percentage_rate) (APR)
   * [Bursary](https://en.wikipedia.org/wiki/Bursary)
 # Unit 4 – Beyond the Classroom (Lessons 11–12): Expanding Opportunities and Career Preparation
 ## Lesson 11 - Learning Beyond the Classroom: Exploring Experiential Opportunities at Stevens
