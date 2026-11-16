@@ -274,6 +274,12 @@ The theory of dialogical action and its characteristics: cooperation, unity, org
 ## Lesson 10 - Money Matters: Building Financial Confidence in College
 * "[Money Adds Up](https://thestute.com/2023/12/01/money-adds-up/)," *The Stute*, December 1, 2023
 * [Personal Finance for College Students 101](https://www.youtube.com/watch?v=IoAcSgwrzHw)
+  1. The full cost of college
+  2. Financial aid and scholarships
+  3. Student loans
+  4. Banking or credit cards
+  5. Budgeting and everyday spending
+  6. Work, taxes, or insurance
   * [Study Hall](https://gostudyhall.com/)
   * [YouTube](https://www.youtube.com/@studyhall)
   * [Free Application for Federal Student Aid](https://en.wikipedia.org/wiki/FAFSA) (FAFSA)
