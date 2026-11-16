@@ -275,11 +275,11 @@ The theory of dialogical action and its characteristics: cooperation, unity, org
 * "[Money Adds Up](https://thestute.com/2023/12/01/money-adds-up/)," *The Stute*, December 1, 2023
 * [Personal Finance for College Students 101](https://www.youtube.com/watch?v=IoAcSgwrzHw)
   1. The full cost of college
-  2. Financial aid and scholarships
-  3. Student loans
-  4. Banking or credit cards
-  5. Budgeting and everyday spending
-  6. Work, taxes, or insurance
+  1. Financial aid and scholarships
+  1. Student loans
+  1. Banking or credit cards
+  1. Budgeting and everyday spending
+  1. Work, taxes, or insurance
   * [Study Hall](https://gostudyhall.com/)
   * [YouTube](https://www.youtube.com/@studyhall)
   * [Free Application for Federal Student Aid](https://en.wikipedia.org/wiki/FAFSA) (FAFSA)
@@ -289,11 +289,11 @@ The theory of dialogical action and its characteristics: cooperation, unity, org
   * [Minimum wage](https://en.wikipedia.org/wiki/Minimum_wage)
 * "[Money Lessons I Learned in College: Real Talk From 6 Finance Nerds](https://www.nerdwallet.com/ca/p/article/finance/money-lessons-i-learned-in-college-finance-nerds)," September 2, 2025
   1. Paper over plastic
-  2. Don’t be cursory with bursaries
-  3. Penalty-free overdraft can be a lifeboat
-  4. You’re being watched 
-  5. Focus on the priceless stuff
-  6. Keep it simple
+  1. Don’t be cursory with bursaries
+  1. Penalty-free overdraft can be a lifeboat
+  1. You’re being watched 
+  1. Focus on the priceless stuff
+  1. Keep it simple
   * [NerdWallet](https://en.wikipedia.org/wiki/NerdWallet) founded in August 2009
   * [Annual percentage rate](https://en.wikipedia.org/wiki/Annual_percentage_rate) (APR)
   * [Bursary](https://en.wikipedia.org/wiki/Bursary)
