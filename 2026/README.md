@@ -274,29 +274,29 @@ The theory of dialogical action and its characteristics: cooperation, unity, org
 ## Lesson 10 - Money Matters: Building Financial Confidence in College
 * "[Money Adds Up](https://thestute.com/2023/12/01/money-adds-up/)," *The Stute*, December 1, 2023
 * [Personal Finance for College Students 101](https://www.youtube.com/watch?v=IoAcSgwrzHw)
-  1. The full cost of college
-  1. Financial aid and scholarships
-  1. Student loans
-  1. Banking or credit cards
-  1. Budgeting and everyday spending
-  1. Work, taxes, or insurance
-  * [Study Hall](https://gostudyhall.com/)
-  * [YouTube](https://www.youtube.com/@studyhall)
-  * [Free Application for Federal Student Aid](https://en.wikipedia.org/wiki/FAFSA) (FAFSA)
-  * [Student financial aid in the United States](https://en.wikipedia.org/wiki/Student_financial_aid_in_the_United_States)
-  * [Promissory note](https://en.wikipedia.org/wiki/Promissory_note)
-  * [Federal Work-Study Program](https://en.wikipedia.org/wiki/Federal_Work-Study_Program)
-  * [Minimum wage](https://en.wikipedia.org/wiki/Minimum_wage)
+1. The full cost of college
+1. Financial aid and scholarships
+1. Student loans
+1. Banking or credit cards
+1. Budgeting and everyday spending
+1. Work, taxes, or insurance
+* [Study Hall](https://gostudyhall.com/)
+* [YouTube](https://www.youtube.com/@studyhall)
+* [Free Application for Federal Student Aid](https://en.wikipedia.org/wiki/FAFSA) (FAFSA)
+* [Student financial aid in the United States](https://en.wikipedia.org/wiki/Student_financial_aid_in_the_United_States)
+* [Promissory note](https://en.wikipedia.org/wiki/Promissory_note)
+* [Federal Work-Study Program](https://en.wikipedia.org/wiki/Federal_Work-Study_Program)
+* [Minimum wage](https://en.wikipedia.org/wiki/Minimum_wage)
 * "[Money Lessons I Learned in College: Real Talk From 6 Finance Nerds](https://www.nerdwallet.com/ca/p/article/finance/money-lessons-i-learned-in-college-finance-nerds)," September 2, 2025
-  1. Paper over plastic
-  1. Don’t be cursory with bursaries
-  1. Penalty-free overdraft can be a lifeboat
-  1. You’re being watched 
-  1. Focus on the priceless stuff
-  1. Keep it simple
-  * [NerdWallet](https://en.wikipedia.org/wiki/NerdWallet) founded in August 2009
-  * [Annual percentage rate](https://en.wikipedia.org/wiki/Annual_percentage_rate) (APR)
-  * [Bursary](https://en.wikipedia.org/wiki/Bursary)
+1. Paper over plastic
+1. Don’t be cursory with bursaries
+1. Penalty-free overdraft can be a lifeboat
+1. You’re being watched 
+1. Focus on the priceless stuff
+1. Keep it simple
+* [NerdWallet](https://en.wikipedia.org/wiki/NerdWallet) founded in August 2009
+* [Annual percentage rate](https://en.wikipedia.org/wiki/Annual_percentage_rate) (APR)
+* [Bursary](https://en.wikipedia.org/wiki/Bursary)
 # Unit 4 – Beyond the Classroom (Lessons 11–12): Expanding Opportunities and Career Preparation
 ## Lesson 11 - Learning Beyond the Classroom: Exploring Experiential Opportunities at Stevens
 **Designated Peer-Led Moment: Learn by Doing Exercise**
